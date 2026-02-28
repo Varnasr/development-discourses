@@ -53,6 +53,16 @@
         updateStats();
         buildTopicFilters();
         buildAboutTopics();
+
+        // Check for search param from detail page tag links
+        const params = new URLSearchParams(window.location.search);
+        const searchParam = params.get('search');
+        if (searchParam) {
+            searchInput.value = searchParam;
+            currentSearch = searchParam.toLowerCase();
+            clearSearch.classList.add('visible');
+        }
+
         applyFilters();
         bindEvents();
     }
@@ -232,12 +242,17 @@
         toShow.forEach(r => {
             const card = document.createElement('a');
             card.className = 'resource-card';
-            card.href = r.url;
-            card.target = '_blank';
-            card.rel = 'noopener';
+            card.href = r.id ? 'resource.html?id=' + encodeURIComponent(r.id) : r.url;
+            if (!r.id) {
+                card.target = '_blank';
+                card.rel = 'noopener';
+            }
 
             const typeClass = r.type || 'paper';
             const typeLabel = r.type === 'grey_literature' ? 'Grey Lit' : capitalize(r.type);
+            const accessClass = r.access_type || 'check_access';
+            const accessLabel = accessClass === 'open_access' ? 'Open Access'
+                : accessClass === 'free_to_read' ? 'Free to Read' : 'Check Access';
 
             card.innerHTML = `
                 <div class="resource-card-header">
@@ -251,7 +266,10 @@
                 ${r.description ? `<p class="resource-description">${escapeHtml(r.description)}</p>` : ''}
                 <div class="resource-footer">
                     <span class="resource-topic-tag">${escapeHtml(r.topic)}</span>
-                    <span class="resource-link-icon">Open &nearr;</span>
+                    <div class="resource-footer-right">
+                        ${(r.tags && r.tags.length > 0) ? `<span class="resource-tag-count">${r.tags.length} tags</span>` : ''}
+                        <span class="resource-link-icon">View &rarr;</span>
+                    </div>
                 </div>
             `;
 

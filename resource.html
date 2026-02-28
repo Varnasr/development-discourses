@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resource | Development Discourses</title>
+    <meta name="description" content="Development Discourses resource detail page.">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="brand">
+                    <a href="https://www.impactmojo.in" class="brand-link" target="_blank" rel="noopener">
+                        <span class="brand-icon">&#9671;</span>
+                        <span class="brand-text">ImpactMojo</span>
+                    </a>
+                    <span class="brand-separator">/</span>
+                    <a href="index.html" class="site-title-link"><h1 class="site-title">Development Discourses</h1></a>
+                </div>
+            </div>
+            <nav class="header-nav">
+                <a href="index.html" class="nav-link">&larr; Library</a>
+                <a href="index.html#about" class="nav-link">About</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- Breadcrumb -->
+        <section class="breadcrumb-section">
+            <div class="container">
+                <nav class="breadcrumb" id="breadcrumb">
+                    <a href="index.html">Library</a>
+                    <span class="breadcrumb-sep">/</span>
+                    <span class="breadcrumb-topic" id="breadcrumbTopic">Loading...</span>
+                    <span class="breadcrumb-sep">/</span>
+                    <span class="breadcrumb-current" id="breadcrumbTitle">Loading...</span>
+                </nav>
+            </div>
+        </section>
+
+        <!-- Resource Detail -->
+        <section class="detail-section">
+            <div class="container">
+                <div class="detail-layout">
+                    <!-- Main Content -->
+                    <article class="detail-main">
+                        <!-- Header -->
+                        <div class="detail-header" id="detailHeader">
+                            <div class="detail-badges">
+                                <span class="resource-type-badge" id="typeBadge">Paper</span>
+                                <span class="access-badge" id="accessBadge">Open Access</span>
+                                <span class="verified-badge" id="verifiedBadge" style="display:none;">Verified</span>
+                            </div>
+                            <h1 class="detail-title" id="detailTitle">Loading...</h1>
+                            <div class="detail-authors" id="detailAuthors"></div>
+                            <div class="detail-meta-row">
+                                <span class="detail-year" id="detailYear"></span>
+                                <span class="detail-topic-tag" id="detailTopic"></span>
+                            </div>
+                        </div>
+
+                        <!-- Action Bar -->
+                        <div class="detail-actions">
+                            <a href="#" class="action-btn action-primary" id="readSourceBtn" target="_blank" rel="noopener">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+                                Read at Source
+                            </a>
+                            <button class="action-btn" id="citeBtnToggle">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 9V2h12v7"></path><path d="M6 18H4a2 2 0 01-2-2V9h24v7a2 2 0 01-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg>
+                                Cite
+                            </button>
+                            <button class="action-btn" id="shareBtn">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg>
+                                Share
+                            </button>
+                        </div>
+
+                        <!-- Citation Panel (hidden by default) -->
+                        <div class="citation-panel" id="citationPanel" style="display:none;">
+                            <div class="citation-tabs">
+                                <button class="citation-tab active" data-format="apa">APA</button>
+                                <button class="citation-tab" data-format="bibtex">BibTeX</button>
+                                <button class="citation-tab" data-format="chicago">Chicago</button>
+                            </div>
+                            <div class="citation-content" id="citationContent"></div>
+                            <button class="citation-copy" id="citationCopy">Copy to clipboard</button>
+                        </div>
+
+                        <!-- Description / Summary -->
+                        <div class="detail-description">
+                            <h2>Summary</h2>
+                            <p id="detailDescription">Loading...</p>
+                        </div>
+
+                        <!-- Tags -->
+                        <div class="detail-tags" id="detailTags">
+                            <h2>Tags</h2>
+                            <div class="tag-list" id="tagList"></div>
+                        </div>
+
+                        <!-- Community Notes -->
+                        <div class="detail-notes">
+                            <h2>Community Notes</h2>
+                            <div class="notes-placeholder" id="notesArea">
+                                <p class="notes-empty">No community notes yet for this resource.</p>
+                                <a href="#" class="notes-contribute" id="contributeNote">
+                                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+                                    Add a note via GitHub
+                                </a>
+                            </div>
+                        </div>
+                    </article>
+
+                    <!-- Sidebar -->
+                    <aside class="detail-sidebar">
+                        <!-- Metadata Card -->
+                        <div class="sidebar-card">
+                            <h3>Details</h3>
+                            <dl class="meta-list" id="metaList">
+                                <!-- Filled by JS -->
+                            </dl>
+                        </div>
+
+                        <!-- Related Resources -->
+                        <div class="sidebar-card">
+                            <h3>Related Resources</h3>
+                            <div class="related-list" id="relatedList">
+                                <p class="related-loading">Finding related resources...</p>
+                            </div>
+                        </div>
+
+                        <!-- Connected Papers Graph -->
+                        <div class="sidebar-card">
+                            <h3>Connection Map</h3>
+                            <div class="graph-container" id="graphContainer">
+                                <canvas id="connectionGraph" width="320" height="280"></canvas>
+                            </div>
+                            <p class="graph-caption">Resources connected by shared topics, authors, and tags.</p>
+                        </div>
+                    </aside>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2026 <a href="https://www.impactmojo.in" target="_blank" rel="noopener">ImpactMojo</a>. Development Discourses is open-source.</p>
+                <div class="footer-links">
+                    <a href="https://github.com/Varnasr/development-discourses" target="_blank" rel="noopener">GitHub</a>
+                    <a href="https://www.impactmojo.in" target="_blank" rel="noopener">ImpactMojo</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/resource.js"></script>
+</body>
+</html>

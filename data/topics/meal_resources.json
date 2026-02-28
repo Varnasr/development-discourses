@@ -6,7 +6,14 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://www.povertyactionlab.org/sites/default/files/research-paper/Using-Randomization-in-Development-Economics.pdf",
-    "description": "Foundational methodological toolkit for designing and conducting randomized evaluations in development economics, covering practical guidance on randomization techniques, sample size, and threats to validity."
+    "description": "Foundational methodological toolkit for designing and conducting randomized evaluations in development economics, covering practical guidance on randomization techniques, sample size, and threats to validity.",
+    "id": "using-randomization-in-development-economics-research-a-toolkit",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Impact Evaluation in Practice, Second Edition",
@@ -15,7 +22,18 @@
     "type": "book",
     "topic": "MEAL & Evaluation",
     "url": "https://openknowledge.worldbank.org/handle/10986/25030",
-    "description": "Comprehensive World Bank handbook covering the full range of impact evaluation methods including randomized evaluations, instrumental variables, regression discontinuity, difference-in-differences, and matching, with practical examples from development programmes."
+    "description": "Comprehensive World Bank handbook covering the full range of impact evaluation methods including randomized evaluations, instrumental variables, regression discontinuity, difference-in-differences, and matching, with practical examples from development programmes.",
+    "id": "impact-evaluation-in-practice-second-edition",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "diff-in-diff",
+      "impact-evaluation",
+      "instrumental-variables",
+      "meal-evaluation",
+      "regression-discontinuity"
+    ],
+    "verified": false
   },
   {
     "title": "Handbook on Impact Evaluation: Quantitative Methods and Practices",
@@ -24,7 +42,17 @@
     "type": "book",
     "topic": "MEAL & Evaluation",
     "url": "https://openknowledge.worldbank.org/handle/10986/2693",
-    "description": "World Bank handbook providing detailed guidance on quantitative impact evaluation methods including propensity score matching, difference-in-differences, instrumental variables, and regression discontinuity design for assessing development programme effectiveness."
+    "description": "World Bank handbook providing detailed guidance on quantitative impact evaluation methods including propensity score matching, difference-in-differences, instrumental variables, and regression discontinuity design for assessing development programme effectiveness.",
+    "id": "handbook-on-impact-evaluation-quantitative-methods-and-practices",
+    "access_type": "open_access",
+    "tags": [
+      "diff-in-diff",
+      "impact-evaluation",
+      "instrumental-variables",
+      "meal-evaluation",
+      "regression-discontinuity"
+    ],
+    "verified": false
   },
   {
     "title": "Understanding and Misunderstanding Randomized Controlled Trials",
@@ -33,7 +61,14 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/",
-    "description": "Critical assessment of the use of RCTs in social science and development, arguing that RCTs do not occupy a special position in a hierarchy of evidence and that their results require the same careful interpretation as other methods."
+    "description": "Critical assessment of the use of RCTs in social science and development, arguing that RCTs do not occupy a special position in a hierarchy of evidence and that their results require the same careful interpretation as other methods.",
+    "id": "understanding-and-misunderstanding-randomized-controlled-trials",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Instruments, Randomization, and Learning about Development",
@@ -42,16 +77,31 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://www.princeton.edu/~deaton/downloads/deaton%20instruments%20randomization%20learning%20about%20development%20jel%202010.pdf",
-    "description": "Influential critique published in the Journal of Economic Literature examining the limitations of instrumental variable techniques and RCTs in development economics, arguing for the importance of understanding causal mechanisms beyond project-level evaluations."
+    "description": "Influential critique published in the Journal of Economic Literature examining the limitations of instrumental variable techniques and RCTs in development economics, arguing for the importance of understanding causal mechanisms beyond project-level evaluations.",
+    "id": "instruments-randomization-and-learning-about-development",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "instrumental-variables",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Randomized Control Trials in the Field of Development: A Critical Perspective",
-    "authors": "Florent B\u00e9d\u00e9carrats, Isabelle Gu\u00e9rin, Fran\u00e7ois Roubaud (Eds.)",
+    "authors": "Florent Bédécarrats, Isabelle Guérin, François Roubaud (Eds.)",
     "year": 2020,
     "type": "book",
     "topic": "MEAL & Evaluation",
     "url": "https://library.oapen.org/handle/20.500.12657/60765",
-    "description": "Open-access edited volume providing a comprehensive critical assessment of RCTs in development, examining their strengths, weaknesses, and the conditions under which they succeed or fail, with contributions from leading evaluation specialists."
+    "description": "Open-access edited volume providing a comprehensive critical assessment of RCTs in development, examining their strengths, weaknesses, and the conditions under which they succeed or fail, with contributions from leading evaluation specialists.",
+    "id": "randomized-control-trials-in-the-field-of-development-a-critical-perspective",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "The Influence of Randomized Controlled Trials on Development Economics Research and on Development Policy",
@@ -60,7 +110,14 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://economics.mit.edu/sites/default/files/publications/2016.09%20the-influence-of-rcts-on-developmental-eco.pdf",
-    "description": "Documents the dramatic rise of RCTs in development economics from 8% of BREAD conference papers in 2005 to 63% in 2010, analysing how experimental methods have influenced both academic research and policy in global development."
+    "description": "Documents the dramatic rise of RCTs in development economics from 8% of BREAD conference papers in 2005 to 63% in 2010, analysing how experimental methods have influenced both academic research and policy in global development.",
+    "id": "the-influence-of-randomized-controlled-trials-on-development-economics-research",
+    "access_type": "free_to_read",
+    "tags": [
+      "RCT",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Evaluation in the Practice of Development",
@@ -69,7 +126,14 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://documents1.worldbank.org/curated/en/693621468155368608/pdf/767890JRN0WBRO00Box374387B00PUBLIC0.pdf",
-    "description": "World Bank Research Observer article proposing ten steps for making impact evaluations more relevant to development practitioners, arguing that standard evaluation methods leave significant gaps between what we know and what we need to know about development effectiveness."
+    "description": "World Bank Research Observer article proposing ten steps for making impact evaluations more relevant to development practitioners, arguing that standard evaluation methods leave significant gaps between what we know and what we need to know about development effectiveness.",
+    "id": "evaluation-in-the-practice-of-development",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Theory-Based Impact Evaluation: Principles and Practice",
@@ -78,7 +142,14 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://www.3ieimpact.org/sites/default/files/2019-01/Working_Paper_1.pdf",
-    "description": "3ie working paper establishing six principles for successful theory-based impact evaluation: mapping the causal chain, understanding context, anticipating heterogeneity, using credible counterfactuals, rigorous factual analysis, and employing mixed methods."
+    "description": "3ie working paper establishing six principles for successful theory-based impact evaluation: mapping the causal chain, understanding context, anticipating heterogeneity, using credible counterfactuals, rigorous factual analysis, and employing mixed methods.",
+    "id": "theory-based-impact-evaluation-principles-and-practice",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Broadening the Range of Designs and Methods for Impact Evaluations",
@@ -87,7 +158,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.gov.uk/government/publications/broadening-the-range-of-designs-and-methods-for-impact-evaluations",
-    "description": "DFID Working Paper 38 arguing for expanding impact evaluation beyond experimental methods to include theory-based, case-based, and participatory approaches, providing a framework for evaluating complex development interventions."
+    "description": "DFID Working Paper 38 arguing for expanding impact evaluation beyond experimental methods to include theory-based, case-based, and participatory approaches, providing a framework for evaluating complex development interventions.",
+    "id": "broadening-the-range-of-designs-and-methods-for-impact-evaluations",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Models of Causality and Causal Inference",
@@ -96,7 +174,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.betterevaluation.org/sites/default/files/2012-Causal-Inference-BB-February-26.pdf",
-    "description": "Annex to DFID's broadening impact evaluation study, providing an accessible overview of three major models of causality used in evaluation: Mill's methods, generative/mechanism-based causality, and configurational causality."
+    "description": "Annex to DFID's broadening impact evaluation study, providing an accessible overview of three major models of causality used in evaluation: Mill's methods, generative/mechanism-based causality, and configurational causality.",
+    "id": "models-of-causality-and-causal-inference",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Impact Evaluations and Development: NONIE Guidance on Impact Evaluation",
@@ -105,7 +190,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://documents1.worldbank.org/curated/en/411821468313779505/pdf/574900WP0Box351BLIC10nonie1guidance.pdf",
-    "description": "Guidance from the Network of Networks for Impact Evaluation providing step-by-step advice on planning and managing impact evaluations, stressing that no single method is best and that rigorous IE requires addressing core conceptual and methodological issues."
+    "description": "Guidance from the Network of Networks for Impact Evaluation providing step-by-step advice on planning and managing impact evaluations, stressing that no single method is best and that rigorous IE requires addressing core conceptual and methodological issues.",
+    "id": "impact-evaluations-and-development-nonie-guidance-on-impact-evaluation",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Using Case Studies to Explore the External Validity of Complex Development Interventions",
@@ -114,7 +206,13 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/faculty-working-papers/270_Woolcock.pdf",
-    "description": "Argues that for complex development interventions, external validity should be assumed to be zero by default, and proposes deploying case studies to identify the conditions under which diverse outcomes are observed across contexts."
+    "description": "Argues that for complex development interventions, external validity should be assumed to be zero by default, and proposes deploying case studies to identify the conditions under which diverse outcomes are observed across contexts.",
+    "id": "using-case-studies-to-explore-the-external-validity-of-complex-development",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Quasi-Experimental Design and Methods",
@@ -123,7 +221,16 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.betterevaluation.org/sites/default/files/Quasi-Experimental_Design_and_Methods_ENG.pdf",
-    "description": "UNICEF methodological brief providing accessible guidance on quasi-experimental evaluation methods including propensity score matching, regression discontinuity, and difference-in-differences for evaluating development programmes when randomization is not feasible."
+    "description": "UNICEF methodological brief providing accessible guidance on quasi-experimental evaluation methods including propensity score matching, regression discontinuity, and difference-in-differences for evaluating development programmes when randomization is not feasible.",
+    "id": "quasi-experimental-design-and-methods",
+    "access_type": "open_access",
+    "tags": [
+      "diff-in-diff",
+      "meal-evaluation",
+      "quasi-experimental",
+      "regression-discontinuity"
+    ],
+    "verified": false
   },
   {
     "title": "Theory of Change (Methodological Briefs: Impact Evaluation No. 2)",
@@ -132,7 +239,15 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.entwicklung.at/fileadmin/user_upload/Dokumente/Evaluierung/Theory_of_Change/UNICEF_Theory_of_change.pdf",
-    "description": "UNICEF methodological brief explaining how to develop and use theories of change in impact evaluation, covering situation analysis, causal pathways, assumptions testing, and the role of theory in evaluation design."
+    "description": "UNICEF methodological brief explaining how to develop and use theories of change in impact evaluation, covering situation analysis, causal pathways, assumptions testing, and the role of theory in evaluation design.",
+    "id": "theory-of-change-methodological-briefs-impact-evaluation-no-2",
+    "access_type": "check_access",
+    "tags": [
+      "impact-evaluation",
+      "meal-evaluation",
+      "theory-of-change"
+    ],
+    "verified": false
   },
   {
     "title": "Theory of Change (Monitoring and Evaluation Series Paper 16)",
@@ -141,7 +256,15 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.intrac.org/app/uploads/2016/06/Monitoring-and-Evaluation-Series-Theory-of-Change-16.pdf",
-    "description": "Practical guide tracing the origins and evolution of theory of change since the 1990s, explaining how to develop and use theories of change for programme planning, monitoring, and evaluation in development contexts."
+    "description": "Practical guide tracing the origins and evolution of theory of change since the 1990s, explaining how to develop and use theories of change for programme planning, monitoring, and evaluation in development contexts.",
+    "id": "theory-of-change-monitoring-and-evaluation-series-paper-16",
+    "access_type": "check_access",
+    "tags": [
+      "M&E",
+      "meal-evaluation",
+      "theory-of-change"
+    ],
+    "verified": false
   },
   {
     "title": "Applying a Theory of Change Approach to the Evaluation of Comprehensive Community Initiatives",
@@ -150,7 +273,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://cnxus.org/wp-content/uploads/2022/04/08071320ApplyingTheoryofChangeApproach.pdf",
-    "description": "Aspen Institute Roundtable paper advocating for theory of change as a framework for evaluating complex community initiatives, demonstrating how it sharpens planning, specifies intended outcomes, and strengthens evaluation design."
+    "description": "Aspen Institute Roundtable paper advocating for theory of change as a framework for evaluating complex community initiatives, demonstrating how it sharpens planning, specifies intended outcomes, and strengthens evaluation design.",
+    "id": "applying-a-theory-of-change-approach-to-the-evaluation-of-comprehensive",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation",
+      "theory-of-change"
+    ],
+    "verified": false
   },
   {
     "title": "Evaluating the Logical Framework Approach: Towards Learning-Oriented Development Evaluation",
@@ -159,7 +289,13 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://www.researchgate.net/publication/5130584_Evaluating_the_'logical_framework_approach'_towards_learning-oriented_development_evaluation",
-    "description": "Critical assessment of the logical framework approach in development evaluation, identifying recurrent failings and arguing that logframes' focus on intended effects makes them limiting for evaluation, especially at the expense of learning."
+    "description": "Critical assessment of the logical framework approach in development evaluation, identifying recurrent failings and arguing that logframes' focus on intended effects makes them limiting for evaluation, especially at the expense of learning.",
+    "id": "evaluating-the-logical-framework-approach-towards-learning-oriented-development",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "The Logical Framework (M&E Universe Paper)",
@@ -168,7 +304,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.intrac.org/app/uploads/2017/01/The-Logical-Framework.pdf",
-    "description": "Practical guide on the logical framework as a planning, monitoring, and evaluation tool, tracing its history from military planning and NASA to adoption by USAID and spread throughout the development sector."
+    "description": "Practical guide on the logical framework as a planning, monitoring, and evaluation tool, tracing its history from military planning and NASA to adoption by USAID and spread throughout the development sector.",
+    "id": "the-logical-framework-me-universe-paper",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Outcome Mapping: Building Learning and Reflection into Development Programs",
@@ -177,7 +319,13 @@
     "type": "book",
     "topic": "MEAL & Evaluation",
     "url": "https://www.betterevaluation.org/sites/default/files/Outcome_Mapping_Building_Learning_and_Reflection_into_Development_Programs.pdf",
-    "description": "IDRC book presenting a participatory M&E methodology that focuses on behavioural changes in boundary partners rather than end-state outcomes, providing a practical approach to monitoring contributions to development change."
+    "description": "IDRC book presenting a participatory M&E methodology that focuses on behavioural changes in boundary partners rather than end-state outcomes, providing a practical approach to monitoring contributions to development change.",
+    "id": "outcome-mapping-building-learning-and-reflection-into-development-programs",
+    "access_type": "open_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "The Most Significant Change (MSC) Technique: A Guide to Its Use",
@@ -186,7 +334,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.intrac.org/app/uploads/2017/01/Most-significant-change.pdf",
-    "description": "Definitive guide to the MSC participatory monitoring technique developed in Bangladesh in the 1990s, involving systematic collection and selection of stories of significant change to monitor complex development programmes without quantitative indicators."
+    "description": "Definitive guide to the MSC participatory monitoring technique developed in Bangladesh in the 1990s, involving systematic collection and selection of stories of significant change to monitor complex development programmes without quantitative indicators.",
+    "id": "the-most-significant-change-msc-technique-a-guide-to-its-use",
+    "access_type": "check_access",
+    "tags": [
+      "Bangladesh",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Contribution Analysis: An Approach to Exploring Cause and Effect",
@@ -195,7 +350,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://cgspace.cgiar.org/items/fdcce0f6-ad3b-4d8a-9b7f-8d1c7c820405",
-    "description": "ILAC Brief No. 16 introducing contribution analysis as a practical approach for making credible causal claims about programme contributions to outcomes when experimental designs are not feasible, by verifying theories of change and examining alternative explanations."
+    "description": "ILAC Brief No. 16 introducing contribution analysis as a practical approach for making credible causal claims about programme contributions to outcomes when experimental designs are not feasible, by verifying theories of change and examining alternative explanations.",
+    "id": "contribution-analysis-an-approach-to-exploring-cause-and-effect",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Contribution Analysis: Coming of Age?",
@@ -204,7 +365,13 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://www.aspeninstitute.org/wp-content/uploads/2018/02/Mayne12-CAComingofAge.pdf",
-    "description": "Landmark article tracing the history and conceptual underpinnings of contribution analysis, linking it to philosophical discussions on contributory causes, and demonstrating how the approach has matured as a methodology for evaluating complex interventions."
+    "description": "Landmark article tracing the history and conceptual underpinnings of contribution analysis, linking it to philosophical discussions on contributory causes, and demonstrating how the approach has matured as a methodology for evaluating complex interventions.",
+    "id": "contribution-analysis-coming-of-age",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Realist Evaluation",
@@ -213,7 +380,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.copasah.org/uploads/1/2/6/4/12642634/realistic_evaluationpawson.pdf",
-    "description": "Overview paper outlining the realist evaluation approach which begins and ends with theory, developing and testing context-mechanism-outcome configurations to understand what works for whom, in what contexts, and why."
+    "description": "Overview paper outlining the realist evaluation approach which begins and ends with theory, developing and testing context-mechanism-outcome configurations to understand what works for whom, in what contexts, and why.",
+    "id": "realist-evaluation",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Realistic Evaluation: An Overview",
@@ -222,7 +395,13 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://healthimpactassessment.pbworks.com/f/Realistic+evaluation+an+overview+-+UoNT+England+-+2000.pdf",
-    "description": "Accessible overview of the realistic evaluation framework developed by Pawson and Tilley, explaining context-mechanism-outcome (CMO) configurations and how they can be tested empirically to inform policy and practice improvement."
+    "description": "Accessible overview of the realistic evaluation framework developed by Pawson and Tilley, explaining context-mechanism-outcome (CMO) configurations and how they can be tested empirically to inform policy and practice improvement.",
+    "id": "realistic-evaluation-an-overview",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "OECD DAC Evaluation Criteria: Adapted Definitions and Principles for Use",
@@ -231,7 +410,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://one.oecd.org/document/DCD/DAC(2019)58/FINAL/en/pdf",
-    "description": "Official DAC document updating the six evaluation criteria (relevance, coherence, effectiveness, efficiency, impact, sustainability) used globally to evaluate development cooperation, reflecting the 2030 Agenda and Paris Agreement."
+    "description": "Official DAC document updating the six evaluation criteria (relevance, coherence, effectiveness, efficiency, impact, sustainability) used globally to evaluate development cooperation, reflecting the 2030 Agenda and Paris Agreement.",
+    "id": "oecd-dac-evaluation-criteria-adapted-definitions-and-principles-for-use",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Applying Evaluation Criteria Thoughtfully",
@@ -240,7 +425,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://evaluation.iom.int/sites/g/files/tmzbdl151/files/documents/Evalcriteria.pdf",
-    "description": "Practical guidance supporting evaluators and commissioners in the thoughtful application of the OECD DAC evaluation criteria, to be used alongside the DAC Quality Standards for Development Evaluation."
+    "description": "Practical guidance supporting evaluators and commissioners in the thoughtful application of the OECD DAC evaluation criteria, to be used alongside the DAC Quality Standards for Development Evaluation.",
+    "id": "applying-evaluation-criteria-thoughtfully",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Results-Based Management Handbook: Harmonizing RBM Concepts and Approaches for Improved Development Results at Country Level",
@@ -249,7 +440,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://unsdg.un.org/sites/default/files/UNDG-RBM-Handbook-2012.pdf",
-    "description": "UN system handbook harmonizing results-based management concepts, providing guidance on defining results, formulating indicators, and linking RBM to the United Nations Development Assistance Framework."
+    "description": "UN system handbook harmonizing results-based management concepts, providing guidance on defining results, formulating indicators, and linking RBM to the United Nations Development Assistance Framework.",
+    "id": "results-based-management-handbook-harmonizing-rbm-concepts-and-approaches-for",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Results Based Management in the Development Co-operation Agencies: A Review of Experience",
@@ -258,7 +455,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.oecd.org/development/evaluation/dcdndep/31950852.pdf",
-    "description": "OECD background document reviewing how development agencies have introduced results-based management systems, identifying common challenges and lessons learned from early RBM implementation across bilateral and multilateral organizations."
+    "description": "OECD background document reviewing how development agencies have introduced results-based management systems, identifying common challenges and lessons learned from early RBM implementation across bilateral and multilateral organizations.",
+    "id": "results-based-management-in-the-development-co-operation-agencies-a-review-of",
+    "access_type": "free_to_read",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Measuring and Managing Results in Development Co-operation: A Review of Challenges and Practices among DAC Members and Observers",
@@ -267,7 +470,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/11/measuring-and-managing-results-in-development-co-operation_b71067a7/c7762fac-en.pdf",
-    "description": "Comprehensive OECD review examining how results information is used for accountability and management by DAC members, identifying good practices and challenges in measuring and managing development results."
+    "description": "Comprehensive OECD review examining how results information is used for accountability and management by DAC members, identifying good practices and challenges in measuring and managing development results.",
+    "id": "measuring-and-managing-results-in-development-co-operation-a-review-of",
+    "access_type": "free_to_read",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Handbook on Planning, Monitoring and Evaluating for Development Results",
@@ -276,7 +485,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "http://web.undp.org/evaluation/documents/handbook/me-handbook.pdf",
-    "description": "UNDP's comprehensive handbook for programme managers providing practical tools and guidance for results-oriented planning, monitoring, and evaluation of development programmes."
+    "description": "UNDP's comprehensive handbook for programme managers providing practical tools and guidance for results-oriented planning, monitoring, and evaluation of development programmes.",
+    "id": "handbook-on-planning-monitoring-and-evaluating-for-development-results",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "UNDP Evaluation Guidelines",
@@ -285,7 +500,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://erc.undp.org/pdf/UNDP_Evaluation_Guidelines.pdf",
-    "description": "Updated guidelines reflecting changes in UNDP's evaluation policy, providing greater detail on expected roles and responsibilities, and including links to examples of good quality evaluations across the organization."
+    "description": "Updated guidelines reflecting changes in UNDP's evaluation policy, providing greater detail on expected roles and responsibilities, and including links to examples of good quality evaluations across the organization.",
+    "id": "undp-evaluation-guidelines",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "USAID Evaluation Policy",
@@ -294,7 +515,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.usaid.gov/sites/default/files/2022-05/Evaluation_Policy_Update_OCT2020_Final.pdf",
-    "description": "Updated USAID evaluation policy providing clarity on purposes of evaluation, types of evaluations required and recommended, and approaches for conducting, disseminating, and using evaluations in development programming."
+    "description": "Updated USAID evaluation policy providing clarity on purposes of evaluation, types of evaluations required and recommended, and approaches for conducting, disseminating, and using evaluations in development programming.",
+    "id": "usaid-evaluation-policy",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "USAID Agency Learning Agenda FY 2022-2026",
@@ -303,7 +530,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://globalideas.isp.msu.edu/files/1716/5150/5259/FY_2022-2026_Agency_Learning_Agenda_Publication_Version_03-29-22-0820.pdf",
-    "description": "USAID's strategic learning agenda identifying priority research and evaluation questions, demonstrating the agency's commitment to evidence-based decision making and becoming a learning organization."
+    "description": "USAID's strategic learning agenda identifying priority research and evaluation questions, demonstrating the agency's commitment to evidence-based decision making and becoming a learning organization.",
+    "id": "usaid-agency-learning-agenda-fy-2022-2026",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "DFID Evaluation Strategy",
@@ -312,7 +545,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/380435/Evaluation-Strategy-June2014a.pdf",
-    "description": "DFID's strategic framework for evaluation outlining four priorities: enhancing monitoring, generating knowledge on MEL for adaptive management, investing in rigorous evaluations, and using diverse evidence to inform decisions."
+    "description": "DFID's strategic framework for evaluation outlining four priorities: enhancing monitoring, generating knowledge on MEL for adaptive management, investing in rigorous evaluations, and using diverse evidence to inform decisions.",
+    "id": "dfid-evaluation-strategy",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "DFID's Approach to Value for Money in Programme and Portfolio Management",
@@ -321,16 +560,30 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://icai.independent.gov.uk/wp-content/uploads/DFIDs-approach-to-value-for-money-ICAI-review.pdf",
-    "description": "Independent review assessing DFID's approach to value for money using the 4Es framework (economy, efficiency, effectiveness, equity), finding that DFID pioneered VfM assessment among international donors but identifying areas for improvement."
+    "description": "Independent review assessing DFID's approach to value for money using the 4Es framework (economy, efficiency, effectiveness, equity), finding that DFID pioneered VfM assessment among international donors but identifying areas for improvement.",
+    "id": "dfids-approach-to-value-for-money-in-programme-and-portfolio-management",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Integrating Value for Money and Impact Evaluations: Issues, Institutions, and Opportunities",
-    "authors": "Jyotsna Puri, Anastasia Aladysheva, Vegard Iversen, Yanyan Ghorpade, Tomoko Br\u00fcck",
+    "authors": "Jyotsna Puri, Anastasia Aladysheva, Vegard Iversen, Yanyan Ghorpade, Tomoko Brück",
     "year": 2019,
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://documents1.worldbank.org/curated/en/862091571145787913/pdf/Integrating-Value-for-Money-and-Impact-Evaluations-Issues-Institutions-and-Opportunities.pdf",
-    "description": "World Bank Policy Research Working Paper exploring how to integrate value for money analysis with impact evaluation practice, reviewing VfM field methods and proposing approaches for combining cost and effectiveness evidence."
+    "description": "World Bank Policy Research Working Paper exploring how to integrate value for money analysis with impact evaluation practice, reviewing VfM field methods and proposing approaches for combining cost and effectiveness evidence.",
+    "id": "integrating-value-for-money-and-impact-evaluations-issues-institutions-and",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "institutions",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Participatory Evaluation (M&E Universe Paper)",
@@ -339,7 +592,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.intrac.org/app/uploads/2017/01/Participatory-evaluation.pdf",
-    "description": "Practical guide on participatory evaluation approaches in development, covering methods for collecting and analysing information with programme participants and stakeholders, including Participatory Learning and Action (PLA)."
+    "description": "Practical guide on participatory evaluation approaches in development, covering methods for collecting and analysing information with programme participants and stakeholders, including Participatory Learning and Action (PLA).",
+    "id": "participatory-evaluation-me-universe-paper",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Introduction to Mixed Methods in Impact Evaluation",
@@ -348,7 +607,15 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.interaction.org/wp-content/uploads/2019/03/Mixed-Methods-in-Impact-Evaluation-English.pdf",
-    "description": "Guidance note explaining why mixed methods matter in impact evaluation, covering design applications, managing mixed methods evaluations, and case studies demonstrating how combining quantitative and qualitative approaches strengthens evaluation findings."
+    "description": "Guidance note explaining why mixed methods matter in impact evaluation, covering design applications, managing mixed methods evaluations, and case studies demonstrating how combining quantitative and qualitative approaches strengthens evaluation findings.",
+    "id": "introduction-to-mixed-methods-in-impact-evaluation",
+    "access_type": "check_access",
+    "tags": [
+      "impact-evaluation",
+      "meal-evaluation",
+      "qualitative"
+    ],
+    "verified": false
   },
   {
     "title": "Adaptive Management (M&E Universe Paper)",
@@ -357,7 +624,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.intrac.org/app/uploads/2017/01/Adaptive-management.pdf",
-    "description": "Briefing paper on adaptive management in development, explaining how organisations can use structured iterative approaches to manage complex programmes, integrating learning and evidence into ongoing decision-making."
+    "description": "Briefing paper on adaptive management in development, explaining how organisations can use structured iterative approaches to manage complex programmes, integrating learning and evidence into ongoing decision-making.",
+    "id": "adaptive-management-me-universe-paper",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Monitoring and Evaluation for Adaptive Management Working Paper 2: What Is Adaptive Management and How Does It Work?",
@@ -366,7 +639,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.betterevaluation.org/sites/default/files/2021-11/MandE_for_Adaptive_Management_WP2_What_Is_AM_&_how_does_it_work_202009.pdf",
-    "description": "Working paper from the Global Learning for Adaptive Management (GLAM) initiative defining adaptive management and examining how M&E systems can support adaptive programming in complex development contexts."
+    "description": "Working paper from the Global Learning for Adaptive Management (GLAM) initiative defining adaptive management and examining how M&E systems can support adaptive programming in complex development contexts.",
+    "id": "monitoring-and-evaluation-for-adaptive-management-working-paper-2-what-is",
+    "access_type": "open_access",
+    "tags": [
+      "M&E",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Complexity-Aware Methods (Fact Sheet)",
@@ -375,7 +655,13 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.measureevaluation.org/resources/publications/fs-17-217/at_download/document",
-    "description": "USAID/MEASURE Evaluation fact sheet on complexity-aware evaluation methods that address the inherent complexity of modern development programs operating in dynamic environments with multiple stakeholders and sectors."
+    "description": "USAID/MEASURE Evaluation fact sheet on complexity-aware evaluation methods that address the inherent complexity of modern development programs operating in dynamic environments with multiple stakeholders and sectors.",
+    "id": "complexity-aware-methods-fact-sheet",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "3ie Evidence Gap Maps: A Starting Point for Strategic Evidence Production and Use",
@@ -384,7 +670,15 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.3ieimpact.org/sites/default/files/2019-01/wp28-egm.pdf",
-    "description": "3ie Working Paper 28 describing the evidence gap map methodology pioneered by 3ie, which provides visual overviews of existing impact evaluations and systematic reviews in a development sector to identify evidence gaps and inform strategic research priorities."
+    "description": "3ie Working Paper 28 describing the evidence gap map methodology pioneered by 3ie, which provides visual overviews of existing impact evaluations and systematic reviews in a development sector to identify evidence gaps and inform strategic research priorities.",
+    "id": "3ie-evidence-gap-maps-a-starting-point-for-strategic-evidence-production-and-use",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "meal-evaluation",
+      "systematic-review"
+    ],
+    "verified": false
   },
   {
     "title": "Evidence and Gap Maps: A Comparison of Different Approaches",
@@ -393,7 +687,14 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8428058/",
-    "description": "Open-access comparison of different evidence mapping approaches used in international development, examining how 3ie's EGM methodology relates to scoping reviews and other evidence synthesis methods, and assessing methodological differences in search, inclusion criteria, and quality appraisal."
+    "description": "Open-access comparison of different evidence mapping approaches used in international development, examining how 3ie's EGM methodology relates to scoping reviews and other evidence synthesis methods, and assessing methodological differences in search, inclusion criteria, and quality appraisal.",
+    "id": "evidence-and-gap-maps-a-comparison-of-different-approaches",
+    "access_type": "open_access",
+    "tags": [
+      "meal-evaluation",
+      "scoping-review"
+    ],
+    "verified": false
   },
   {
     "title": "UN Women Evaluation Handbook: How to Manage Gender-Responsive Evaluations",
@@ -402,7 +703,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.unwomen.org/sites/default/files/2022-05/UN-Women-Evaluation-Handbook-2022-en.pdf",
-    "description": "Comprehensive handbook for managing gender-responsive evaluations, incorporating principles of gender equality and women's rights into evaluation approaches, methods, processes, and use of findings."
+    "description": "Comprehensive handbook for managing gender-responsive evaluations, incorporating principles of gender equality and women's rights into evaluation approaches, methods, processes, and use of findings.",
+    "id": "un-women-evaluation-handbook-how-to-manage-gender-responsive-evaluations",
+    "access_type": "check_access",
+    "tags": [
+      "gender",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Good Practices in Gender-Responsive Evaluations",
@@ -411,7 +719,15 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2020/Good-practices-in-gender-responsive-evaluations-en.pdf",
-    "description": "Knowledge product identifying trends and good practices in how UNEG partners have integrated gender-responsive approaches and methods in evaluation processes to advance gender equality and women's empowerment."
+    "description": "Knowledge product identifying trends and good practices in how UNEG partners have integrated gender-responsive approaches and methods in evaluation processes to advance gender equality and women's empowerment.",
+    "id": "good-practices-in-gender-responsive-evaluations",
+    "access_type": "check_access",
+    "tags": [
+      "gender",
+      "meal-evaluation",
+      "womens-empowerment"
+    ],
+    "verified": false
   },
   {
     "title": "Gender-Responsive Evaluation (M&E Universe Paper)",
@@ -420,7 +736,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.intrac.org/app/uploads/2017/01/Gender-responsive-evaluation.pdf",
-    "description": "Practical briefing paper on gender-responsive evaluation covering how to assess the degree to which gender and power relationships change as a result of an intervention and ensure women's voices are prominent throughout the evaluation process."
+    "description": "Practical briefing paper on gender-responsive evaluation covering how to assess the degree to which gender and power relationships change as a result of an intervention and ensure women's voices are prominent throughout the evaluation process.",
+    "id": "gender-responsive-evaluation-me-universe-paper",
+    "access_type": "check_access",
+    "tags": [
+      "gender",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Integrating Gender Equality in Monitoring and Evaluation",
@@ -429,7 +752,15 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.ilo.org/media/403131/download",
-    "description": "ILO guidance note explaining why and how to integrate gender equality systematically into monitoring and evaluation processes, producing evaluations that contribute to more effective, inclusive, and sustainable development outcomes."
+    "description": "ILO guidance note explaining why and how to integrate gender equality systematically into monitoring and evaluation processes, producing evaluations that contribute to more effective, inclusive, and sustainable development outcomes.",
+    "id": "integrating-gender-equality-in-monitoring-and-evaluation",
+    "access_type": "open_access",
+    "tags": [
+      "M&E",
+      "gender",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "The Government Monitoring and Evaluation System in India: A Work in Progress",
@@ -438,7 +769,15 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://ieg.worldbankgroup.org/sites/default/files/Data/reports/ecd_wp28_india_me_0.pdf",
-    "description": "World Bank IEG working paper examining the evolution of India's M&E system, covering outcome budgeting by the Ministry of Finance, the Independent Evaluation Office under the Planning Commission, and the Performance Management and Evaluation System under the Cabinet Secretariat."
+    "description": "World Bank IEG working paper examining the evolution of India's M&E system, covering outcome budgeting by the Ministry of Finance, the Independent Evaluation Office under the Planning Commission, and the Performance Management and Evaluation System under the Cabinet Secretariat.",
+    "id": "the-government-monitoring-and-evaluation-system-in-india-a-work-in-progress",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "M&E",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Monitoring, Evaluation and Performance Management in South Asia: The Challenge of Building Capacity",
@@ -447,7 +786,14 @@
     "type": "paper",
     "topic": "MEAL & Evaluation",
     "url": "https://www.researchgate.net/publication/258136936_Monitoring_evaluation_and_performance_management_in_South_Asia_The_challenge_of_building_capacity",
-    "description": "Reviews the state of M&E systems across South Asia, examining tools, budgets, and institutional arrangements for evaluation, and makes the case for building M&E capacity to improve accountability for government spending in the region."
+    "description": "Reviews the state of M&E systems across South Asia, examining tools, budgets, and institutional arrangements for evaluation, and makes the case for building M&E capacity to improve accountability for government spending in the region.",
+    "id": "monitoring-evaluation-and-performance-management-in-south-asia-the-challenge-of",
+    "access_type": "check_access",
+    "tags": [
+      "South-Asia",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Evaluation Capacity Development: Building Country Capacity for Monitoring and Evaluation in the Public Sector",
@@ -456,7 +802,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://documents1.worldbank.org/curated/en/509091468166152283/pdf/Evaluation-capacity-development-building-country-capacity-for-monitoring-and-evaluation-in-the-public-sector-selected-lessons-of-international-experience.pdf",
-    "description": "World Bank OED publication drawing on international experience to provide lessons on building country-level M&E capacity, covering performance evaluation systems, demand and supply factors, and strategies for institutionalising evaluation in the public sector."
+    "description": "World Bank OED publication drawing on international experience to provide lessons on building country-level M&E capacity, covering performance evaluation systems, demand and supply factors, and strategies for institutionalising evaluation in the public sector.",
+    "id": "evaluation-capacity-development-building-country-capacity-for-monitoring-and",
+    "access_type": "open_access",
+    "tags": [
+      "M&E",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Evaluation Capacity Development in Asia: Selected Proceedings from the International Conference",
@@ -465,7 +818,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://documents1.worldbank.org/curated/en/402971468742181082/pdf/11640279780Evaluation.pdf",
-    "description": "Proceedings exploring evaluation capacity in Asian countries including India, China, and others, examining the interface between results-based management and M&E, and strategies for building evaluation demand and supply."
+    "description": "Proceedings exploring evaluation capacity in Asian countries including India, China, and others, examining the interface between results-based management and M&E, and strategies for building evaluation demand and supply.",
+    "id": "evaluation-capacity-development-in-asia-selected-proceedings-from-the",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Beneficiary Feedback Mechanisms (M&E Universe Paper)",
@@ -474,7 +834,15 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.intrac.org/app/uploads/2017/01/Beneficiary-Feedback-Mechanisms.pdf",
-    "description": "Practical guide on establishing beneficiary feedback mechanisms in development programmes, covering tools such as suggestion boxes, surveys, and mobile-based methods, and how to build trust through responsive feedback loops."
+    "description": "Practical guide on establishing beneficiary feedback mechanisms in development programmes, covering tools such as suggestion boxes, surveys, and mobile-based methods, and how to build trust through responsive feedback loops.",
+    "id": "beneficiary-feedback-mechanisms-me-universe-paper",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation",
+      "mobile-technology",
+      "survey-data"
+    ],
+    "verified": false
   },
   {
     "title": "Improving Beneficiary Feedback Mechanisms for Refugees",
@@ -483,7 +851,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://assets.publishing.service.gov.uk/media/5c6eb1ce40f0b647aa1b6eb3/Improving.pdf",
-    "description": "DFID-funded review examining best practices, impacts, and digital technology use in beneficiary feedback mechanisms for refugee programming, finding that sustained organisational impact from feedback remains limited."
+    "description": "DFID-funded review examining best practices, impacts, and digital technology use in beneficiary feedback mechanisms for refugee programming, finding that sustained organisational impact from feedback remains limited.",
+    "id": "improving-beneficiary-feedback-mechanisms-for-refugees",
+    "access_type": "check_access",
+    "tags": [
+      "digital",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Data Quality for Monitoring and Evaluation Systems (Fact Sheet)",
@@ -492,7 +867,14 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.measureevaluation.org/resources/publications/fs-16-170-en/at_download/document",
-    "description": "USAID-funded fact sheet on ensuring data quality in M&E systems, covering data quality assessment tools, capabilities, and approaches for documenting and improving the quality of monitoring data used for programme decisions."
+    "description": "USAID-funded fact sheet on ensuring data quality in M&E systems, covering data quality assessment tools, capabilities, and approaches for documenting and improving the quality of monitoring data used for programme decisions.",
+    "id": "data-quality-for-monitoring-and-evaluation-systems-fact-sheet",
+    "access_type": "check_access",
+    "tags": [
+      "M&E",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Introduction to Cost-Effectiveness Analysis",
@@ -501,7 +883,16 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://dmeo.gov.in/sites/default/files/2021-09/Introduction_to_Cost_Effectiveness_Analysis.pdf",
-    "description": "India's DMEO guide introducing cost-effectiveness analysis for evaluating development programmes, produced under the CLEAR South Asia initiative in partnership with J-PAL, tailored for the Indian evaluation context."
+    "description": "India's DMEO guide introducing cost-effectiveness analysis for evaluating development programmes, produced under the CLEAR South Asia initiative in partnership with J-PAL, tailored for the Indian evaluation context.",
+    "id": "introduction-to-cost-effectiveness-analysis",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "South-Asia",
+      "cost-effectiveness",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Impact Evaluability Toolkit",
@@ -510,7 +901,16 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://dmeo.gov.in/sites/default/files/2021-09/Impact_Evaluability_Tooklit_CLEAR_J_PAL_SA.pdf",
-    "description": "Framework developed by J-PAL and CLEAR South Asia for assessing when and how to conduct counterfactual impact evaluations of government programmes in India, providing practical steps for selecting evaluation candidates and choosing appropriate methods."
+    "description": "Framework developed by J-PAL and CLEAR South Asia for assessing when and how to conduct counterfactual impact evaluations of government programmes in India, providing practical steps for selecting evaluation candidates and choosing appropriate methods.",
+    "id": "impact-evaluability-toolkit",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "South-Asia",
+      "impact-evaluation",
+      "meal-evaluation"
+    ],
+    "verified": false
   },
   {
     "title": "Outcome Mapping (Knowledge Solutions)",
@@ -519,6 +919,12 @@
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
     "url": "https://www.adb.org/sites/default/files/publication/27616/outcome-mapping.pdf",
-    "description": "ADB knowledge solutions brief summarising outcome mapping as an evaluation approach for development programmes, focusing on monitoring changes in the behaviour of boundary partners rather than measuring end-state development impacts."
+    "description": "ADB knowledge solutions brief summarising outcome mapping as an evaluation approach for development programmes, focusing on monitoring changes in the behaviour of boundary partners rather than measuring end-state development impacts.",
+    "id": "outcome-mapping-knowledge-solutions",
+    "access_type": "open_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
   }
 ]

@@ -6,7 +6,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.nber.org/system/files/working_papers/t0333/t0333.pdf",
-    "description": "Foundational toolkit for conducting randomized evaluations in development economics, covering selection bias, sample size, stratification, imperfect compliance, and drawing general conclusions from experimental evidence."
+    "description": "Foundational toolkit for conducting randomized evaluations in development economics, covering selection bias, sample size, stratification, imperfect compliance, and drawing general conclusions from experimental evidence.",
+    "id": "using-randomization-in-development-economics-research-a-toolkit",
+    "access_type": "free_to_read",
+    "tags": [
+      "RCT",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Impact Evaluation in Practice, Second Edition",
@@ -15,7 +22,18 @@
     "type": "book",
     "topic": "Research Methods",
     "url": "https://openknowledge.worldbank.org/entities/publication/ebbe3565-69ff-5fe2-b65d-11329cf45293",
-    "description": "Comprehensive World Bank handbook covering randomized assignment, instrumental variables, regression discontinuity, difference-in-differences, and matching methods for development program evaluation. Licensed under CC BY 3.0 IGO."
+    "description": "Comprehensive World Bank handbook covering randomized assignment, instrumental variables, regression discontinuity, difference-in-differences, and matching methods for development program evaluation. Licensed under CC BY 3.0 IGO.",
+    "id": "impact-evaluation-in-practice-second-edition",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "diff-in-diff",
+      "impact-evaluation",
+      "instrumental-variables",
+      "regression-discontinuity",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Handbook on Impact Evaluation: Quantitative Methods and Practices",
@@ -24,7 +42,15 @@
     "type": "book",
     "topic": "Research Methods",
     "url": "https://documents1.worldbank.org/curated/en/650951468335456749/pdf/520990PUB0EPI1101Official0Use0Only1.pdf",
-    "description": "World Bank handbook reviewing quantitative methods for impact evaluation including randomization, propensity score matching, double difference, and instrumental variable approaches with practical exercises."
+    "description": "World Bank handbook reviewing quantitative methods for impact evaluation including randomization, propensity score matching, double difference, and instrumental variable approaches with practical exercises.",
+    "id": "handbook-on-impact-evaluation-quantitative-methods-and-practices",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "instrumental-variables",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Understanding and Misunderstanding Randomized Controlled Trials",
@@ -33,7 +59,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.sciencedirect.com/science/article/pii/S0277953617307359",
-    "description": "Nobel laureate Deaton and philosopher Cartwright critically examine claims about RCTs, arguing that randomization does not automatically deliver precise estimates and that external validity requires careful justification. Published open access under CC BY-NC-ND."
+    "description": "Nobel laureate Deaton and philosopher Cartwright critically examine claims about RCTs, arguing that randomization does not automatically deliver precise estimates and that external validity requires careful justification. Published open access under CC BY-NC-ND.",
+    "id": "understanding-and-misunderstanding-randomized-controlled-trials",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Evaluating Anti-Poverty Programs",
@@ -42,7 +75,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://documents1.worldbank.org/curated/en/104761468315569641/pdf/wps3625.pdf",
-    "description": "Comprehensive review arguing that no single evaluation method dominates and that rigorous evaluations should be open-minded about methodology. Covers experimental and non-experimental approaches to anti-poverty program evaluation."
+    "description": "Comprehensive review arguing that no single evaluation method dominates and that rigorous evaluations should be open-minded about methodology. Covers experimental and non-experimental approaches to anti-poverty program evaluation.",
+    "id": "evaluating-anti-poverty-programs",
+    "access_type": "open_access",
+    "tags": [
+      "poverty",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Experimentation at Scale",
@@ -51,7 +91,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://econweb.ucsd.edu/~pniehaus/papers/experimentation_at_scale.pdf",
-    "description": "Makes the case for larger-scale randomized experiments in development economics, addressing concerns about spillovers, political economy effects, and heterogeneity that arise from small-scale RCTs."
+    "description": "Makes the case for larger-scale randomized experiments in development economics, addressing concerns about spillovers, political economy effects, and heterogeneity that arise from small-scale RCTs.",
+    "id": "experimentation-at-scale",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Radical Decentralization: Does Community-Driven Development Work?",
@@ -60,7 +107,16 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://gsb-faculty.stanford.edu/katherine-casey/files/2022/04/casey_cdd_are_vol10_all.pdf",
-    "description": "Review synthesizing RCT evidence on community-driven development programs, finding effective delivery of public goods but little evidence of lasting transformation of local institutions or empowerment of the poor."
+    "description": "Review synthesizing RCT evidence on community-driven development programs, finding effective delivery of public goods but little evidence of lasting transformation of local institutions or empowerment of the poor.",
+    "id": "radical-decentralization-does-community-driven-development-work",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "decentralization",
+      "institutions",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Reshaping Institutions: Evidence on Aid Impacts Using a Preanalysis Plan",
@@ -69,7 +125,16 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://emiguel.econ.berkeley.edu/assets/miguel_research/8/_Paper__Reshaping_Institutions_-_Evidence__on__Aid__Impacts__Using__a__Pre___Analysis__Plan.pdf",
-    "description": "Pioneering study using a pre-analysis plan in an RCT of a governance program in Sierra Leone, demonstrating how PAPs guard against data mining and showing divergent interpretations possible without pre-specification."
+    "description": "Pioneering study using a pre-analysis plan in an RCT of a governance program in Sierra Leone, demonstrating how PAPs guard against data mining and showing divergent interpretations possible without pre-specification.",
+    "id": "reshaping-institutions-evidence-on-aid-impacts-using-a-preanalysis-plan",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "governance",
+      "institutions",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Randomization and Social Policy Evaluation Revisited",
@@ -78,7 +143,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.nber.org/system/files/working_papers/t0107/t0107.pdf",
-    "description": "Nobel laureate Heckman revisits the case for randomized experiments in economics, identifying two historical waves of enthusiasm and demonstrating that experimental designs rest on unstated assumptions."
+    "description": "Nobel laureate Heckman revisits the case for randomized experiments in economics, identifying two historical waves of enthusiasm and demonstrating that experimental designs rest on unstated assumptions.",
+    "id": "randomization-and-social-policy-evaluation-revisited",
+    "access_type": "free_to_read",
+    "tags": [
+      "RCT",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Scaling Up What Works: Experimental Evidence on External Validity in Kenyan Education",
@@ -87,7 +159,15 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.cgdev.org/sites/default/files/Sandefur-et-al-Scaling-Up-What-Works.pdf",
-    "description": "Demonstrates that positive effects from NGO-led RCTs of contract teachers in Kenya disappear under government implementation, highlighting critical challenges of external validity and scaling in development experiments."
+    "description": "Demonstrates that positive effects from NGO-led RCTs of contract teachers in Kenya disappear under government implementation, highlighting critical challenges of external validity and scaling in development experiments.",
+    "id": "scaling-up-what-works-experimental-evidence-on-external-validity-in-kenyan",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "education",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "How Much Can We Generalize from Impact Evaluations?",
@@ -96,7 +176,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://repositorio.minedu.gob.pe/bitstream/handle/20.500.12799/4623/How%20Much%20Can%20We%20Generalize%20from%20Impact%20Evaluations.pdf?sequence=1&isAllowed=y",
-    "description": "Analyzes 635 papers on 20 types of development interventions and finds large effect heterogeneity, with government-implemented programs having smaller effects than NGO-implemented ones, raising concerns about generalizability."
+    "description": "Analyzes 635 papers on 20 types of development interventions and finds large effect heterogeneity, with government-implemented programs having smaller effects than NGO-implemented ones, raising concerns about generalizability.",
+    "id": "how-much-can-we-generalize-from-impact-evaluations",
+    "access_type": "check_access",
+    "tags": [
+      "impact-evaluation",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Learning from Experiments When Context Matters",
@@ -105,7 +192,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.aeaweb.org/articles?id=10.1257/aer.p20151016",
-    "description": "Demonstrates that non-experimental evidence from the relevant context can outperform experimental evidence from other contexts based on mean-squared error, highlighting the trade-off between internal and external validity."
+    "description": "Demonstrates that non-experimental evidence from the relevant context can outperform experimental evidence from other contexts based on mean-squared error, highlighting the trade-off between internal and external validity.",
+    "id": "learning-from-experiments-when-context-matters",
+    "access_type": "check_access",
+    "doi": "10.1257/aer.p20151016",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Decision Theoretic Approaches to Experiment Design and External Validity",
@@ -114,7 +208,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.nber.org/system/files/working_papers/w22167/w22167.pdf",
-    "description": "Develops a decision-theoretic framework for experimental design that clarifies questions about pre-analysis plans, experimental registries, and external validity, arguing external decision-making remains inherently subjective."
+    "description": "Develops a decision-theoretic framework for experimental design that clarifies questions about pre-analysis plans, experimental registries, and external validity, arguing external decision-making remains inherently subjective.",
+    "id": "decision-theoretic-approaches-to-experiment-design-and-external-validity",
+    "access_type": "free_to_read",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya",
@@ -123,7 +223,16 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7575201/",
-    "description": "Exemplary RCT studying GiveDirectly's unconditional cash transfers in Kenya, randomizing recipient gender, transfer timing, and magnitude. Finds significant impacts on consumption, assets, and psychological well-being."
+    "description": "Exemplary RCT studying GiveDirectly's unconditional cash transfers in Kenya, randomizing recipient gender, transfer timing, and magnitude. Finds significant impacts on consumption, assets, and psychological well-being.",
+    "id": "the-short-term-impact-of-unconditional-cash-transfers-to-the-poor-experimental",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "cash-transfers",
+      "gender",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Regression Discontinuity Designs: A Guide to Practice",
@@ -132,7 +241,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.nber.org/system/files/working_papers/w13039/w13039.pdf",
-    "description": "Seminal practical guide to regression discontinuity designs, covering sharp and fuzzy designs, bandwidth selection, specification tests, and graphical analysis for applied researchers."
+    "description": "Seminal practical guide to regression discontinuity designs, covering sharp and fuzzy designs, bandwidth selection, specification tests, and graphical analysis for applied researchers.",
+    "id": "regression-discontinuity-designs-a-guide-to-practice",
+    "access_type": "free_to_read",
+    "tags": [
+      "regression-discontinuity",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Regression Discontinuity Designs in Economics",
@@ -141,7 +257,15 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.princeton.edu/~davidlee/wp/RDDEconomics.pdf",
-    "description": "Comprehensive user guide for regression discontinuity designs in economics, explaining when RD is valid given economic incentives, why it is quasi-experimental, and how to estimate and interpret RD results."
+    "description": "Comprehensive user guide for regression discontinuity designs in economics, explaining when RD is valid given economic incentives, why it is quasi-experimental, and how to estimate and interpret RD results.",
+    "id": "regression-discontinuity-designs-in-economics",
+    "access_type": "check_access",
+    "tags": [
+      "quasi-experimental",
+      "regression-discontinuity",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Some Practical Guidance for the Implementation of Propensity Score Matching",
@@ -150,7 +274,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://docs.iza.org/dp1588.pdf",
-    "description": "Widely cited practical guide covering all key implementation decisions for propensity score matching: estimation of propensity scores, choice of matching algorithm, common support, matching quality assessment, and sensitivity analysis."
+    "description": "Widely cited practical guide covering all key implementation decisions for propensity score matching: estimation of propensity scores, choice of matching algorithm, common support, matching quality assessment, and sensitivity analysis.",
+    "id": "some-practical-guidance-for-the-implementation-of-propensity-score-matching",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature",
@@ -159,7 +289,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf",
-    "description": "Synthesizes the rapidly evolving difference-in-differences literature, covering staggered adoption, heterogeneous treatment effects, pre-trend testing, and best practices for practitioners."
+    "description": "Synthesizes the rapidly evolving difference-in-differences literature, covering staggered adoption, heterogeneous treatment effects, pre-trend testing, and best practices for practitioners.",
+    "id": "whats-trending-in-difference-in-differences-a-synthesis-of-the-recent",
+    "access_type": "check_access",
+    "tags": [
+      "diff-in-diff",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Difference-in-Differences with Variation in Treatment Timing",
@@ -168,7 +305,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.nber.org/system/files/working_papers/w25018/w25018.pdf",
-    "description": "Shows that the standard two-way fixed effects DD estimator is a weighted average of all possible two-group/two-period DD estimators, which can produce biased estimates with staggered treatment timing."
+    "description": "Shows that the standard two-way fixed effects DD estimator is a weighted average of all possible two-group/two-period DD estimators, which can produce biased estimates with staggered treatment timing.",
+    "id": "difference-in-differences-with-variation-in-treatment-timing",
+    "access_type": "free_to_read",
+    "tags": [
+      "diff-in-diff",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Design-based Analysis in Difference-In-Differences Settings with Staggered Adoption",
@@ -177,7 +321,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://arxiv.org/abs/1808.05293",
-    "description": "Takes a design perspective on DiD with staggered adoption, showing properties of standard estimators under random assignment of adoption dates and proposing improved inference procedures."
+    "description": "Takes a design perspective on DiD with staggered adoption, showing properties of standard estimators under random assignment of adoption dates and proposing improved inference procedures.",
+    "id": "design-based-analysis-in-difference-in-differences-settings-with-staggered",
+    "access_type": "open_access",
+    "tags": [
+      "diff-in-diff",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Instrumental Variables: An Econometrician's Perspective",
@@ -186,7 +337,15 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.nber.org/system/files/working_papers/w19983/w19983.pdf",
-    "description": "Reviews instrumental variables methods from an econometrics perspective, connecting classic supply and demand applications to modern applications in randomized experiments with noncompliance."
+    "description": "Reviews instrumental variables methods from an econometrics perspective, connecting classic supply and demand applications to modern applications in randomized experiments with noncompliance.",
+    "id": "instrumental-variables-an-econometricians-perspective",
+    "access_type": "free_to_read",
+    "tags": [
+      "RCT",
+      "instrumental-variables",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program",
@@ -195,7 +354,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.nber.org/system/files/working_papers/w12831/w12831.pdf",
-    "description": "Introduces the synthetic control method, which constructs a data-driven weighted combination of comparison units to estimate causal effects when only a single treated unit is available."
+    "description": "Introduces the synthetic control method, which constructs a data-driven weighted combination of comparison units to estimate causal effects when only a single treated unit is available.",
+    "id": "synthetic-control-methods-for-comparative-case-studies-estimating-the-effect-of",
+    "access_type": "free_to_read",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Causal Inference: The Mixtape",
@@ -204,7 +369,16 @@
     "type": "book",
     "topic": "Research Methods",
     "url": "https://mixtape.scunning.com/",
-    "description": "Free online textbook covering causal inference methods including DAGs, potential outcomes, matching, regression discontinuity, instrumental variables, difference-in-differences, and synthetic control with R and Stata code."
+    "description": "Free online textbook covering causal inference methods including DAGs, potential outcomes, matching, regression discontinuity, instrumental variables, difference-in-differences, and synthetic control with R and Stata code.",
+    "id": "causal-inference-the-mixtape",
+    "access_type": "check_access",
+    "tags": [
+      "diff-in-diff",
+      "instrumental-variables",
+      "regression-discontinuity",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Beyond Baseline and Follow-Up: The Case for More T in Experiments",
@@ -213,7 +387,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://openknowledge.worldbank.org/handle/10986/3403",
-    "description": "Argues that for noisy outcomes common in development economics (business profits, incomes), multiple survey rounds increase statistical power more efficiently than the standard baseline-plus-single-followup design."
+    "description": "Argues that for noisy outcomes common in development economics (business profits, incomes), multiple survey rounds increase statistical power more efficiently than the standard baseline-plus-single-followup design.",
+    "id": "beyond-baseline-and-follow-up-the-case-for-more-t-in-experiments",
+    "access_type": "open_access",
+    "tags": [
+      "research-methods",
+      "survey-data"
+    ],
+    "verified": false
   },
   {
     "title": "Theory-Based Impact Evaluation: Principles and Practice",
@@ -222,7 +403,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.3ieimpact.org/sites/default/files/2017-11/Working_Paper_3.pdf",
-    "description": "3ie working paper identifying six principles for theory-based impact evaluation: mapping causal chains, understanding context, anticipating heterogeneity, credible counterfactuals, rigorous factual analysis, and using mixed methods."
+    "description": "3ie working paper identifying six principles for theory-based impact evaluation: mapping causal chains, understanding context, anticipating heterogeneity, credible counterfactuals, rigorous factual analysis, and using mixed methods.",
+    "id": "theory-based-impact-evaluation-principles-and-practice",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "How to Do a Good Systematic Review of Effects in International Development: A Tool Kit",
@@ -231,7 +419,15 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.711765",
-    "description": "Practical guide for conducting systematic reviews in international development, covering search strategies, critical appraisal, meta-analysis, and a theory-based approach to drawing generalizable conclusions from 3ie's experience."
+    "description": "Practical guide for conducting systematic reviews in international development, covering search strategies, critical appraisal, meta-analysis, and a theory-based approach to drawing generalizable conclusions from 3ie's experience.",
+    "id": "how-to-do-a-good-systematic-review-of-effects-in-international-development-a",
+    "access_type": "check_access",
+    "tags": [
+      "meta-analysis",
+      "research-methods",
+      "systematic-review"
+    ],
+    "verified": false
   },
   {
     "title": "Narrative Approaches to Systematic Review and Synthesis of Evidence for International Development Policy and Practice",
@@ -240,7 +436,16 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.710641",
-    "description": "Argues for applying systematic review methods to qualitative evidence in development, introducing narrative synthesis approaches ranging from content analysis to meta-ethnography for broader evidence questions."
+    "description": "Argues for applying systematic review methods to qualitative evidence in development, introducing narrative synthesis approaches ranging from content analysis to meta-ethnography for broader evidence questions.",
+    "id": "narrative-approaches-to-systematic-review-and-synthesis-of-evidence-for",
+    "access_type": "check_access",
+    "tags": [
+      "ethnography",
+      "qualitative",
+      "research-methods",
+      "systematic-review"
+    ],
+    "verified": false
   },
   {
     "title": "Broadening the Range of Designs and Methods for Impact Evaluations",
@@ -249,7 +454,14 @@
     "type": "grey_literature",
     "topic": "Research Methods",
     "url": "https://www.oecd.org/derec/50399683.pdf",
-    "description": "DFID Working Paper 38 arguing that experimental and statistical methods apply to only a small proportion of development programs, and proposing theory-based, case-based, and participatory approaches as rigorous alternatives."
+    "description": "DFID Working Paper 38 arguing that experimental and statistical methods apply to only a small proportion of development programs, and proposing theory-based, case-based, and participatory approaches as rigorous alternatives.",
+    "id": "broadening-the-range-of-designs-and-methods-for-impact-evaluations",
+    "access_type": "free_to_read",
+    "tags": [
+      "impact-evaluation",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Introduction to Mixed Methods in Impact Evaluation",
@@ -258,7 +470,15 @@
     "type": "grey_literature",
     "topic": "Research Methods",
     "url": "https://www.interaction.org/wp-content/uploads/2019/03/Mixed-Methods-in-Impact-Evaluation-English.pdf",
-    "description": "InterAction guidance note explaining how to design and manage mixed methods impact evaluations, covering integration of quantitative and qualitative approaches at each stage of evaluation."
+    "description": "InterAction guidance note explaining how to design and manage mixed methods impact evaluations, covering integration of quantitative and qualitative approaches at each stage of evaluation.",
+    "id": "introduction-to-mixed-methods-in-impact-evaluation",
+    "access_type": "check_access",
+    "tags": [
+      "impact-evaluation",
+      "qualitative",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Using Case Studies to Explore the External Validity of 'Complex' Development Interventions",
@@ -267,7 +487,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/faculty-working-papers/270_Woolcock.pdf",
-    "description": "Provides a framework for assessing external validity of complex development interventions using case studies, arguing that the default assumption about generalizability should be zero for implementation-intensive programs."
+    "description": "Provides a framework for assessing external validity of complex development interventions using case studies, arguing that the default assumption about generalizability should be zero for implementation-intensive programs.",
+    "id": "using-case-studies-to-explore-the-external-validity-of-complex-development",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Integrating Quantitative and Qualitative Research: How Is It Done?",
@@ -276,7 +502,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://people.utm.my/uzairiah/wp-content/blogs.dir/1541/files/2016/11/Qualitative-Research-2006-Bryman-97-113.pdf",
-    "description": "Content analysis of 232 mixed methods social science articles examining how quantitative and qualitative research are actually combined in practice, finding that stated rationales and actual uses often diverge."
+    "description": "Content analysis of 232 mixed methods social science articles examining how quantitative and qualitative research are actually combined in practice, finding that stated rationales and actual uses often diverge.",
+    "id": "integrating-quantitative-and-qualitative-research-how-is-it-done",
+    "access_type": "check_access",
+    "tags": [
+      "qualitative",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Mixed Methods Research in Developing Country Contexts: Lessons From Field Research in Six Countries Across Africa and the Caribbean",
@@ -285,7 +518,15 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://journals.sagepub.com/doi/full/10.1177/15586898211032825",
-    "description": "Examines how logistical challenges and cultural contexts (race, colonial legacies, aid-dependence, gender norms, religion) in developing countries affect mixed methods design and implementation across six countries."
+    "description": "Examines how logistical challenges and cultural contexts (race, colonial legacies, aid-dependence, gender norms, religion) in developing countries affect mixed methods design and implementation across six countries.",
+    "id": "mixed-methods-research-in-developing-country-contexts-lessons-from-field",
+    "access_type": "check_access",
+    "tags": [
+      "colonial-legacy",
+      "gender",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Integrating Reflexivity into Livelihoods Research",
@@ -294,7 +535,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://curis.ku.dk/ws/files/41824290/Prowse_2010_Integrating_reflexivity_in_livelihoods_research_PIDS_10_3.pdf",
-    "description": "Proposes a methodological approach for reflexive livelihoods research based on Burawoy's extended case method and critical realism, overcoming the positivism-constructivism dualism in development studies."
+    "description": "Proposes a methodological approach for reflexive livelihoods research based on Burawoy's extended case method and critical realism, overcoming the positivism-constructivism dualism in development studies.",
+    "id": "integrating-reflexivity-into-livelihoods-research",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Whose Reality Counts? Putting the First Last",
@@ -303,7 +550,13 @@
     "type": "book",
     "topic": "Research Methods",
     "url": "https://practicalactionpublishing.com/book/2388/whose-reality-counts",
-    "description": "Seminal book on participatory rural appraisal (PRA) methods arguing that development professionals must reverse their top-down approaches and recognize the knowledge and analytical capabilities of poor and marginalized communities."
+    "description": "Seminal book on participatory rural appraisal (PRA) methods arguing that development professionals must reverse their top-down approaches and recognize the knowledge and analytical capabilities of poor and marginalized communities.",
+    "id": "whose-reality-counts-putting-the-first-last",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Applying Participatory Action Research Methods in Community-Based Adaptation With Smallholders in Myanmar",
@@ -312,7 +565,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.734053/full",
-    "description": "Presents experiences from a 3-year participatory action research project on community-based climate adaptation in four Climate-Smart Villages in Myanmar, demonstrating PAR methodology in development contexts."
+    "description": "Presents experiences from a 3-year participatory action research project on community-based climate adaptation in four Climate-Smart Villages in Myanmar, demonstrating PAR methodology in development contexts.",
+    "id": "applying-participatory-action-research-methods-in-community-based-adaptation",
+    "access_type": "open_access",
+    "tags": [
+      "climate-adaptation",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Participatory Action Research: New Uses, New Contexts, New Challenges",
@@ -321,7 +581,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://oro.open.ac.uk/98476/1/98476.pdf",
-    "description": "Examines the research outcomes of participatory action research, discussing arguments, tensions, dilemmas, and opportunities for achieving research impact through participatory approaches."
+    "description": "Examines the research outcomes of participatory action research, discussing arguments, tensions, dilemmas, and opportunities for achieving research impact through participatory approaches.",
+    "id": "participatory-action-research-new-uses-new-contexts-new-challenges",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "A Scoping Review of Participatory Research Methods in Agroecology Studies Conducted in South Asia",
@@ -330,7 +596,16 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.tandfonline.com/doi/full/10.1080/21683565.2022.2138674",
-    "description": "Reviews participatory research methods used in 27 agroecology studies in South Asia, finding diverse methods applied primarily in India but noting farmers are rarely engaged as study collaborators or decision-makers."
+    "description": "Reviews participatory research methods used in 27 agroecology studies in South Asia, finding diverse methods applied primarily in India but noting farmers are rarely engaged as study collaborators or decision-makers.",
+    "id": "a-scoping-review-of-participatory-research-methods-in-agroecology-studies",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "South-Asia",
+      "research-methods",
+      "scoping-review"
+    ],
+    "verified": false
   },
   {
     "title": "Implementing Qualitative Methods in the Field",
@@ -339,7 +614,15 @@
     "type": "grey_literature",
     "topic": "Research Methods",
     "url": "https://www.povertyactionlab.org/resource/implementing-qualitative-methods-field",
-    "description": "J-PAL resource providing an overview of commonly used qualitative tools for development research, covering integration with RCTs, hiring and training qualitative field staff, sampling, and data analysis."
+    "description": "J-PAL resource providing an overview of commonly used qualitative tools for development research, covering integration with RCTs, hiring and training qualitative field staff, sampling, and data analysis.",
+    "id": "implementing-qualitative-methods-in-the-field",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "qualitative",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Qualitative Approaches in Poverty Studies: A Structured Literature Review",
@@ -348,7 +631,15 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://rsdjournal.org/index.php/rsd/article/view/4183",
-    "description": "Bibliometric analysis identifying qualitative techniques used in poverty research from 2015-2020, discussing advantages and disadvantages of in-depth interviews, focus groups, and participatory methods."
+    "description": "Bibliometric analysis identifying qualitative techniques used in poverty research from 2015-2020, discussing advantages and disadvantages of in-depth interviews, focus groups, and participatory methods.",
+    "id": "qualitative-approaches-in-poverty-studies-a-structured-literature-review",
+    "access_type": "check_access",
+    "tags": [
+      "poverty",
+      "qualitative",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Designing Household Survey Questionnaires for Developing Countries: Lessons from 15 Years of the Living Standards Measurement Study",
@@ -357,7 +648,14 @@
     "type": "book",
     "topic": "Research Methods",
     "url": "https://openknowledge.worldbank.org/handle/10986/15195",
-    "description": "World Bank guidance on designing multi-topic household surveys for developing countries, drawing on 15 years of LSMS experience to provide detailed advice on objectives, data needs, and questionnaire design."
+    "description": "World Bank guidance on designing multi-topic household surveys for developing countries, drawing on 15 years of LSMS experience to provide detailed advice on objectives, data needs, and questionnaire design.",
+    "id": "designing-household-survey-questionnaires-for-developing-countries-lessons-from",
+    "access_type": "open_access",
+    "tags": [
+      "research-methods",
+      "survey-data"
+    ],
+    "verified": false
   },
   {
     "title": "Development Research in Practice: The DIME Analytics Data Handbook",
@@ -366,7 +664,14 @@
     "type": "book",
     "topic": "Research Methods",
     "url": "https://worldbank.github.io/dime-data-handbook/",
-    "description": "Open-access handbook from the World Bank's DIME department covering modern, transparent, and ethical research practices for development data including survey design, data management, and reproducible analysis."
+    "description": "Open-access handbook from the World Bank's DIME department covering modern, transparent, and ethical research practices for development data including survey design, data management, and reproducible analysis.",
+    "id": "development-research-in-practice-the-dime-analytics-data-handbook",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods",
+      "survey-data"
+    ],
+    "verified": false
   },
   {
     "title": "Power Calculations",
@@ -375,7 +680,14 @@
     "type": "grey_literature",
     "topic": "Research Methods",
     "url": "https://www.povertyactionlab.org/resource/power-calculations",
-    "description": "J-PAL resource providing an intuitive discussion of statistical power calculations for randomized evaluations, including practical tips and sample code for conducting power analyses using simulation."
+    "description": "J-PAL resource providing an intuitive discussion of statistical power calculations for randomized evaluations, including practical tips and sample code for conducting power analyses using simulation.",
+    "id": "power-calculations",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Introduction to Randomized Evaluations",
@@ -384,7 +696,14 @@
     "type": "grey_literature",
     "topic": "Research Methods",
     "url": "https://www.povertyactionlab.org/resource/introduction-randomized-evaluations",
-    "description": "J-PAL overview providing a non-technical introduction to randomized evaluations, covering when RCTs are useful, when they may not be the right choice, and key design considerations."
+    "description": "J-PAL overview providing a non-technical introduction to randomized evaluations, covering when RCTs are useful, when they may not be the right choice, and key design considerations.",
+    "id": "introduction-to-randomized-evaluations",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Promises and Perils of Pre-Analysis Plans",
@@ -393,7 +712,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://dspace.mit.edu/bitstream/handle/1721.1/104069/Olken_Promises%20and%20perils.pdf",
-    "description": "Examines the advantages and costs of pre-specifying statistical analysis plans in economics, finding that 10-20% of conventionally significant results may be misallocated due to data mining."
+    "description": "Examines the advantages and costs of pre-specifying statistical analysis plans in economics, finding that 10-20% of conventionally significant results may be misallocated due to data mining.",
+    "id": "promises-and-perils-of-pre-analysis-plans",
+    "access_type": "free_to_read",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Transparency, Reproducibility, and the Credibility of Economics Research",
@@ -402,7 +727,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.nber.org/system/files/working_papers/w22989/w22989.pdf",
-    "description": "Surveys evidence on publication bias, replication failures, and specification searching in economics, and discusses progress through study registration, pre-analysis plans, disclosure standards, and open data sharing."
+    "description": "Surveys evidence on publication bias, replication failures, and specification searching in economics, and discusses progress through study registration, pre-analysis plans, disclosure standards, and open data sharing.",
+    "id": "transparency-reproducibility-and-the-credibility-of-economics-research",
+    "access_type": "free_to_read",
+    "tags": [
+      "research-methods",
+      "survey-data"
+    ],
+    "verified": false
   },
   {
     "title": "Evaluating Replicability of Laboratory Experiments in Economics",
@@ -411,7 +743,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.science.org/doi/10.1126/science.aaf0918",
-    "description": "Replicated 18 laboratory experiments from top economics journals and found significant effects in the same direction for 61%, with replicated effect sizes averaging 66% of originals. Published in Science as a free article."
+    "description": "Replicated 18 laboratory experiments from top economics journals and found significant effects in the same direction for 61%, with replicated effect sizes averaging 66% of originals. Published in Science as a free article.",
+    "id": "evaluating-replicability-of-laboratory-experiments-in-economics",
+    "access_type": "free_to_read",
+    "doi": "10.1126/science.aaf0918",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Research Transparency and Reproducibility",
@@ -420,7 +759,13 @@
     "type": "grey_literature",
     "topic": "Research Methods",
     "url": "https://www.povertyactionlab.org/page/research-transparency-and-reproducibility",
-    "description": "J-PAL resource documenting 15 years of leadership in research transparency, including the development of hypothesis registries, data sharing on Harvard Dataverse, and collaboration with BITSS and Center for Open Science."
+    "description": "J-PAL resource documenting 15 years of leadership in research transparency, including the development of hypothesis registries, data sharing on Harvard Dataverse, and collaboration with BITSS and Center for Open Science.",
+    "id": "research-transparency-and-reproducibility",
+    "access_type": "open_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Reflections on the Ethics of Social Experimentation",
@@ -429,7 +774,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://macartan.github.io/assets/pdf/papers/2015_reflections_ethics.pdf",
-    "description": "Discusses research ethics in field experiments in developing areas, highlighting limitations of standard consent procedures, risks to research partners, and the need for constructing appropriate ethics for social experiments."
+    "description": "Discusses research ethics in field experiments in developing areas, highlighting limitations of standard consent procedures, risks to research partners, and the need for constructing appropriate ethics for social experiments.",
+    "id": "reflections-on-the-ethics-of-social-experimentation",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Towards Decolonising Research Ethics: From One-off Review Boards to Decentralised North-South Partnerships in an International Development Programme",
@@ -438,7 +789,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.mdpi.com/2227-7102/12/4/236",
-    "description": "Argues that limiting ethics to informed consent and anonymity cannot address larger power relationships in North-South research, proposing an 8-step model towards decolonising research ethics. Open access via MDPI."
+    "description": "Argues that limiting ethics to informed consent and anonymity cannot address larger power relationships in North-South research, proposing an 8-step model towards decolonising research ethics. Open access via MDPI.",
+    "id": "towards-decolonising-research-ethics-from-one-off-review-boards-to",
+    "access_type": "open_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Fostering Research Integrity in Sub-Saharan Africa: Challenges, Opportunities, and Recommendations",
@@ -447,7 +804,14 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10008683/",
-    "description": "Open access paper highlighting ethics dumping, parachute research, and questionable incentive structures in global health research, calling for equity and fairness throughout the research cycle in the Global South."
+    "description": "Open access paper highlighting ethics dumping, parachute research, and questionable incentive structures in global health research, calling for equity and fairness throughout the research cycle in the Global South.",
+    "id": "fostering-research-integrity-in-sub-saharan-africa-challenges-opportunities-and",
+    "access_type": "open_access",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Women's Empowerment and Economic Development: A Feminist Critique of Storytelling Practices in 'Randomista' Economics",
@@ -456,7 +820,16 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://eprints.lse.ac.uk/103880/1/Kabeer_womens_empowerment_and_economic_development_published.pdf",
-    "description": "Feminist critique of RCT-based development economics arguing that the approach produces piecemeal analysis, ad hoc theory, indifference to history and context, and methodological fundamentalism that overlooks structural gender inequalities."
+    "description": "Feminist critique of RCT-based development economics arguing that the approach produces piecemeal analysis, ad hoc theory, indifference to history and context, and methodological fundamentalism that overlooks structural gender inequalities.",
+    "id": "womens-empowerment-and-economic-development-a-feminist-critique-of-storytelling",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "gender",
+      "research-methods",
+      "womens-empowerment"
+    ],
+    "verified": false
   },
   {
     "title": "Randomized Control Trials and Qualitative Evaluations of a Multifaceted Programme for Women in Extreme Poverty: Empirical Findings and Methodological Reflections",
@@ -465,7 +838,16 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://www.tandfonline.com/doi/full/10.1080/19452829.2018.1536696",
-    "description": "Compares RCTs and qualitative assessments of BRAC's asset transfer program in West Bengal and Sindh, finding that RCTs failed to meet their own causality criteria and provided limited explanations for observed outcomes. Open access under CC BY."
+    "description": "Compares RCTs and qualitative assessments of BRAC's asset transfer program in West Bengal and Sindh, finding that RCTs failed to meet their own causality criteria and provided limited explanations for observed outcomes. Open access under CC BY.",
+    "id": "randomized-control-trials-and-qualitative-evaluations-of-a-multifaceted",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "poverty",
+      "qualitative",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "Field Experiments and the Political Economy of Development",
@@ -474,7 +856,13 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://macartan.github.io/assets/pdf/papers/2009_field_experiments.pdf",
-    "description": "Describes the range of field experiments in political economy of development, identifying frontiers for research and discussing challenges particular to experimental work in developing country settings."
+    "description": "Describes the range of field experiments in political economy of development, identifying frontiers for research and discussing challenges particular to experimental work in developing country settings.",
+    "id": "field-experiments-and-the-political-economy-of-development",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "How to Build M&E Systems to Support Better Government",
@@ -483,7 +871,14 @@
     "type": "book",
     "topic": "Research Methods",
     "url": "https://openknowledge.worldbank.org/handle/10986/6851",
-    "description": "World Bank IEG publication providing practical guidance on building, strengthening, and institutionalizing monitoring and evaluation systems, drawing on case studies from Chile, Colombia, Australia, and Uganda."
+    "description": "World Bank IEG publication providing practical guidance on building, strengthening, and institutionalizing monitoring and evaluation systems, drawing on case studies from Chile, Colombia, Australia, and Uganda.",
+    "id": "how-to-build-me-systems-to-support-better-government",
+    "access_type": "open_access",
+    "tags": [
+      "M&E",
+      "research-methods"
+    ],
+    "verified": false
   },
   {
     "title": "The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration",
@@ -492,7 +887,15 @@
     "type": "paper",
     "topic": "Research Methods",
     "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000100",
-    "description": "The PRISMA reporting standard for systematic reviews with a 27-item checklist and four-phase flow diagram. While originating in health, widely adopted in development research. Open access via PLOS Medicine."
+    "description": "The PRISMA reporting standard for systematic reviews with a 27-item checklist and four-phase flow diagram. While originating in health, widely adopted in development research. Open access via PLOS Medicine.",
+    "id": "the-prisma-statement-for-reporting-systematic-reviews-and-meta-analyses-of",
+    "access_type": "open_access",
+    "doi": "10.1371/journal.pmed.1000100",
+    "tags": [
+      "research-methods",
+      "systematic-review"
+    ],
+    "verified": false
   },
   {
     "title": "3ie Impact Evaluation Practice: A Guide for Grantees",
@@ -501,7 +904,16 @@
     "type": "grey_literature",
     "topic": "Research Methods",
     "url": "https://www.3ieimpact.org/sites/default/files/2018-05/3ie_impact_evaluation_practice.pdf",
-    "description": "Practical guide from 3ie for researchers conducting impact evaluations of development interventions, covering experimental and quasi-experimental designs, theory of change, and quality assurance standards."
+    "description": "Practical guide from 3ie for researchers conducting impact evaluations of development interventions, covering experimental and quasi-experimental designs, theory of change, and quality assurance standards.",
+    "id": "3ie-impact-evaluation-practice-a-guide-for-grantees",
+    "access_type": "open_access",
+    "tags": [
+      "impact-evaluation",
+      "quasi-experimental",
+      "research-methods",
+      "theory-of-change"
+    ],
+    "verified": false
   },
   {
     "title": "Running Randomized Evaluations: A Practical Guide",
@@ -510,7 +922,15 @@
     "type": "book",
     "topic": "Research Methods",
     "url": "https://www.povertyactionlab.org/resource/quick-guide-power-calculations",
-    "description": "Comprehensive practical guide from J-PAL leadership covering end-to-end design and implementation of randomized evaluations, including power calculations, randomization, survey design, and ethical considerations."
+    "description": "Comprehensive practical guide from J-PAL leadership covering end-to-end design and implementation of randomized evaluations, including power calculations, randomization, survey design, and ethical considerations.",
+    "id": "running-randomized-evaluations-a-practical-guide",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "research-methods",
+      "survey-data"
+    ],
+    "verified": false
   },
   {
     "title": "Pre-Analysis Plans",
@@ -519,6 +939,13 @@
     "type": "grey_literature",
     "topic": "Research Methods",
     "url": "https://www.povertyactionlab.org/resource/pre-analysis-plans",
-    "description": "J-PAL resource on writing and implementing pre-analysis plans for randomized evaluations, drawing on Olken (2015) and Casey, Glennerster, and Miguel (2012) to provide practical guidance on reducing data mining."
+    "description": "J-PAL resource on writing and implementing pre-analysis plans for randomized evaluations, drawing on Olken (2015) and Casey, Glennerster, and Miguel (2012) to provide practical guidance on reducing data mining.",
+    "id": "pre-analysis-plans",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "research-methods"
+    ],
+    "verified": false
   }
 ]
