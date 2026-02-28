@@ -1,0 +1,515 @@
+[
+  {
+    "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability",
+    "authors": "Hans-Otto Pörtner, Debra C. Roberts, Melinda Tignor, Elvira S. Poloczanska, et al. (eds.)",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.ipcc.ch/report/ar6/wg2/",
+    "description": "IPCC AR6 Working Group II report assessing climate change impacts, adaptation, and vulnerability worldwide, with major findings on the 3.3-3.6 billion people living in highly vulnerable contexts, concentrated in South Asia, sub-Saharan Africa, and Small Island Developing States."
+  },
+  {
+    "title": "Climate Change 2022: Mitigation of Climate Change",
+    "authors": "Priyadarshi R. Shukla, Jim Skea, Raphael Slade, Al Khourdajie, et al. (eds.)",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.ipcc.ch/report/ar6/wg3/",
+    "description": "IPCC AR6 Working Group III report on mitigation of climate change, examining sources of global emissions and pathways to reduce emissions across all sectors, emphasizing the need for immediate and deep reductions to limit warming to 1.5 degrees Celsius."
+  },
+  {
+    "title": "Climate Change 2023: Synthesis Report",
+    "authors": "Hoesung Lee, Jose Romero, et al. (eds.)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.ipcc.ch/report/ar6/syr/",
+    "description": "The IPCC AR6 Synthesis Report integrates findings from all three Working Groups and three Special Reports, summarizing the state of knowledge on climate change, its impacts, risks, and mitigation and adaptation options."
+  },
+  {
+    "title": "Global Warming of 1.5°C: An IPCC Special Report",
+    "authors": "Valérie Masson-Delmotte, Panmao Zhai, Hans-Otto Pörtner, Debra Roberts, Jim Skea, Priyadarshi R. Shukla, et al. (eds.)",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.ipcc.ch/sr15/",
+    "description": "IPCC Special Report on the impacts of global warming of 1.5 degrees Celsius above pre-industrial levels, assessing emission pathways, system transitions, and the implications for sustainable development and poverty eradication."
+  },
+  {
+    "title": "The Economics of Climate Change: The Stern Review",
+    "authors": "Nicholas Stern",
+    "year": 2006,
+    "type": "book",
+    "topic": "Climate & Environment",
+    "url": "https://www.lse.ac.uk/granthaminstitute/publication/the-economics-of-climate-change-the-stern-review/",
+    "description": "Landmark independent review for the UK Government arguing that the benefits of strong, early action on climate change far outweigh the costs. Estimates that unmitigated climate change could cost 5-20% of global GDP annually, while mitigation costs could be limited to around 1% of GDP."
+  },
+  {
+    "title": "The Economics of Biodiversity: The Dasgupta Review",
+    "authors": "Partha Dasgupta",
+    "year": 2021,
+    "type": "book",
+    "topic": "Climate & Environment",
+    "url": "https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review",
+    "description": "Independent review commissioned by HM Treasury providing a new economic framework grounded in ecology, finding that natural capital per person declined by nearly 40% between 1992 and 2014, and calling for fundamental changes in how economic success is measured."
+  },
+  {
+    "title": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
+    "authors": "Melissa Dell, Benjamin F. Jones, Benjamin A. Olken",
+    "year": 2012,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.nber.org/system/files/working_papers/w14132/w14132.pdf",
+    "description": "Foundational paper demonstrating that higher temperatures substantially reduce economic growth in poor countries by about 1.1 percentage points per 1 degree Celsius rise, with wide-ranging effects on agricultural output, industrial output, and political stability."
+  },
+  {
+    "title": "Global Non-linear Effect of Temperature on Economic Production",
+    "authors": "Marshall Burke, Solomon M. Hsiang, Edward Miguel",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://escholarship.org/uc/item/3g72r0zv",
+    "description": "Study published in Nature using economic data from 166 countries (1960-2010) showing that economic productivity peaks at 13 degrees Celsius annual average and declines strongly at higher temperatures, projecting unmitigated warming could reduce average global incomes by 23% by 2100."
+  },
+  {
+    "title": "Global Warming Has Increased Global Economic Inequality",
+    "authors": "Noah S. Diffenbaugh, Marshall Burke",
+    "year": 2019,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.pnas.org/doi/10.1073/pnas.1816020116",
+    "description": "Open-access PNAS paper finding that global warming has exacerbated global economic inequality by approximately 25% over the past half century, with warming causing 17-30% decreases in per-capita wealth in the world's poorest countries between 1961 and 2010."
+  },
+  {
+    "title": "Social and Economic Impacts of Climate",
+    "authors": "Tamma A. Carleton, Solomon M. Hsiang",
+    "year": 2016,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://escholarship.org/uc/item/2vz2d2zz",
+    "description": "Comprehensive review in Science covering key findings on how climatic conditions affect health, economics, conflict, migration, and demographics, showing that current climate conditions impose economic and social burdens rivaling projected end-of-century impacts."
+  },
+  {
+    "title": "Long-Term Macroeconomic Effects of Climate Change: A Cross-Country Analysis",
+    "authors": "Matthew E. Kahn, Kamiar Mohaddes, Ryan N.C. Ng, M. Hashem Pesaran, Mehdi Raissi, Jui-Chung Yang",
+    "year": 2019,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.nber.org/system/files/working_papers/w26167/w26167.pdf",
+    "description": "NBER working paper studying 174 countries from 1960 to 2014, examining how climate change affects long-term economic growth through deviations from historical climate norms and their impact on labor productivity and real output per capita."
+  },
+  {
+    "title": "Climate Change Economics over Time and Space",
+    "authors": "Per Krusell, Anthony A. Smith Jr.",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.nber.org/system/files/working_papers/w32197/w32197.pdf",
+    "description": "NBER working paper emphasizing spatial heterogeneity in climate impacts, showing that warming in less-developed countries lowers growth by 1.3 percentage points and reverses structural change by increasing the expenditure share of agriculture, magnifying vulnerability."
+  },
+  {
+    "title": "Shock Waves: Managing the Impacts of Climate Change on Poverty",
+    "authors": "Stéphane Hallegatte, Mook Bangalore, Laura Bonzanigo, Marianne Fay, Tamaro Kane, Ulf Narloch, Julie Rozenberg, David Treguer, Adrien Vogt-Schilb",
+    "year": 2016,
+    "type": "book",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/22787",
+    "description": "World Bank report examining how climate change could push millions into poverty and demonstrating that rapid, inclusive, climate-informed development can prevent most short-term impacts while pro-poor emission-reduction policies can limit long-term ones."
+  },
+  {
+    "title": "Turn Down the Heat: Why a 4°C Warmer World Must Be Avoided",
+    "authors": "Potsdam Institute for Climate Impact Research and Climate Analytics (prepared for the World Bank)",
+    "year": 2012,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/11860",
+    "description": "World Bank report warning that without action the world is on track for 4 degrees Celsius warming by 2100, with devastating consequences including coastal city inundation, food production risks, unprecedented heat waves, and irreversible biodiversity loss disproportionately affecting the poor."
+  },
+  {
+    "title": "South Asia's Hotspots: The Impact of Temperature and Precipitation Changes on Living Standards",
+    "authors": "Muthukumara Mani, Sushenjit Bandyopadhyay, Shun Chonabayashi, Anil Markandya, Thomas Mosier",
+    "year": 2018,
+    "type": "book",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/28723",
+    "description": "World Bank flagship report providing granular spatial analysis showing that more than 800 million people in South Asia live in communities projected to become climate hotspots, with most hotspots in inland areas characterized by low living standards and poor connectivity."
+  },
+  {
+    "title": "Groundswell Part 2: Acting on Internal Climate Migration",
+    "authors": "Viviane Clement, Kanta Kumari Rigaud, Alex de Sherbinin, Bryan Jones, Susana Adamo, Jacob Schewe, Nian Sadiq, Elham Shabahat",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/entities/publication/2c9150df-52c3-58ed-9075-d78ea56c3267",
+    "description": "World Bank report projecting that climate change could force 216 million people across six world regions to migrate within their own countries by 2050, with South Asia facing up to 40 million internal climate migrants driven by water scarcity, declining crop productivity, and sea-level rise."
+  },
+  {
+    "title": "Country Climate and Development Reports (CCDRs)",
+    "authors": "World Bank Group",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/collections/5cd4b6f6-94bb-5996-b00c-58be279093de",
+    "description": "World Bank series of core diagnostic reports integrating climate change and development considerations for individual countries, identifying main GHG sources, climate vulnerabilities, and prioritized actions for South Asian countries including Bangladesh, Pakistan, and Nepal."
+  },
+  {
+    "title": "Adapt Now: A Global Call for Leadership on Climate Resilience",
+    "authors": "Global Commission on Adaptation",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://gca.org/reports/adapt-now-a-global-call-for-leadership-on-climate-resilience/",
+    "description": "Flagship report of the Global Commission on Adaptation finding that investing $1.8 trillion globally from 2020 to 2030 in five key areas including early warning systems, climate-resilient infrastructure, and resilient water resources could generate $7.1 trillion in net benefits."
+  },
+  {
+    "title": "Adaptation Gap Report 2023: Underfinanced. Underprepared.",
+    "authors": "United Nations Environment Programme (UNEP)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.unep.org/resources/adaptation-gap-report-2023",
+    "description": "UNEP annual assessment finding that developing countries' adaptation finance needs are 10-18 times greater than international public finance flows, with an estimated adaptation finance gap of $194-366 billion per year and adaptation planning appearing to plateau."
+  },
+  {
+    "title": "Emissions Gap Report 2023: Broken Record",
+    "authors": "United Nations Environment Programme (UNEP)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.unep.org/resources/emissions-gap-report-2023",
+    "description": "UNEP's 14th annual emissions gap report finding that current pledges put the world on track for 2.5-2.9 degrees Celsius warming, requiring emission cuts of 28% for a 2 degrees Celsius pathway and 42% for a 1.5 degrees Celsius pathway by 2030."
+  },
+  {
+    "title": "Global Environment Outlook – GEO-6: Healthy Planet, Healthy People",
+    "authors": "UN Environment Programme",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.unep.org/resources/global-environment-outlook-6",
+    "description": "UNEP's most comprehensive assessment of the state of the global environment, produced by 250 scientists and experts, covering all six UNEP regions and emphasizing that a healthy environment is both a prerequisite and foundation for economic prosperity and human wellbeing."
+  },
+  {
+    "title": "State and Trends of Carbon Pricing 2023",
+    "authors": "World Bank (Shreya Rangarajan, Seoyi Kim, Harikumar Gadde, Sandhya Srinivasan, with Constanze Haug and Benjamin Görlach)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/entities/publication/58f2a409-9bb7-4ee6-899d-be47835c838f",
+    "description": "World Bank flagship report showing that 23% of global GHG emissions are now covered by 73 carbon pricing instruments, with record revenues of nearly $95 billion, though uptake in emerging and developing economies remains limited compared to high-income countries."
+  },
+  {
+    "title": "Net Zero by 2050: A Roadmap for the Global Energy Sector",
+    "authors": "International Energy Agency (IEA)",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.iea.org/reports/net-zero-by-2050",
+    "description": "IEA's landmark comprehensive roadmap for the global energy sector to achieve net zero emissions by 2050, detailing over 400 milestones, concluding that no new oil and gas fields should be approved beyond existing commitments to stay on the 1.5 degrees Celsius pathway."
+  },
+  {
+    "title": "World Energy Transitions Outlook 2023: 1.5°C Pathway",
+    "authors": "International Renewable Energy Agency (IRENA)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2023/Jun/IRENA_World_energy_transitions_outlook_2023.pdf",
+    "description": "IRENA report identifying pathways to the 1.5 degrees Celsius climate target, emphasizing that renewable power capacity must average 1,066 GW per year to 2050 and that development finance institutions provide less than 3% of total renewable energy investments in the Global South."
+  },
+  {
+    "title": "The State of Food and Agriculture 2016: Climate Change, Agriculture and Food Security",
+    "authors": "Food and Agriculture Organization of the United Nations (FAO)",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.fao.org/publications/card/en/c/18679629-67bd-4030-818c-35b206d03f34/",
+    "description": "FAO flagship report on how climate change impacts agriculture and food systems, warning that business as usual could put millions more at risk of hunger, particularly in sub-Saharan Africa and South and Southeast Asia, and emphasizing transformation of smallholder farming."
+  },
+  {
+    "title": "The State of Food and Agriculture 2023: Revealing the True Cost of Food to Transform Agrifood Systems",
+    "authors": "Food and Agriculture Organization of the United Nations (FAO)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.fao.org/items/1516eb79-8b43-400e-b3cb-130fd70853b0",
+    "description": "FAO report introducing true cost accounting for agrifood systems, assessing hidden environmental, health, and social costs. Shows that agrifood systems' negative impacts contribute to climate change and natural resource degradation while highlighting paths to sustainable transformation."
+  },
+  {
+    "title": "Human Development Report 2021/2022: Uncertain Times, Unsettled Lives: Shaping our Future in a Transforming World",
+    "authors": "United Nations Development Programme (UNDP)",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://hdr.undp.org/content/human-development-report-2021-22",
+    "description": "UNDP report examining how uncertainty from planetary pressures including climate change is reshaping human development, finding that 90% of countries saw HDI reversals in 2020 or 2021 and calling for new approaches to navigate the Anthropocene."
+  },
+  {
+    "title": "Global Assessment Report on Biodiversity and Ecosystem Services",
+    "authors": "Eduardo S. Brondízio, Josef Settele, Sandra Díaz, Hien T. Ngo (eds.)",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.ipbes.net/global-assessment",
+    "description": "IPBES landmark assessment finding that around 1 million animal and plant species are threatened with extinction, with current extinction rates 100-1,000 times higher than the baseline rate, driven by changes in land and sea use, direct exploitation, climate change, pollution, and invasive species."
+  },
+  {
+    "title": "The Value of the World's Ecosystem Services and Natural Capital",
+    "authors": "Robert Costanza, Ralph d'Arge, Rudolf de Groot, Stephen Farber, Monica Grasso, Bruce Hannon, Karin Limburg, Shahid Naeem, Robert V. O'Neill, Jose Paruelo, Robert G. Raskin, Paul Sutton, Marjan van den Belt",
+    "year": 1997,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.robertcostanza.com/wp-content/uploads/2017/02/1997_J_Costanza_Nature.pdf",
+    "description": "Seminal Nature paper estimating the value of 17 ecosystem services for 16 biomes at an average of $33 trillion per year (1997 values), demonstrating that ecosystem services are critical to human welfare and substantially exceed global GNP."
+  },
+  {
+    "title": "Global Assessment Report on Disaster Risk Reduction 2022: Our World at Risk",
+    "authors": "United Nations Office for Disaster Risk Reduction (UNDRR)",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.undrr.org/gar/gar2022-our-world-risk-gar",
+    "description": "UNDRR flagship report examining how governance systems must evolve to address systemic disaster risks, finding that risk creation is outstripping risk reduction, with disasters impacting LDC economies roughly 10 times worse than the richest countries as a share of GDP."
+  },
+  {
+    "title": "GAR Special Report 2023: Mapping Resilience for the Sustainable Development Goals",
+    "authors": "United Nations Office for Disaster Risk Reduction (UNDRR)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.undrr.org/gar/gar2023-special-report",
+    "description": "UNDRR special report highlighting how resilience investments support the SDGs, finding that early warning system investments triple in benefit in vulnerable contexts and that droughts have already led to 2 billion people under water stress."
+  },
+  {
+    "title": "Vulnerability",
+    "authors": "W. Neil Adger",
+    "year": 2006,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0959378006000422",
+    "description": "Foundational paper in Global Environmental Change defining vulnerability as susceptibility to harm from exposure to environmental and social stresses, reviewing research traditions and proposing that vulnerability is linked to the build-up or erosion of social-ecological resilience."
+  },
+  {
+    "title": "The Role of Local Institutions in Adaptation to Climate Change",
+    "authors": "Arun Agrawal",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://documents1.worldbank.org/curated/en/234591468331456170/pdf/691280WP0P11290utions0in0adaptation.pdf",
+    "description": "World Bank working paper demonstrating that local institutions are critical leverage points for climate adaptation, mediating between individual and collective responses and governing access to external resources through mobility, storage, diversification, communal pooling, and market exchange."
+  },
+  {
+    "title": "Climate Change and Poverty: Vulnerability, Impacts, and Alleviation Strategies",
+    "authors": "Robin Leichenko, Julie A. Silva",
+    "year": 2014,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.287",
+    "description": "Review in WIREs Climate Change exploring the nexus of climate change impacts, vulnerability, and poverty, identifying multiple direct and indirect channels through which climatic variability exacerbates poverty in less-developed countries and regions."
+  },
+  {
+    "title": "Exploring Just Transition in the Global South",
+    "authors": "Aaron Atteridge, Claudia Strambo, Nagisa Shibuya",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://climatestrategies.org/wp-content/uploads/2022/05/Exploring-Just-Transition-in-the-Global-South_FINAL.pdf",
+    "description": "Climate Strategies report examining what makes just transition uniquely challenging in developing countries, including large informal workforces, limited energy access, missing social safety nets, and unclear land rights that leave vulnerable populations at risk."
+  },
+  {
+    "title": "Just Transition and Workers' Rights in the Global South: The Recent Argentine and Chilean Nationally Determined Contributions",
+    "authors": "Mauro Pucheta, Ana Belén Sànchez",
+    "year": 2021,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.mdpi.com/2071-1050/13/17/9616",
+    "description": "Open-access paper examining how Argentina and Chile, with high informality in their economies, have embedded just transition into their legal frameworks through NDCs, constituting crucial first steps in the inclusion of just transition principles in domestic legal orders."
+  },
+  {
+    "title": "Managing Gender-Inclusive, Just Energy Transitions in South Asia",
+    "authors": "Various authors",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://doi.org/10.1093/ooenergy/oiae006",
+    "description": "Open-access paper in Oxford Open Energy examining how just transition policies differ across regions, noting that 38% of countries have embedded just transition principles into their NDCs and highlighting the need for gender-inclusive approaches in South Asia's energy transition."
+  },
+  {
+    "title": "A Global Just Transition: Background Note for COP27",
+    "authors": "United Nations Conference on Trade and Development (UNCTAD)",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://unctad.org/system/files/non-official-document/UNCTAD_Just_Transition_BACKGROUND_NOTE_COP27.pdf",
+    "description": "UNCTAD background note prepared for COP27 examining the global dimensions of just transition, emphasizing the need for developing countries to receive adequate financial and technical support for decarbonization while addressing structural inequalities."
+  },
+  {
+    "title": "Climate Finance Provided and Mobilised by Developed Countries in 2013-2022",
+    "authors": "Organisation for Economic Co-operation and Development (OECD)",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.oecd.org/en/publications/2024/05/climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022_8031029a.html",
+    "description": "OECD report confirming that developed countries exceeded the $100 billion annual climate finance goal for the first time in 2022, reaching $115.9 billion, but noting that finance to low-income countries remained relatively low at 10%."
+  },
+  {
+    "title": "State and Trends in Climate Adaptation Finance 2023",
+    "authors": "Global Center on Adaptation (GCA) and Climate Policy Initiative (CPI)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://gca.org/reports/state-and-trends-in-climate-adaptation-finance-2023/",
+    "description": "Joint GCA-CPI report finding that adaptation finance flows declined as a share of total climate finance even as adaptation needs are rising, with the private sector financing less than 3% of adaptation activities globally and debt remaining the primary instrument."
+  },
+  {
+    "title": "Aggregate Trends of Climate Finance Provided and Mobilised by Developed Countries in 2013-2020",
+    "authors": "Organisation for Economic Co-operation and Development (OECD)",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/07/aggregate-trends-of-climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2020_d1d90868/d28f963c-en.pdf",
+    "description": "OECD report tracking climate finance provided and mobilised by developed countries over 2013-2020, finding that total climate finance amounted to $83.3 billion in 2020 — falling short of the $100 billion annual goal."
+  },
+  {
+    "title": "Towards a Funding Mechanism for Loss and Damage from Climate Change Impacts",
+    "authors": "Erin Roberts, Saleemul Huq",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2212096321001224",
+    "description": "Paper exploring components needed for a loss and damage funding mechanism based on interviews with 43 elite stakeholders, finding that funds should be mobilised through the polluter pays principle to finance adaptation, insurance, and solidarity components."
+  },
+  {
+    "title": "Evaluating Progress on Loss and Damage: An Assessment of the Warsaw International Mechanism",
+    "authors": "Erin Roberts, Mark Pelling, Melanie Killin-Jones",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/14693062.2022.2112935",
+    "description": "Paper in Climate Policy assessing the effectiveness of the Warsaw International Mechanism's Executive Committee in advancing loss and damage action, evaluating its technical work and the adequacy of current institutional arrangements for vulnerable developing countries."
+  },
+  {
+    "title": "Policies and Practices of Climate Change Education in South Asia: Towards a Support Framework",
+    "authors": "Various authors",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.nature.com/articles/s44168-022-00028-z",
+    "description": "Open-access paper in npj Climate Action reviewing climate change education policies across South Asian nations, finding that Pakistan, India, Bangladesh, and Sri Lanka have incorporated climate awareness into national policies but require stronger community-level implementation."
+  },
+  {
+    "title": "Climate Change and Food Security in South Asia: The Importance of Renewable Energy and Agricultural Credit",
+    "authors": "Various authors",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.nature.com/articles/s41599-024-02847-3",
+    "description": "Open-access paper in Nature Humanities and Social Sciences Communications analyzing the relationships between climate change, agricultural credit, renewable energy, and food security in South Asia from 1990 to 2021, finding that climate change reduces food availability and increases food insecurity."
+  },
+  {
+    "title": "Climate Action for Food Security in South Asia? Analyzing the Role of Agriculture in NDCs to the Paris Agreement",
+    "authors": "Various authors",
+    "year": 2018,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/14693062.2018.1501329",
+    "description": "Paper in Climate Policy providing systematic analysis of South Asian NDCs, revealing that agriculture accounts for 23-67% of regional emissions — far above the global average — yet emission reduction commitments rarely target agriculture due to food security concerns."
+  },
+  {
+    "title": "Renewable Energy Outlook for ASEAN: Towards a Regional Energy Transition (2nd Edition)",
+    "authors": "International Renewable Energy Agency (IRENA)",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.irena.org/publications/2022/Sep/Renewable-Energy-Outlook-for-ASEAN-2nd-edition",
+    "description": "IRENA report showing that a comprehensive energy transition in Southeast Asia would lead to 3.4% higher GDP, 1% more economy-wide jobs, and 10.9% higher social welfare under the 1.5 degrees Celsius Scenario compared to the planned energy scenario."
+  },
+  {
+    "title": "World Bank Group Climate Change Action Plan 2021-2025: South Asia Roadmap",
+    "authors": "World Bank Group",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/262891632949399367/world-bank-group-climate-change-action-plan-2021-2025-south-asia-roadmap",
+    "description": "World Bank roadmap outlining how the Bank Group will support climate mitigation and adaptation in South Asia, where climate financing rose from $1.4 billion in FY2017 to $3.7 billion in FY2021, with nearly half of the region's population living in climate hotspots."
+  },
+  {
+    "title": "Measuring Total Carbon Pricing",
+    "authors": "World Bank (Harikumar Gadde, Ian Parry, et al.)",
+    "year": 2023,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://documents1.worldbank.org/curated/en/099548206152339098/pdf/IDU124d2b624145531468a1a4d418173bf51a4fd.pdf",
+    "description": "World Bank Policy Research Working Paper introducing the Total Carbon Pricing metric, which includes not only carbon taxes and emissions trading systems but also indirect pricing through fossil fuel excise taxes and subsidies, noting that global fossil fuel subsidies doubled in 2022."
+  },
+  {
+    "title": "Firm Adaptation to Climate Change: Evidence from Establishment-Level Data",
+    "authors": "Arti Grover, Jamus Jerome Lim",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.nber.org/system/files/working_papers/w32848/w32848.pdf",
+    "description": "NBER working paper examining firm-level adaptation to climate change, highlighting a global free-rider problem as developing nations prioritize economic growth over decarbonization and emphasizing the growing climate risks faced by firms in developing countries."
+  },
+  {
+    "title": "A Systematic Review of the Literature on Climate Justice: A Comparison Between the Global North and South",
+    "authors": "Various authors",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.mdpi.com/2071-1050/16/22/9888",
+    "description": "Open-access systematic review in Sustainability analyzing 826 climate justice papers, finding stark publication asymmetry with 717 from the Global North and only 109 from the South, with Global South research focusing mainly on socio-environmental context and social vulnerability."
+  },
+  {
+    "title": "Climate-Induced Non-Economic Loss and Damage: Understanding Policy Responses, Challenges, and Future Directions in Pacific Small Island Developing States",
+    "authors": "Various authors",
+    "year": 2023,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.mdpi.com/2225-1154/11/3/74",
+    "description": "Open-access paper examining non-economic losses and damages from climate change in Pacific SIDS, including loss of cultural heritage, biodiversity, and territorial integrity, and the policy challenges of addressing impacts that cannot be quantified in monetary terms."
+  },
+  {
+    "title": "Evaluating the Benefits of Weather and Climate Services in South Asia: A Systematic Review",
+    "authors": "Various authors",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://link.springer.com/article/10.1007/s10113-022-01947-7",
+    "description": "Systematic review in Regional Environmental Change evaluating the value of weather and climate services in South Asia, a region where between 1990 and 2019, climate-related disasters affected 1.7 billion people and caused $127 billion in economic losses."
+  },
+  {
+    "title": "The Macroeconomic Impact of Climate Change: Global vs. Local Temperature",
+    "authors": "Adrien Bilal, Diego R. Känzig",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.nber.org/system/files/working_papers/w32450/w32450.pdf",
+    "description": "NBER working paper using 173 countries from 1960 to 2019, finding that global temperature rises lead to GDP per capita declines of 12-16% after six years, with effects persisting 8-10 years, comparable in magnitude to severe financial crises."
+  },
+  {
+    "title": "Adaptation to Climate Change",
+    "authors": "Tamma Carleton, Amir Jina, Michael Greenstone, et al.",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Climate & Environment",
+    "url": "https://www.nber.org/system/files/working_papers/w33264/w33264.pdf",
+    "description": "NBER working paper reviewing the economics of climate adaptation, finding that existing literature offers relatively little guidance for emerging policy and identifying key knowledge gaps in understanding adaptation effectiveness in developing countries."
+  },
+  {
+    "title": "South Asia Disaster Risk Management Programme: Synthesis Report",
+    "authors": "UNDRR and World Bank",
+    "year": 2014,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.undrr.org/publication/south-asia-disaster-risk-management-programme-synthesis-report-sar-countries-disaster",
+    "description": "Joint UNDRR-World Bank synthesis report providing comprehensive hazard risk and vulnerability assessment across South Asian countries, establishing baseline disaster risk profiles to inform regional disaster risk reduction strategies."
+  },
+  {
+    "title": "Socio-economic Footprint of the Energy Transition: Southeast Asia",
+    "authors": "International Renewable Energy Agency (IRENA)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.irena.org/Publications/2023/Jul/Socio-economic-footprint-of-the-energy-transition-Southeast-Asia",
+    "description": "IRENA report analyzing the socio-economic impacts of energy transition in Southeast Asia, showing that an ambitious transition aligned with the 1.5 degrees Celsius pathway leads to higher GDP, increased employment, and improved social welfare compared to the planned energy scenario."
+  }
+]

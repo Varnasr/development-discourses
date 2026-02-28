@@ -1,0 +1,542 @@
+[
+  {
+    "title": "Development as Freedom",
+    "authors": "Amartya Sen",
+    "year": 1999,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://archive.org/details/amartya-kumar-sen-development-as-freedom-alfred-a.-knopf-inc.-2000",
+    "description": "Seminal work arguing that development should be understood as the expansion of human freedoms rather than merely GDP growth, introducing the capability approach as a framework for evaluating well-being and development."
+  },
+  {
+    "title": "Hunger and Public Action",
+    "authors": "Jean Dreze, Amartya Sen",
+    "year": 1989,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://library.oapen.org/handle/20.500.12657/39429",
+    "description": "Analyzes the role of public action in solving the problem of hunger in the modern world, using the concepts of entitlements and capabilities to explore the interaction of nutritional, economic, social, and political elements. Published as part of WIDER Studies in Development Economics."
+  },
+  {
+    "title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
+    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
+    "year": 2001,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf",
+    "description": "Exploits differences in European colonial settler mortality rates to estimate the causal effect of institutions on economic performance, showing that extractive colonial institutions persist and explain much of current cross-country income differences."
+  },
+  {
+    "title": "Institutions as a Fundamental Cause of Long-Run Growth",
+    "authors": "Daron Acemoglu, Simon Johnson, James A. Robinson",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://economics.mit.edu/sites/default/files/publications/institutions-as-the-fundamental-cause-of-long-run-.pdf",
+    "description": "Develops the empirical and theoretical case that differences in economic institutions are the fundamental cause of differences in economic development, examining quasi-natural experiments including colonization and the division of Korea."
+  },
+  {
+    "title": "The Economic Lives of the Poor",
+    "authors": "Abhijit V. Banerjee, Esther Duflo",
+    "year": 2007,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://economics.mit.edu/sites/default/files/publications/The%20Economic%20Lives%20of%20the%20Poor.pdf",
+    "description": "Uses household survey data from 13 countries to document how people living on less than $1-2 per day actually live, examining their consumption, work, saving, and borrowing patterns in granular detail."
+  },
+  {
+    "title": "The Miracle of Microfinance? Evidence from a Randomized Evaluation",
+    "authors": "Abhijit Banerjee, Esther Duflo, Rachel Glennerster, Cynthia Kinnan",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w18950/w18950.pdf",
+    "description": "First randomized evaluation of introducing microcredit in Hyderabad, India, finding that while microfinance increased business investment, it had no significant effects on consumption, health, education, or women's empowerment."
+  },
+  {
+    "title": "A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries",
+    "authors": "Abhijit Banerjee, Esther Duflo, Nathanael Goldberg, Dean Karlan, Robert Osei, William Pariente, Jeremy Shapiro, Bram Thuysbaert, Christopher Udry",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://dspace.mit.edu/handle/1721.1/97047",
+    "description": "Reports results from six randomized control trials of an integrated 'graduation' approach for the ultra-poor across Ethiopia, Ghana, Honduras, India, Pakistan, and Peru, finding lasting improvements in consumption, assets, and food security."
+  },
+  {
+    "title": "Long-term Effects of the Targeting the Ultra Poor Program",
+    "authors": "Abhijit Banerjee, Esther Duflo, Garima Sharma",
+    "year": 2021,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w28074/w28074.pdf",
+    "description": "Studies the 10-year effects of a 'big-push' asset transfer program in India, finding persistent positive effects on consumption, food security, income, and health that grow for seven years and persist through year ten."
+  },
+  {
+    "title": "Women as Policy Makers: Evidence from a Randomized Policy Experiment in India",
+    "authors": "Raghabendra Chattopadhyay, Esther Duflo",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w8615/w8615.pdf",
+    "description": "Exploits India's constitutional amendment randomly reserving one-third of village council head positions for women to show that female leaders invest more in public goods aligned with women's concerns, such as drinking water infrastructure."
+  },
+  {
+    "title": "Women Empowerment and Economic Development",
+    "authors": "Esther Duflo",
+    "year": 2012,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://dspace.mit.edu/handle/1721.1/82663",
+    "description": "Reviews the bidirectional relationship between women's empowerment and economic development, arguing that the interrelationships are too weak to be self-sustaining and that continuous policy commitment to gender equality is needed."
+  },
+  {
+    "title": "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment",
+    "authors": "Esther Duflo",
+    "year": 2001,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://economics.mit.edu/sites/default/files/2022-08/Schooling%20and%20Labor%20Market%20Consequences%20of%20School.pdf",
+    "description": "Evaluates Indonesia's massive INPRES school construction program (61,000 schools built 1973-1978), using regional and cohort variation to estimate returns to education of 6.8-10.6 percent."
+  },
+  {
+    "title": "Monitoring Works: Getting Teachers to Come to School",
+    "authors": "Esther Duflo, Rema Hanna",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w11880/w11880.pdf",
+    "description": "Tests a camera-based monitoring and financial incentive program in 120 rural Indian schools, reducing teacher absence from 42% to 22% and improving student test scores by 0.17 standard deviations."
+  },
+  {
+    "title": "Remedying Education: Evidence from Two Randomized Experiments in India",
+    "authors": "Abhijit Banerjee, Shawn Cole, Esther Duflo, Leigh Linden",
+    "year": 2007,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w11904/w11904.pdf",
+    "description": "Evaluates two randomized interventions in Indian schools -- a remedial education program using community volunteers and a computer-assisted learning program -- finding significant positive effects on student test scores."
+  },
+  {
+    "title": "The Analysis of Household Surveys: A Microeconometric Approach to Development Policy",
+    "authors": "Angus Deaton",
+    "year": 2018,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/30394",
+    "description": "Classic guide to analyzing household survey data in developing countries, covering welfare measurement, poverty, demand analysis, price reform, and saving, reissued with a new preface under a Creative Commons license."
+  },
+  {
+    "title": "Food and Nutrition in India: Facts and Interpretations",
+    "authors": "Angus Deaton, Jean Dreze",
+    "year": 2009,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.princeton.edu/~deaton/downloads/Food_and_Nutrition_in_India_Facts_and_Interpretations.pdf",
+    "description": "Reviews evidence on declining calorie intake in India despite economic growth, documenting that Indian anthropometric indicators for both adults and children are among the worst in the world."
+  },
+  {
+    "title": "Counting and Multidimensional Poverty Measurement",
+    "authors": "Sabina Alkire, James Foster",
+    "year": 2011,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://ophi.org.uk/publication/WP-07",
+    "description": "Proposes the Alkire-Foster methodology for multidimensional poverty measurement, combining an identification method for who is poor with a class of decomposable poverty measures that satisfy key axiomatic properties."
+  },
+  {
+    "title": "Acute Multidimensional Poverty: A New Index for Developing Countries",
+    "authors": "Sabina Alkire, Maria Emma Santos",
+    "year": 2010,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://hdr.undp.org/system/files/documents/hdrp201011.pdf",
+    "description": "Introduces the global Multidimensional Poverty Index (MPI) for 104 developing countries using household-level data across health, education, and living standard dimensions, developed for the 2010 Human Development Report."
+  },
+  {
+    "title": "Poverty Lines in Theory and Practice",
+    "authors": "Martin Ravallion",
+    "year": 1998,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://documents1.worldbank.org/curated/en/916871468766156239/pdf/multi-page.pdf",
+    "description": "Critical overview of alternative approaches to setting poverty lines, examining the theoretical foundations and practical methods, published as World Bank LSMS Working Paper No. 133."
+  },
+  {
+    "title": "Dollar a Day Revisited",
+    "authors": "Martin Ravallion, Shaohua Chen, Prem Sangraula",
+    "year": 2009,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://documents1.worldbank.org/curated/en/350401468157768465/pdf/wps4620.pdf",
+    "description": "Updates the international poverty line using new purchasing power parity data, proposing $1.25 per day as the new benchmark, and finds that 1.4 billion people in developing countries lived below this line in 2005."
+  },
+  {
+    "title": "The Idea of Antipoverty Policy",
+    "authors": "Martin Ravallion",
+    "year": 2013,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w19210/w19210.pdf",
+    "description": "Traces the intellectual history of how poverty shifted from being viewed as socially necessary to a social bad, examining how this transformation in thinking shaped the emergence of modern antipoverty policy."
+  },
+  {
+    "title": "Goodbye Washington Consensus, Hello Washington Confusion? A Review of the World Bank's Economic Growth in the 1990s",
+    "authors": "Dani Rodrik",
+    "year": 2006,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://drodrik.scholars.harvard.edu/sites/g/files/omnuum7106/files/dani-rodrik/files/goodbye_washington_consensus_.pdf",
+    "description": "Critically examines the failure of Washington Consensus policies, advocating for diagnostic approaches to development policy rather than one-size-fits-all prescriptions based on trade liberalization and privatization."
+  },
+  {
+    "title": "Globalization, Structural Change and Productivity Growth",
+    "authors": "Margaret McMillan, Dani Rodrik",
+    "year": 2011,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w17143/w17143.pdf",
+    "description": "Documents that structural change since 1990 has been growth-reducing in Africa and Latin America but growth-enhancing in Asia, as labor moved from low to high-productivity sectors in Asia but in the reverse direction elsewhere."
+  },
+  {
+    "title": "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities",
+    "authors": "Edward Miguel, Michael Kremer",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Paper__Worms.pdf",
+    "description": "Landmark randomized evaluation of school-based deworming in Kenya showing that mass treatment reduced absenteeism by 25% and created substantial health externalities among untreated children, making it extremely cost-effective."
+  },
+  {
+    "title": "The Illusion of Sustainability",
+    "authors": "Michael Kremer, Edward Miguel",
+    "year": 2007,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w10324/w10324.pdf",
+    "description": "Demonstrates that efforts to replace subsidized deworming with 'sustainable' alternatives were ineffective: cost-recovery reduced take-up by 80%, and health education did not change behavior in Kenyan schools."
+  },
+  {
+    "title": "Creating Markets for New Vaccines Part I: Rationale",
+    "authors": "Michael Kremer",
+    "year": 2000,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/papers/w7716",
+    "description": "Proposes advance market commitments as a mechanism to incentivize private vaccine development for diseases of the developing world, arguing that market failures suppress research on malaria, tuberculosis, and HIV."
+  },
+  {
+    "title": "The Experimental Approach to Development Economics",
+    "authors": "Abhijit Banerjee, Esther Duflo",
+    "year": 2009,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/papers/w14467",
+    "description": "Reviews how randomized controlled trials have transformed development economics, discussing the methodology's strengths and limitations and surveying key results across education, health, and credit markets."
+  },
+  {
+    "title": "Inequality and Growth: What Can the Data Say?",
+    "authors": "Abhijit V. Banerjee, Esther Duflo",
+    "year": 2003,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://economics.mit.edu/sites/default/files/publications/Inequality%20and%20Growth%20What%20Can%20the%20Data%20Say.pdf",
+    "description": "Uses non-parametric methods to reexamine the cross-country relationship between inequality and growth, finding an inverted U-shaped pattern rather than the simple linear relationships previously claimed."
+  },
+  {
+    "title": "History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India",
+    "authors": "Abhijit Banerjee, Lakshmi Iyer",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://dspace.mit.edu/handle/1721.1/63662",
+    "description": "Shows that areas of India where colonial land revenue rights were assigned to landlords have significantly lower agricultural investment, productivity, and public goods provision than areas where rights were given to cultivators."
+  },
+  {
+    "title": "Africa's Growth Tragedy: Policies and Ethnic Divisions",
+    "authors": "William Easterly, Ross Levine",
+    "year": 1997,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://documents1.worldbank.org/curated/en/732501468741681923/pdf/multi0page.pdf",
+    "description": "Demonstrates that ethnic diversity helps explain cross-country differences in public policies and economic performance, accounting for Africa's low schooling, political instability, and distorted markets."
+  },
+  {
+    "title": "The Long-Term Effects of Africa's Slave Trades",
+    "authors": "Nathan Nunn",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w13367/w13367.pdf",
+    "description": "Uses historical shipping records and slave ethnicity data to show a robust negative causal relationship between the number of slaves exported from African countries and their current economic performance."
+  },
+  {
+    "title": "Economic Reform and the Process of Global Integration",
+    "authors": "Jeffrey D. Sachs, Andrew Warner",
+    "year": 1995,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.brookings.edu/wp-content/uploads/1995/01/1995a_bpea_sachs_warner_aslund_fischer.pdf",
+    "description": "Influential study arguing that trade openness strongly promotes economic growth, documenting the chronology of trade liberalization and finding that open economies grow significantly faster than closed ones."
+  },
+  {
+    "title": "The Microfinance Promise",
+    "authors": "Jonathan Morduch",
+    "year": 1999,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://wagner.nyu.edu/files/faculty/publications/1999-12-Microfinance_Promise.pdf",
+    "description": "Comprehensive review of microfinance finding that while innovative contractual forms explain high repayment rates, high repayment has not translated into profits, and evidence on poverty impacts is mixed."
+  },
+  {
+    "title": "Do Rural Banks Matter? Evidence from the Indian Social Banking Experiment",
+    "authors": "Robin Burgess, Rohini Pande",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://econ.lse.ac.uk/staff/rburgess/wp/aer.pdf",
+    "description": "Shows that India's 1977-1990 bank branch licensing rule, which caused more rural bank openings in financially underdeveloped states, significantly reduced rural poverty through improved access to credit and savings."
+  },
+  {
+    "title": "Land Reform, Poverty Reduction, and Growth: Evidence from India",
+    "authors": "Timothy Besley, Robin Burgess",
+    "year": 2000,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.lse.ac.uk/economics/Assets/Documents/personal-pages/tim-besley/data/land-reform-poverty-reduction-growth.pdf",
+    "description": "Uses Indian state panel data from 1958-1992 to show that land reforms enhancing tenure security for poor farmers significantly reduced rural poverty, while land ceiling legislation was blocked and had no effect."
+  },
+  {
+    "title": "Institutions and Development: A View from Below",
+    "authors": "Rohini Pande, Christopher Udry",
+    "year": 2006,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.econstor.eu/handle/10419/26969",
+    "description": "Argues for greater exploitation of micro-data and within-country policy variation to understand how specific institutions influence economic activity, bridging the gap between cross-country institutions literature and microeconomic evidence."
+  },
+  {
+    "title": "Why Are Indian Children So Short? The Role of Birth Order and Son Preference",
+    "authors": "Seema Jayachandran, Rohini Pande",
+    "year": 2017,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w21036/w21036.pdf",
+    "description": "Analyzes 174,000 children to show that India's high stunting rate is driven by eldest son preference: Indian firstborns are taller than African counterparts, but subsequent children face a steep height disadvantage linked to gender-biased resource allocation."
+  },
+  {
+    "title": "The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector",
+    "authors": "Robert Jensen",
+    "year": 2007,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://web.stanford.edu/class/comm1a/readings/jensen-digital-divide.pdf",
+    "description": "Shows that mobile phone adoption by fishermen in Kerala, India dramatically reduced price dispersion, eliminated waste, and increased both consumer and producer welfare, providing a clean test of how information technology improves markets."
+  },
+  {
+    "title": "Misallocation and Manufacturing TFP in China and India",
+    "authors": "Chang-Tai Hsieh, Peter J. Klenow",
+    "year": 2009,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://web.stanford.edu/~klenow/MMTFP.pdf",
+    "description": "Quantifies resource misallocation across manufacturing plants in China and India compared to the U.S., estimating that reallocating resources to equalize marginal products could boost manufacturing TFP by 30-50% in China and 40-60% in India."
+  },
+  {
+    "title": "Monitoring Corruption: Evidence from a Field Experiment in Indonesia",
+    "authors": "Benjamin A. Olken",
+    "year": 2007,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://documents1.worldbank.org/curated/en/859901468259751360/pdf/934490WP00PUBL0onitoring0Corruption.pdf",
+    "description": "Uses a randomized experiment in 600 Indonesian village road projects to show that increasing the probability of government audits significantly reduced corruption, while increasing grassroots participation had limited impact on missing expenditures."
+  },
+  {
+    "title": "Entitled to Work: Urban Property Rights and Labor Supply in Peru",
+    "authors": "Erica Field",
+    "year": 2007,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://sites.duke.edu/ericafield/files/2018/02/Entitled-to-work.pdf",
+    "description": "Evaluates Peru's urban land titling program covering 1.2 million households, finding that property titles substantially increased labor hours, shifted work from home to outside markets, and reduced child labor."
+  },
+  {
+    "title": "Risk and Insurance in Village India",
+    "authors": "Robert M. Townsend",
+    "year": 1994,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://economics.mit.edu/sites/default/files/2022-09/Risk%20and%20Insurance%20in%20Village%20India.pdf",
+    "description": "Tests the full-insurance model using data from three villages in semi-arid India, finding surprisingly strong consumption smoothing across households despite rejection of perfect risk-sharing, in a foundational study of informal insurance."
+  },
+  {
+    "title": "Top Incomes in the Long Run of History",
+    "authors": "Anthony B. Atkinson, Thomas Piketty, Emmanuel Saez",
+    "year": 2011,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://eml.berkeley.edu/~saez/atkinson-piketty-saezJEL10.pdf",
+    "description": "Surveys evidence on top income shares across 20+ countries over the long run using tax data, documenting dramatic drops during world wars and divergent post-1980 trajectories between Anglo-Saxon and continental European countries."
+  },
+  {
+    "title": "Income Distribution and Macroeconomics",
+    "authors": "Oded Galor, Joseph Zeira",
+    "year": 1993,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://pages.nyu.edu/debraj/Courses/Readings/GalorZeira.pdf",
+    "description": "First macroeconomic model to show that with credit market imperfections and indivisible human capital investment, the initial wealth distribution affects aggregate output in both the short and long run, generating multiple steady states."
+  },
+  {
+    "title": "Growth is Good for the Poor",
+    "authors": "David Dollar, Aart Kraay",
+    "year": 2002,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=632656",
+    "description": "Shows that average incomes of the poorest quintile rise proportionately with average incomes across 92 countries, emphasizing the importance of economic growth for poverty reduction. Originally World Bank Policy Research Working Paper 2587."
+  },
+  {
+    "title": "The Poverty-Growth-Inequality Triangle",
+    "authors": "Francois Bourguignon",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://documents1.worldbank.org/curated/en/449711468762020101/pdf/28102.pdf",
+    "description": "Provides a rigorous analytical framework showing how growth and distributional changes interact to determine poverty outcomes, demonstrating that both the growth and inequality elasticity of poverty depend on the level of development."
+  },
+  {
+    "title": "Poverty, Inequality, and Growth: Trends, Policies, and Controversies",
+    "authors": "Giovanni Andrea Cornia",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.wider.unu.edu/publication/poverty-inequality-and-growth-trends-policies-and-controversies",
+    "description": "UNU-WIDER working paper reviewing stylized facts on the interplay between poverty, inequality, and growth, evaluating existing trends, resolving controversies, and providing a platform for informed policy debate."
+  },
+  {
+    "title": "Growth, Inequality, and Poverty Reduction in Developing Countries",
+    "authors": "Augustin Kwasi Fosu",
+    "year": 2017,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.wider.unu.edu/publication/growth-inequality-and-poverty-reduction-developing-countries",
+    "description": "UNU-WIDER working paper presenting global evidence on how income growth and inequality interact to drive poverty changes in developing countries, finding substantial regional variation in the growth-poverty relationship."
+  },
+  {
+    "title": "Inequality and Growth: A Review on a Great Open Debate in Economics",
+    "authors": "Guilherme Bandeira de Mello, Leonardo Guilherme Dornelles Bortoloni",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2022-5-inequality-growth-review-great-open-debate-economics.pdf",
+    "description": "UNU-WIDER working paper comprehensively reviewing the evolving theoretical and empirical literature on the complex relationship between inequality and economic growth, from the classical economists to modern evidence."
+  },
+  {
+    "title": "World Development Report 2004: Making Services Work for Poor People",
+    "authors": "World Bank",
+    "year": 2004,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/5986",
+    "description": "Flagship World Bank report arguing that broad improvements in human welfare require putting poor people at the center of service provision, providing a framework for improving accountability in health, education, water, and sanitation services."
+  },
+  {
+    "title": "World Development Report 2006: Equity and Development",
+    "authors": "World Bank",
+    "year": 2006,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/5988",
+    "description": "Presents evidence that equity (equal opportunity and avoidance of extreme deprivation) and economic prosperity are complementary in the long run, arguing for leveling economic and political playing fields in developing countries."
+  },
+  {
+    "title": "World Development Report 2012: Gender Equality and Development",
+    "authors": "World Bank",
+    "year": 2012,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/4391",
+    "description": "Examines how economic development interacts with gender equality, finding that growth alone is insufficient to close gender gaps and that targeted policies are needed to address persistent inequalities in education, health, and economic opportunities."
+  },
+  {
+    "title": "Poverty in India Has Declined over the Last Decade",
+    "authors": "Sutirtha Sinha Roy, Roy van der Weide",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://documents1.worldbank.org/curated/en/099249204052228866/pdf/IDU0333e60f901267045600be83093783b77e67a.pdf",
+    "description": "World Bank Policy Research Working Paper documenting poverty reduction in India alongside major expansion of social security programs, increased access to banking, cooking gas, sanitation, electricity, and housing."
+  },
+  {
+    "title": "Global Poverty Revisited Using 2021 PPPs",
+    "authors": "Dean Mitchell Jolliffe, Daniel Mahler, Christoph Lakner, Espen Beer Prydz, Nishant Yonzan",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf",
+    "description": "World Bank Policy Research Working Paper updating global poverty estimates using 2021 PPPs, setting the international poverty line at $3.00/day and documenting the shift of extreme poverty concentration from South Asia to Sub-Saharan Africa."
+  },
+  {
+    "title": "Gender Differences in Poverty and Household Composition through the Life-cycle",
+    "authors": "Nayantara Sarma Hensman Wickramasinghe",
+    "year": 2018,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://documents1.worldbank.org/curated/en/135731520343670750/pdf/WPS8360.pdf",
+    "description": "World Bank Policy Research Working Paper analyzing how poverty differs by gender across the life cycle, examining household composition effects on individual poverty measures in developing countries."
+  },
+  {
+    "title": "Halving Global Poverty",
+    "authors": "Timothy Besley, Robin Burgess",
+    "year": 2003,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://econ.lse.ac.uk/staff/rburgess/wp/jep11.pdf",
+    "description": "Examines progress toward the Millennium Development Goal of halving global poverty by 2015, analyzing the relative contributions of growth and redistribution across regions and the policy implications for accelerating poverty reduction."
+  },
+  {
+    "title": "Occupational Choice and the Process of Development",
+    "authors": "Abhijit V. Banerjee, Andrew F. Newman",
+    "year": 1993,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.semanticscholar.org/paper/Occupational-Choice-and-the-Process-of-Development-Banerjee-Newman/eda5d294095203e42649c3c477e4b05dfad85150",
+    "description": "Models development as institutional transformation driven by the interplay between occupational decisions and wealth distribution, showing how capital market imperfections generate poverty traps through their effect on occupational structure."
+  },
+  {
+    "title": "Universal Basic Income in the Developing World",
+    "authors": "Abhijit Banerjee, Paul Niehaus, Tavneet Suri",
+    "year": 2019,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.nber.org/system/files/working_papers/w25598/w25598.pdf",
+    "description": "NBER working paper evaluating the case for universal basic income in developing countries, reviewing evidence on cash transfers and assessing design considerations including targeting, conditionality, and fiscal sustainability."
+  },
+  {
+    "title": "The Influence of Randomized Controlled Trials on Development Economics Research and on Development Policy",
+    "authors": "Abhijit Banerjee, Esther Duflo, Michael Kremer",
+    "year": 2016,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://economics.mit.edu/sites/default/files/publications/2016.09%20the-influence-of-rcts-on-developmental-eco.pdf",
+    "description": "Reviews how randomized controlled trials have transformed development economics research and policy since the early 2000s, documenting the growing share of RCTs in top journals and their influence on development practice."
+  },
+  {
+    "title": "The Millennium Project: A Plan for Meeting the Millennium Development Goals",
+    "authors": "Jeffrey D. Sachs, John W. McArthur",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://www.earth.columbia.edu/news/2005/images/lancet012205.pdf",
+    "description": "Outlines the UN Millennium Project's strategy for achieving the MDGs, arguing that poverty traps prevent the poorest countries from investing in health, education, and infrastructure without external support."
+  },
+  {
+    "title": "Do Poverty Traps Exist? Assessing the Evidence",
+    "authors": "Aart Kraay, David McKenzie",
+    "year": 2014,
+    "type": "paper",
+    "topic": "Development Economics",
+    "url": "https://documents1.worldbank.org/curated/en/915281468330944384/pdf/WPS6835.pdf",
+    "description": "World Bank Policy Research Working Paper systematically reviewing the empirical evidence on poverty traps at individual, household, and country levels, finding limited support for their existence in most settings."
+  }
+]

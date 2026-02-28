@@ -1,0 +1,533 @@
+[
+  {
+    "title": "Decentralization of Governance and Development",
+    "authors": "Pranab Bardhan",
+    "year": 2002,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://eml.berkeley.edu/~webfac/bardhan/papers/BardhanGovt.pdf",
+    "description": "Examines the theoretical case for and against decentralization in developing and transition economies, analyzing how decentralization affects governance, accountability, and development outcomes in countries like China and India."
+  },
+  {
+    "title": "Decentralization and Service Delivery",
+    "authors": "Junaid Ahmad, Shantayanan Devarajan, Stuti Khemani, Shekhar Shah",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://documents1.worldbank.org/curated/en/606871468139500265/pdf/wps3603.pdf",
+    "description": "World Bank Policy Research Working Paper analyzing why basic services systematically fail the poor, finding that public spending has only a weak relationship with outcomes and arguing that improving service delivery is the key motivation behind decentralization efforts."
+  },
+  {
+    "title": "Decentralization in Developing Economies",
+    "authors": "Lucie Gadenne, Monica Singhal",
+    "year": 2014,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w19402/w19402.pdf",
+    "description": "Reviews the trade-offs of fiscal federalism in developing countries, explaining why developing nations have less decentralization than developed countries, particularly on the revenue side, and discussing the role of corruption, public goods, and taxation."
+  },
+  {
+    "title": "Implementing Decentralized Local Governance: A Treacherous Road with Potholes, Detours and Road Closures",
+    "authors": "Anwar Shah",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://documents1.worldbank.org/curated/en/349441468761683659/pdf/wps3353.pdf",
+    "description": "World Bank Policy Research Working Paper examining the implementation of decentralized local governance across 74 countries during 1986-2001, analyzing how ethnic conflicts, fiscal crises, and political events drove reform agendas."
+  },
+  {
+    "title": "Decentralization, Governance, and Localizing SDGs in Asia and the Pacific",
+    "authors": "Asian Development Bank",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.adb.org/sites/default/files/publication/840296/decentralization-governance-localizing-sdgs-asia-pacific.pdf",
+    "description": "ADB publication examining decentralization and local governance reforms in Asia-Pacific, linking improvements in service delivery outcomes to national SDG priorities through localized governance frameworks."
+  },
+  {
+    "title": "Local Public Financial Management",
+    "authors": "Anwar Shah (editor)",
+    "year": 2007,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://documents1.worldbank.org/curated/en/545261468762332986/pdf/399950PAPER0Lo10082136937701PUBLIC1.pdf",
+    "description": "World Bank volume covering public finance, intergovernmental relations, and local financial management in developing countries, with a focus on accountability in the public sector and infrastructure service provision."
+  },
+  {
+    "title": "World Development Report 2017: Governance and the Law",
+    "authors": "World Bank",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/25880",
+    "description": "Explores why some policies fail and others succeed, arguing that effective policies must guarantee credible commitment, support coordination, and promote cooperation, while addressing power asymmetries that lead to exclusion, capture, and clientelism."
+  },
+  {
+    "title": "World Development Report 2004: Making Services Work for Poor People",
+    "authors": "World Bank",
+    "year": 2003,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/5986",
+    "description": "Landmark World Bank report arguing that broad improvements in human welfare require wider access to affordable, better-quality services for the poor, and that strengthening accountability relationships is key to improving service delivery."
+  },
+  {
+    "title": "Monitoring Corruption: Evidence from a Field Experiment in Indonesia",
+    "authors": "Benjamin A. Olken",
+    "year": 2007,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w11753/w11753.pdf",
+    "description": "Presents a randomized field experiment on reducing corruption in over 600 Indonesian village road projects, finding that increasing government audits reduced missing expenditures by eight percentage points, while grassroots monitoring had limited average impact."
+  },
+  {
+    "title": "Corruption",
+    "authors": "Abhijit Banerjee, Rema Hanna, Sendhil Mullainathan",
+    "year": 2012,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w17968/w17968.pdf",
+    "description": "Provides a new framework for analyzing corruption in public bureaucracies, arguing that the standard moral hazard model must be extended to account for the reality that corruption often arises because the principals themselves may be corrupt or have limited enforcement capacity."
+  },
+  {
+    "title": "Corruption and Growth",
+    "authors": "Paolo Mauro",
+    "year": 1995,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://homepage.ntu.edu.tw/~kslin/macro2009/Mauro%201995.pdf",
+    "description": "Seminal paper analyzing subjective indices of corruption, red tape, and judicial efficiency across countries, finding that corruption lowers investment and thereby lowers economic growth, with results robust to controlling for endogeneity."
+  },
+  {
+    "title": "Exposing Corrupt Politicians: The Effects of Brazil's Publicly Released Audits on Electoral Outcomes",
+    "authors": "Claudio Ferraz, Frederico Finan",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://eml.berkeley.edu/~ffinan/Finan_Audit.pdf",
+    "description": "Examines whether access to information enhances political accountability using Brazil's anti-corruption audit program, finding that disclosure of corruption reduced incumbent re-election likelihood by approximately 20 percent, with effects amplified by local media presence."
+  },
+  {
+    "title": "Do Government Audits Reduce Corruption? Estimating the Impacts of Exposing Corrupt Politicians",
+    "authors": "Eric Avis, Claudio Ferraz, Frederico Finan",
+    "year": 2018,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/papers/w22443",
+    "description": "Studies Brazil's anti-corruption program that randomly audits municipalities, finding that being audited in the past reduces future corruption by 8 percent and increases the likelihood of subsequent legal action by 20 percent."
+  },
+  {
+    "title": "Corruption in India: Bridging Research Evidence and Policy Options",
+    "authors": "Sandip Sukhtankar, Milan Vaishnav",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://carnegie-production-assets.s3.amazonaws.com/static/files/IPFpre_pubSukhtankarVaishnav.pdf",
+    "description": "Comprehensive review of empirical research on corruption in India identifying four key drivers: lack of enforcement capacity, regulatory complexity, lack of transparency, and societal norms, while examining policy reforms including technology-based solutions."
+  },
+  {
+    "title": "Corruption Dynamics: The Golden Goose Effect",
+    "authors": "Paul Niehaus, Sandip Sukhtankar",
+    "year": 2013,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://econweb.ucsd.edu/~pniehaus/papers/nrega.pdf",
+    "description": "Studies the effect of a statutory wage increase in India's NREGA employment guarantee scheme on corruption, finding large 'golden goose effects' where the prospect of future illicit rents reduced the total impact of the wage increase on theft by roughly 64 percent."
+  },
+  {
+    "title": "Obtaining a Driver's License in India: An Experimental Approach to Studying Corruption",
+    "authors": "Marianne Bertrand, Simeon Djankov, Rema Hanna, Sendhil Mullainathan",
+    "year": 2007,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.researchgate.net/publication/24091997_Obtaining_a_Driver's_License_in_India_An_Experimental_Approach_to_Studying_Corruption",
+    "description": "Randomized experiment on driver's license allocation in India finding that 71% of license holders avoided the mandated driving test and corruption does not merely reflect transfers but actively distorts allocation of public services."
+  },
+  {
+    "title": "Enhancing Government Effectiveness and Transparency: The Fight Against Corruption",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/entities/publication/f9218828-bddb-5442-8a71-832ce44121e1",
+    "description": "World Bank report drawing on collective expertise to develop enhanced anti-corruption strategies across public procurement, infrastructure, state-owned enterprises, customs administration, and service delivery sectors."
+  },
+  {
+    "title": "Local Capture: Evidence from a Central Government Transfer Program in Uganda",
+    "authors": "Ritva Reinikka, Jakob Svensson",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.jakobsvensson.com/uploads/9/9/1/0/99107788/25098697.pdf",
+    "description": "Uses panel data from Ugandan primary schools to show that schools received only 13% of education grants on average, with the bulk captured by local officials, demonstrating that actual education spending is regressive even when budget allocations are not."
+  },
+  {
+    "title": "Bureaucracy and Development",
+    "authors": "Timothy J. Besley, Robin Burgess, Adnan Khan, Guo Xu",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w29163/w29163.pdf",
+    "description": "Reviews the connections between bureaucratic effectiveness and development, showing that bureaucratic quality across countries has been remarkably persistent and is strongly correlated with GDP per capita, while examining the building blocks of state capacity."
+  },
+  {
+    "title": "State Capacity and Economic Development: A Network Approach",
+    "authors": "Daron Acemoglu, Camilo Garcia-Jimeno, James A. Robinson",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w19813/w19813.pdf",
+    "description": "Exploits historical variation in Colombia including colonial state presence and road networks to isolate the impact of state capacity on economic outcomes, demonstrating the importance of state capacity for long-run development."
+  },
+  {
+    "title": "The Origins of State Capacity: Property Rights, Taxation, and Politics",
+    "authors": "Timothy Besley, Torsten Persson",
+    "year": 2009,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w13028/w13028.pdf",
+    "description": "Develops a framework where policy choices are constrained by economic institutions reflecting past investments in legal and fiscal state capacity, showing how political stability and common interests drive investments in state capacity."
+  },
+  {
+    "title": "The Personnel Economics of the Developing State",
+    "authors": "Frederico Finan, Benjamin A. Olken, Rohini Pande",
+    "year": 2017,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://scholar.harvard.edu/files/rpande/files/the_personnel_economics_of_the_developing_state.pdf",
+    "description": "Reviews field experiments on public sector personnel economics, examining how incentives, monitoring, and e-governance affect bureaucratic performance, noting that public sector employees in low-income countries enjoy the largest wage premiums over private sector counterparts."
+  },
+  {
+    "title": "Building State Capacity: Evidence from Biometric Smartcards in India",
+    "authors": "Karthik Muralidharan, Paul Niehaus, Sandip Sukhtankar",
+    "year": 2016,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w19999/w19999.pdf",
+    "description": "Studies the impact of biometrically authenticated smartcard payments on NREGS and pension programs across 158 sub-districts and 19 million people in Andhra Pradesh, finding faster, more predictable, and less corrupt payment delivery."
+  },
+  {
+    "title": "Social Proximity and Bureaucrat Performance: Evidence from India",
+    "authors": "Saad Gulzar, Benjamin J. Pasquale",
+    "year": 2017,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w25389/w25389.pdf",
+    "description": "Finds that bureaucrats originating from the same home district as an incoming Chief Minister receive more transfers and promotions, with results suggesting social proximity adversely impacts bureaucratic performance through political favoritism."
+  },
+  {
+    "title": "Is India a Flailing State?: Detours on the Four Lane Highway to Modernization",
+    "authors": "Lant Pritchett",
+    "year": 2009,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://dash.harvard.edu/bitstream/handle/1/4449106/Pritchett%20India%20Flailing%20State.pdf",
+    "description": "Argues that India is a 'flailing state' where highly capable top-level institutions are disconnected from routine implementation, creating massive divergence between de jure and de facto reality in service delivery across education, health, and policing."
+  },
+  {
+    "title": "Building State Capability: Evidence, Analysis, Action",
+    "authors": "Matt Andrews, Lant Pritchett, Michael Woolcock",
+    "year": 2017,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://library.oapen.org/handle/20.500.12657/31857",
+    "description": "Identifies capability traps including isomorphic mimicry and premature load bearing that hold governments back, and proposes Problem-Driven Iterative Adaptation (PDIA) as a process for building state capability in developing countries."
+  },
+  {
+    "title": "Traveling Agents: Political Change and Bureaucratic Turnover in India",
+    "authors": "Lakshmi Iyer, Anandi Mani",
+    "year": 2012,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://dash.harvard.edu/entities/publication/73120378-f939-6bd4-e053-0100007fdf3b",
+    "description": "Uses micro-level data on Indian IAS bureaucrats to show that politicians use frequent reassignments to control centrally recruited civil servants, with bureaucrat transfers significantly driven by changes in the Chief Minister's identity."
+  },
+  {
+    "title": "Monitoring Works: Getting Teachers to Come to School",
+    "authors": "Esther Duflo, Rema Hanna",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w11880/w11880.pdf",
+    "description": "Tests a camera-based teacher monitoring and financial incentive program in 120 informal schools in rural India, reducing absence from 42% to 22% and raising child test scores by 0.17 standard deviations."
+  },
+  {
+    "title": "Missing in Action: Teacher and Health Worker Absence in Developing Countries",
+    "authors": "Nazmul Chaudhury, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, F. Halsey Rogers",
+    "year": 2006,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://scholar.harvard.edu/files/kremer/files/missing_in_action_jep_2006_to_post.pdf",
+    "description": "Reports results from unannounced visits to schools and clinics in six developing countries, finding average teacher absence of 19% and health worker absence of 35%, with absence rates higher in poorer regions."
+  },
+  {
+    "title": "Ghost Doctors: Absenteeism in Rural Bangladeshi Health Facilities",
+    "authors": "Nazmul Chaudhury, Jeffrey S. Hammer",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://documents1.worldbank.org/curated/en/497471468007259434/pdf/774740JRN020040UBLIC00Ghost0Doctors.pdf",
+    "description": "First nationally representative study of health worker absenteeism in Bangladesh finding a 35% absence rate overall and 74% for physicians at smaller subcenters, with absenteeism correlated with provider residence distance and opportunity cost of time."
+  },
+  {
+    "title": "Quality and Accountability in Healthcare Delivery: Audit-Study Evidence from Primary Care in India",
+    "authors": "Jishnu Das, Alaka Holla, Aakash Mohpal, Karthik Muralidharan",
+    "year": 2016,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w21405/w21405.pdf",
+    "description": "Presents the first direct evidence on comparative quality of public and private healthcare in rural India using standardized patients, revealing significant gaps in provider quality and practice patterns."
+  },
+  {
+    "title": "Women as Policy Makers: Evidence from a Randomized Policy Experiment in India",
+    "authors": "Raghabendra Chattopadhyay, Esther Duflo",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://economics.mit.edu/sites/default/files/2022-08/Women%20as%20Policy%20Makers%20Evidence%20from%20a%20Randomized.pdf",
+    "description": "Exploits India's constitutional mandate reserving one-third of village council chief posts for women, showing that female leaders invest more in public goods linked to women's concerns such as drinking water, fundamentally altering policy priorities."
+  },
+  {
+    "title": "Can Mandated Political Representation Increase Policy Influence for Disadvantaged Minorities? Theory and Evidence from India",
+    "authors": "Rohini Pande",
+    "year": 2003,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/000282803769206232",
+    "description": "Exploits political reservation features in Indian state legislatures to show that mandated representation for Scheduled Castes and Scheduled Tribes increases targeted transfers to those groups, suggesting incomplete policy commitment in democracies."
+  },
+  {
+    "title": "Pitfalls of Participatory Programs: Evidence from a Randomized Evaluation in Education in India",
+    "authors": "Abhijit Banerjee, Rukmini Banerji, Esther Duflo, Rachel Glennerster, Stuti Khemani",
+    "year": 2010,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.povertyactionlab.org/sites/default/files/research-paper/121-%20Pitfalls%20of%20Participatory%20Programs%20February%202010.pdf",
+    "description": "Evaluates three interventions to encourage community participation in Indian education, finding that information provision and training had no impact on community involvement or learning, while volunteer-led reading camps significantly improved reading skills."
+  },
+  {
+    "title": "The Political Economy of Public Expenditures",
+    "authors": "Philip Keefer, Stuti Khemani",
+    "year": 2003,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://documents.worldbank.org/curated/en/919841468779409824/The-political-economy-of-public-expenditures",
+    "description": "Background paper for WDR 2004 examining how political incentives shape public expenditure patterns, comparing Indian states like Kerala and Uttar Pradesh to illustrate how political institutions drive divergent development outcomes."
+  },
+  {
+    "title": "Making Politics Work for Development: Harnessing Transparency and Citizen Engagement",
+    "authors": "Stuti Khemani, Ernesto Dal Bo, Claudio Ferraz, Frederico Finan, Corinne Stephenson, Adesinaola Odugbemi, Dikshya Thapa, Scott Abrahams",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.worldbank.org/en/research/publication/making-politics-work-for-development",
+    "description": "World Bank Policy Research Report arguing that transparency focused on political engagement is more effective than social accountability mechanisms alone, and that sustained reductions in corruption depend on fundamentally changing incentives in the public sector."
+  },
+  {
+    "title": "If Politics is the Problem, How Can External Actors Be Part of the Solution?",
+    "authors": "Shantayanan Devarajan, Stuti Khemani",
+    "year": 2016,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://documents1.worldbank.org/curated/en/906091469456194816/pdf/WPS7761.pdf",
+    "description": "World Bank Policy Research Working Paper arguing that traditional development assistance bundling finance and knowledge into projects can perpetuate government failures, and proposing that knowledge should be targeted to strengthen political accountability."
+  },
+  {
+    "title": "Development Strategies: Integrating Governance and Growth",
+    "authors": "Brian Levy, Francis Fukuyama",
+    "year": 2010,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/19915",
+    "description": "World Bank Policy Research Working Paper laying out four distinctive sequences through which governance, state capacity, and growth interact, including 'just enough governance' approaches that address specific institutional constraints only as they become binding."
+  },
+  {
+    "title": "Strengthening Public Financial Management: Exploring Drivers and Effects",
+    "authors": "World Bank",
+    "year": 2012,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://documents.worldbank.org/curated/en/349071468151787835/Strengthening-public-financial-management-exploring-drivers-and-effects",
+    "description": "Explores two relationships: between country characteristics and PFM quality (drivers), and between PFM quality and development outcomes, providing evidence on what drives improvements in public financial management systems."
+  },
+  {
+    "title": "Public Financial Management Reforms in Post-Conflict Countries: Synthesis Report",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://documents1.worldbank.org/curated/en/397341618464915700/pdf/Public-Financial-Management-Reforms-in-Post-Conflict-Countries-Synthesis-Report.pdf",
+    "description": "Synthesizes experiences of PFM reforms in post-conflict settings, arguing that a credible and controllable budget requires a minimal set of budget institutions and that developing countries with weak capacity face significant budget process challenges."
+  },
+  {
+    "title": "Conditional Cash Transfers: Reducing Present and Future Poverty",
+    "authors": "Ariel Fiszbein, Norbert Schady",
+    "year": 2009,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2597",
+    "description": "Comprehensive World Bank assessment of conditional cash transfer programs across developing countries, examining their effects on poverty reduction, education, health outcomes, and human capital accumulation."
+  },
+  {
+    "title": "Long-Term Impacts of Conditional Cash Transfers: Review of the Evidence",
+    "authors": "Sarah Baird, Francisco H.G. Ferreira, Berk Ozler, Michael Woolcock",
+    "year": 2014,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://academic.oup.com/wbro/article/34/1/119/5492445",
+    "description": "Reviews long-term impact evidence from conditional cash transfer programs, finding that while many studies show positive effects, methodological challenges in long-term evaluations make it difficult to confirm sustained impacts."
+  },
+  {
+    "title": "Rethinking Social Protection in South Asia: Toward Progressive Universalism",
+    "authors": "Rene Leon Solano, Jumana Alaref, Mark Dorfman, Zaineb Majoka, Mostafa Amir Sabbih, Elizabeth Mata Lorenzo",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.worldbank.org/en/region/sar/publication/rethinking-social-protection-in-south-asia-toward-progressive-universalism",
+    "description": "World Bank report arguing that South Asia has made significant progress in social protection delivery but still has far to go, advocating for progressive universalism as a framework for expanding coverage and improving adequacy."
+  },
+  {
+    "title": "Responsive by Design: Building Adaptive Social Protection Systems in South Asia",
+    "authors": "World Bank",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.worldbank.org/en/region/sar/publication/responsive-by-design-building-adaptive-social-protection-systems-in-south-asia",
+    "description": "Provides a framework for adaptive social protection systems across four elements -- institutional arrangements, financing, programs, and data systems -- analyzing South Asian systems to guide policy dialogue on resilience."
+  },
+  {
+    "title": "Exploring Universal Basic Income: A Guide to Navigating Concepts, Evidence, and Practices",
+    "authors": "Ugo Gentilini, Margaret Grosh, Jamele Rigolini, Ruslan Yemtsov (editors)",
+    "year": 2020,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/32677",
+    "description": "World Bank volume providing a framework for understanding UBI in different contexts, examining how it compares to targeted social assistance in terms of coverage, adequacy, incentives, poverty effects, and implementation feasibility."
+  },
+  {
+    "title": "State of Social Protection Report 2025: The 2-Billion-Person Challenge",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.worldbank.org/en/topic/socialprotection/publication/state-of-social-protection-2025-2-billion-person-challenge",
+    "description": "Documents that 2 billion people in low- and middle-income countries remain uncovered by social protection, with three out of four people in low-income countries receiving no support and current growth rates requiring 18 years to achieve full coverage."
+  },
+  {
+    "title": "General Equilibrium Effects of (Improving) Public Employment Programs: Experimental Evidence from India",
+    "authors": "Karthik Muralidharan, Paul Niehaus, Sandip Sukhtankar",
+    "year": 2017,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3038666",
+    "description": "Estimates direct and indirect effects of improving India's NREGS implementation through randomized rollout, finding that the reform raised beneficiary household earnings by 14%, reduced poverty by 26%, with 86% of income gains from higher private-sector wages."
+  },
+  {
+    "title": "Improving Last-Mile Service Delivery using Phone-Based Monitoring",
+    "authors": "Karthik Muralidharan, Paul Niehaus, Sandip Sukhtankar, Sheetal Weaver",
+    "year": 2020,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://ideas.repec.org/p/nbr/nberwo/25298.html",
+    "description": "Large-scale experiment evaluating phone-based monitoring of a program transferring nearly a billion dollars to 5.7 million Indian farmers, finding a 7.6% reduction in non-delivery at a cost of only 3.6 cents per additional dollar delivered."
+  },
+  {
+    "title": "Do Lenders Favor Politically Connected Firms? Rent Provision in an Emerging Financial Market",
+    "authors": "Asim Ijaz Khwaja, Atif Mian",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://conference.nber.org/confer/2005/POLs05/khwaja.pdf",
+    "description": "Uses loan-level data covering over 90,000 firms in Pakistan to show that politically connected firms borrow 45% more and have 50% higher default rates, with preferential treatment occurring exclusively in government banks at an estimated annual cost of 0.3-1.9% of GDP."
+  },
+  {
+    "title": "Grappling with Aadhaar: Biometrics, Social Identity and the Indian State",
+    "authors": "Nicolas Martin, Clement Imbert (editors)",
+    "year": 2020,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://journals.openedition.org/samaj/6279",
+    "description": "Open-access special issue examining India's Aadhaar biometric identification program as part of a broader sociotechnical environment that deeply influences public governance, citizen-state relations, and service delivery including the Public Distribution System."
+  },
+  {
+    "title": "From Delay to Payday: Using a Digital Platform to Improve State Capacity for Welfare Payment Processing",
+    "authors": "Karthik Muralidharan, Vaidyanathan Nandakumar, Gaurav Siddharth Sawant",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w33756/w33756.pdf",
+    "description": "Studies a digital dashboard platform for real-time tracking of NREGS payment processing in two Indian states, finding that access to the platform expedited bureaucrat payment processing by 17% and increased available worksites by 23%."
+  },
+  {
+    "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+    "authors": "Daron Acemoglu, James A. Robinson",
+    "year": 2012,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://ia801506.us.archive.org/27/items/WhyNationsFailTheOriginsODaronAcemoglu/Why-Nations-Fail_-The-Origins-o-Daron-Acemoglu.pdf",
+    "description": "Argues that nations thrive when they develop inclusive political and economic institutions that share power widely, and fail under extractive institutions that concentrate power among elites, drawing on examples from North and South Korea, Nogales, and colonial histories."
+  },
+  {
+    "title": "An Uncertain Glory: India and Its Contradictions",
+    "authors": "Jean Dreze, Amartya Sen",
+    "year": 2013,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.unescap.org/sites/default/files/Book-Review-7-Jul-2012.pdf",
+    "description": "Two leading economists argue that India's main problems lie in neglect of essential needs of the poor and women, examining how corruption, institutional failures, and the lack of social infrastructure undermine high economic growth and democratic governance."
+  },
+  {
+    "title": "Evaluating the Impact of Conditional Cash Transfer Programs",
+    "authors": "World Bank",
+    "year": 2006,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/18119",
+    "description": "World Bank volume compiling evaluation evidence from conditional cash transfer programs in developing countries, analyzing their effects on enrollment, health-seeking behavior, and household welfare across multiple countries."
+  },
+  {
+    "title": "Open Government for Stronger Democracies: A Global Assessment",
+    "authors": "OECD",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/open-government-for-stronger-democracies_88aa0131/5478db5b-en.pdf",
+    "description": "OECD global assessment of open government practices based on the framework of transparency, integrity, accountability, and stakeholder participation, covering both OECD member states and partner developing countries."
+  },
+  {
+    "title": "Quality of Bureaucracy and Open-Economy Macro Policies",
+    "authors": "Chong-En Bai, Shang-Jin Wei",
+    "year": 2000,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/system/files/working_papers/w7766/w7766.pdf",
+    "description": "Examines how variation in bureaucratic quality across countries affects open-economy macroeconomic policies, specifically the imposition of capital controls and financial repression in developing economies."
+  },
+  {
+    "title": "Evolution of the World Bank's Thinking on Governance",
+    "authors": "World Bank",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://thedocs.worldbank.org/en/doc/433301485539630301-0050022017/original/WDR17BPEvolutionofWBThinkingonGovernance.pdf",
+    "description": "Background paper for WDR 2017 tracing the evolution of the World Bank's thinking on governance across its flagship publications, from WDR 1997 on 'The State in a Changing World' through WDR 2004 on service delivery to contemporary approaches."
+  },
+  {
+    "title": "A Systematic Review of the Effects of Cash Transfer Programs on Schooling Outcomes",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/c9f76e5b-ac70-50c0-ac1e-aec104bff356/content",
+    "description": "Systematic review examining both conditional and unconditional cash transfers' effects on schooling, finding that the impact depends on moderating factors including monitoring, transfer size, recipient identity, and baseline enrollment rates."
+  },
+  {
+    "title": "World Social Protection Report 2024-26: Asia and the Pacific",
+    "authors": "International Labour Organization",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.ilo.org/sites/default/files/2024-09/WSPR_2024_Asia_and_Pacific_EN_WEB.pdf",
+    "description": "ILO report highlighting key challenges for social protection in Asia-Pacific from a life-cycle perspective, addressing COVID-19 aftermath, climate change threats, persistent informality, and demographic shifts across the region."
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "title": "Sustainable Rural Livelihoods: A Framework for Analysis",
+    "authors": "Ian Scoones",
+    "year": 1998,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://opendocs.ids.ac.uk/articles/report/Sustainable_Rural_Livelihoods_A_Framework_for_Analysis/26473384",
+    "description": "Foundational IDS Working Paper 72 that established the Sustainable Livelihoods Framework, defining livelihoods in terms of access to natural, economic, human, and social capitals combined in pursuit of agricultural intensification, diversification, and migration strategies."
+  },
+  {
+    "title": "Sustainable Rural Livelihoods: Practical Concepts for the 21st Century",
+    "authors": "Robert Chambers, Gordon R. Conway",
+    "year": 1992,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.ids.ac.uk/publications/sustainable-rural-livelihoods-practical-concepts-for-the-21st-century/",
+    "description": "Seminal IDS Discussion Paper 296 that coined the term 'sustainable livelihoods' and introduced the capability-based framework linking livelihood resources, strategies, and vulnerability to poverty outcomes."
+  },
+  {
+    "title": "Voices of the Poor: Crying Out for Change",
+    "authors": "Deepa Narayan, Robert Chambers, Meera K. Shah, Patti Petesch",
+    "year": 2000,
+    "type": "book",
+    "topic": "Livelihoods",
+    "url": "https://openknowledge.worldbank.org/entities/publication/39bf2bb1-e06d-5044-91f2-2451c7339384",
+    "description": "Landmark World Bank participatory study drawing on the voices of over 60,000 poor people in 23 countries, documenting how the poor experience livelihood insecurity, social exclusion, and lack of assets, and calling for empowerment-centered development."
+  },
+  {
+    "title": "World Development Report 2013: Jobs",
+    "authors": "World Bank",
+    "year": 2012,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/11843",
+    "description": "World Bank flagship report analyzing how jobs drive development by reducing poverty, empowering women, and building social cohesion, emphasizing that the private sector accounts for 90% of jobs in developing countries."
+  },
+  {
+    "title": "World Development Report 2008: Agriculture for Development",
+    "authors": "World Bank",
+    "year": 2007,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/5990",
+    "description": "Influential World Bank report reassessing agriculture as a vital instrument for pro-poor economic development, examining how smallholder agriculture, value chains, and rural non-farm activities can reduce poverty."
+  },
+  {
+    "title": "Human Development Report 2015: Work for Human Development",
+    "authors": "UNDP",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://hdr.undp.org/system/files/documents/global-report-document/2015humandevelopmentreport1.pdf",
+    "description": "UNDP global report arguing for a broader concept of work beyond employment, examining how work enhances human development through incomes, livelihoods, poverty reduction, dignity, and social participation."
+  },
+  {
+    "title": "Women Empowerment and Economic Development",
+    "authors": "Esther Duflo",
+    "year": 2012,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/papers/w17702",
+    "description": "Influential review examining the bidirectional relationship between women's empowerment and economic development, arguing that development alone is insufficient for gender equality and that active policy interventions targeting women's livelihoods are needed."
+  },
+  {
+    "title": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
+    "authors": "Abhijit V. Banerjee, Esther Duflo",
+    "year": 2011,
+    "type": "book",
+    "topic": "Livelihoods",
+    "url": "http://pooreconomics.com/",
+    "description": "Nobel laureates' book based on 15 years of randomized experiments across developing countries, challenging conventional assumptions about poverty and showing how the poor make livelihood decisions about savings, entrepreneurship, health, and education."
+  },
+  {
+    "title": "The Microfinance Promise",
+    "authors": "Jonathan Morduch",
+    "year": 1999,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://wagner.nyu.edu/files/faculty/publications/1999-12-Microfinance_Promise.pdf",
+    "description": "Comprehensive review in the Journal of Economic Literature analyzing how microfinance programs achieve high repayment rates through group-lending contracts, while noting that high repayment has not always translated into profits or clear poverty impacts."
+  },
+  {
+    "title": "Six Randomized Evaluations of Microcredit: Introduction and Further Steps",
+    "authors": "Abhijit Banerjee, Dean Karlan, Jonathan Zinman",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://economics.mit.edu/sites/default/files/publications/Six%20Randomized%20Evaluations%20of%20Microcredit.pdf",
+    "description": "Introduction to a landmark special issue summarizing six RCTs of microcredit across six countries on four continents, finding a consistent pattern of modestly positive but not transformative effects on borrowers' livelihoods."
+  },
+  {
+    "title": "The Miracle of Microfinance? Evidence from a Randomized Evaluation",
+    "authors": "Abhijit Banerjee, Esther Duflo, Rachel Glennerster, Cynthia Kinnan",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/system/files/working_papers/w18950/w18950.pdf",
+    "description": "First randomized evaluation of group-based microcredit in Hyderabad, India, finding that while borrowers increased business investment, there were no significant effects on average consumption, health, education, or women's empowerment after 18 months."
+  },
+  {
+    "title": "Microcredit Impacts: Evidence from a Randomized Microcredit Program Placement Experiment by Compartamos Banco",
+    "authors": "Manuela Angelucci, Dean Karlan, Jonathan Zinman",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.povertyactionlab.org/sites/default/files/research-paper/182_61%20Angelucci%20et%20al%20Mexico%20Jan2015.pdf",
+    "description": "Clustered RCT evaluating microcredit expansion at 110% APR by Mexico's largest microlender, finding no evidence of transformative impacts across microenterprise, income, labor supply, expenditure, or well-being outcomes."
+  },
+  {
+    "title": "Estimating the Impact of Microcredit on Those Who Take It Up: Evidence from a Randomized Experiment in Morocco",
+    "authors": "Bruno Crepon, Florencia Devoto, Esther Duflo, William Pariente",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/95969/Duflo_Estimating%20the.pdf",
+    "description": "RCT of microcredit in rural Morocco showing that among likely borrowers, credit access led to significant increases in self-employment assets and profits but also reduced casual labor income, with no overall consumption gains."
+  },
+  {
+    "title": "The Impacts of Microfinance: Evidence from Joint-Liability Lending in Mongolia",
+    "authors": "Orazio Attanasio, Britta Augsburg, Ralph De Haas, Emla Fitzsimons, Heike Harmgart",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.povertyactionlab.org/sites/default/files/research-paper/487%20Attanasio%20et%20al%20Mongolia%20Jan2015.pdf",
+    "description": "Randomized experiment in rural Mongolia finding that group lending increased female entrepreneurship and food consumption, while individual lending produced no significant poverty impacts, suggesting the two products serve complementary roles."
+  },
+  {
+    "title": "The Impacts of Microcredit: Evidence from Bosnia and Herzegovina",
+    "authors": "Britta Augsburg, Ralph De Haas, Heike Harmgart, Costas Meghir",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/system/files/working_papers/w18538/revisions/w18538.rev0.pdf",
+    "description": "RCT of microcredit among marginal loan applicants in Bosnia, finding borrowers increased business investment and self-employment but also increased teenage labor supply while reducing school attendance, raising concerns about intergenerational effects."
+  },
+  {
+    "title": "Repayment Frequency and Default in Microfinance: Evidence from India",
+    "authors": "Erica Field, Rohini Pande",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://sites.duke.edu/ericafield/files/2018/02/FieldPande-JEEA2008.pdf",
+    "description": "Field experiment in India randomly assigning microfinance clients to weekly or monthly repayment, finding no difference in default rates, implying MFIs can adopt more flexible schedules that reduce transaction costs without increasing risk."
+  },
+  {
+    "title": "Repayment Flexibility Can Reduce Financial Stress: A Randomized Control Trial with Microfinance Clients in India",
+    "authors": "Erica Field, Rohini Pande, John Papp, Y. Jeanette Park",
+    "year": 2012,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045679",
+    "description": "RCT in India finding that microfinance clients repaying monthly were 51% less likely to report financial anxiety, 54% more confident about repayment, and reported higher business investment and income compared to weekly repayment clients."
+  },
+  {
+    "title": "Sustainability of Microfinance Self Help Groups in India",
+    "authors": "Girija Srinivasan",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://documents1.worldbank.org/curated/en/390771468771327388/pdf/wps3516.pdf",
+    "description": "World Bank Working Paper examining the SHG-bank linkage programme in India, analyzing SHG federations as an exit strategy for promoting organizations and assessing conditions for financial sustainability of the world's largest microfinance programme."
+  },
+  {
+    "title": "Economic and Social Impacts of Self-Help Groups in India",
+    "authors": "Klaus Deininger, Yanyan Liu",
+    "year": 2009,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1372961",
+    "description": "World Bank Working Paper using a large household survey to assess SHG impacts in India, finding positive effects on women's empowerment and nutritional intake, with empowerment benefits extending to non-participants through positive externalities."
+  },
+  {
+    "title": "Participation in Microfinance-Based Self Help Groups in India: Who Becomes a Member and for How Long?",
+    "authors": "Payal Seth, Arnab Mukherji",
+    "year": 2020,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237519",
+    "description": "Open-access study examining determinants of SHG membership using data from 15,300 women in Uttar Pradesh, finding that poorer households in the lowest quintiles were less likely to remain members when borrowing for enterprise purposes."
+  },
+  {
+    "title": "Rural Credit Programs and Women's Empowerment in Bangladesh",
+    "authors": "Syed M. Hashemi, Sidney Ruth Schuler, Ann P. Riley",
+    "year": 1996,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.academia.edu/573583/Rural_Credit_Programs_and_Womens_Empowerment_In_Bangladesh",
+    "description": "Influential study of Grameen Bank and BRAC showing that participation in credit programs is positively associated with eight dimensions of women's empowerment in rural Bangladesh, with effects on both participants and non-participants."
+  },
+  {
+    "title": "Savings Constraints and Microenterprise Development: Evidence from a Field Experiment in Kenya",
+    "authors": "Pascaline Dupas, Jonathan Robinson",
+    "year": 2013,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/system/files/working_papers/w14693/w14693.pdf",
+    "description": "Field experiment in Kenya providing savings accounts to market vendors, finding that women used accounts actively, increased savings and productive investment, implying significant barriers to savings constrain microenterprise growth."
+  },
+  {
+    "title": "Returns to Capital in Microenterprises: Evidence from a Field Experiment",
+    "authors": "Suresh de Mel, David McKenzie, Christopher Woodruff",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://docs.iza.org/dp2934.pdf",
+    "description": "Randomized experiment providing cash and equipment grants to microenterprises in Sri Lanka, finding average real returns of 4.6-5.3% per month, substantially above market interest rates, but with significant gender heterogeneity showing no positive returns for female-owned enterprises."
+  },
+  {
+    "title": "Microentrepreneurship in Developing Countries",
+    "authors": "Abhijit Banerjee, Emily Breza, Esther Duflo, Cynthia Kinnan",
+    "year": 2019,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/system/files/working_papers/w26661/w26661.pdf",
+    "description": "NBER Working Paper reviewing the state of knowledge on microentrepreneurship in developing countries, concluding that microcredit helps some enterprises but is not a silver bullet for transforming most informal firms into fast-growing businesses."
+  },
+  {
+    "title": "Teaching Entrepreneurship: Impact of Business Training on Microfinance Clients and Institutions",
+    "authors": "Dean Karlan, Martin Valdivia",
+    "year": 2011,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=920487",
+    "description": "First RCT evaluating business training for microfinance clients, conducted with FINCA in Peru, finding improved business knowledge and MFI client retention but negligible effects on revenue, profits, or employment among female microentrepreneurs."
+  },
+  {
+    "title": "A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries",
+    "authors": "Abhijit Banerjee, Esther Duflo, Nathanael Goldberg, Dean Karlan, Robert Osei, William Pariente, Jeremy Shapiro, Bram Thuysbaert, Christopher Udry",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://dspace.mit.edu/handle/1721.1/97047",
+    "description": "Landmark study in Science reporting results from six RCTs of the graduation approach across Ethiopia, Ghana, Honduras, India, Pakistan, and Peru, demonstrating cost-effective and sustained improvements in consumption, assets, and psychological well-being for the ultra-poor."
+  },
+  {
+    "title": "Why Do People Stay Poor?",
+    "authors": "Clare Balboni, Oriana Bandiera, Robin Burgess, Maitreesh Ghatak, Anton Heil",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://economics.mit.edu/sites/default/files/2022-12/Why%20do%20people%20stay%20poor.pdf",
+    "description": "Study using BRAC's TUP programme data over 11 years in Bangladesh to test between fundamentals vs. poverty traps views, finding strong evidence for poverty traps with a clear asset threshold below which households cannot escape poverty without large transfers."
+  },
+  {
+    "title": "From Extreme Poverty to Sustainable Livelihoods: A Technical Guide to the Graduation Approach",
+    "authors": "CGAP, Ford Foundation",
+    "year": 2014,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.cgap.org/sites/default/files/graduation_guide_final.pdf",
+    "description": "Practical technical guide for implementing the graduation model pioneered by BRAC, combining consumption support, asset transfers, skills training, coaching, and savings access to help ultra-poor households build sustainable livelihoods."
+  },
+  {
+    "title": "Graduating the Poor: Completion Report of CGAP's Graduating the Poor Initiative",
+    "authors": "CGAP",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://documents1.worldbank.org/curated/en/988811549967967067/pdf/Graduating-the-Poor.pdf",
+    "description": "Completion report finding that graduation programs are more cost-effective than lump-sum cash transfers or standalone livelihoods programs for the extreme poor, with nearly 60 actors now testing or scaling the approach worldwide."
+  },
+  {
+    "title": "Graduation Pathways: Increasing Income and Resilience for the Extreme Poor",
+    "authors": "CGAP",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.cgap.org/sites/default/files/Brief-Graduation-Pathways-Dec-2016.pdf",
+    "description": "CGAP brief describing how the time-bound graduation approach sequences social assistance, skills training, seed capital, financial education, savings access, and mentoring over 24-26 months to move households out of extreme poverty."
+  },
+  {
+    "title": "Crafting a Graduation Pathway for the Ultra Poor: Lessons and Evidence from a BRAC Programme",
+    "authors": "Imran Matin, Munshi Sulaiman, Mehnaz Rabbani",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.findevgateway.org/sites/default/files/publications/files/mfg-en-paper-crafting-a-graduation-pathway-for-the-ultra-poor-lessons-and-evidence-from-a-brac-programme-mar-2008.pdf",
+    "description": "Early analysis of BRAC's Targeting the Ultra Poor programme documenting the graduation model's design, implementation, and initial evidence of outcomes in Bangladesh, including asset accumulation and livelihood diversification."
+  },
+  {
+    "title": "Vocational and Skills Training Programs to Improve Labor Market Outcomes",
+    "authors": "J-PAL Policy Insight",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.povertyactionlab.org/policy-insight/vocational-and-skills-training-programs-improve-labor-market-outcomes",
+    "description": "J-PAL policy review of 28 studies on vocational training across developing countries, finding that programs combining classroom training with practical experience and soft skills were most effective at improving employment and earnings."
+  },
+  {
+    "title": "Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda",
+    "authors": "Christopher Blattman, Nathan Fiala, Sebastian Martinez",
+    "year": 2014,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://chrisblattman.com/documents/research/2014.GeneratingSkilledEmployment.QJE.pdf",
+    "description": "RCT of Uganda's Youth Opportunities Program providing cash grants for vocational training and business start-up, finding 57% increase in business assets, 17% increase in work hours, and 38% earnings gain after four years, with especially large impacts for women."
+  },
+  {
+    "title": "Safe Spaces with Vocational and Life Skills Training for Young Women's Economic and Social Empowerment in Uganda",
+    "authors": "Oriana Bandiera, Niklas Buehren, Robin Burgess, Markus Goldstein, Selim Gulesci, Imran Rasul, Munshi Sulaiman",
+    "year": 2020,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.povertyactionlab.org/evaluation/safe-spaces-vocational-and-life-skills-training-young-womens-economic-and-social",
+    "description": "Evaluation of BRAC's ELA program in Uganda combining vocational and life skills training for adolescent girls, finding substantial advances in economic empowerment and bodily autonomy that persisted for four years."
+  },
+  {
+    "title": "Making Labor Markets Work for the Youth: An Approach Paper",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://documents1.worldbank.org/curated/en/099021125104529845/pdf/P506693-6eb8104a-0f5f-43e4-ab0b-7017bd23765a.pdf",
+    "description": "World Bank approach paper noting that 1.1 billion of the world's 1.2 billion youth live in the Global South, proposing a policy framework combining vocational training, mentoring, entrepreneurship support, and access to finance for youth employment."
+  },
+  {
+    "title": "Youth Employment in Sub-Saharan Africa",
+    "authors": "Deon Filmer, Louise Fox",
+    "year": 2014,
+    "type": "book",
+    "topic": "Livelihoods",
+    "url": "https://documents1.worldbank.org/curated/en/424011468192529027/pdf/Full-report.pdf",
+    "description": "World Bank Africa Development Series book analyzing youth employment dynamics including the demographic transition, untapped farming opportunities, and youth aspirations in Sub-Saharan Africa, with policy recommendations for improving livelihoods."
+  },
+  {
+    "title": "Youth Aspirations and the Reality of Jobs in Developing Countries: Mind the Gap",
+    "authors": "OECD Development Centre",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.oecd.org/en/publications/youth-aspirations-and-the-reality-of-jobs-in-developing-countries_9789264285668-en.html",
+    "description": "OECD study drawing on school-to-work transition surveys in 32 developing countries, analyzing the gap between youth career aspirations and available job quality, and proposing policies to improve youth employment outcomes."
+  },
+  {
+    "title": "Economics and Emigration: Trillion-Dollar Bills on the Sidewalk?",
+    "authors": "Michael Clemens",
+    "year": 2011,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.files.ethz.ch/isn/132541/file_Clemens_Economics_and_Emigration_FINAL.pdf",
+    "description": "CGD Working Paper demonstrating that barriers to labor mobility from poor countries represent the largest class of distortions in the global economy, with estimated gains from eliminating them ranging from 50-150% of world GDP."
+  },
+  {
+    "title": "International Migration, Remittances, and Household Investment: Evidence from Philippine Migrants' Exchange Rate Shocks",
+    "authors": "Dean Yang",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/system/files/working_papers/w12325/w12325.pdf",
+    "description": "Study exploiting the 1997 Asian financial crisis to show that positive exchange rate shocks to Philippine migrants lead to increased remittances, higher child schooling, reduced child labor, and greater household entrepreneurship in origin communities."
+  },
+  {
+    "title": "Workers' Remittances: An Important and Stable Source of External Development Finance",
+    "authors": "Dilip Ratha",
+    "year": 2003,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3201568",
+    "description": "Pioneering World Bank analysis that brought remittances to global attention, showing they are larger than official aid, counter-cyclical to recipient economies, and represent the second-largest source of external finance for developing countries."
+  },
+  {
+    "title": "Remittances and Poverty in Migrants' Home Areas: Evidence from the Philippines",
+    "authors": "Dean Yang, HwaJung Choi",
+    "year": 2007,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/yangmartinez_poverty.pdf",
+    "description": "Study using exchange rate shocks as natural experiments to show that favorable shocks lead to remittance increases that reduce aggregate poverty rates in Philippine migrant-origin communities."
+  },
+  {
+    "title": "Migration and Development Brief 39",
+    "authors": "KNOMAD, World Bank",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://documents1.worldbank.org/curated/en/099740408142422676/pdf/IDU-84dfd61b-e135-4242-a202-3728b2e8fa86.pdf",
+    "description": "World Bank/KNOMAD brief reporting that remittance flows to LMICs reached $656 billion in 2023, surpassing FDI and ODA, while documenting that global remittance costs remain at 6.2%, more than twice the SDG target of 3%."
+  },
+  {
+    "title": "Investing in Smallholder Agriculture for Food Security",
+    "authors": "HLPE (High Level Panel of Experts on Food Security and Nutrition)",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.fao.org/4/i2953e/i2953e.pdf",
+    "description": "FAO HLPE Report examining smallholder agriculture's contribution to food security across availability, access, utilization, and stability dimensions, noting that 70% of the world's 1.4 billion extremely poor depend partly or completely on agriculture."
+  },
+  {
+    "title": "Smallholders, Food Security, and the Environment",
+    "authors": "IFAD, UNEP",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ifad.org/documents/38714170/39135645/smallholders_report.pdf/133e8903-0204-4e7d-a780-bca847933f2e",
+    "description": "IFAD-UNEP report on smallholders' critical role in food security and environmental sustainability, recommending conservation agriculture and mixed crop-livestock-agroforestry systems to enhance rural livelihoods while protecting biodiversity."
+  },
+  {
+    "title": "The Economic Lives of Smallholder Farmers",
+    "authors": "FAO",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/32709b4d-ed41-4b1e-9d37-91786824cb9e/content",
+    "description": "FAO analytical report using the Smallholder Farmers' DataPortrait to examine economic conditions and livelihood strategies of smallholders across multiple countries, documenting the diversity of income sources and asset levels."
+  },
+  {
+    "title": "Rural Development Report 2021: Transforming Food Systems for Rural Prosperity",
+    "authors": "IFAD",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ifad.org/en/rural-development-report/",
+    "description": "IFAD flagship report finding that 3 billion people live on 500 million small-scale farms in LMICs, producing 30-34% of global food supply, and arguing food systems must be reshaped to provide decent livelihoods for all who grow, process, and market food."
+  },
+  {
+    "title": "Rural Development Report 2019: Creating Opportunities for Rural Youth",
+    "authors": "IFAD",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ifad.org/en/w/publications/2019-rural-development-report",
+    "description": "IFAD report focused on the nearly 1 billion rural youth in developing countries, analyzing how agricultural transformation, rural non-farm activities, and migration create livelihood opportunities for young people."
+  },
+  {
+    "title": "Linking African Smallholders to High-Value Markets",
+    "authors": "Spencer Henson, Steven Jaffee, John Cranfield, Jose Blandon, Paul Siegel",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/6501",
+    "description": "World Bank Policy Research Working Paper analyzing how smallholder access to high-value agricultural markets can diversify livelihoods and reduce rural poverty, examining constraints from farm-level resources, logistics, and transaction costs."
+  },
+  {
+    "title": "Working with Smallholders: A Handbook for Firms Building Sustainable Supply Chains",
+    "authors": "IFC, World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://documents1.worldbank.org/curated/en/284771480330980968/pdf/110543-Handbook-Working-with-Smallholders.pdf",
+    "description": "IFC/World Bank handbook guiding firms on expanding supply chains by working with smallholder farmers, covering approaches to improve productivity, farming practices, and livelihoods through value chain integration in emerging markets."
+  },
+  {
+    "title": "Value Chain Microfinance",
+    "authors": "Lorenzo Casaburi, Jack Willis",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/papers/w32085",
+    "description": "NBER Working Paper studying how provision of financial services within value chain relationships can overcome barriers to financial access for small firms and workers in developing countries, reviewing empirical literature at the intersection of value chains and microfinance."
+  },
+  {
+    "title": "The Impact of Ethiopia's Productive Safety Net Programme and its Linkages",
+    "authors": "Daniel Gilligan, John Hoddinott, Alemayehu Seyoum Taffesse",
+    "year": 2009,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://ideas.repec.org/p/fpr/ifprid/839.html",
+    "description": "IFPRI evaluation of Sub-Saharan Africa's largest social protection program, finding that while the PSNP alone had limited impact due to below-target transfers, combining it with agricultural support packages significantly improved food security and livelihood outcomes."
+  },
+  {
+    "title": "Long-Term Impacts of Conditional Cash Transfers: Review of the Evidence",
+    "authors": "Sarah Baird, Francisco H.G. Ferreira, Berk Ozler, Michael Woolcock",
+    "year": 2019,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://academic.oup.com/wbro/article/34/1/119/5492445",
+    "description": "World Bank Research Observer review of CCT long-term evidence highlighting that while short-term impacts on schooling and health are well-established, long-term effects on livelihoods and adult earnings remain mixed and methodologically challenging to measure."
+  },
+  {
+    "title": "Evaluating the Impact of Conditional Cash Transfer Programs",
+    "authors": "Ariel Fiszbein, Norbert Schady",
+    "year": 2009,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://documents1.worldbank.org/curated/en/175211468331772414/pdf/767450JRN0WBRO00Box374387B00PUBLIC0.pdf",
+    "description": "World Bank analysis of CCT evaluations across Colombia, Honduras, Jamaica, Mexico, Nicaragua, and Turkey, finding clear evidence of success in increasing enrollment, improving preventive health care, and raising household consumption."
+  },
+  {
+    "title": "Enhancing Productivity in the Urban Informal Economy",
+    "authors": "WIEGO (Women in Informal Employment: Globalizing and Organizing)",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.wiego.org/wp-content/uploads/2019/09/WIEGO-productivity-urban-informal-economy.pdf",
+    "description": "WIEGO research report on how cities can support informal workers' livelihoods by providing infrastructure, enabling access to public space, and recognizing the contribution of informal enterprises to urban economies."
+  },
+  {
+    "title": "The Informal Economy and Decent Work: A Policy Resource Guide",
+    "authors": "ILO",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/media/458111/download",
+    "description": "Comprehensive ILO guide presenting strategies for transitioning informal workers to decent work across policy areas including employment, social protection, rights, regulatory frameworks, and equality, recognizing that millions pursue livelihoods in conditions of informality."
+  },
+  {
+    "title": "The Urban Informal Economy: Achieving Prospering and Territorial Equality",
+    "authors": "Martha Alter Chen, Caroline Skinner",
+    "year": 2021,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://gold.uclg.org/sites/default/files/gold_vi_working_paper_05.pdf",
+    "description": "GOLD VI Working Paper documenting that informal employment predominates in urban areas of the Global South, analyzing how urban governance and planning can better support the livelihoods of informal workers and enterprises."
+  },
+  {
+    "title": "Informal Economy and the World Bank",
+    "authors": "World Bank",
+    "year": 2014,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://documents1.worldbank.org/curated/en/416741468332060156/pdf/WPS6888.pdf",
+    "description": "World Bank Policy Research Working Paper examining the Bank's approach to the informal sector, analyzing how informality affects livelihoods and labor market outcomes across developing countries."
+  },
+  {
+    "title": "World Employment and Social Outlook: Trends 2024",
+    "authors": "ILO",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/publications/world-employment-and-social-outlook-trends-2024",
+    "description": "ILO flagship report analyzing global labor market trends, finding that the jobs gap reached 402 million people in 2024, with persistent gender gaps, high youth unemployment at 12.6%, and informal work returning to pre-pandemic levels."
+  },
+  {
+    "title": "Counting and Multidimensional Poverty Measurement",
+    "authors": "Sabina Alkire, James Foster",
+    "year": 2011,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://ophi.org.uk/publication/WP-07",
+    "description": "OPHI Working Paper introducing the Alkire-Foster methodology for multidimensional poverty measurement, enabling assessment of deprivations across health, education, and living standards that underpin livelihood capabilities."
+  },
+  {
+    "title": "Can Social Enterprises Aid Sustainable Development? Evidence from Multi-Stage Investigations",
+    "authors": "Divya Aggarwal, Varun Elembilassery, R. Sujatha",
+    "year": 2023,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281273",
+    "description": "Open-access study examining social enterprises' role in sustainable development in India, finding growth in healthcare, agriculture, education, energy, affordable housing, livelihoods promotion, and financial inclusion sectors."
+  },
+  {
+    "title": "The Rural Non-Farm Economy, Livelihoods and Their Diversification: Issues and Options",
+    "authors": "Junior R. Davis",
+    "year": 2003,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://gala.gre.ac.uk/id/eprint/11683/1/Doc-0300.pdf",
+    "description": "Working paper analyzing how rural populations across Africa, Asia, and Latin America derive 30-50% of income from non-farm activities, examining 55 donor projects and summarizing policy options for supporting livelihood diversification."
+  },
+  {
+    "title": "Growing the Rural Non-Farm Economy to Alleviate Poverty: An IEG Evaluation of World Bank Group Support 2004-2014",
+    "authors": "World Bank Independent Evaluation Group",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://ieg.worldbankgroup.org/evaluations/rural-non-farm-economy",
+    "description": "IEG evaluation of $46.5 billion in World Bank support for rural non-farm activities, finding that poverty-aimed interventions reduced vulnerability but did not generate sufficient sustained income to lift large numbers out of poverty."
+  },
+  {
+    "title": "A Sustainable Livelihoods Framework for the 21st Century",
+    "authors": "Nitya Natarajan, Andrew Newsham, Jonathan Rigg, Diana Suhardiman",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://socialprotection.org/sites/default/files/publications_files/1-s2.0-S0305750X22000882-main.pdf",
+    "description": "World Development paper proposing a reformulation of the classic Sustainable Livelihoods Framework, addressing critiques of theory, method, scale, politics, and decolonizing knowledge while updating the framework for contemporary development challenges."
+  }
+]
