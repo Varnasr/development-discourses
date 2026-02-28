@@ -1,0 +1,4320 @@
+{
+  "checked_at": "2026-02-28T14:21:16Z",
+  "total": 516,
+  "accessible": 350,
+  "broken": 162,
+  "paywalled": 17,
+  "broken_urls": [
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24)00563-1/fulltext",
+    "https://www.science.org/doi/10.1126/science.aah5309",
+    "https://documents1.worldbank.org/curated/en/988811549967967067/pdf/Graduating-the-Poor.pdf",
+    "https://documents1.worldbank.org/curated/en/509091468166152283/pdf/Evaluation-capacity-development-building-country-capacity-for-monitoring-and-evaluation-in-the-public-sector-selected-lessons-of-international-experience.pdf",
+    "https://documents1.worldbank.org/curated/en/175211468331772414/pdf/767450JRN0WBRO00Box374387B00PUBLIC0.pdf",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00007-4/fulltext",
+    "https://www.intrac.org/app/uploads/2017/01/The-Logical-Framework.pdf",
+    "https://evaluation.iom.int/sites/g/files/tmzbdl151/files/documents/Evalcriteria.pdf",
+    "https://www.intrac.org/app/uploads/2017/01/Gender-responsive-evaluation.pdf",
+    "https://documents1.worldbank.org/curated/en/424011468192529027/pdf/Full-report.pdf",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60792-3/abstract",
+    "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2019/Discussion-paper-Effect-of-cash-based-interventions-on-gender-outcomes-en.pdf",
+    "https://academic.oup.com/wbro/article/34/1/119/5492445",
+    "https://documents1.worldbank.org/curated/en/099548206152339098/pdf/IDU124d2b624145531468a1a4d418173bf51a4fd.pdf",
+    "https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2011/hosein_201109/",
+    "https://dspace.mit.edu/handle/1721.1/82663",
+    "https://journals.sagepub.com/doi/full/10.1177/15586898211032825",
+    "https://www.irena.org/publications/2022/Sep/Renewable-Energy-Outlook-for-ASEAN-2nd-edition",
+    "https://documents1.worldbank.org/curated/en/578241468113934520/pdf/906000v10PUB0E00Box385314B00PUBLIC0.pdf",
+    "https://documents1.worldbank.org/curated/en/732501468741681923/pdf/multi0page.pdf",
+    "https://www.researchgate.net/publication/11391586_Intimate_Partner_Violence_Causes_and_Prevention",
+    "https://www.earth.columbia.edu/news/2005/images/lancet012205.pdf",
+    "https://documents1.worldbank.org/curated/en/099740408142422676/pdf/IDU-84dfd61b-e135-4242-a202-3728b2e8fa86.pdf",
+    "https://dspace.mit.edu/bitstream/handle/1721.1/95969/Duflo_Estimating%20the.pdf",
+    "https://documents1.worldbank.org/curated/en/135731520343670750/pdf/WPS8360.pdf",
+    "https://www.usaid.gov/sites/default/files/2022-05/Evaluation_Policy_Update_OCT2020_Final.pdf",
+    "https://documents1.worldbank.org/curated/en/390771468771327388/pdf/wps3516.pdf",
+    "https://documents1.worldbank.org/curated/en/449711468762020101/pdf/28102.pdf",
+    "https://www.researchgate.net/publication/258136936_Monitoring_evaluation_and_performance_management_in_South_Asia_The_challenge_of_building_capacity",
+    "https://www.tandfonline.com/doi/full/10.1080/19452829.2018.1536696",
+    "https://documents1.worldbank.org/curated/en/693621468155368608/pdf/767890JRN0WBRO00Box374387B00PUBLIC0.pdf",
+    "https://www.sciencedirect.com/science/article/pii/S0277953617307359",
+    "https://documents1.worldbank.org/curated/en/862091571145787913/pdf/Integrating-Value-for-Money-and-Impact-Evaluations-Issues-Institutions-and-Opportunities.pdf",
+    "https://dspace.mit.edu/bitstream/handle/1721.1/104069/Olken_Promises%20and%20perils.pdf",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30385-1/fulltext",
+    "https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf",
+    "https://pubdocs.worldbank.org/en/655801461250682317/WDR16-BP-Aadhaar-Paper-Banerjee.pdf",
+    "https://www.unwomen.org/en/digital-library/publications/2003/1/budgeting-for-equity-gender-budget-initiatives-within-a-framework-of-performance-oriented-budgeting",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754",
+    "https://openknowledge.fao.org/items/1516eb79-8b43-400e-b3cb-130fd70853b0",
+    "https://opendocs.ids.ac.uk/articles/report/Sustainable_Rural_Livelihoods_A_Framework_for_Analysis/26473384",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(13)70074-3/fulltext",
+    "https://www.iea.org/reports/net-zero-by-2050",
+    "https://www.intrac.org/app/uploads/2017/01/Participatory-evaluation.pdf",
+    "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2023/Jun/IRENA_World_energy_transitions_outlook_2023.pdf",
+    "https://documents1.worldbank.org/curated/en/349441468761683659/pdf/wps3353.pdf",
+    "https://climatestrategies.org/wp-content/uploads/2022/05/Exploring-Just-Transition-in-the-Global-South_FINAL.pdf",
+    "https://www.worldbank.org/en/topic/socialsustainability/publication/investing-in-a-research-revolution-for-lgbti-inclusion",
+    "https://www.science.org/doi/10.1126/science.aaf0918",
+    "https://openknowledge.fao.org/server/api/core/bitstreams/32709b4d-ed41-4b1e-9d37-91786824cb9e/content",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(25)00178-0/fulltext",
+    "https://direct.mit.edu/books/oa-monograph/4457/Digital-Entrepreneurship-in-AfricaHow-a-Continent",
+    "https://www.researchgate.net/publication/5130584_Evaluating_the_'logical_framework_approach'_towards_learning-oriented_development_evaluation",
+    "https://eprints.lse.ac.uk/103880/1/Kabeer_womens_empowerment_and_economic_development_published.pdf",
+    "https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(24)00113-6/fulltext",
+    "https://documents1.worldbank.org/curated/en/527261468035379692/pdf/940400WP0Box380usion0of0LGBT0People.pdf",
+    "https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(23)00173-7/fulltext",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24)00118-9/fulltext",
+    "https://documents1.worldbank.org/curated/en/099021125104529845/pdf/P506693-6eb8104a-0f5f-43e4-ab0b-7017bd23765a.pdf",
+    "https://www.researchgate.net/publication/24091997_Obtaining_a_Driver's_License_in_India_An_Experimental_Approach_to_Studying_Corruption",
+    "https://www.mdpi.com/2227-7102/12/4/236",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31612-X/abstract",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00172-6/fulltext",
+    "https://carnegieendowment.org/research/2020/11/cross-border-data-access-for-law-enforcement-what-are-indias-strategic-options",
+    "https://documents1.worldbank.org/curated/en/402971468742181082/pdf/11640279780Evaluation.pdf",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00468-0/fulltext",
+    "https://thedocs.worldbank.org/en/doc/433301485539630301-0050022017/original/WDR17BPEvolutionofWBThinkingonGovernance.pdf",
+    "https://docs.euromedwomen.foundation/files/ermwf-documents/6690_3.43.genderequalityandeconomicgrowth.pdf",
+    "http://pooreconomics.com/",
+    "https://documents1.worldbank.org/curated/en/234591468331456170/pdf/691280WP0P11290utions0in0adaptation.pdf",
+    "https://www.intrac.org/app/uploads/2017/01/Adaptive-management.pdf",
+    "https://documents1.worldbank.org/curated/en/104761468315569641/pdf/wps3625.pdf",
+    "https://dspace.mit.edu/handle/1721.1/97047",
+    "https://economics.mit.edu/sites/default/files/publications/Inequality%20and%20Growth%20What%20Can%20the%20Data%20Say.pdf",
+    "https://socialprotection.org/sites/default/files/publications_files/1-s2.0-S0305750X22000882-main.pdf",
+    "https://journals.sagepub.com/doi/full/10.1177/1460458220937102",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61960-5/abstract",
+    "https://unsdg.un.org/sites/default/files/UNDG-RBM-Handbook-2012.pdf",
+    "https://www.researchgate.net/publication/264332702_Africa's_Statistical_Tragedy",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1749882",
+    "https://documents1.worldbank.org/curated/en/807301608106175575/pdf/Promoting-Female-Labor-Force-Participation.pdf",
+    "https://www.science.org/doi/10.1126/science.aac4420",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61894-6/abstract",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3038666",
+    "https://documents1.worldbank.org/curated/en/350401468157768465/pdf/wps4620.pdf",
+    "https://www.intrac.org/app/uploads/2017/01/Beneficiary-Feedback-Mechanisms.pdf",
+    "https://www.tandfonline.com/doi/full/10.1080/14693062.2022.2112935",
+    "https://documents1.worldbank.org/curated/en/411821468313779505/pdf/574900WP0Box351BLIC10nonie1guidance.pdf",
+    "https://openknowledge.fao.org/handle/20.500.14283/cc3017en",
+    "https://documents1.worldbank.org/curated/en/610771513691888412/pdf/WPS8284.pdf",
+    "https://documents1.worldbank.org/curated/en/859901468259751360/pdf/934490WP00PUBL0onitoring0Corruption.pdf",
+    "https://documents1.worldbank.org/curated/en/852691468140377416/pdf/wps3618.pdf",
+    "https://www.unwomen.org/en/digital-library/progress-of-the-worlds-women",
+    "https://www.science.org/doi/10.1126/science.aah5217",
+    "https://archive.org/details/amartya-kumar-sen-development-as-freedom-alfred-a.-knopf-inc.-2000",
+    "https://www.sciencedirect.com/science/article/pii/S2212096321001224",
+    "https://www.thelancet.com/article/S0140-6736(20)32228-5/fulltext",
+    "https://documents1.worldbank.org/curated/en/906091469456194816/pdf/WPS7761.pdf",
+    "https://www.intrac.org/app/uploads/2016/06/Monitoring-and-Evaluation-Series-Theory-of-Change-16.pdf",
+    "http://web.undp.org/evaluation/documents/handbook/me-handbook.pdf",
+    "https://www.unescap.org/sites/default/files/Measuring%20the%20Digital%20Divide%20in%20the%20Asia-Pacific%20Region%20for%20the%20United%20Nations%20Economic%20and%20Social%20Commission%20for%20Asia%20and%20the%20Pacific_0.pdf",
+    "https://documents1.worldbank.org/curated/en/099249204052228866/pdf/IDU0333e60f901267045600be83093783b77e67a.pdf",
+    "https://documents1.worldbank.org/curated/en/233811493218846386/pdf/WPS8044.pdf",
+    "https://www.tandfonline.com/doi/full/10.1080/14693062.2018.1501329",
+    "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.710641",
+    "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00025-0/fulltext",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32174-7/fulltext",
+    "https://www.fao.org/publications/card/en/c/18679629-67bd-4030-818c-35b206d03f34/",
+    "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00279-7/fulltext",
+    "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2020/Good-practices-in-gender-responsive-evaluations-en.pdf",
+    "https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(19)30273-1/fulltext",
+    "https://www.mdpi.com/2225-1154/11/3/74",
+    "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.287",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00394-9/abstract",
+    "https://journals.sagepub.com/doi/10.1177/2053951716679679",
+    "https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0360",
+    "https://doi.org/10.1093/ooenergy/oiae006",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01822-1/abstract",
+    "https://dspace.mit.edu/handle/1721.1/63662",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00358-3/fulltext",
+    "https://www.irena.org/Publications/2023/Jul/Socio-economic-footprint-of-the-energy-transition-Southeast-Asia",
+    "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2019/Gender-equality-and-inclusive-growth-en.pdf",
+    "https://iris.who.int/handle/10665/43309",
+    "https://www.semanticscholar.org/paper/Occupational-Choice-and-the-Process-of-Development-Banerjee-Newman/eda5d294095203e42649c3c477e4b05dfad85150",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=632656",
+    "https://documents1.worldbank.org/curated/en/318541559339293802/pdf/Poverty-Estimation-with-Satellite-Imagery-at-Neighborhood-Levels-Results-and-Lessons-for-Financial-Inclusion-from-Ghana-and-Uganda.pdf",
+    "https://documents1.worldbank.org/curated/en/497471468007259434/pdf/774740JRN020040UBLIC00Ghost0Doctors.pdf",
+    "https://documents1.worldbank.org/curated/en/945551551887112580/pdf/The-Nutrition-Sensitivity-of-Food-and-Agriculture-in-South-Asia.pdf",
+    "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)60996-4/abstract",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=920487",
+    "https://documents1.worldbank.org/curated/en/606871468139500265/pdf/wps3603.pdf",
+    "https://openknowledge.worldbank.org/handle/10986/4391",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30077-4/fulltext",
+    "https://iris.who.int/handle/10665/43949",
+    "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.711765",
+    "https://eprints.lse.ac.uk/89511/1/Couldry_Data-colonialism_Accepted.pdf",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0959378006000422",
+    "https://www.researchgate.net/publication/223039556_Gender_Inequality_and_Economic_Growth_A_Cross-Country_Analysis",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3045235",
+    "https://www.science.org/doi/abs/10.1126/science.aaf7894",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30545-3/fulltext",
+    "https://documents1.worldbank.org/curated/en/916871468766156239/pdf/multi-page.pdf",
+    "https://www.researchgate.net/publication/322618157_Civic_Tech_in_the_Global_South_Assessing_Technology_for_the_Public_Good",
+    "https://www.tandfonline.com/doi/full/10.1080/21683565.2022.2138674",
+    "https://www.intrac.org/app/uploads/2017/01/Most-significant-change.pdf",
+    "https://scholar.harvard.edu/files/kremer/files/missing_in_action_jep_2006_to_post.pdf",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1372961",
+    "https://documents1.worldbank.org/curated/en/915281468330944384/pdf/WPS6835.pdf",
+    "https://www.unwomen.org/en/digital-library/publications/2015/4/progress-of-the-worlds-women-2015",
+    "https://www.mdpi.com/2071-1050/16/22/9888",
+    "https://www.unwomen.org/sites/default/files/2022-05/UN-Women-Evaluation-Handbook-2022-en.pdf",
+    "https://ia801506.us.archive.org/27/items/WhyNationsFailTheOriginsODaronAcemoglu/Why-Nations-Fail_-The-Origins-o-Daron-Acemoglu.pdf",
+    "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3201568",
+    "https://www.mdpi.com/2071-1050/13/17/9616",
+    "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30416-4/fulltext",
+    "https://documents1.worldbank.org/curated/en/099020824141510923/pdf/P176341192f2c50e11bc5619be95c4fb2ed.pdf",
+    "https://docs.iza.org/dp1588.pdf",
+    "https://www.apc.org/en/pubs/global-information-society-watch-2019-artificial-intelligence-human-rights-social-justice-and",
+    "https://docs.iza.org/dp2934.pdf",
+    "https://scholar.harvard.edu/files/rpande/files/the_personnel_economics_of_the_developing_state.pdf",
+    "https://openknowledge.worldbank.org/handle/10986/5988",
+    "https://scholar.harvard.edu/files/goldin/files/goldin_aeapress_2014_1.pdf"
+  ],
+  "paywalled_urls": [
+    "https://academic.oup.com/wbro/article/34/1/119/5492445",
+    "https://journals.sagepub.com/doi/full/10.1177/15586898211032825",
+    "https://link.springer.com/article/10.1186/s12916-024-03417-9",
+    "https://link.springer.com/article/10.1007/s10113-022-01947-7",
+    "https://www.tandfonline.com/doi/full/10.1080/19452829.2018.1536696",
+    "https://www.sciencedirect.com/science/article/pii/S0277953617307359",
+    "https://www.cambridge.org/core/journals/data-and-policy/article/revisiting-the-assumptions-of-the-data-revolution-as-an-accelerator-of-the-sustainable-development-goals/75A319700CDC17C4F74C5DD551B89C3B",
+    "https://journals.sagepub.com/doi/full/10.1177/1460458220937102",
+    "https://www.tandfonline.com/doi/full/10.1080/14693062.2022.2112935",
+    "https://www.sciencedirect.com/science/article/pii/S2212096321001224",
+    "https://link.springer.com/article/10.1186/s12992-024-01066-4",
+    "https://www.tandfonline.com/doi/full/10.1080/14693062.2018.1501329",
+    "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.710641",
+    "https://journals.sagepub.com/doi/10.1177/2053951716679679",
+    "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.711765",
+    "https://www.sciencedirect.com/science/article/abs/pii/S0959378006000422",
+    "https://www.tandfonline.com/doi/full/10.1080/21683565.2022.2138674"
+  ],
+  "details": [
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24)00563-1/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://arxiv.org/abs/1808.05293",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001731",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10084872/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/science.aah5309",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6876673/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/988811549967967067/pdf/Graduating-the-Poor.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/media/5c6eb1ce40f0b647aa1b6eb3/Improving.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.worldbank.org/en/research/publication/making-politics-work-for-development",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.cgap.org/sites/default/files/graduation_guide_final.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/509091468166152283/pdf/Evaluation-capacity-development-building-country-capacity-for-monitoring-and-evaluation-in-the-public-sector-selected-lessons-of-international-experience.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320420",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.cgdev.org/publication/identification-development-biometrics-revolution-working-paper-315",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/175211468331772414/pdf/767450JRN0WBRO00Box374387B00PUBLIC0.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/sea-he-190",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.measureevaluation.org/resources/publications/fs-17-217/at_download/document",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00007-4/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002645",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.intrac.org/app/uploads/2017/01/The-Logical-Framework.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/collections/5cd4b6f6-94bb-5996-b00c-58be279093de",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282717",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/c9f76e5b-ac70-50c0-ac1e-aec104bff356/content",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://evaluation.iom.int/sites/g/files/tmzbdl151/files/documents/Evalcriteria.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.intrac.org/app/uploads/2017/01/Gender-responsive-evaluation.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://gsb-faculty.stanford.edu/katherine-casey/files/2022/04/casey_cdd_are_vol10_all.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/publications/The%20Economic%20Lives%20of%20the%20Poor.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.cgdev.org/sites/default/files/blockchain-and-economic-development-hype-vs-reality_0.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://emiguel.econ.berkeley.edu/wordpress/wp-content/uploads/2021/03/Paper__Worms.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w19813/w19813.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/424011468192529027/pdf/Full-report.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60792-3/abstract",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w33264/w33264.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/30394",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/6ef4d16d-2c33-5bf5-bf8c-a573db04dc81",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://library.oapen.org/handle/20.500.12657/60765",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/server/api/core/bitstreams/a5ba3e00-5582-5e7e-8d3d-74bb35cd1d3b/content",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://eml.berkeley.edu/~webfac/bardhan/papers/BardhanGovt.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.guttmacher.org/report/adding-it-up-investing-in-sexual-reproductive-health-2019",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://dash.harvard.edu/bitstream/handle/1/4449106/Pritchett%20India%20Flailing%20State.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://dash.harvard.edu/server/api/core/bitstreams/7312037c-648f-6bd4-e053-0100007fdf3b/content",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.unep.org/resources/adaptation-gap-report-2023",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.cgdev.org/publication/costing-data-revolution",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2019/Discussion-paper-Effect-of-cash-based-interventions-on-gender-outcomes-en.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://academic.oup.com/wbro/article/34/1/119/5492445",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://openair.africa/wp-content/uploads/2024/12/WP-29-Rizk-Schonwetter-Governance-of-Data-and-Data-driven-Technology.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/099548206152339098/pdf/IDU124d2b624145531468a1a4d418173bf51a4fd.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2011/hosein_201109/",
+      "status": 503,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://dspace.mit.edu/handle/1721.1/82663",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/entities/publication/2c9150df-52c3-58ed-9075-d78ea56c3267",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/15586898211032825",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://www.irena.org/publications/2022/Sep/Renewable-Energy-Outlook-for-ASEAN-2nd-edition",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/papers/w22443",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ilo.org/media/458111/download",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.oecd.org/development/evaluation/dcdndep/31950852.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://www.oecd.org/en/topics/policy-areas/development.html",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/578241468113934520/pdf/906000v10PUB0E00Box385314B00PUBLIC0.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8428058/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/732501468741681923/pdf/multi0page.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.researchgate.net/publication/11391586_Intimate_Partner_Violence_Causes_and_Prevention",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.findevgateway.org/sites/default/files/publications/files/mfg-en-paper-crafting-a-graduation-pathway-for-the-ultra-poor-lessons-and-evidence-from-a-brac-programme-mar-2008.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281273",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/entities/publication/853a55af-f1ba-4979-949c-61979af2fbb9",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237519",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.earth.columbia.edu/news/2005/images/lancet012205.pdf",
+      "status": 503,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11459319/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/099740408142422676/pdf/IDU-84dfd61b-e135-4242-a202-3728b2e8fa86.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://link.springer.com/article/10.1186/s12916-024-03417-9",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://link.springer.com/article/10.1186/s12916-024-03417-9?error=cookies_not_supported&code=6b37fe76-7150-49f4-96fc-cc764155d4ba",
+      "likely_paywalled": true,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/11860",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/2cf3c588-748b-56a6-9a2a-f3141b879d53",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w12325/w12325.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://dspace.mit.edu/bitstream/handle/1721.1/95969/Duflo_Estimating%20the.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.betterevaluation.org/sites/default/files/2021-11/MandE_for_Adaptive_Management_WP2_What_Is_AM_&_how_does_it_work_202009.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.worldbank.org/en/region/sar/publication/responsive-by-design-building-adaptive-social-protection-systems-in-south-asia",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/t0333/t0333.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/publications/Six%20Randomized%20Evaluations%20of%20Microcredit.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/135731520343670750/pdf/WPS8360.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.wider.unu.edu/publication/poverty-inequality-and-growth-trends-policies-and-controversies",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://asiapacific.unfpa.org/sites/default/files/pub-pdf/unfpa_gbv_and_disability_inclusion_final_august_11.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.undrr.org/publication/south-asia-disaster-risk-management-programme-synthesis-report-sar-countries-disaster",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/s10113-022-01947-7",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://link.springer.com/article/10.1007/s10113-022-01947-7?error=cookies_not_supported&code=bc6ee09e-ed4b-4de0-9336-633dd3f9ebd8",
+      "likely_paywalled": true,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198749",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.robertcostanza.com/wp-content/uploads/2017/02/1997_J_Costanza_Nature.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.aeaweb.org/articles?id=10.1257/000282803769206232",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.openedition.org/samaj/pdf/4574",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.usaid.gov/sites/default/files/2022-05/Evaluation_Policy_Update_OCT2020_Final.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w18950/w18950.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/390771468771327388/pdf/wps3516.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.un.org/esa/desa/papers/2020/wp163_2020.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/449711468762020101/pdf/28102.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.researchgate.net/publication/258136936_Monitoring_evaluation_and_performance_management_in_South_Asia_The_challenge_of_building_capacity",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w18538/revisions/w18538.rev0.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/07/aggregate-trends-of-climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2020_d1d90868/d28f963c-en.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/2022-12/Why%20do%20people%20stay%20poor.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ifad.org/en/w/publications/2019-rural-development-report",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.unep.org/resources/emissions-gap-report-2023",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.3ieimpact.org/sites/default/files/2019-01/wp28-egm.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w32197/w32197.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.princeton.edu/~deaton/downloads/deaton%20instruments%20randomization%20learning%20about%20development%20jel%202010.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19452829.2018.1536696",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.un.org/womenwatch/daw/csw/csw56/egm/Rao-EP-3-EGM-RW-30Sep-2011.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/693621468155368608/pdf/767890JRN0WBRO00Box374387B00PUBLIC0.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w22167/w22167.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/policy-insight/vocational-and-skills-training-programs-improve-labor-market-outcomes",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001668",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://desapublications.un.org/sites/default/files/publications/2022-09/Web%20version%20E-Government%202022.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9194352/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0277953617307359",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://www.ciedur.org.uy/adm/archivos/publicacion_197.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://gca.org/reports/adapt-now-a-global-call-for-leadership-on-climate-resilience/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.fao.org/4/i2953e/i2953e.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/t0107/t0107.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/2022-08/Women%20as%20Policy%20Makers%20Evidence%20from%20a%20Randomized.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://library.oapen.org/handle/20.500.12657/39429",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.princeton.edu/~davidlee/wp/RDDEconomics.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/862091571145787913/pdf/Integrating-Value-for-Money-and-Impact-Evaluations-Issues-Institutions-and-Opportunities.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.3ieimpact.org/sites/default/files/2018-05/3ie_impact_evaluation_practice.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/262891632949399367/world-bank-group-climate-change-action-plan-2021-2025-south-asia-roadmap",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://dspace.mit.edu/bitstream/handle/1721.1/104069/Olken_Promises%20and%20perils.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30385-1/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf",
+      "status": 202,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://pubdocs.worldbank.org/en/655801461250682317/WDR16-BP-Aadhaar-Paper-Banerjee.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.unwomen.org/en/digital-library/publications/2003/1/budgeting-for-equity-gender-budget-initiatives-within-a-framework-of-performance-oriented-budgeting",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/6851",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/7b09c6e8-0572-5355-84e1-b43a8c53e63e",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.adb.org/sites/default/files/publication/27616/outcome-mapping.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://sites.lsa.umich.edu/deanyang/wp-content/uploads/sites/205/2014/12/yangmartinez_poverty.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/3403",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/a0e704ad-8255-55eb-b22b-8bd5eb045609",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nature.com/articles/s41599-024-02847-3",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://www.nature.com/articles/s41599-024-02847-3?error=cookies_not_supported&code=fb10a8e2-a4b4-481d-b1ea-4b926616bad7",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/9789240080379",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/data-and-policy/article/revisiting-the-assumptions-of-the-data-revolution-as-an-accelerator-of-the-sustainable-development-goals/75A319700CDC17C4F74C5DD551B89C3B",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": true
+    },
+    {
+      "url": "https://www.adb.org/publications/gender-equality-social-inclusion-south-asia",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w10498/w10498.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ipcc.ch/sr15/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.oxfam.org/en/research/time-care",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.fao.org/items/1516eb79-8b43-400e-b3cb-130fd70853b0",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://opendocs.ids.ac.uk/articles/report/Sustainable_Rural_Livelihoods_A_Framework_for_Analysis/26473384",
+      "status": 202,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://macartan.github.io/assets/pdf/papers/2015_reflections_ethics.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(13)70074-3/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w19402/w19402.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.betterevaluation.org/sites/default/files/Outcome_Mapping_Building_Learning_and_Reflection_into_Development_Programs.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.iea.org/reports/net-zero-by-2050",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.who.int/docs/default-source/wpro---documents/health-topics/nutrition/210118-fao-panorama-report-2020-3.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/2022-09/Risk%20and%20Insurance%20in%20Village%20India.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://macartan.github.io/assets/pdf/papers/2009_field_experiments.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://hdr.undp.org/content/human-development-report-2021-22",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://mixtape.scunning.com/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://people.utm.my/uzairiah/wp-content/blogs.dir/1541/files/2016/11/Qualitative-Research-2006-Bryman-97-113.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.intrac.org/app/uploads/2017/01/Participatory-evaluation.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.oecd.org/en/publications/youth-aspirations-and-the-reality-of-jobs-in-developing-countries_9789264285668-en.html",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2023/Jun/IRENA_World_energy_transitions_outlook_2023.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.ids.ac.uk/publications/sustainable-rural-livelihoods-practical-concepts-for-the-21st-century/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/349441468761683659/pdf/wps3353.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://climatestrategies.org/wp-content/uploads/2022/05/Exploring-Just-Transition-in-the-Global-South_FINAL.pdf",
+      "status": 202,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w19210/w19210.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.worldbank.org/en/topic/socialsustainability/publication/investing-in-a-research-revolution-for-lgbti-inclusion",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w25018/w25018.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w17702/w17702.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/science.aaf0918",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.fao.org/server/api/core/bitstreams/32709b4d-ed41-4b1e-9d37-91786824cb9e/content",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(25)00178-0/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://direct.mit.edu/books/oa-monograph/4457/Digital-Entrepreneurship-in-AfricaHow-a-Continent",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/@dgreports/@dcomm/@publ/documents/publication/wcms_650553.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://drodrik.scholars.harvard.edu/sites/g/files/omnuum7106/files/dani-rodrik/files/goodbye_washington_consensus_.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.researchgate.net/publication/5130584_Evaluating_the_'logical_framework_approach'_towards_learning-oriented_development_evaluation",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/416741468332060156/pdf/WPS6888.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://erc.undp.org/pdf/UNDP_Evaluation_Guidelines.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w14693/w14693.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ilo.org/media/403131/download",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.measureevaluation.org/resources/publications/fs-16-170-en/at_download/document",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w19983/w19983.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://eprints.lse.ac.uk/103880/1/Kabeer_womens_empowerment_and_economic_development_published.pdf",
+      "status": 503,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(24)00113-6/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4897585/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w22989/w22989.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/2597",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/db93c3fe-1810-5834-a9da-c1386caa0323",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004166",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.kentarotoyama.org/papers/Toyama%202011%20iConference%20-%20Technology%20as%20Amplifier.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://gala.gre.ac.uk/id/eprint/11683/1/Doc-0300.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://carnegie-production-assets.s3.amazonaws.com/static/files/IPFpre_pubSukhtankarVaishnav.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ifad.org/documents/38714170/39135645/smallholders_report.pdf/133e8903-0204-4e7d-a780-bca847933f2e",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/527261468035379692/pdf/940400WP0Box380usion0of0LGBT0People.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(23)00173-7/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.lse.ac.uk/granthaminstitute/publication/the-economics-of-climate-change-the-stern-review/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://wdr2021.worldbank.org/the-report/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w32450/w32450.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/32677",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/30d427b7-b1e4-5e37-9225-c7358492e057",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11800725/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://gca.org/reports/state-and-trends-in-climate-adaptation-finance-2023/",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://gca.org/reports/state-and-trends-in-climate-adaptation-finance-2024/",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.adb.org/sites/default/files/publication/900681/framework-integrating-gesi-adb-south-asia-operations.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/19915",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/fc44b02d-5e31-5e73-9aa1-0dbf2623833f",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/22787",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/cc42cb9b-3f8e-5bf3-bba3-2cce3b0793ac",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://web.stanford.edu/class/comm1a/readings/jensen-digital-divide.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(24)00118-9/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/099021125104529845/pdf/P506693-6eb8104a-0f5f-43e4-ab0b-7017bd23765a.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.researchgate.net/publication/24091997_Obtaining_a_Driver's_License_in_India_An_Experimental_Approach_to_Studying_Corruption",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.mdpi.com/2227-7102/12/4/236",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents.worldbank.org/curated/en/919841468779409824/The-political-economy-of-public-expenditures",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/919841468779409824/the-political-economy-of-public-expenditures",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ipcc.ch/report/ar6/wg3/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31612-X/abstract",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.copasah.org/uploads/1/2/6/4/12642634/realistic_evaluationpawson.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6019115/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326130",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w7766/w7766.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00172-6/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/25880",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/85b1c626-91c8-5a31-a82b-e24bb4c981f0",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://carnegieendowment.org/research/2020/11/cross-border-data-access-for-law-enforcement-what-are-indias-strategic-options",
+      "status": 500,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://eulacfoundation.org/system/files/digital_library/2023-07/bridging-the-digital-gender-divide.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.unfpa.org/sowp-2021",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003651",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://poverty-action.org/sites/default/files/publications/experimental_approach_to_economics.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/402971468742181082/pdf/11640279780Evaluation.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00468-0/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.adb.org/sites/default/files/publication/840296/decentralization-governance-localizing-sdgs-asia-pacific.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w13028/w13028.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7607465/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/publications/institutions-as-the-fundamental-cause-of-long-run-.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://thedocs.worldbank.org/en/doc/433301485539630301-0050022017/original/WDR17BPEvolutionofWBThinkingonGovernance.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://ideas.repec.org/p/fpr/ifprid/839.html",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://docs.euromedwomen.foundation/files/ermwf-documents/6690_3.43.genderequalityandeconomicgrowth.pdf",
+      "status": 503,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "http://pooreconomics.com/",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.adb.org/sites/default/files/publication/970411/gender-equality-disability-inclusion-guidelines.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://sites.duke.edu/ericafield/files/2018/02/FieldPande-JEEA2008.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://escholarship.org/uc/item/3g72r0zv",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://ophi.org.uk/publication/WP-07",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w13367/w13367.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/entities/publication/c7755269-fa9d-5a07-9471-4ea35492b1d9",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/234591468331456170/pdf/691280WP0P11290utions0in0adaptation.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/380435/Evaluation-Strategy-June2014a.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w26661/w26661.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/sites/default/files/research-paper/487%20Attanasio%20et%20al%20Mongolia%20Jan2015.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://opendatabarometer.org/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.brookings.edu/wp-content/uploads/1995/01/1995a_bpea_sachs_warner_aslund_fischer.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.intrac.org/app/uploads/2017/01/Adaptive-management.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w26167/w26167.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.lse.ac.uk/economics/Assets/Documents/personal-pages/tim-besley/data/land-reform-poverty-reduction-growth.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://conference.nber.org/confer/2005/POLs05/khwaja.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/entities/publication/f9218828-bddb-5442-8a71-832ce44121e1",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.wiego.org/wp-content/uploads/2019/09/WIEGO-productivity-urban-informal-economy.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://emiguel.econ.berkeley.edu/assets/miguel_research/8/_Paper__Reshaping_Institutions_-_Evidence__on__Aid__Impacts__Using__a__Pre___Analysis__Plan.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.openedition.org/samaj/6279",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w32848/w32848.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w19999/w19999.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://ideas.repec.org/p/nbr/nberwo/25298.html",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/104761468315569641/pdf/wps3625.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w33756/w33756.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.econstor.eu/handle/10419/26969",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://chrisblattman.com/documents/research/2014.GeneratingSkilledEmployment.QJE.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://dspace.mit.edu/handle/1721.1/97047",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://practicalactionpublishing.com/book/2388/whose-reality-counts",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9540088/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/134341561467884789/pdf/The-Impact-of-Mobile-Money-on-Poor-Rural-Households-Experimental-Evidence-from-Uganda.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/publications/Inequality%20and%20Growth%20What%20Can%20the%20Data%20Say.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://resources.unsdsn.org/data-for-development-a-needs-assessment-for-sdg-monitoring-and-statistical-capacity-development",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://www.unsdsn.org/resources/",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/entities/publication/58f2a409-9bb7-4ee6-899d-be47835c838f",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://oro.open.ac.uk/98476/1/98476.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w29163/w29163.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://socialprotection.org/sites/default/files/publications_files/1-s2.0-S0305750X22000882-main.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w12831/w12831.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/resource/pre-analysis-plans",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://data.unicef.org/wp-content/uploads/2023/05/Profile_of_child_marriage_in_South_Asia.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w21036/w21036.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w10324/w10324.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/resource/quick-guide-power-calculations",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.betterevaluation.org/sites/default/files/Quasi-Experimental_Design_and_Methods_ENG.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.betterevaluation.org/sites/default/files/2012-Causal-Inference-BB-February-26.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://cgspace.cgiar.org/items/fdcce0f6-ad3b-4d8a-9b7f-8d1c7c820405",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/entities/publication/ebbe3565-69ff-5fe2-b65d-11329cf45293",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7575201/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/1460458220937102",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://econ.lse.ac.uk/staff/rburgess/wp/jep11.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61960-5/abstract",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.ifad.org/en/rural-development-report/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.aspeninstitute.org/wp-content/uploads/2018/02/Mayne12-CAComingofAge.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/545261468762332986/pdf/399950PAPER0Lo10082136937701PUBLIC1.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://unsdg.un.org/sites/default/files/UNDG-RBM-Handbook-2012.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.researchgate.net/publication/264332702_Africa's_Statistical_Tragedy",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1749882",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/807301608106175575/pdf/Promoting-Female-Labor-Force-Participation.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://ophi.org.uk/publication/RP-35a",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/science.aac4420",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://wol.iza.org/articles/female-labor-force-participation-in-developing-countries/long",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.files.ethz.ch/isn/132541/file_Clemens_Economics_and_Emigration_FINAL.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61894-6/abstract",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://eml.berkeley.edu/~saez/atkinson-piketty-saezJEL10.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3038666",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://econweb.ucsd.edu/~pniehaus/papers/experimentation_at_scale.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/350401468157768465/pdf/wps4620.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.3ieimpact.org/sites/default/files/2019-01/Working_Paper_1.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://rsdjournal.org/index.php/rsd/article/view/4183",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/sites/default/files/research-paper/Using-Randomization-in-Development-Economics.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.unescap.org/sites/default/files/Book-Review-7-Jul-2012.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.intrac.org/app/uploads/2017/01/Beneficiary-Feedback-Mechanisms.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w26744/w26744.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.fao.org/4/a0297e/a0297e08.htm",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/14693062.2022.2112935",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1816020116",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w20380/w20380.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://ieg.worldbankgroup.org/sites/default/files/Data/Evaluation/files/20220908_poverty_mapping_v1_0.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.undrr.org/gar/gar2022-our-world-risk-gar",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/411821468313779505/pdf/574900WP0Box351BLIC10nonie1guidance.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.ilo.org/sites/default/files/2024-09/WSPR_2024_Asia_and_Pacific_EN_WEB.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045679",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.fao.org/handle/20.500.14283/cc3017en",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/5986",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/c7755269-fa9d-5a07-9471-4ea35492b1d9",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://webfoundation.org/docs/2019/03/Africa-data-revolution-report.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/610771513691888412/pdf/WPS8284.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://ajic.wits.ac.za/article/view/18883",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/859901468259751360/pdf/934490WP00PUBL0onitoring0Corruption.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/852691468140377416/pdf/wps3618.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.unwomen.org/en/digital-library/progress-of-the-worlds-women",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nybooks.com/articles/1990/12/20/more-than-100-million-women-are-missing/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://icai.independent.gov.uk/wp-content/uploads/DFIDs-approach-to-value-for-money-ICAI-review.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.science.org/doi/10.1126/science.aah5217",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000381137",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://archive.org/details/amartya-kumar-sen-development-as-freedom-alfred-a.-knopf-inc.-2000",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/397341618464915700/pdf/Public-Financial-Management-Reforms-in-Post-Conflict-Countries-Synthesis-Report.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2212096321001224",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://www.thelancet.com/article/S0140-6736(20)32228-5/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.unicef.org/rosa/media/4251/file/Child%20Marriage%20Evidence%20Review_Web.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.academia.edu/573583/Rural_Credit_Programs_and_Womens_Empowerment_In_Bangladesh",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/906091469456194816/pdf/WPS7761.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://link.springer.com/article/10.1186/s12992-024-01066-4",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://link.springer.com/article/10.1186/s12992-024-01066-4?error=cookies_not_supported&code=1e63cfcb-5cd4-49a4-a256-8bd3b7bfc0cb",
+      "likely_paywalled": true,
+      "accessible": true
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/publications/colonial-origins-of-comparative-development.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://wagner.nyu.edu/files/faculty/publications/1999-12-Microfinance_Promise.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.kellogg.northwestern.edu/faculty/qian/resources/Missing-Women_QJE_20080407_all.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.intrac.org/app/uploads/2016/06/Monitoring-and-Evaluation-Series-Theory-of-Change-16.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "http://web.undp.org/evaluation/documents/handbook/me-handbook.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.unescap.org/sites/default/files/Measuring%20the%20Digital%20Divide%20in%20the%20Asia-Pacific%20Region%20for%20the%20United%20Nations%20Economic%20and%20Social%20Commission%20for%20Asia%20and%20the%20Pacific_0.pdf",
+      "status": 400,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/099249204052228866/pdf/IDU0333e60f901267045600be83093783b77e67a.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.cgdev.org/sites/default/files/Sandefur-et-al-Scaling-Up-What-Works.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://sites.duke.edu/ericafield/files/2018/02/Entitled-to-work.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://web.stanford.edu/~klenow/MMTFP.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.entwicklung.at/fileadmin/user_upload/Dokumente/Evaluierung/Theory_of_Change/UNICEF_Theory_of_change.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.oecd.org/derec/50399683.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://www.oecd.org/content/dam/oecd/en/toolkits/derec/evaluation-reports/derec/unitedkingdom/50399683.pdf",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.aeaweb.org/articles?id=10.1257/aer.p20151016",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://escholarship.org/uc/item/2vz2d2zz",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://eml.berkeley.edu/~ffinan/Finan_Audit.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/284771480330980968/pdf/110543-Handbook-Working-with-Smallholders.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.aeaweb.org/articles?id=10.1257/jep.24.3.207",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11913270/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/233811493218846386/pdf/WPS8044.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/14693062.2018.1501329",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://library.oapen.org/handle/20.500.12657/31857",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/resource/implementing-qualitative-methods-field",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/papers/w32085",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://ieg.worldbankgroup.org/evaluations/rural-non-farm-economy",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w16021/w16021.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.710641",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://globalideas.isp.msu.edu/files/1716/5150/5259/FY_2022-2026_Agency_Learning_Agenda_Publication_Version_03-29-22-0820.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11624724/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00025-0/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.jakobsvensson.com/uploads/9/9/1/0/99107788/25098697.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/resource/introduction-randomized-evaluations",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32174-7/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.worldbank.org/en/topic/socialprotection/publication/state-of-social-protection-2025-2-billion-person-challenge",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.fao.org/publications/card/en/c/18679629-67bd-4030-818c-35b206d03f34/",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.oecd.org/en/publications/2024/05/climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022_8031029a.html",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://hdr.undp.org/content/blockchain-technology-human-development-not-so-fast",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00279-7/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2020/Good-practices-in-gender-responsive-evaluations-en.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(19)30273-1/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/2693",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/f89faa3e-3aba-5b06-ab9c-5fc4dce9be59",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.mdpi.com/2225-1154/11/3/74",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.287",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w30617/w30617.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/687101590647049640/caste-gender-and-jati-an-intersectional-analysis-aimed-at-better-targeting-poverty-alleviation-and-women-s-empowerment-in-bihar-orissa-and-tamil-nadu",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://ieg.worldbankgroup.org/sites/default/files/Data/reports/ecd_wp28_india_me_0.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.princeton.edu/~deaton/downloads/Food_and_Nutrition_in_India_Facts_and_Interpretations.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://curis.ku.dk/ws/files/41824290/Prowse_2010_Integrating_reflexivity_in_livelihoods_research_PIDS_10_3.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/650951468335456749/pdf/520990PUB0EPI1101Official0Use0Only1.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ipcc.ch/report/ar6/wg2/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.itu.int/itu-d/reports/statistics/facts-figures-2023/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.wider.unu.edu/publication/growth-inequality-and-poverty-reduction-developing-countries",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/broadening-the-range-of-designs-and-methods-for-impact-evaluations",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://gold.uclg.org/sites/default/files/gold_vi_working_paper_05.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00394-9/abstract",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/10.1177/2053951716679679",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://hdr.undp.org/system/files/documents/hdrp201011.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0360",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/25030",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/ebbe3565-69ff-5fe2-b65d-11329cf45293",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/5990",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/ba969388-b5eb-5155-b8f2-6d323a6e5a52",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://doi.org/10.1093/ooenergy/oiae006",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://data.unicef.org/wp-content/uploads/2021/06/JMP-2021-progress-report.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01822-1/abstract",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10008683/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://repositorio.minedu.gob.pe/bitstream/handle/20.500.12799/4623/How%20Much%20Can%20We%20Generalize%20from%20Impact%20Evaluations.pdf?sequence=1&isAllowed=y",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001447",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://dspace.mit.edu/handle/1721.1/63662",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00358-3/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w11880/w11880.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp-2019-74.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.irena.org/Publications/2023/Jul/Socio-economic-footprint-of-the-energy-transition-Southeast-Asia",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.povertyactionlab.org/page/research-transparency-and-reproducibility",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/19036",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/8de28560-f483-588d-a221-fb5e6abd09cd",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2019/Gender-equality-and-inclusive-growth-en.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/papers/w7716",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://worldbank.github.io/dime-data-handbook/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://iris.who.int/handle/10665/43309",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.worldbank.org/en/publication/wdr2016",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.oecd.org/gov/open-government-data-report-9789264305847-en.htm",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://www.oecd.org/en/publications/open-government-data-report_9789264305847-en.html",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7480618/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.semanticscholar.org/paper/Occupational-Choice-and-the-Process-of-Development-Banerjee-Newman/eda5d294095203e42649c3c477e4b05dfad85150",
+      "status": 202,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=632656",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/318541559339293802/pdf/Poverty-Estimation-with-Satellite-Imagery-at-Neighborhood-Levels-Results-and-Lessons-for-Financial-Inclusion-from-Ghana-and-Uganda.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://martinhilbert.net/DigitalGenderDivide.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/497471468007259434/pdf/774740JRN020040UBLIC00Ghost0Doctors.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/publications/2016.09%20the-influence-of-rcts-on-developmental-eco.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/945551551887112580/pdf/The-Nutrition-Sensitivity-of-Food-and-Agriculture-in-South-Asia.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.ilo.org/media/134061/download",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/137501468043447523/womens-inheritance-rights-and-intergenerational-transmission-of-resources-in-india",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ipcc.ch/report/ar6/syr/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(13)60996-4/abstract",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=920487",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w25389/w25389.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/606871468139500265/pdf/wps3603.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/4391",
+      "status": null,
+      "error": "The read operation timed out",
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://grow.research.mcgill.ca/publications/working-papers/gwp-2017-01.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2014/11/measuring-and-managing-results-in-development-co-operation_b71067a7/c7762fac-en.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.3ieimpact.org/sites/default/files/2017-11/Working_Paper_3.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30077-4/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/research-metrics-and-analytics/articles/10.3389/frma.2024.1486600/full",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004081",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://healthimpactassessment.pbworks.com/f/Realistic+evaluation+an+overview+-+UoNT+England+-+2000.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://dash.harvard.edu/entities/publication/73120378-f939-6bd4-e053-0100007fdf3b",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nature.com/articles/s41467-020-16185-w",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://www.nature.com/articles/s41467-020-16185-w?error=cookies_not_supported&code=916dee99-27ce-49b9-bc05-8f60278bed11",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://iris.who.int/handle/10665/43949",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/papers/w17702",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/11/open-government-for-stronger-democracies_88aa0131/5478db5b-en.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w11904/w11904.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.worldbank.org/en/region/sar/publication/rethinking-social-protection-in-south-asia-toward-progressive-universalism",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/blockchain/articles/10.3389/fbloc.2019.00027/full",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001712",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.711765",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://www.povertyactionlab.org/resource/power-calculations",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://dmeo.gov.in/sites/default/files/2021-09/Impact_Evaluability_Tooklit_CLEAR_J_PAL_SA.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w28453/w28453.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/6501",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/24bdfee6-1804-5b6f-9df0-a4d5afb3b69c",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/evaluation/safe-spaces-vocational-and-life-skills-training-young-womens-economic-and-social",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://eprints.lse.ac.uk/89511/1/Couldry_Data-colonialism_Accepted.pdf",
+      "status": 503,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.wider.unu.edu/sites/default/files/Publications/Working-paper/PDF/wp2022-5-inequality-growth-review-great-open-debate-economics.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.unep.org/resources/global-environment-outlook-6",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nature.com/articles/s44168-022-00028-z",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://www.nature.com/articles/s44168-022-00028-z?error=cookies_not_supported&code=cc8923c6-9b04-4cbc-beb4-1a537a2d2e20",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0959378006000422",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000100",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/25374",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/8c3c52bd-dda0-52bf-b91e-c173fbe14626",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://unctad.org/system/files/official-document/der2021_en.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/sites/default/files/research-paper/182_61%20Angelucci%20et%20al%20Mexico%20Jan2015.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.researchgate.net/publication/223039556_Gender_Inequality_and_Economic_Growth_A_Cross-Country_Analysis",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.ilo.org/publications/world-employment-and-social-outlook-trends-2024",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3045235",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2021.734053/full",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.interaction.org/wp-content/uploads/2019/03/Mixed-Methods-in-Impact-Evaluation-English.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w25598/w25598.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.undrr.org/gar/gar2023-special-report",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.science.org/doi/abs/10.1126/science.aaf7894",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w17968/w17968.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://economics.mit.edu/sites/default/files/2022-08/Schooling%20and%20Labor%20Market%20Consequences%20of%20School.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents.worldbank.org/curated/en/349071468151787835/Strengthening-public-financial-management-exploring-drivers-and-effects",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/349071468151787835/strengthening-public-financial-management-exploring-drivers-and-effects",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288269",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/entities/publication/39bf2bb1-e06d-5044-91f2-2451c7339384",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30545-3/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/916871468766156239/pdf/multi-page.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.who.int/publications/i/item/9789240029040",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.researchgate.net/publication/322618157_Civic_Tech_in_the_Global_South_Assessing_Technology_for_the_Public_Good",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://cnxus.org/wp-content/uploads/2022/04/08071320ApplyingTheoryofChangeApproach.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/full/10.1080/21683565.2022.2138674",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": true,
+      "accessible": false
+    },
+    {
+      "url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-04/undp-2024-lgbti-inclusion-index-report-on-the-pilot-implementation.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7786312/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w28074/w28074.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.intrac.org/app/uploads/2017/01/Most-significant-change.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.undatarevolution.org/report/",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://scholar.harvard.edu/files/kremer/files/missing_in_action_jep_2006_to_post.pdf",
+      "status": null,
+      "error": "The read operation timed out",
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://unctad.org/system/files/non-official-document/UNCTAD_Just_Transition_BACKGROUND_NOTE_COP27.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://one.oecd.org/document/DCD/DAC(2019)58/FINAL/en/pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.cgap.org/sites/default/files/Brief-Graduation-Pathways-Dec-2016.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://econweb.ucsd.edu/~pniehaus/papers/nrega.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w14132/w14132.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/28723",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/8a6180ce-4e60-5ec2-b869-74cfaad0dbb1",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1372961",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://econ.lse.ac.uk/staff/rburgess/wp/aer.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/915281468330944384/pdf/WPS6835.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w21405/w21405.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000376709",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.unwomen.org/en/digital-library/publications/2015/4/progress-of-the-worlds-women-2015",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.mdpi.com/2071-1050/16/22/9888",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.unwomen.org/sites/default/files/2022-05/UN-Women-Evaluation-Handbook-2022-en.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.oecd.org/en/publications/sigi-2023-global-report_4607b7c7-en.html",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://ia801506.us.archive.org/27/items/WhyNationsFailTheOriginsODaronAcemoglu/Why-Nations-Fail_-The-Origins-o-Daron-Acemoglu.pdf",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/papers/w14467",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3201568",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w8615/w8615.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w17143/w17143.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.povertyactionlab.org/sites/default/files/research-paper/121-%20Pitfalls%20of%20Participatory%20Programs%20February%202010.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.mdpi.com/2071-1050/13/17/9616",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.hks.harvard.edu/sites/default/files/centers/cid/files/publications/faculty-working-papers/270_Woolcock.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w13039/w13039.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30416-4/fulltext",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/18119",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/bfa2f3be-46b2-547a-b92c-0606e1a90304",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://hdr.undp.org/system/files/documents/global-report-document/2015humandevelopmentreport1.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.ipbes.net/global-assessment",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://documents1.worldbank.org/curated/en/099020824141510923/pdf/P176341192f2c50e11bc5619be95c4fb2ed.pdf",
+      "status": 404,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://homepage.ntu.edu.tw/~kslin/macro2009/Mauro%201995.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://docs.iza.org/dp1588.pdf",
+      "status": null,
+      "error": "The read operation timed out",
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/15195",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/a57f3993-e976-580c-96a8-4ba7dbda53c1",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://dmeo.gov.in/sites/default/files/2021-09/Introduction_to_Cost_Effectiveness_Analysis.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://pages.nyu.edu/debraj/Courses/Readings/GalorZeira.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://www.apc.org/en/pubs/global-information-society-watch-2019-artificial-intelligence-human-rights-social-justice-and",
+      "status": 403,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/9120",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/41b3748b-4041-512e-b272-dfa0411315ee",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://docs.iza.org/dp2934.pdf",
+      "status": null,
+      "error": "The read operation timed out",
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://www.nber.org/system/files/working_papers/w11753/w11753.pdf",
+      "status": 200,
+      "error": null,
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://scholar.harvard.edu/files/rpande/files/the_personnel_economics_of_the_developing_state.pdf",
+      "status": null,
+      "error": "The read operation timed out",
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/5988",
+      "status": null,
+      "error": "The read operation timed out",
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/11843",
+      "status": 200,
+      "error": null,
+      "redirected_to": "https://openknowledge.worldbank.org/entities/publication/c7bc435a-d635-5136-aacf-7cf0f5f3c6cf",
+      "likely_paywalled": false,
+      "accessible": true
+    },
+    {
+      "url": "https://scholar.harvard.edu/files/goldin/files/goldin_aeapress_2014_1.pdf",
+      "status": null,
+      "error": "The read operation timed out",
+      "redirected_to": null,
+      "likely_paywalled": false,
+      "accessible": false
+    }
+  ]
+}
