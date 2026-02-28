@@ -121,7 +121,8 @@
         const accessInfo = getAccessInfo(r.access_type);
         items.push({ label: 'Access', value: accessInfo.label });
 
-        const domain = new URL(r.url).hostname.replace('www.', '');
+        let domain = r.url;
+        try { domain = new URL(r.url).hostname.replace('www.', ''); } catch (e) {}
         items.push({ label: 'Source', value: domain, isLink: r.url });
 
         meta.innerHTML = items.map(item => `

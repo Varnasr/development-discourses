@@ -1269,7 +1269,7 @@ a:hover {
 }
 
 .litmap-node:hover circle:last-of-type {
-    r: attr(r) + 2;
+    r: 16;
 }
 
 .litmap-caption {

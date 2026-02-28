@@ -26,7 +26,7 @@
         'Agriculture & Food Systems': '#65a30d',
         'Social Protection': '#c026d3',
         'Financial Inclusion': '#ea580c',
-        'Disability & Inclusion': '#0891b2',
+        'Disability & Inclusion': '#475569',
     };
 
     let simulation = null;
@@ -38,6 +38,8 @@
     let isPanning = false;
     let panStart = { x: 0, y: 0 };
     let tooltip = null;
+    let lastCurrentResource = null;
+    let lastAllResources = null;
 
     /**
      * Build and render the litmap for a given resource.
@@ -47,9 +49,14 @@
         svgEl = document.getElementById('litmapSvg');
         if (!svgEl) return;
 
+        lastCurrentResource = currentResource;
+        lastAllResources = allResources;
+
         const container = document.getElementById('litmapContainer');
-        const W = container.clientWidth || 700;
-        const H = 480;
+        const section = document.getElementById('litmapSection');
+        const isFullscreen = section && section.classList.contains('litmap-fullscreen');
+        const W = isFullscreen ? (window.innerWidth - 48) : (container.clientWidth || 700);
+        const H = isFullscreen ? (window.innerHeight - 140) : 480;
         svgEl.setAttribute('width', W);
         svgEl.setAttribute('height', H);
         svgEl.setAttribute('viewBox', `0 0 ${W} ${H}`);
@@ -135,9 +142,6 @@
 
         // Render
         renderSVG(nodes, links, W, H, currentResource.id);
-
-        // Bind controls
-        bindControls(nodes, links, W, H, currentResource.id);
     };
 
     function scoreConnection(a, b) {
@@ -253,6 +257,7 @@
             line.setAttribute('stroke', '#2563eb');
             line.setAttribute('stroke-opacity', opacity);
             line.setAttribute('stroke-width', width);
+            line.dataset.origOpacity = opacity;
             line.classList.add('litmap-link');
             g.appendChild(line);
         });
@@ -378,8 +383,7 @@
                 hideTooltip();
                 svgEl.querySelectorAll('.litmap-link').forEach(link => {
                     link.setAttribute('stroke', '#2563eb');
-                    const w = parseFloat(link.getAttribute('stroke-width'));
-                    link.setAttribute('stroke-opacity', 0.08 + w * 0.06);
+                    link.setAttribute('stroke-opacity', link.dataset.origOpacity || '0.15');
                 });
                 nodeEls.forEach(other => { other.style.opacity = '1'; });
             });
@@ -402,6 +406,10 @@
             const rect = svgEl.getBoundingClientRect();
             const nx = (e.clientX - rect.left) / transform.k - transform.x / transform.k - dragOffset.x;
             const ny = (e.clientY - rect.top) / transform.k - transform.y / transform.k - dragOffset.y;
+
+            // Save old position before updating
+            const oldX = dragNode.node.x;
+            const oldY = dragNode.node.y;
             dragNode.node.x = nx;
             dragNode.node.y = ny;
 
@@ -425,8 +433,6 @@
                 const y1 = parseFloat(linkEl.getAttribute('y1'));
                 const x2 = parseFloat(linkEl.getAttribute('x2'));
                 const y2 = parseFloat(linkEl.getAttribute('y2'));
-                const oldX = dragNode.node.x;
-                const oldY = dragNode.node.y;
                 if (Math.abs(x1 - oldX) < 2 && Math.abs(y1 - oldY) < 2) {
                     linkEl.setAttribute('x1', nx);
                     linkEl.setAttribute('y1', ny);
@@ -503,6 +509,10 @@
     }
 
     function createTooltip(container) {
+        // Remove any existing tooltip from a previous render
+        const existing = container.querySelector('.litmap-tooltip');
+        if (existing) existing.remove();
+
         tooltip = document.createElement('div');
         tooltip.className = 'litmap-tooltip';
         tooltip.style.display = 'none';
@@ -553,14 +563,10 @@
         const section = document.getElementById('litmapSection');
         if (!section) return;
         section.classList.toggle('litmap-fullscreen');
-        // Redraw after resize
-        if (section.classList.contains('litmap-fullscreen')) {
-            svgEl.setAttribute('width', window.innerWidth - 48);
-            svgEl.setAttribute('height', window.innerHeight - 120);
-        } else {
-            const container = document.getElementById('litmapContainer');
-            svgEl.setAttribute('width', container.clientWidth || 700);
-            svgEl.setAttribute('height', 480);
+        // Re-render the litmap at the new dimensions
+        if (lastCurrentResource && lastAllResources) {
+            transform = { x: 0, y: 0, k: 1 };
+            window.renderLitmap(lastCurrentResource, lastAllResources);
         }
     };
 })();
