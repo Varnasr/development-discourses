@@ -18,22 +18,6 @@
     "verified": false
   },
   {
-    "title": "Decentralization and Service Delivery",
-    "authors": "Junaid Ahmad, Shantayanan Devarajan, Stuti Khemani, Shekhar Shah",
-    "year": 2005,
-    "type": "paper",
-    "topic": "Public Policy & Governance",
-    "url": "https://documents1.worldbank.org/curated/en/606871468139500265/pdf/wps3603.pdf",
-    "description": "World Bank Policy Research Working Paper analyzing why basic services systematically fail the poor, finding that public spending has only a weak relationship with outcomes and arguing that improving service delivery is the key motivation behind decentralization efforts.",
-    "id": "decentralization-and-service-delivery",
-    "access_type": "open_access",
-    "tags": [
-      "decentralization",
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
     "title": "Decentralization in Developing Economies",
     "authors": "Lucie Gadenne, Monica Singhal",
     "year": 2014,
@@ -46,22 +30,6 @@
     "tags": [
       "corruption",
       "decentralization",
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Implementing Decentralized Local Governance: A Treacherous Road with Potholes, Detours and Road Closures",
-    "authors": "Anwar Shah",
-    "year": 2004,
-    "type": "paper",
-    "topic": "Public Policy & Governance",
-    "url": "https://documents1.worldbank.org/curated/en/349441468761683659/pdf/wps3353.pdf",
-    "description": "World Bank Policy Research Working Paper examining the implementation of decentralized local governance across 74 countries during 1986-2001, analyzing how ethnic conflicts, fiscal crises, and political events drove reform agendas.",
-    "id": "implementing-decentralized-local-governance-a-treacherous-road-with-potholes",
-    "access_type": "open_access",
-    "tags": [
-      "governance",
       "public-policy-governance"
     ],
     "verified": false
@@ -246,24 +214,6 @@
     "verified": false
   },
   {
-    "title": "Obtaining a Driver's License in India: An Experimental Approach to Studying Corruption",
-    "authors": "Marianne Bertrand, Simeon Djankov, Rema Hanna, Sendhil Mullainathan",
-    "year": 2007,
-    "type": "paper",
-    "topic": "Public Policy & Governance",
-    "url": "https://www.researchgate.net/publication/24091997_Obtaining_a_Driver's_License_in_India_An_Experimental_Approach_to_Studying_Corruption",
-    "description": "Randomized experiment on driver's license allocation in India finding that 71% of license holders avoided the mandated driving test and corruption does not merely reflect transfers but actively distorts allocation of public services.",
-    "id": "obtaining-a-drivers-license-in-india-an-experimental-approach-to-studying",
-    "access_type": "check_access",
-    "tags": [
-      "India",
-      "RCT",
-      "corruption",
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
     "title": "Enhancing Government Effectiveness and Transparency: The Fight Against Corruption",
     "authors": "World Bank",
     "year": 2020,
@@ -339,22 +289,6 @@
     "access_type": "free_to_read",
     "tags": [
       "institutions",
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The Personnel Economics of the Developing State",
-    "authors": "Frederico Finan, Benjamin A. Olken, Rohini Pande",
-    "year": 2017,
-    "type": "paper",
-    "topic": "Public Policy & Governance",
-    "url": "https://scholar.harvard.edu/files/rpande/files/the_personnel_economics_of_the_developing_state.pdf",
-    "description": "Reviews field experiments on public sector personnel economics, examining how incentives, monitoring, and e-governance affect bureaucratic performance, noting that public sector employees in low-income countries enjoy the largest wage premiums over private sector counterparts.",
-    "id": "the-personnel-economics-of-the-developing-state",
-    "access_type": "free_to_read",
-    "tags": [
-      "governance",
       "public-policy-governance"
     ],
     "verified": false
@@ -454,38 +388,6 @@
     "tags": [
       "India",
       "education",
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Missing in Action: Teacher and Health Worker Absence in Developing Countries",
-    "authors": "Nazmul Chaudhury, Jeffrey Hammer, Michael Kremer, Karthik Muralidharan, F. Halsey Rogers",
-    "year": 2006,
-    "type": "paper",
-    "topic": "Public Policy & Governance",
-    "url": "https://scholar.harvard.edu/files/kremer/files/missing_in_action_jep_2006_to_post.pdf",
-    "description": "Reports results from unannounced visits to schools and clinics in six developing countries, finding average teacher absence of 19% and health worker absence of 35%, with absence rates higher in poorer regions.",
-    "id": "missing-in-action-teacher-and-health-worker-absence-in-developing-countries",
-    "access_type": "free_to_read",
-    "tags": [
-      "education",
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Ghost Doctors: Absenteeism in Rural Bangladeshi Health Facilities",
-    "authors": "Nazmul Chaudhury, Jeffrey S. Hammer",
-    "year": 2004,
-    "type": "paper",
-    "topic": "Public Policy & Governance",
-    "url": "https://documents1.worldbank.org/curated/en/497471468007259434/pdf/774740JRN020040UBLIC00Ghost0Doctors.pdf",
-    "description": "First nationally representative study of health worker absenteeism in Bangladesh finding a 35% absence rate overall and 74% for physicians at smaller subcenters, with absenteeism correlated with provider residence distance and opportunity cost of time.",
-    "id": "ghost-doctors-absenteeism-in-rural-bangladeshi-health-facilities",
-    "access_type": "open_access",
-    "tags": [
-      "Bangladesh",
       "public-policy-governance"
     ],
     "verified": false
@@ -593,21 +495,6 @@
     "verified": false
   },
   {
-    "title": "If Politics is the Problem, How Can External Actors Be Part of the Solution?",
-    "authors": "Shantayanan Devarajan, Stuti Khemani",
-    "year": 2016,
-    "type": "paper",
-    "topic": "Public Policy & Governance",
-    "url": "https://documents1.worldbank.org/curated/en/906091469456194816/pdf/WPS7761.pdf",
-    "description": "World Bank Policy Research Working Paper arguing that traditional development assistance bundling finance and knowledge into projects can perpetuate government failures, and proposing that knowledge should be targeted to strengthen political accountability.",
-    "id": "if-politics-is-the-problem-how-can-external-actors-be-part-of-the-solution",
-    "access_type": "open_access",
-    "tags": [
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
     "title": "Development Strategies: Integrating Governance and Growth",
     "authors": "Brian Levy, Francis Fukuyama",
     "year": 2010,
@@ -668,22 +555,6 @@
       "cash-transfers",
       "education",
       "poverty",
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Long-Term Impacts of Conditional Cash Transfers: Review of the Evidence",
-    "authors": "Sarah Baird, Francisco H.G. Ferreira, Berk Ozler, Michael Woolcock",
-    "year": 2014,
-    "type": "paper",
-    "topic": "Public Policy & Governance",
-    "url": "https://academic.oup.com/wbro/article/34/1/119/5492445",
-    "description": "Reviews long-term impact evidence from conditional cash transfer programs, finding that while many studies show positive effects, methodological challenges in long-term evaluations make it difficult to confirm sustained impacts.",
-    "id": "long-term-impacts-of-conditional-cash-transfers-review-of-the-evidence",
-    "access_type": "check_access",
-    "tags": [
-      "cash-transfers",
       "public-policy-governance"
     ],
     "verified": false
@@ -756,25 +627,6 @@
     "verified": false
   },
   {
-    "title": "General Equilibrium Effects of (Improving) Public Employment Programs: Experimental Evidence from India",
-    "authors": "Karthik Muralidharan, Paul Niehaus, Sandip Sukhtankar",
-    "year": 2017,
-    "type": "paper",
-    "topic": "Public Policy & Governance",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3038666",
-    "description": "Estimates direct and indirect effects of improving India's NREGS implementation through randomized rollout, finding that the reform raised beneficiary household earnings by 14%, reduced poverty by 26%, with 86% of income gains from higher private-sector wages.",
-    "id": "general-equilibrium-effects-of-improving-public-employment-programs",
-    "access_type": "free_to_read",
-    "tags": [
-      "India",
-      "RCT",
-      "employment",
-      "poverty",
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
     "title": "Improving Last-Mile Service Delivery using Phone-Based Monitoring",
     "authors": "Karthik Muralidharan, Paul Niehaus, Sandip Sukhtankar, Sheetal Weaver",
     "year": 2020,
@@ -842,24 +694,6 @@
     "verified": false
   },
   {
-    "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
-    "authors": "Daron Acemoglu, James A. Robinson",
-    "year": 2012,
-    "type": "book",
-    "topic": "Public Policy & Governance",
-    "url": "https://ia801506.us.archive.org/27/items/WhyNationsFailTheOriginsODaronAcemoglu/Why-Nations-Fail_-The-Origins-o-Daron-Acemoglu.pdf",
-    "description": "Argues that nations thrive when they develop inclusive political and economic institutions that share power widely, and fail under extractive institutions that concentrate power among elites, drawing on examples from North and South Korea, Nogales, and colonial histories.",
-    "id": "why-nations-fail-the-origins-of-power-prosperity-and-poverty",
-    "access_type": "check_access",
-    "tags": [
-      "colonial-legacy",
-      "institutions",
-      "poverty",
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
     "title": "An Uncertain Glory: India and Its Contradictions",
     "authors": "Jean Dreze, Amartya Sen",
     "year": 2013,
@@ -919,22 +753,6 @@
     "id": "quality-of-bureaucracy-and-open-economy-macro-policies",
     "access_type": "free_to_read",
     "tags": [
-      "public-policy-governance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Evolution of the World Bank's Thinking on Governance",
-    "authors": "World Bank",
-    "year": 2017,
-    "type": "grey_literature",
-    "topic": "Public Policy & Governance",
-    "url": "https://thedocs.worldbank.org/en/doc/433301485539630301-0050022017/original/WDR17BPEvolutionofWBThinkingonGovernance.pdf",
-    "description": "Background paper for WDR 2017 tracing the evolution of the World Bank's thinking on governance across its flagship publications, from WDR 1997 on 'The State in a Changing World' through WDR 2004 on service delivery to contemporary approaches.",
-    "id": "evolution-of-the-world-banks-thinking-on-governance",
-    "access_type": "check_access",
-    "tags": [
-      "governance",
       "public-policy-governance"
     ],
     "verified": false

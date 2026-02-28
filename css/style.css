@@ -1150,27 +1150,6 @@ a:hover {
     padding: 8px 0;
 }
 
-/* Connection Graph */
-.graph-container {
-    border: 1px solid var(--color-border-light);
-    border-radius: var(--radius-sm);
-    overflow: hidden;
-    background: var(--color-bg);
-}
-
-.graph-container canvas {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-
-.graph-caption {
-    font-size: 0.75rem;
-    color: var(--color-text-muted);
-    margin-top: 8px;
-    text-align: center;
-}
-
 /* Detail Page Responsive */
 @media (max-width: 900px) {
     .detail-layout {
@@ -1195,6 +1174,170 @@ a:hover {
     .action-btn {
         justify-content: center;
     }
+}
+
+/* ===== LitMap Visualization ===== */
+.litmap-section {
+    margin-bottom: 28px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-md);
+    padding: 20px;
+}
+
+.litmap-section h2 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: var(--color-text);
+}
+
+.litmap-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.litmap-legend {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.litmap-legend-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 0.72rem;
+    color: var(--color-text-secondary);
+    white-space: nowrap;
+}
+
+.litmap-legend-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.litmap-actions {
+    display: flex;
+    gap: 4px;
+}
+
+.litmap-btn {
+    padding: 5px 8px;
+    background: none;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    color: var(--color-text-muted);
+    cursor: pointer;
+    transition: all 0.15s;
+    display: inline-flex;
+    align-items: center;
+}
+
+.litmap-btn:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+}
+
+.litmap-container {
+    position: relative;
+    border: 1px solid var(--color-border-light);
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    background: var(--color-bg);
+}
+
+.litmap-container svg {
+    display: block;
+    width: 100%;
+    height: 480px;
+    user-select: none;
+}
+
+.litmap-node {
+    transition: opacity 0.2s;
+}
+
+.litmap-node circle {
+    transition: r 0.15s;
+}
+
+.litmap-node:hover circle:last-of-type {
+    r: attr(r) + 2;
+}
+
+.litmap-caption {
+    font-size: 0.72rem;
+    color: var(--color-text-muted);
+    margin-top: 8px;
+    text-align: center;
+}
+
+/* Tooltip */
+.litmap-tooltip {
+    position: absolute;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-sm);
+    padding: 10px 14px;
+    box-shadow: var(--shadow-md);
+    z-index: 100;
+    pointer-events: none;
+    max-width: 280px;
+    font-size: 0.82rem;
+}
+
+.litmap-tooltip-title {
+    font-family: var(--font-serif);
+    font-weight: 600;
+    font-size: 0.88rem;
+    color: var(--color-text);
+    margin-bottom: 4px;
+    line-height: 1.3;
+}
+
+.litmap-tooltip-meta {
+    font-size: 0.78rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 4px;
+}
+
+.litmap-tooltip-topic {
+    font-size: 0.72rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 4px;
+}
+
+.litmap-tooltip-action {
+    font-size: 0.72rem;
+    color: var(--color-accent);
+    font-weight: 500;
+}
+
+/* Fullscreen mode */
+.litmap-fullscreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+    margin: 0;
+    border-radius: 0;
+    padding: 20px 24px;
+    background: var(--color-bg);
+}
+
+.litmap-fullscreen .litmap-container svg {
+    height: calc(100vh - 140px);
 }
 
 /* ===== Loading State ===== */

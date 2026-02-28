@@ -1,22 +1,5 @@
 [
   {
-    "title": "World Development Report 2012: Gender Equality and Development",
-    "authors": "World Bank",
-    "year": 2012,
-    "type": "grey_literature",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://openknowledge.worldbank.org/handle/10986/4391",
-    "description": "Landmark World Bank report arguing that gender equality is both a core development objective and smart economics. Identifies four priority areas: reducing excess female mortality, closing education gaps, improving economic opportunities, and increasing women's voice and agency.",
-    "id": "world-development-report-2012-gender-equality-and-development",
-    "access_type": "open_access",
-    "tags": [
-      "education",
-      "gender",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
     "title": "Women's Empowerment and Economic Development",
     "authors": "Esther Duflo",
     "year": 2012,
@@ -29,22 +12,6 @@
     "tags": [
       "gender-social-inclusion",
       "womens-empowerment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "A Grand Gender Convergence: Its Last Chapter",
-    "authors": "Claudia Goldin",
-    "year": 2014,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://scholar.harvard.edu/files/goldin/files/goldin_aeapress_2014_1.pdf",
-    "description": "Goldin's AEA Presidential Address examining the grand convergence of gender roles, arguing the remaining gender gap in pay is largely due to how jobs are structured and remunerated regarding temporal flexibility.",
-    "id": "a-grand-gender-convergence-its-last-chapter",
-    "access_type": "free_to_read",
-    "tags": [
-      "gender",
-      "gender-social-inclusion"
     ],
     "verified": false
   },
@@ -82,22 +49,6 @@
     "verified": false
   },
   {
-    "title": "Gender Equality and Economic Growth: Is there a Win-Win?",
-    "authors": "Naila Kabeer, Luisa Natali",
-    "year": 2013,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://docs.euromedwomen.foundation/files/ermwf-documents/6690_3.43.genderequalityandeconomicgrowth.pdf",
-    "description": "IDS Working Paper finding that evidence for gender equality contributing to economic growth is far more robust than the reverse, arguing growth strategies must be reformulated to be more inclusive.",
-    "id": "gender-equality-and-economic-growth-is-there-a-win-win",
-    "access_type": "check_access",
-    "tags": [
-      "gender",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
     "title": "Women's Economic Empowerment and Inclusive Growth: Labour Markets and Enterprise Development",
     "authors": "Naila Kabeer",
     "year": 2012,
@@ -115,23 +66,6 @@
     "verified": false
   },
   {
-    "title": "Gender Inequality and Economic Growth: A Cross-Country Analysis",
-    "authors": "Stephanie Seguino",
-    "year": 2000,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.researchgate.net/publication/223039556_Gender_Inequality_and_Economic_Growth_A_Cross-Country_Analysis",
-    "description": "Investigates the relationship between gender wage inequality and economic growth in semi-industrialized export-oriented economies, finding that lower women's wages stimulated growth through effects on exports during 1975-95.",
-    "id": "gender-inequality-and-economic-growth-a-cross-country-analysis",
-    "access_type": "check_access",
-    "tags": [
-      "gender",
-      "gender-social-inclusion",
-      "inequality"
-    ],
-    "verified": false
-  },
-  {
     "title": "Gender Awareness in Modeling Structural Adjustment",
     "authors": "Diane Elson",
     "year": 1995,
@@ -143,56 +77,6 @@
     "access_type": "check_access",
     "tags": [
       "gender",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Gender Equality and Inclusive Growth: Economic Policies to Achieve Sustainable Development",
-    "authors": "Diane Elson, Anuradha Seth (editors)",
-    "year": 2019,
-    "type": "book",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2019/Gender-equality-and-inclusive-growth-en.pdf",
-    "description": "UN Women volume examining economic policies to achieve gender equality and sustainable development, covering macroeconomic frameworks, fiscal policy, trade, labour markets, and social protection.",
-    "id": "gender-equality-and-inclusive-growth-economic-policies-to-achieve-sustainable",
-    "access_type": "check_access",
-    "tags": [
-      "gender",
-      "gender-social-inclusion",
-      "social-protection"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Budgeting for Equity: Gender Budget Initiatives within a Framework of Performance Oriented Budgeting",
-    "authors": "Debbie Budlender, Rhonda Sharp, Kerri Allen",
-    "year": 2003,
-    "type": "grey_literature",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.unwomen.org/en/digital-library/publications/2003/1/budgeting-for-equity-gender-budget-initiatives-within-a-framework-of-performance-oriented-budgeting",
-    "description": "UNIFEM publication describing gender budget analysis tools and how government budgets impact different sexes, drawing on experience from over 20 countries implementing gender-responsive budgeting.",
-    "id": "budgeting-for-equity-gender-budget-initiatives-within-a-framework-of",
-    "access_type": "check_access",
-    "tags": [
-      "gender",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Promoting Female Labor Force Participation",
-    "authors": "World Bank Jobs Group",
-    "year": 2020,
-    "type": "grey_literature",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://documents1.worldbank.org/curated/en/807301608106175575/pdf/Promoting-Female-Labor-Force-Participation.pdf",
-    "description": "World Bank Jobs Working Paper examining the lowest female labor force participation rates in South Asia and MENA (20-23%) and identifying evidence-based interventions to promote women's employment.",
-    "id": "promoting-female-labor-force-participation",
-    "access_type": "open_access",
-    "tags": [
-      "South-Asia",
-      "employment",
       "gender-social-inclusion"
     ],
     "verified": false
@@ -298,105 +182,6 @@
     "verified": false
   },
   {
-    "title": "Violence against Women and Girls: Lessons from South Asia",
-    "authors": "Jennifer Lynn Solotaroff, Rohini Prabha Pande",
-    "year": 2014,
-    "type": "book",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://documents1.worldbank.org/curated/en/578241468113934520/pdf/906000v10PUB0E00Box385314B00PUBLIC0.pdf",
-    "description": "World Bank South Asia Development Forum report using an ecological model and life-cycle approach to analyze the multiple forms of violence women and girls face throughout their lives in South Asia.",
-    "id": "violence-against-women-and-girls-lessons-from-south-asia",
-    "access_type": "open_access",
-    "tags": [
-      "South-Asia",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Underreporting of Gender-Based Violence in Kerala, India",
-    "authors": "George Joseph, Syed Usman Javaid, Luis Alberto Andres",
-    "year": 2017,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://documents1.worldbank.org/curated/en/233811493218846386/pdf/WPS8044.pdf",
-    "description": "World Bank Policy Research Working Paper using list randomization technique to find that underreporting of domestic violence in Kerala, India exceeds nine percentage points.",
-    "id": "underreporting-of-gender-based-violence-in-kerala-india",
-    "access_type": "open_access",
-    "tags": [
-      "GBV",
-      "India",
-      "gender",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Preventing and Responding to Gender-Based Violence in Middle and Low-Income Countries: A Global Review and Analysis",
-    "authors": "Andrew Morrison, Mary Ellsberg, Sarah Bott",
-    "year": 2005,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://documents1.worldbank.org/curated/en/852691468140377416/pdf/wps3618.pdf",
-    "description": "World Bank review examining 30 years of GBV prevention initiatives, including legal reforms, institutional changes, community mobilization, and individual behavior change strategies across developing countries.",
-    "id": "preventing-and-responding-to-gender-based-violence-in-middle-and-low-income",
-    "access_type": "open_access",
-    "tags": [
-      "GBV",
-      "gender",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Intimate Partner Violence: Causes and Prevention",
-    "authors": "Rachel Jewkes",
-    "year": 2002,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.researchgate.net/publication/11391586_Intimate_Partner_Violence_Causes_and_Prevention",
-    "description": "Seminal Lancet paper identifying poverty, relationship conflict, alcohol consumption, and societal norms around violence as key risk factors for intimate partner violence, with implications for developing country prevention.",
-    "id": "intimate-partner-violence-causes-and-prevention",
-    "access_type": "check_access",
-    "tags": [
-      "gender-social-inclusion",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Prevalence of Intimate Partner Violence: Findings from the WHO Multi-Country Study on Women's Health and Domestic Violence",
-    "authors": "Claudia Garcia-Moreno, Henrica A.F.M. Jansen, Mary Ellsberg, Lori Heise, Charlotte Watts",
-    "year": 2006,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://iris.who.int/handle/10665/43309",
-    "description": "WHO multi-country study surveying 24,097 women across 10 countries, finding lifetime prevalence of physical or sexual intimate partner violence ranging from 15% to 71%, with controlling male behavior as a key risk factor.",
-    "id": "prevalence-of-intimate-partner-violence-findings-from-the-who-multi-country",
-    "access_type": "open_access",
-    "tags": [
-      "GBV",
-      "gender-social-inclusion",
-      "survey-data"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Prevalence of and Factors Associated with Male Perpetration of Intimate Partner Violence: Findings from the UN Multi-country Cross-sectional Study on Men and Violence in Asia and the Pacific",
-    "authors": "Emma Fulu, Rachel Jewkes, Tim Roselli, Claudia Garcia-Moreno",
-    "year": 2013,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(13)70074-3/fulltext",
-    "description": "Open-access Lancet Global Health study presenting data on male perpetration of IPV in Asia and the Pacific, finding that rigid masculine norms and childhood exposure to violence are strong predictors of perpetration.",
-    "id": "prevalence-of-and-factors-associated-with-male-perpetration-of-intimate-partner",
-    "access_type": "open_access",
-    "tags": [
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
     "title": "Public Work Programs and Gender-Based Violence: Evidence from India",
     "authors": "World Bank Development Research Group",
     "year": 2021,
@@ -447,22 +232,6 @@
       "education",
       "gender-social-inclusion",
       "social-protection"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics",
-    "authors": "Kimberle Crenshaw",
-    "year": 1989,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf",
-    "description": "The foundational paper coining the term 'intersectionality,' examining how treating race and gender as mutually exclusive categories of experience perpetuates discrimination against Black women.",
-    "id": "demarginalizing-the-intersection-of-race-and-sex-a-black-feminist-critique-of",
-    "access_type": "check_access",
-    "tags": [
-      "gender",
-      "gender-social-inclusion"
     ],
     "verified": false
   },
@@ -582,37 +351,6 @@
     "verified": false
   },
   {
-    "title": "Investing in a Research Revolution for LGBTI Inclusion",
-    "authors": "World Bank, UNDP",
-    "year": 2016,
-    "type": "grey_literature",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.worldbank.org/en/topic/socialsustainability/publication/investing-in-a-research-revolution-for-lgbti-inclusion",
-    "description": "Joint World Bank-UNDP study calling for investment in LGBTI data and research to advance inclusion and the SDGs, finding that only 5% of limited global LGBTI funding supports research.",
-    "id": "investing-in-a-research-revolution-for-lgbti-inclusion",
-    "access_type": "free_to_read",
-    "tags": [
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The Economic Cost of Stigma and the Exclusion of LGBT People: A Case Study of India",
-    "authors": "M.V. Lee Badgett",
-    "year": 2014,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://documents1.worldbank.org/curated/en/527261468035379692/pdf/940400WP0Box380usion0of0LGBT0People.pdf",
-    "description": "World Bank study examining how LGBT exclusion generates economic costs in India through lower productivity, diminished human capital, and poorer health outcomes.",
-    "id": "the-economic-cost-of-stigma-and-the-exclusion-of-lgbt-people-a-case-study-of",
-    "access_type": "open_access",
-    "tags": [
-      "India",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
     "title": "UNDP LGBTI Inclusion Index: Report on the Pilot Implementation",
     "authors": "UNDP",
     "year": 2024,
@@ -625,22 +363,6 @@
     "tags": [
       "education",
       "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Resources, Agency, Achievements: Reflections on the Measurement of Women's Empowerment",
-    "authors": "Naila Kabeer",
-    "year": 2002,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://eprints.lse.ac.uk/103880/1/Kabeer_womens_empowerment_and_economic_development_published.pdf",
-    "description": "Influential conceptual framework linking resources, agency, and achievements as three dimensions of women's empowerment, critiquing instrumentalist approaches to empowerment measurement.",
-    "id": "resources-agency-achievements-reflections-on-the-measurement-of-womens",
-    "access_type": "check_access",
-    "tags": [
-      "gender-social-inclusion",
-      "womens-empowerment"
     ],
     "verified": false
   },
@@ -845,72 +567,6 @@
     "tags": [
       "gender",
       "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Progress of the World's Women 2019-2020: Families in a Changing World",
-    "authors": "UN Women",
-    "year": 2019,
-    "type": "grey_literature",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.unwomen.org/en/digital-library/progress-of-the-worlds-women",
-    "description": "UN Women flagship report assessing the reality of families today amid sweeping demographic and social transformations, proposing an agenda for laws and policies to ensure gender equality within families.",
-    "id": "progress-of-the-worlds-women-2019-2020-families-in-a-changing-world",
-    "access_type": "check_access",
-    "tags": [
-      "gender",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Progress of the World's Women 2015-2016: Transforming Economies, Realizing Rights",
-    "authors": "UN Women",
-    "year": 2015,
-    "type": "grey_literature",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.unwomen.org/en/digital-library/publications/2015/4/progress-of-the-worlds-women-2015",
-    "description": "UN Women report showing how women's economic and social rights are held back when economies are built for a 'man's world,' offering policy alternatives with women's rights at the economic center.",
-    "id": "progress-of-the-worlds-women-2015-2016-transforming-economies-realizing-rights",
-    "access_type": "check_access",
-    "tags": [
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The Effect of Cash-Based Interventions on Gender Outcomes in Development and Humanitarian Settings",
-    "authors": "Claire Simon",
-    "year": 2019,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.unwomen.org/sites/default/files/Headquarters/Attachments/Sections/Library/Publications/2019/Discussion-paper-Effect-of-cash-based-interventions-on-gender-outcomes-en.pdf",
-    "description": "UN Women discussion paper examining how cash transfers affect gender outcomes, finding mixed results and cautioning that targeting women does not automatically yield favorable empowerment outcomes.",
-    "id": "the-effect-of-cash-based-interventions-on-gender-outcomes-in-development-and",
-    "access_type": "check_access",
-    "tags": [
-      "cash-transfers",
-      "gender",
-      "gender-social-inclusion"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Population-Based Rates, Timing, and Causes of Maternal Deaths, Stillbirths, and Neonatal Deaths in South Asia and Sub-Saharan Africa",
-    "authors": "Shams El Arifeen, Neena Shah More, Abdullah H. Baqui, et al.",
-    "year": 2018,
-    "type": "paper",
-    "topic": "Gender & Social Inclusion",
-    "url": "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30385-1/fulltext",
-    "description": "Lancet Global Health prospective cohort study generating population-based data on maternal mortality in 11 sites across South Asia and Sub-Saharan Africa, identifying haemorrhage and hypertension as leading causes.",
-    "id": "population-based-rates-timing-and-causes-of-maternal-deaths-stillbirths-and",
-    "access_type": "open_access",
-    "tags": [
-      "South-Asia",
-      "Sub-Saharan-Africa",
-      "gender-social-inclusion",
-      "maternal-health"
     ],
     "verified": false
   },

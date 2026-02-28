@@ -361,75 +361,6 @@
     "verified": false
   },
   {
-    "title": "Net Zero by 2050: A Roadmap for the Global Energy Sector",
-    "authors": "International Energy Agency (IEA)",
-    "year": 2021,
-    "type": "grey_literature",
-    "topic": "Climate & Environment",
-    "url": "https://www.iea.org/reports/net-zero-by-2050",
-    "description": "IEA's landmark comprehensive roadmap for the global energy sector to achieve net zero emissions by 2050, detailing over 400 milestones, concluding that no new oil and gas fields should be approved beyond existing commitments to stay on the 1.5 degrees Celsius pathway.",
-    "id": "net-zero-by-2050-a-roadmap-for-the-global-energy-sector",
-    "access_type": "check_access",
-    "tags": [
-      "climate-environment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "World Energy Transitions Outlook 2023: 1.5°C Pathway",
-    "authors": "International Renewable Energy Agency (IRENA)",
-    "year": 2023,
-    "type": "grey_literature",
-    "topic": "Climate & Environment",
-    "url": "https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2023/Jun/IRENA_World_energy_transitions_outlook_2023.pdf",
-    "description": "IRENA report identifying pathways to the 1.5 degrees Celsius climate target, emphasizing that renewable power capacity must average 1,066 GW per year to 2050 and that development finance institutions provide less than 3% of total renewable energy investments in the Global South.",
-    "id": "world-energy-transitions-outlook-2023-15c-pathway",
-    "access_type": "check_access",
-    "tags": [
-      "climate-environment",
-      "institutions",
-      "renewable-energy"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The State of Food and Agriculture 2016: Climate Change, Agriculture and Food Security",
-    "authors": "Food and Agriculture Organization of the United Nations (FAO)",
-    "year": 2016,
-    "type": "grey_literature",
-    "topic": "Climate & Environment",
-    "url": "https://www.fao.org/publications/card/en/c/18679629-67bd-4030-818c-35b206d03f34/",
-    "description": "FAO flagship report on how climate change impacts agriculture and food systems, warning that business as usual could put millions more at risk of hunger, particularly in sub-Saharan Africa and South and Southeast Asia, and emphasizing transformation of smallholder farming.",
-    "id": "the-state-of-food-and-agriculture-2016-climate-change-agriculture-and-food",
-    "access_type": "open_access",
-    "tags": [
-      "Southeast-Asia",
-      "Sub-Saharan-Africa",
-      "agriculture",
-      "climate-change",
-      "climate-environment",
-      "food-security"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The State of Food and Agriculture 2023: Revealing the True Cost of Food to Transform Agrifood Systems",
-    "authors": "Food and Agriculture Organization of the United Nations (FAO)",
-    "year": 2023,
-    "type": "grey_literature",
-    "topic": "Climate & Environment",
-    "url": "https://openknowledge.fao.org/items/1516eb79-8b43-400e-b3cb-130fd70853b0",
-    "description": "FAO report introducing true cost accounting for agrifood systems, assessing hidden environmental, health, and social costs. Shows that agrifood systems' negative impacts contribute to climate change and natural resource degradation while highlighting paths to sustainable transformation.",
-    "id": "the-state-of-food-and-agriculture-2023-revealing-the-true-cost-of-food-to",
-    "access_type": "open_access",
-    "tags": [
-      "agriculture",
-      "climate-change",
-      "climate-environment"
-    ],
-    "verified": false
-  },
-  {
     "title": "Human Development Report 2021/2022: Uncertain Times, Unsettled Lives: Shaping our Future in a Transforming World",
     "authors": "United Nations Development Programme (UNDP)",
     "year": 2022,
@@ -509,104 +440,6 @@
     "verified": false
   },
   {
-    "title": "Vulnerability",
-    "authors": "W. Neil Adger",
-    "year": 2006,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0959378006000422",
-    "description": "Foundational paper in Global Environmental Change defining vulnerability as susceptibility to harm from exposure to environmental and social stresses, reviewing research traditions and proposing that vulnerability is linked to the build-up or erosion of social-ecological resilience.",
-    "id": "vulnerability",
-    "access_type": "check_access",
-    "tags": [
-      "climate-environment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The Role of Local Institutions in Adaptation to Climate Change",
-    "authors": "Arun Agrawal",
-    "year": 2008,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://documents1.worldbank.org/curated/en/234591468331456170/pdf/691280WP0P11290utions0in0adaptation.pdf",
-    "description": "World Bank working paper demonstrating that local institutions are critical leverage points for climate adaptation, mediating between individual and collective responses and governing access to external resources through mobility, storage, diversification, communal pooling, and market exchange.",
-    "id": "the-role-of-local-institutions-in-adaptation-to-climate-change",
-    "access_type": "open_access",
-    "tags": [
-      "climate-adaptation",
-      "climate-change",
-      "climate-environment",
-      "institutions"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Climate Change and Poverty: Vulnerability, Impacts, and Alleviation Strategies",
-    "authors": "Robin Leichenko, Julie A. Silva",
-    "year": 2014,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.287",
-    "description": "Review in WIREs Climate Change exploring the nexus of climate change impacts, vulnerability, and poverty, identifying multiple direct and indirect channels through which climatic variability exacerbates poverty in less-developed countries and regions.",
-    "id": "climate-change-and-poverty-vulnerability-impacts-and-alleviation-strategies",
-    "access_type": "check_access",
-    "doi": "10.1002/wcc.287",
-    "tags": [
-      "climate-change",
-      "climate-environment",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Exploring Just Transition in the Global South",
-    "authors": "Aaron Atteridge, Claudia Strambo, Nagisa Shibuya",
-    "year": 2022,
-    "type": "grey_literature",
-    "topic": "Climate & Environment",
-    "url": "https://climatestrategies.org/wp-content/uploads/2022/05/Exploring-Just-Transition-in-the-Global-South_FINAL.pdf",
-    "description": "Climate Strategies report examining what makes just transition uniquely challenging in developing countries, including large informal workforces, limited energy access, missing social safety nets, and unclear land rights that leave vulnerable populations at risk.",
-    "id": "exploring-just-transition-in-the-global-south",
-    "access_type": "check_access",
-    "tags": [
-      "climate-environment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Just Transition and Workers' Rights in the Global South: The Recent Argentine and Chilean Nationally Determined Contributions",
-    "authors": "Mauro Pucheta, Ana Belén Sànchez",
-    "year": 2021,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://www.mdpi.com/2071-1050/13/17/9616",
-    "description": "Open-access paper examining how Argentina and Chile, with high informality in their economies, have embedded just transition into their legal frameworks through NDCs, constituting crucial first steps in the inclusion of just transition principles in domestic legal orders.",
-    "id": "just-transition-and-workers-rights-in-the-global-south-the-recent-argentine-and",
-    "access_type": "open_access",
-    "tags": [
-      "climate-environment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Managing Gender-Inclusive, Just Energy Transitions in South Asia",
-    "authors": "Various authors",
-    "year": 2024,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://doi.org/10.1093/ooenergy/oiae006",
-    "description": "Open-access paper in Oxford Open Energy examining how just transition policies differ across regions, noting that 38% of countries have embedded just transition principles into their NDCs and highlighting the need for gender-inclusive approaches in South Asia's energy transition.",
-    "id": "managing-gender-inclusive-just-energy-transitions-in-south-asia",
-    "access_type": "check_access",
-    "tags": [
-      "South-Asia",
-      "climate-environment",
-      "gender"
-    ],
-    "verified": false
-  },
-  {
     "title": "A Global Just Transition: Background Note for COP27",
     "authors": "United Nations Conference on Trade and Development (UNCTAD)",
     "year": 2022,
@@ -669,38 +502,6 @@
     "verified": false
   },
   {
-    "title": "Towards a Funding Mechanism for Loss and Damage from Climate Change Impacts",
-    "authors": "Erin Roberts, Saleemul Huq",
-    "year": 2015,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://www.sciencedirect.com/science/article/pii/S2212096321001224",
-    "description": "Paper exploring components needed for a loss and damage funding mechanism based on interviews with 43 elite stakeholders, finding that funds should be mobilised through the polluter pays principle to finance adaptation, insurance, and solidarity components.",
-    "id": "towards-a-funding-mechanism-for-loss-and-damage-from-climate-change-impacts",
-    "access_type": "check_access",
-    "tags": [
-      "climate-adaptation",
-      "climate-change",
-      "climate-environment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Evaluating Progress on Loss and Damage: An Assessment of the Warsaw International Mechanism",
-    "authors": "Erin Roberts, Mark Pelling, Melanie Killin-Jones",
-    "year": 2022,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/14693062.2022.2112935",
-    "description": "Paper in Climate Policy assessing the effectiveness of the Warsaw International Mechanism's Executive Committee in advancing loss and damage action, evaluating its technical work and the adequacy of current institutional arrangements for vulnerable developing countries.",
-    "id": "evaluating-progress-on-loss-and-damage-an-assessment-of-the-warsaw",
-    "access_type": "check_access",
-    "tags": [
-      "climate-environment"
-    ],
-    "verified": false
-  },
-  {
     "title": "Policies and Practices of Climate Change Education in South Asia: Towards a Support Framework",
     "authors": "Various authors",
     "year": 2022,
@@ -742,41 +543,6 @@
     "verified": false
   },
   {
-    "title": "Climate Action for Food Security in South Asia? Analyzing the Role of Agriculture in NDCs to the Paris Agreement",
-    "authors": "Various authors",
-    "year": 2018,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/14693062.2018.1501329",
-    "description": "Paper in Climate Policy providing systematic analysis of South Asian NDCs, revealing that agriculture accounts for 23-67% of regional emissions — far above the global average — yet emission reduction commitments rarely target agriculture due to food security concerns.",
-    "id": "climate-action-for-food-security-in-south-asia-analyzing-the-role-of",
-    "access_type": "check_access",
-    "tags": [
-      "South-Asia",
-      "agriculture",
-      "climate-environment",
-      "food-security"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Renewable Energy Outlook for ASEAN: Towards a Regional Energy Transition (2nd Edition)",
-    "authors": "International Renewable Energy Agency (IRENA)",
-    "year": 2022,
-    "type": "grey_literature",
-    "topic": "Climate & Environment",
-    "url": "https://www.irena.org/publications/2022/Sep/Renewable-Energy-Outlook-for-ASEAN-2nd-edition",
-    "description": "IRENA report showing that a comprehensive energy transition in Southeast Asia would lead to 3.4% higher GDP, 1% more economy-wide jobs, and 10.9% higher social welfare under the 1.5 degrees Celsius Scenario compared to the planned energy scenario.",
-    "id": "renewable-energy-outlook-for-asean-towards-a-regional-energy-transition-2nd",
-    "access_type": "check_access",
-    "tags": [
-      "Southeast-Asia",
-      "climate-environment",
-      "renewable-energy"
-    ],
-    "verified": false
-  },
-  {
     "title": "World Bank Group Climate Change Action Plan 2021-2025: South Asia Roadmap",
     "authors": "World Bank Group",
     "year": 2021,
@@ -790,22 +556,6 @@
       "South-Asia",
       "climate-adaptation",
       "climate-change",
-      "climate-environment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Measuring Total Carbon Pricing",
-    "authors": "World Bank (Harikumar Gadde, Ian Parry, et al.)",
-    "year": 2023,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://documents1.worldbank.org/curated/en/099548206152339098/pdf/IDU124d2b624145531468a1a4d418173bf51a4fd.pdf",
-    "description": "World Bank Policy Research Working Paper introducing the Total Carbon Pricing metric, which includes not only carbon taxes and emissions trading systems but also indirect pricing through fossil fuel excise taxes and subsidies, noting that global fossil fuel subsidies doubled in 2022.",
-    "id": "measuring-total-carbon-pricing",
-    "access_type": "open_access",
-    "tags": [
-      "carbon-emissions",
       "climate-environment"
     ],
     "verified": false
@@ -825,56 +575,6 @@
       "climate-adaptation",
       "climate-change",
       "climate-environment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "A Systematic Review of the Literature on Climate Justice: A Comparison Between the Global North and South",
-    "authors": "Various authors",
-    "year": 2024,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://www.mdpi.com/2071-1050/16/22/9888",
-    "description": "Open-access systematic review in Sustainability analyzing 826 climate justice papers, finding stark publication asymmetry with 717 from the Global North and only 109 from the South, with Global South research focusing mainly on socio-environmental context and social vulnerability.",
-    "id": "a-systematic-review-of-the-literature-on-climate-justice-a-comparison-between",
-    "access_type": "open_access",
-    "tags": [
-      "climate-environment",
-      "systematic-review"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Climate-Induced Non-Economic Loss and Damage: Understanding Policy Responses, Challenges, and Future Directions in Pacific Small Island Developing States",
-    "authors": "Various authors",
-    "year": 2023,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://www.mdpi.com/2225-1154/11/3/74",
-    "description": "Open-access paper examining non-economic losses and damages from climate change in Pacific SIDS, including loss of cultural heritage, biodiversity, and territorial integrity, and the policy challenges of addressing impacts that cannot be quantified in monetary terms.",
-    "id": "climate-induced-non-economic-loss-and-damage-understanding-policy-responses",
-    "access_type": "open_access",
-    "tags": [
-      "biodiversity",
-      "climate-change",
-      "climate-environment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Evaluating the Benefits of Weather and Climate Services in South Asia: A Systematic Review",
-    "authors": "Various authors",
-    "year": 2022,
-    "type": "paper",
-    "topic": "Climate & Environment",
-    "url": "https://link.springer.com/article/10.1007/s10113-022-01947-7",
-    "description": "Systematic review in Regional Environmental Change evaluating the value of weather and climate services in South Asia, a region where between 1990 and 2019, climate-related disasters affected 1.7 billion people and caused $127 billion in economic losses.",
-    "id": "evaluating-the-benefits-of-weather-and-climate-services-in-south-asia-a",
-    "access_type": "check_access",
-    "tags": [
-      "South-Asia",
-      "climate-environment",
-      "systematic-review"
     ],
     "verified": false
   },
@@ -924,23 +624,6 @@
     "tags": [
       "South-Asia",
       "climate-environment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Socio-economic Footprint of the Energy Transition: Southeast Asia",
-    "authors": "International Renewable Energy Agency (IRENA)",
-    "year": 2023,
-    "type": "grey_literature",
-    "topic": "Climate & Environment",
-    "url": "https://www.irena.org/Publications/2023/Jul/Socio-economic-footprint-of-the-energy-transition-Southeast-Asia",
-    "description": "IRENA report analyzing the socio-economic impacts of energy transition in Southeast Asia, showing that an ambitious transition aligned with the 1.5 degrees Celsius pathway leads to higher GDP, increased employment, and improved social welfare compared to the planned energy scenario.",
-    "id": "socio-economic-footprint-of-the-energy-transition-southeast-asia",
-    "access_type": "check_access",
-    "tags": [
-      "Southeast-Asia",
-      "climate-environment",
-      "employment"
     ],
     "verified": false
   }

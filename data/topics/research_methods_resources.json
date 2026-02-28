@@ -53,38 +53,6 @@
     "verified": false
   },
   {
-    "title": "Understanding and Misunderstanding Randomized Controlled Trials",
-    "authors": "Angus Deaton, Nancy Cartwright",
-    "year": 2018,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0277953617307359",
-    "description": "Nobel laureate Deaton and philosopher Cartwright critically examine claims about RCTs, arguing that randomization does not automatically deliver precise estimates and that external validity requires careful justification. Published open access under CC BY-NC-ND.",
-    "id": "understanding-and-misunderstanding-randomized-controlled-trials",
-    "access_type": "check_access",
-    "tags": [
-      "RCT",
-      "research-methods"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Evaluating Anti-Poverty Programs",
-    "authors": "Martin Ravallion",
-    "year": 2007,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://documents1.worldbank.org/curated/en/104761468315569641/pdf/wps3625.pdf",
-    "description": "Comprehensive review arguing that no single evaluation method dominates and that rigorous evaluations should be open-minded about methodology. Covers experimental and non-experimental approaches to anti-poverty program evaluation.",
-    "id": "evaluating-anti-poverty-programs",
-    "access_type": "open_access",
-    "tags": [
-      "poverty",
-      "research-methods"
-    ],
-    "verified": false
-  },
-  {
     "title": "Experimentation at Scale",
     "authors": "Karthik Muralidharan, Paul Niehaus",
     "year": 2017,
@@ -268,21 +236,6 @@
     "verified": false
   },
   {
-    "title": "Some Practical Guidance for the Implementation of Propensity Score Matching",
-    "authors": "Marco Caliendo, Sabine Kopeinig",
-    "year": 2008,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://docs.iza.org/dp1588.pdf",
-    "description": "Widely cited practical guide covering all key implementation decisions for propensity score matching: estimation of propensity scores, choice of matching algorithm, common support, matching quality assessment, and sensitivity analysis.",
-    "id": "some-practical-guidance-for-the-implementation-of-propensity-score-matching",
-    "access_type": "check_access",
-    "tags": [
-      "research-methods"
-    ],
-    "verified": false
-  },
-  {
     "title": "What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature",
     "authors": "Jonathan Roth, Pedro H.C. Sant'Anna, Alyssa Bilinski, John Poe",
     "year": 2023,
@@ -413,41 +366,6 @@
     "verified": false
   },
   {
-    "title": "How to Do a Good Systematic Review of Effects in International Development: A Tool Kit",
-    "authors": "Hugh Waddington, Howard White, Birte Snilstveit, Jorge Garcia Hombrados, Martina Vojtkova, Philip Davies, Ami Bhavsar, John Eyers, Tracey Perez Koehlmoos, Mark Petticrew, Jeffrey C. Valentine, Peter Tugwell",
-    "year": 2012,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.711765",
-    "description": "Practical guide for conducting systematic reviews in international development, covering search strategies, critical appraisal, meta-analysis, and a theory-based approach to drawing generalizable conclusions from 3ie's experience.",
-    "id": "how-to-do-a-good-systematic-review-of-effects-in-international-development-a",
-    "access_type": "check_access",
-    "tags": [
-      "meta-analysis",
-      "research-methods",
-      "systematic-review"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Narrative Approaches to Systematic Review and Synthesis of Evidence for International Development Policy and Practice",
-    "authors": "Birte Snilstveit, Sandy Oliver, Martina Vojtkova",
-    "year": 2012,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/19439342.2012.710641",
-    "description": "Argues for applying systematic review methods to qualitative evidence in development, introducing narrative synthesis approaches ranging from content analysis to meta-ethnography for broader evidence questions.",
-    "id": "narrative-approaches-to-systematic-review-and-synthesis-of-evidence-for",
-    "access_type": "check_access",
-    "tags": [
-      "ethnography",
-      "qualitative",
-      "research-methods",
-      "systematic-review"
-    ],
-    "verified": false
-  },
-  {
     "title": "Broadening the Range of Designs and Methods for Impact Evaluations",
     "authors": "Elliot Stern, Nicoletta Stame, John Mayne, Kim Forss, Rick Davies, Barbara Befani",
     "year": 2012,
@@ -512,23 +430,6 @@
     "verified": false
   },
   {
-    "title": "Mixed Methods Research in Developing Country Contexts: Lessons From Field Research in Six Countries Across Africa and the Caribbean",
-    "authors": "Jamelia Harris",
-    "year": 2022,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://journals.sagepub.com/doi/full/10.1177/15586898211032825",
-    "description": "Examines how logistical challenges and cultural contexts (race, colonial legacies, aid-dependence, gender norms, religion) in developing countries affect mixed methods design and implementation across six countries.",
-    "id": "mixed-methods-research-in-developing-country-contexts-lessons-from-field",
-    "access_type": "check_access",
-    "tags": [
-      "colonial-legacy",
-      "gender",
-      "research-methods"
-    ],
-    "verified": false
-  },
-  {
     "title": "Integrating Reflexivity into Livelihoods Research",
     "authors": "Martin Prowse",
     "year": 2010,
@@ -586,24 +487,6 @@
     "access_type": "check_access",
     "tags": [
       "research-methods"
-    ],
-    "verified": false
-  },
-  {
-    "title": "A Scoping Review of Participatory Research Methods in Agroecology Studies Conducted in South Asia",
-    "authors": "Various authors",
-    "year": 2022,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/21683565.2022.2138674",
-    "description": "Reviews participatory research methods used in 27 agroecology studies in South Asia, finding diverse methods applied primarily in India but noting farmers are rarely engaged as study collaborators or decision-makers.",
-    "id": "a-scoping-review-of-participatory-research-methods-in-agroecology-studies",
-    "access_type": "check_access",
-    "tags": [
-      "India",
-      "South-Asia",
-      "research-methods",
-      "scoping-review"
     ],
     "verified": false
   },
@@ -706,21 +589,6 @@
     "verified": false
   },
   {
-    "title": "Promises and Perils of Pre-Analysis Plans",
-    "authors": "Benjamin A. Olken",
-    "year": 2015,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/104069/Olken_Promises%20and%20perils.pdf",
-    "description": "Examines the advantages and costs of pre-specifying statistical analysis plans in economics, finding that 10-20% of conventionally significant results may be misallocated due to data mining.",
-    "id": "promises-and-perils-of-pre-analysis-plans",
-    "access_type": "free_to_read",
-    "tags": [
-      "research-methods"
-    ],
-    "verified": false
-  },
-  {
     "title": "Transparency, Reproducibility, and the Credibility of Economics Research",
     "authors": "Garret Christensen, Edward Miguel",
     "year": 2018,
@@ -733,22 +601,6 @@
     "tags": [
       "research-methods",
       "survey-data"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Evaluating Replicability of Laboratory Experiments in Economics",
-    "authors": "Colin F. Camerer, Anna Dreber, Eskil Forsell, Teck-Hua Ho, Juergen Huber, Magnus Johannesson, Michael Kirchler, Johan Almenberg, Adam Altmejd, Taizan Chan, Emma Heikensten, Felix Holzmeister, et al.",
-    "year": 2016,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://www.science.org/doi/10.1126/science.aaf0918",
-    "description": "Replicated 18 laboratory experiments from top economics journals and found significant effects in the same direction for 61%, with replicated effect sizes averaging 66% of originals. Published in Science as a free article.",
-    "id": "evaluating-replicability-of-laboratory-experiments-in-economics",
-    "access_type": "free_to_read",
-    "doi": "10.1126/science.aaf0918",
-    "tags": [
-      "research-methods"
     ],
     "verified": false
   },
@@ -783,21 +635,6 @@
     "verified": false
   },
   {
-    "title": "Towards Decolonising Research Ethics: From One-off Review Boards to Decentralised North-South Partnerships in an International Development Programme",
-    "authors": "Various authors",
-    "year": 2022,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://www.mdpi.com/2227-7102/12/4/236",
-    "description": "Argues that limiting ethics to informed consent and anonymity cannot address larger power relationships in North-South research, proposing an 8-step model towards decolonising research ethics. Open access via MDPI.",
-    "id": "towards-decolonising-research-ethics-from-one-off-review-boards-to",
-    "access_type": "open_access",
-    "tags": [
-      "research-methods"
-    ],
-    "verified": false
-  },
-  {
     "title": "Fostering Research Integrity in Sub-Saharan Africa: Challenges, Opportunities, and Recommendations",
     "authors": "Various authors",
     "year": 2023,
@@ -809,42 +646,6 @@
     "access_type": "open_access",
     "tags": [
       "Sub-Saharan-Africa",
-      "research-methods"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Women's Empowerment and Economic Development: A Feminist Critique of Storytelling Practices in 'Randomista' Economics",
-    "authors": "Naila Kabeer",
-    "year": 2020,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://eprints.lse.ac.uk/103880/1/Kabeer_womens_empowerment_and_economic_development_published.pdf",
-    "description": "Feminist critique of RCT-based development economics arguing that the approach produces piecemeal analysis, ad hoc theory, indifference to history and context, and methodological fundamentalism that overlooks structural gender inequalities.",
-    "id": "womens-empowerment-and-economic-development-a-feminist-critique-of-storytelling",
-    "access_type": "check_access",
-    "tags": [
-      "RCT",
-      "gender",
-      "research-methods",
-      "womens-empowerment"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Randomized Control Trials and Qualitative Evaluations of a Multifaceted Programme for Women in Extreme Poverty: Empirical Findings and Methodological Reflections",
-    "authors": "Naila Kabeer",
-    "year": 2019,
-    "type": "paper",
-    "topic": "Research Methods",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/19452829.2018.1536696",
-    "description": "Compares RCTs and qualitative assessments of BRAC's asset transfer program in West Bengal and Sindh, finding that RCTs failed to meet their own causality criteria and provided limited explanations for observed outcomes. Open access under CC BY.",
-    "id": "randomized-control-trials-and-qualitative-evaluations-of-a-multifaceted",
-    "access_type": "check_access",
-    "tags": [
-      "RCT",
-      "poverty",
-      "qualitative",
       "research-methods"
     ],
     "verified": false

@@ -40,7 +40,10 @@
         renderTags();
         renderCitation();
         renderRelated();
-        renderConnectionGraph();
+        // Render interactive LitMaps-style graph
+        if (window.renderLitmap) {
+            window.renderLitmap(currentResource, allResources);
+        }
         bindEvents();
     }
 
@@ -248,109 +251,6 @@
         }).join('');
     }
 
-    // ---- Connection Graph ----
-    function renderConnectionGraph() {
-        const canvas = document.getElementById('connectionGraph');
-        if (!canvas || !canvas.getContext) return;
-
-        const ctx = canvas.getContext('2d');
-        const W = canvas.width;
-        const H = canvas.height;
-        const r = currentResource;
-
-        // Find connected resources (same as related but include all with score > 0)
-        const connected = allResources
-            .filter(other => other.id !== r.id)
-            .map(other => {
-                let score = 0;
-                if (other.topic === r.topic) score += 2;
-                const myTags = new Set(r.tags || []);
-                (other.tags || []).forEach(t => { if (myTags.has(t)) score += 1; });
-                const myAuthors = (r.authors || '').toLowerCase().split(/[,&]+/).map(s => s.trim().split(/\s+/).pop());
-                const otherAuthors = (other.authors || '').toLowerCase().split(/[,&]+/).map(s => s.trim().split(/\s+/).pop());
-                myAuthors.forEach(a => { if (a && otherAuthors.includes(a)) score += 3; });
-                return { resource: other, score };
-            })
-            .filter(s => s.score > 2)
-            .sort((a, b) => b.score - a.score)
-            .slice(0, 12);
-
-        if (connected.length === 0) {
-            ctx.fillStyle = '#8a8a8a';
-            ctx.font = '13px Inter, sans-serif';
-            ctx.textAlign = 'center';
-            ctx.fillText('No strong connections found.', W / 2, H / 2);
-            return;
-        }
-
-        // Layout: center node + ring
-        const cx = W / 2;
-        const cy = H / 2;
-        const radius = Math.min(W, H) / 2 - 40;
-
-        // Draw edges
-        connected.forEach((s, i) => {
-            const angle = (2 * Math.PI * i) / connected.length - Math.PI / 2;
-            const nx = cx + radius * Math.cos(angle);
-            const ny = cy + radius * Math.sin(angle);
-
-            ctx.beginPath();
-            ctx.moveTo(cx, cy);
-            ctx.lineTo(nx, ny);
-            ctx.strokeStyle = 'rgba(37, 99, 235, ' + (0.1 + 0.15 * (s.score / 10)) + ')';
-            ctx.lineWidth = Math.max(1, s.score / 3);
-            ctx.stroke();
-        });
-
-        // Draw outer nodes
-        const topicColors = {
-            'Climate & Environment': '#059669',
-            'Data & Technology': '#7c3aed',
-            'Development Economics': '#2563eb',
-            'Gender & Social Inclusion': '#db2777',
-            'Livelihoods': '#d97706',
-            'MEAL & Evaluation': '#0891b2',
-            'Public Health': '#dc2626',
-            'Public Policy & Governance': '#4f46e5',
-            'Research Methods': '#6366f1',
-        };
-
-        connected.forEach((s, i) => {
-            const angle = (2 * Math.PI * i) / connected.length - Math.PI / 2;
-            const nx = cx + radius * Math.cos(angle);
-            const ny = cy + radius * Math.sin(angle);
-            const color = topicColors[s.resource.topic] || '#8a8a8a';
-
-            ctx.beginPath();
-            ctx.arc(nx, ny, 6, 0, Math.PI * 2);
-            ctx.fillStyle = color;
-            ctx.fill();
-
-            // Label (truncated)
-            ctx.fillStyle = '#5c5c5c';
-            ctx.font = '10px Inter, sans-serif';
-            ctx.textAlign = angle > Math.PI / 2 && angle < 3 * Math.PI / 2 ? 'right' : 'left';
-            const label = truncate(s.resource.title.split(':')[0], 20);
-            const labelX = nx + (ctx.textAlign === 'left' ? 10 : -10);
-            ctx.fillText(label, labelX, ny + 4);
-        });
-
-        // Draw center node
-        ctx.beginPath();
-        ctx.arc(cx, cy, 10, 0, Math.PI * 2);
-        ctx.fillStyle = '#2563eb';
-        ctx.fill();
-        ctx.strokeStyle = '#fff';
-        ctx.lineWidth = 2;
-        ctx.stroke();
-
-        // Center label
-        ctx.fillStyle = '#1a1a1a';
-        ctx.font = 'bold 11px Inter, sans-serif';
-        ctx.textAlign = 'center';
-        ctx.fillText(truncate(r.title.split(':')[0], 24), cx, cy + 22);
-    }
-
     // ---- Events ----
     function bindEvents() {
         // Citation toggle
@@ -377,6 +277,12 @@
                 setTimeout(() => { this.textContent = 'Copy to clipboard'; }, 2000);
             });
         });
+
+        // Litmap controls
+        const resetBtn = document.getElementById('litmapReset');
+        if (resetBtn) resetBtn.addEventListener('click', function () { if (window.litmapReset) window.litmapReset(); });
+        const fullscreenBtn = document.getElementById('litmapFullscreen');
+        if (fullscreenBtn) fullscreenBtn.addEventListener('click', function () { if (window.litmapToggleFullscreen) window.litmapToggleFullscreen(); });
 
         // Share
         document.getElementById('shareBtn').addEventListener('click', function () {

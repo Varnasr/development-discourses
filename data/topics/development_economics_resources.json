@@ -1,20 +1,5 @@
 [
   {
-    "title": "Development as Freedom",
-    "authors": "Amartya Sen",
-    "year": 1999,
-    "type": "book",
-    "topic": "Development Economics",
-    "url": "https://archive.org/details/amartya-kumar-sen-development-as-freedom-alfred-a.-knopf-inc.-2000",
-    "description": "Seminal work arguing that development should be understood as the expansion of human freedoms rather than merely GDP growth, introducing the capability approach as a framework for evaluating well-being and development.",
-    "id": "development-as-freedom",
-    "access_type": "open_access",
-    "tags": [
-      "development-economics"
-    ],
-    "verified": false
-  },
-  {
     "title": "Hunger and Public Action",
     "authors": "Jean Dreze, Amartya Sen",
     "year": 1989,
@@ -100,27 +85,6 @@
     "verified": false
   },
   {
-    "title": "A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries",
-    "authors": "Abhijit Banerjee, Esther Duflo, Nathanael Goldberg, Dean Karlan, Robert Osei, William Pariente, Jeremy Shapiro, Bram Thuysbaert, Christopher Udry",
-    "year": 2015,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://dspace.mit.edu/handle/1721.1/97047",
-    "description": "Reports results from six randomized control trials of an integrated 'graduation' approach for the ultra-poor across Ethiopia, Ghana, Honduras, India, Pakistan, and Peru, finding lasting improvements in consumption, assets, and food security.",
-    "id": "a-multifaceted-program-causes-lasting-progress-for-the-very-poor-evidence-from",
-    "access_type": "free_to_read",
-    "tags": [
-      "India",
-      "Pakistan",
-      "RCT",
-      "development-economics",
-      "food-security",
-      "graduation-approach",
-      "ultra-poor"
-    ],
-    "verified": false
-  },
-  {
     "title": "Long-term Effects of the Targeting the Ultra Poor Program",
     "authors": "Abhijit Banerjee, Esther Duflo, Garima Sharma",
     "year": 2021,
@@ -151,23 +115,6 @@
       "India",
       "RCT",
       "development-economics"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Women Empowerment and Economic Development",
-    "authors": "Esther Duflo",
-    "year": 2012,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://dspace.mit.edu/handle/1721.1/82663",
-    "description": "Reviews the bidirectional relationship between women's empowerment and economic development, arguing that the interrelationships are too weak to be self-sustaining and that continuous policy commitment to gender equality is needed.",
-    "id": "women-empowerment-and-economic-development",
-    "access_type": "free_to_read",
-    "tags": [
-      "development-economics",
-      "gender",
-      "womens-empowerment"
     ],
     "verified": false
   },
@@ -291,38 +238,6 @@
     "verified": false
   },
   {
-    "title": "Poverty Lines in Theory and Practice",
-    "authors": "Martin Ravallion",
-    "year": 1998,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://documents1.worldbank.org/curated/en/916871468766156239/pdf/multi-page.pdf",
-    "description": "Critical overview of alternative approaches to setting poverty lines, examining the theoretical foundations and practical methods, published as World Bank LSMS Working Paper No. 133.",
-    "id": "poverty-lines-in-theory-and-practice",
-    "access_type": "open_access",
-    "tags": [
-      "development-economics",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Dollar a Day Revisited",
-    "authors": "Martin Ravallion, Shaohua Chen, Prem Sangraula",
-    "year": 2009,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://documents1.worldbank.org/curated/en/350401468157768465/pdf/wps4620.pdf",
-    "description": "Updates the international poverty line using new purchasing power parity data, proposing $1.25 per day as the new benchmark, and finds that 1.4 billion people in developing countries lived below this line in 2005.",
-    "id": "dollar-a-day-revisited",
-    "access_type": "open_access",
-    "tags": [
-      "development-economics",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
     "title": "The Idea of Antipoverty Policy",
     "authors": "Martin Ravallion",
     "year": 2013,
@@ -432,56 +347,6 @@
       "development-economics",
       "education",
       "survey-data"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Inequality and Growth: What Can the Data Say?",
-    "authors": "Abhijit V. Banerjee, Esther Duflo",
-    "year": 2003,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://economics.mit.edu/sites/default/files/publications/Inequality%20and%20Growth%20What%20Can%20the%20Data%20Say.pdf",
-    "description": "Uses non-parametric methods to reexamine the cross-country relationship between inequality and growth, finding an inverted U-shaped pattern rather than the simple linear relationships previously claimed.",
-    "id": "inequality-and-growth-what-can-the-data-say",
-    "access_type": "free_to_read",
-    "tags": [
-      "development-economics",
-      "inequality"
-    ],
-    "verified": false
-  },
-  {
-    "title": "History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India",
-    "authors": "Abhijit Banerjee, Lakshmi Iyer",
-    "year": 2005,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://dspace.mit.edu/handle/1721.1/63662",
-    "description": "Shows that areas of India where colonial land revenue rights were assigned to landlords have significantly lower agricultural investment, productivity, and public goods provision than areas where rights were given to cultivators.",
-    "id": "history-institutions-and-economic-performance-the-legacy-of-colonial-land",
-    "access_type": "free_to_read",
-    "tags": [
-      "India",
-      "colonial-legacy",
-      "development-economics",
-      "institutions"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Africa's Growth Tragedy: Policies and Ethnic Divisions",
-    "authors": "William Easterly, Ross Levine",
-    "year": 1997,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://documents1.worldbank.org/curated/en/732501468741681923/pdf/multi0page.pdf",
-    "description": "Demonstrates that ethnic diversity helps explain cross-country differences in public policies and economic performance, accounting for Africa's low schooling, political instability, and distorted markets.",
-    "id": "africas-growth-tragedy-policies-and-ethnic-divisions",
-    "access_type": "open_access",
-    "tags": [
-      "development-economics",
-      "education"
     ],
     "verified": false
   },
@@ -636,23 +501,6 @@
     "verified": false
   },
   {
-    "title": "Monitoring Corruption: Evidence from a Field Experiment in Indonesia",
-    "authors": "Benjamin A. Olken",
-    "year": 2007,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://documents1.worldbank.org/curated/en/859901468259751360/pdf/934490WP00PUBL0onitoring0Corruption.pdf",
-    "description": "Uses a randomized experiment in 600 Indonesian village road projects to show that increasing the probability of government audits significantly reduced corruption, while increasing grassroots participation had limited impact on missing expenditures.",
-    "id": "monitoring-corruption-evidence-from-a-field-experiment-in-indonesia",
-    "access_type": "open_access",
-    "tags": [
-      "RCT",
-      "corruption",
-      "development-economics"
-    ],
-    "verified": false
-  },
-  {
     "title": "Entitled to Work: Urban Property Rights and Labor Supply in Peru",
     "authors": "Erica Field",
     "year": 2007,
@@ -711,39 +559,6 @@
     "access_type": "check_access",
     "tags": [
       "development-economics"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Growth is Good for the Poor",
-    "authors": "David Dollar, Aart Kraay",
-    "year": 2002,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=632656",
-    "description": "Shows that average incomes of the poorest quintile rise proportionately with average incomes across 92 countries, emphasizing the importance of economic growth for poverty reduction. Originally World Bank Policy Research Working Paper 2587.",
-    "id": "growth-is-good-for-the-poor",
-    "access_type": "free_to_read",
-    "tags": [
-      "development-economics",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The Poverty-Growth-Inequality Triangle",
-    "authors": "Francois Bourguignon",
-    "year": 2004,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://documents1.worldbank.org/curated/en/449711468762020101/pdf/28102.pdf",
-    "description": "Provides a rigorous analytical framework showing how growth and distributional changes interact to determine poverty outcomes, demonstrating that both the growth and inequality elasticity of poverty depend on the level of development.",
-    "id": "the-poverty-growth-inequality-triangle",
-    "access_type": "open_access",
-    "tags": [
-      "development-economics",
-      "inequality",
-      "poverty"
     ],
     "verified": false
   },
@@ -815,56 +630,6 @@
     "verified": false
   },
   {
-    "title": "World Development Report 2006: Equity and Development",
-    "authors": "World Bank",
-    "year": 2006,
-    "type": "grey_literature",
-    "topic": "Development Economics",
-    "url": "https://openknowledge.worldbank.org/handle/10986/5988",
-    "description": "Presents evidence that equity (equal opportunity and avoidance of extreme deprivation) and economic prosperity are complementary in the long run, arguing for leveling economic and political playing fields in developing countries.",
-    "id": "world-development-report-2006-equity-and-development",
-    "access_type": "open_access",
-    "tags": [
-      "development-economics"
-    ],
-    "verified": false
-  },
-  {
-    "title": "World Development Report 2012: Gender Equality and Development",
-    "authors": "World Bank",
-    "year": 2012,
-    "type": "grey_literature",
-    "topic": "Development Economics",
-    "url": "https://openknowledge.worldbank.org/handle/10986/4391",
-    "description": "Examines how economic development interacts with gender equality, finding that growth alone is insufficient to close gender gaps and that targeted policies are needed to address persistent inequalities in education, health, and economic opportunities.",
-    "id": "world-development-report-2012-gender-equality-and-development",
-    "access_type": "open_access",
-    "tags": [
-      "development-economics",
-      "education",
-      "gender"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Poverty in India Has Declined over the Last Decade",
-    "authors": "Sutirtha Sinha Roy, Roy van der Weide",
-    "year": 2022,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://documents1.worldbank.org/curated/en/099249204052228866/pdf/IDU0333e60f901267045600be83093783b77e67a.pdf",
-    "description": "World Bank Policy Research Working Paper documenting poverty reduction in India alongside major expansion of social security programs, increased access to banking, cooking gas, sanitation, electricity, and housing.",
-    "id": "poverty-in-india-has-declined-over-the-last-decade",
-    "access_type": "open_access",
-    "tags": [
-      "India",
-      "WASH",
-      "development-economics",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
     "title": "Global Poverty Revisited Using 2021 PPPs",
     "authors": "Dean Mitchell Jolliffe, Daniel Mahler, Christoph Lakner, Espen Beer Prydz, Nishant Yonzan",
     "year": 2024,
@@ -883,23 +648,6 @@
     "verified": false
   },
   {
-    "title": "Gender Differences in Poverty and Household Composition through the Life-cycle",
-    "authors": "Nayantara Sarma Hensman Wickramasinghe",
-    "year": 2018,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://documents1.worldbank.org/curated/en/135731520343670750/pdf/WPS8360.pdf",
-    "description": "World Bank Policy Research Working Paper analyzing how poverty differs by gender across the life cycle, examining household composition effects on individual poverty measures in developing countries.",
-    "id": "gender-differences-in-poverty-and-household-composition-through-the-life-cycle",
-    "access_type": "open_access",
-    "tags": [
-      "development-economics",
-      "gender",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
     "title": "Halving Global Poverty",
     "authors": "Timothy Besley, Robin Burgess",
     "year": 2003,
@@ -908,22 +656,6 @@
     "url": "https://econ.lse.ac.uk/staff/rburgess/wp/jep11.pdf",
     "description": "Examines progress toward the Millennium Development Goal of halving global poverty by 2015, analyzing the relative contributions of growth and redistribution across regions and the policy implications for accelerating poverty reduction.",
     "id": "halving-global-poverty",
-    "access_type": "check_access",
-    "tags": [
-      "development-economics",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Occupational Choice and the Process of Development",
-    "authors": "Abhijit V. Banerjee, Andrew F. Newman",
-    "year": 1993,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://www.semanticscholar.org/paper/Occupational-Choice-and-the-Process-of-Development-Banerjee-Newman/eda5d294095203e42649c3c477e4b05dfad85150",
-    "description": "Models development as institutional transformation driven by the interplay between occupational decisions and wealth distribution, showing how capital market imperfections generate poverty traps through their effect on occupational structure.",
-    "id": "occupational-choice-and-the-process-of-development",
     "access_type": "check_access",
     "tags": [
       "development-economics",
@@ -961,39 +693,6 @@
     "tags": [
       "RCT",
       "development-economics"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The Millennium Project: A Plan for Meeting the Millennium Development Goals",
-    "authors": "Jeffrey D. Sachs, John W. McArthur",
-    "year": 2005,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://www.earth.columbia.edu/news/2005/images/lancet012205.pdf",
-    "description": "Outlines the UN Millennium Project's strategy for achieving the MDGs, arguing that poverty traps prevent the poorest countries from investing in health, education, and infrastructure without external support.",
-    "id": "the-millennium-project-a-plan-for-meeting-the-millennium-development-goals",
-    "access_type": "check_access",
-    "tags": [
-      "development-economics",
-      "education",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Do Poverty Traps Exist? Assessing the Evidence",
-    "authors": "Aart Kraay, David McKenzie",
-    "year": 2014,
-    "type": "paper",
-    "topic": "Development Economics",
-    "url": "https://documents1.worldbank.org/curated/en/915281468330944384/pdf/WPS6835.pdf",
-    "description": "World Bank Policy Research Working Paper systematically reviewing the empirical evidence on poverty traps at individual, household, and country levels, finding limited support for their existence in most settings.",
-    "id": "do-poverty-traps-exist-assessing-the-evidence",
-    "access_type": "open_access",
-    "tags": [
-      "development-economics",
-      "poverty"
     ],
     "verified": false
   }

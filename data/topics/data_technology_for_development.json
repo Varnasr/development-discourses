@@ -132,38 +132,6 @@
     "verified": false
   },
   {
-    "title": "What is Data Ethics?",
-    "authors": "Luciano Floridi, Mariarosaria Taddeo",
-    "year": 2016,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://royalsocietypublishing.org/doi/10.1098/rsta.2016.0360",
-    "description": "Foundational paper landscaping data ethics as a new branch of ethics studying moral problems related to data, algorithms, and corresponding practices. Proposes a macroethics framework addressing the ethical impact of data science holistically.",
-    "id": "what-is-data-ethics",
-    "access_type": "check_access",
-    "doi": "10.1098/rsta.2016.0360",
-    "tags": [
-      "data-technology"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The Ethics of Algorithms: Mapping the Debate",
-    "authors": "Brent Daniel Mittelstadt, Patrick Allo, Mariarosaria Taddeo, Sandra Wachter, Luciano Floridi",
-    "year": 2016,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://journals.sagepub.com/doi/10.1177/2053951716679679",
-    "description": "Examines how operations and decisions previously left to humans are increasingly delegated to algorithms. Clarifies the ethical importance of algorithmic mediation by mapping key concerns around transparency, accountability, and bias.",
-    "id": "the-ethics-of-algorithms-mapping-the-debate",
-    "access_type": "check_access",
-    "doi": "10.1177/2053951716679679",
-    "tags": [
-      "data-technology"
-    ],
-    "verified": false
-  },
-  {
     "title": "Navigating Algorithm Bias in AI: Ensuring Fairness and Trust in Africa",
     "authors": "Multiple authors",
     "year": 2024,
@@ -230,56 +198,6 @@
     "verified": false
   },
   {
-    "title": "Big Other: Surveillance Capitalism and the Prospects of an Information Civilization",
-    "authors": "Shoshana Zuboff",
-    "year": 2015,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754",
-    "description": "Describes 'surveillance capitalism' as an emergent logic of accumulation in the networked sphere. Introduces the concept of 'Big Other' as a distributed and largely uncontested new expression of power through computer-mediated transactions.",
-    "id": "big-other-surveillance-capitalism-and-the-prospects-of-an-information",
-    "access_type": "free_to_read",
-    "tags": [
-      "data-technology"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Data Colonialism: Rethinking Big Data's Relation to the Contemporary Subject",
-    "authors": "Nick Couldry, Ulises A. Mejias",
-    "year": 2019,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://eprints.lse.ac.uk/89511/1/Couldry_Data-colonialism_Accepted.pdf",
-    "description": "Argues that the capture and processing of social data constitutes a new form of colonialism through 'data relations,' enacting a new social order based on continuous tracking best understood through the history of colonialism.",
-    "id": "data-colonialism-rethinking-big-datas-relation-to-the-contemporary-subject",
-    "access_type": "check_access",
-    "tags": [
-      "big-data",
-      "colonial-legacy",
-      "data-technology"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Aadhaar: Digital Inclusion and Public Services in India",
-    "authors": "Shweta S. Banerjee",
-    "year": 2016,
-    "type": "grey_literature",
-    "topic": "Data & Technology",
-    "url": "https://pubdocs.worldbank.org/en/655801461250682317/WDR16-BP-Aadhaar-Paper-Banerjee.pdf",
-    "description": "World Bank background paper documenting Aadhaar's design and use for digitizing government subsidies, financial services, and public service delivery. Notes considerable room for empirically testing Aadhaar's impact on social inclusion.",
-    "id": "aadhaar-digital-inclusion-and-public-services-in-india",
-    "access_type": "check_access",
-    "tags": [
-      "Aadhaar",
-      "India",
-      "data-technology",
-      "digital"
-    ],
-    "verified": false
-  },
-  {
     "title": "Identity Verification Standards in Welfare Programs: Experimental Evidence from India",
     "authors": "Karthik Muralidharan, Paul Niehaus, Sandip Sukhtankar",
     "year": 2020,
@@ -314,23 +232,6 @@
     "verified": false
   },
   {
-    "title": "Impact of Aadhaar on Welfare Programmes",
-    "authors": "Reetika Khera",
-    "year": 2017,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3045235",
-    "description": "Finds that Aadhaar, far from being inclusive and reducing corruption, is becoming a tool of exclusion. Government estimates of savings do not stand scrutiny, and what passes as 'savings' often results from denial of legal entitlements.",
-    "id": "impact-of-aadhaar-on-welfare-programmes",
-    "access_type": "free_to_read",
-    "tags": [
-      "Aadhaar",
-      "corruption",
-      "data-technology"
-    ],
-    "verified": false
-  },
-  {
     "title": "Identification for Development: The Biometrics Revolution",
     "authors": "Alan Gelb, Julia Clark",
     "year": 2013,
@@ -342,58 +243,6 @@
     "access_type": "open_access",
     "tags": [
       "data-technology"
-    ],
-    "verified": false
-  },
-  {
-    "title": "ID4D Global Dataset 2021 Volume 2: Digital Identification Progress and Gaps",
-    "authors": "World Bank ID4D Initiative",
-    "year": 2021,
-    "type": "grey_literature",
-    "topic": "Data & Technology",
-    "url": "https://documents1.worldbank.org/curated/en/099020824141510923/pdf/P176341192f2c50e11bc5619be95c4fb2ed.pdf",
-    "description": "Finds that approximately 850 million people worldwide lack official ID and at least 3.3 billion cannot securely transact online. Provides a snapshot of digital capabilities of government-recognized identification systems globally.",
-    "id": "id4d-global-dataset-2021-volume-2-digital-identification-progress-and-gaps",
-    "access_type": "open_access",
-    "tags": [
-      "data-technology",
-      "digital"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The Long-Run Poverty and Gender Impacts of Mobile Money",
-    "authors": "Tavneet Suri, William Jack",
-    "year": 2016,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://www.science.org/doi/10.1126/science.aah5309",
-    "description": "Estimates that M-PESA in Kenya increased per capita consumption and lifted 194,000 households (2% of Kenyan households) out of poverty. Impacts were more pronounced for female-headed households through increased financial resilience and occupational choice.",
-    "id": "the-long-run-poverty-and-gender-impacts-of-mobile-money",
-    "access_type": "free_to_read",
-    "doi": "10.1126/science.aah5309",
-    "tags": [
-      "data-technology",
-      "gender",
-      "mobile-technology",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Mobile Money: The Economics of M-Pesa",
-    "authors": "William Jack, Tavneet Suri",
-    "year": 2011,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1749882",
-    "description": "Reports initial results of surveys on M-PESA, documenting the rapid and widespread growth of mobile money in Kenya. Analyzes how mobile money reduces transaction costs and improves risk sharing among households.",
-    "id": "mobile-money-the-economics-of-m-pesa",
-    "access_type": "free_to_read",
-    "tags": [
-      "data-technology",
-      "mobile-technology",
-      "survey-data"
     ],
     "verified": false
   },
@@ -432,55 +281,6 @@
     "verified": false
   },
   {
-    "title": "Mobile Health Interventions in Developing Countries: A Systematic Review",
-    "authors": "Md Rakibul Hoque, Mohammed Sajedur Rahman, Nymatul Jannat Nipa, Md Rashadul Hasan",
-    "year": 2020,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://journals.sagepub.com/doi/full/10.1177/1460458220937102",
-    "description": "Systematic review finding that mHealth interventions show very limited evidence of better public health outcomes in developing countries. Calls for broader evaluation plans to identify evidence of positive outcomes, scalability, and sustainability.",
-    "id": "mobile-health-interventions-in-developing-countries-a-systematic-review",
-    "access_type": "check_access",
-    "tags": [
-      "data-technology",
-      "mobile-technology",
-      "systematic-review"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Poverty from Space: Using High-Resolution Satellite Imagery for Estimating Economic Well-Being",
-    "authors": "Nikos Patias, Francisco Rowe, Stefano Cavazzi",
-    "year": 2017,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://documents1.worldbank.org/curated/en/610771513691888412/pdf/WPS8284.pdf",
-    "description": "World Bank working paper contributing to the growing literature on using remotely sensed data to assess welfare. Finds that a model including geographic size, urban/rural status, and remote sensing data explains 61% of variation in poverty rates.",
-    "id": "poverty-from-space-using-high-resolution-satellite-imagery-for-estimating",
-    "access_type": "open_access",
-    "tags": [
-      "data-technology",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Poverty Estimation with Satellite Imagery at Neighborhood Levels: Results and Lessons for Financial Inclusion from Ghana and Uganda",
-    "authors": "World Bank Research Team",
-    "year": 2019,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://documents1.worldbank.org/curated/en/318541559339293802/pdf/Poverty-Estimation-with-Satellite-Imagery-at-Neighborhood-Levels-Results-and-Lessons-for-Financial-Inclusion-from-Ghana-and-Uganda.pdf",
-    "description": "Demonstrates poverty estimation using satellite imagery at neighborhood levels in Ghana and Uganda. Provides lessons for how granular poverty data from remote sensing can inform financial inclusion strategies.",
-    "id": "poverty-estimation-with-satellite-imagery-at-neighborhood-levels-results-and",
-    "access_type": "open_access",
-    "tags": [
-      "data-technology",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
     "title": "Using Publicly Available Satellite Imagery and Deep Learning to Understand Economic Well-Being in Africa",
     "authors": "Christopher Yeh, Anthony Perez, Anne Driscoll, George Azzari, Zhongyi Tang, David Lobell, Stefano Ermon, Marshall Burke",
     "year": 2020,
@@ -492,61 +292,6 @@
     "access_type": "free_to_read",
     "tags": [
       "data-technology"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Combining Satellite Imagery and Machine Learning to Predict Poverty",
-    "authors": "Neal Jean, Marshall Burke, Michael Xie, W. Matthew Davis, David B. Lobell, Stefano Ermon",
-    "year": 2016,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://www.science.org/doi/abs/10.1126/science.aaf7894",
-    "description": "Demonstrates a machine learning approach that combines daytime and nighttime satellite imagery to predict poverty at fine spatial resolution across five African countries. Pioneering work in using transfer learning for development applications.",
-    "id": "combining-satellite-imagery-and-machine-learning-to-predict-poverty",
-    "access_type": "free_to_read",
-    "tags": [
-      "data-technology",
-      "machine-learning",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Predicting Poverty and Wealth from Mobile Phone Metadata",
-    "authors": "Joshua Blumenstock, Gabriel Cadamuro, Robert On",
-    "year": 2015,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://www.science.org/doi/10.1126/science.aac4420",
-    "description": "Shows that individual phone subscribers' past history of mobile phone use can be used to infer their socioeconomic status in Rwanda. Demonstrates how machine learning on phone metadata can produce poverty maps at dramatically lower cost.",
-    "id": "predicting-poverty-and-wealth-from-mobile-phone-metadata",
-    "access_type": "free_to_read",
-    "doi": "10.1126/science.aac4420",
-    "tags": [
-      "data-technology",
-      "machine-learning",
-      "mobile-technology",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Fighting Poverty with Data",
-    "authors": "Joshua Blumenstock",
-    "year": 2016,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://www.science.org/doi/10.1126/science.aah5217",
-    "description": "Perspective piece cautioning that while big data approaches to poverty measurement show promise, new digital methods may serve more as complement than replacement to traditional approaches. Warns about dynamic social processes and dataset biases.",
-    "id": "fighting-poverty-with-data",
-    "access_type": "free_to_read",
-    "doi": "10.1126/science.aah5217",
-    "tags": [
-      "big-data",
-      "data-technology",
-      "digital",
-      "poverty"
     ],
     "verified": false
   },
@@ -604,36 +349,6 @@
     "url": "https://www.undatarevolution.org/report/",
     "description": "Foundational report calling for a 'data revolution' for sustainable development. Describes the opportunity to improve data essential for decision-making and accountability, and calls on governments and the UN to close data access gaps between developed and developing countries.",
     "id": "a-world-that-counts-mobilising-the-data-revolution-for-sustainable-development",
-    "access_type": "check_access",
-    "tags": [
-      "data-technology"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Africa's Statistical Tragedy",
-    "authors": "Shanta Devarajan",
-    "year": 2013,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://www.researchgate.net/publication/264332702_Africa's_Statistical_Tragedy",
-    "description": "The World Bank's then-chief economist for Africa paints an alarming portrait of the data situation in Africa. Finds the reasons are primarily political and proposes greater openness and transparency of statistics as remedies.",
-    "id": "africas-statistical-tragedy",
-    "access_type": "check_access",
-    "tags": [
-      "data-technology"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Revisiting the Assumptions of the Data Revolution as an Accelerator of the Sustainable Development Goals",
-    "authors": "Multiple authors",
-    "year": 2023,
-    "type": "paper",
-    "topic": "Data & Technology",
-    "url": "https://www.cambridge.org/core/journals/data-and-policy/article/revisiting-the-assumptions-of-the-data-revolution-as-an-accelerator-of-the-sustainable-development-goals/75A319700CDC17C4F74C5DD551B89C3B",
-    "description": "Examines whether advances in data technology and statistical capabilities have accelerated SDG outcomes as policymakers assumed. Finds that while many recommendations were implemented, the impact on SDG outcomes has been inconsistent.",
-    "id": "revisiting-the-assumptions-of-the-data-revolution-as-an-accelerator-of-the",
     "access_type": "check_access",
     "tags": [
       "data-technology"
@@ -727,23 +442,6 @@
     "verified": false
   },
   {
-    "title": "Measuring the Digital Divide in the Asia-Pacific Region",
-    "authors": "UNESCAP",
-    "year": 2012,
-    "type": "grey_literature",
-    "topic": "Data & Technology",
-    "url": "https://www.unescap.org/sites/default/files/Measuring%20the%20Digital%20Divide%20in%20the%20Asia-Pacific%20Region%20for%20the%20United%20Nations%20Economic%20and%20Social%20Commission%20for%20Asia%20and%20the%20Pacific_0.pdf",
-    "description": "Working paper measuring the digital divide in the Asia-Pacific region across multiple dimensions including infrastructure, access, affordability, and usage. Provides regional analysis relevant to South Asian development contexts.",
-    "id": "measuring-the-digital-divide-in-the-asia-pacific-region",
-    "access_type": "check_access",
-    "tags": [
-      "South-Asia",
-      "data-technology",
-      "digital"
-    ],
-    "verified": false
-  },
-  {
     "title": "E-Participation: A Quick Overview of Recent Qualitative Trends",
     "authors": "United Nations Department of Economic and Social Affairs",
     "year": 2020,
@@ -761,21 +459,6 @@
     "verified": false
   },
   {
-    "title": "Civic Tech in the Global South: Assessing Technology for the Public Good",
-    "authors": "Tiago Peixoto, Micah L. Sifry (eds.)",
-    "year": 2017,
-    "type": "book",
-    "topic": "Data & Technology",
-    "url": "https://www.researchgate.net/publication/322618157_Civic_Tech_in_the_Global_South_Assessing_Technology_for_the_Public_Good",
-    "description": "Comprises field evaluations of civic tech initiatives including U-Report in Uganda, MajiVoice in Kenya, and participatory budgeting in Brazil. Includes creation of the first Civic Tech in Africa Evidence Map.",
-    "id": "civic-tech-in-the-global-south-assessing-technology-for-the-public-good",
-    "access_type": "check_access",
-    "tags": [
-      "data-technology"
-    ],
-    "verified": false
-  },
-  {
     "title": "Intersections between Civic Technology (Civic Tech) and Governance in Nigeria and South Africa",
     "authors": "Multiple authors",
     "year": 2022,
@@ -786,39 +469,6 @@
     "id": "intersections-between-civic-technology-civic-tech-and-governance-in-nigeria-and",
     "access_type": "check_access",
     "tags": [
-      "data-technology",
-      "governance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Privacy and Developing Countries",
-    "authors": "Ian Hosein, Gus Hosein",
-    "year": 2011,
-    "type": "grey_literature",
-    "topic": "Data & Technology",
-    "url": "https://www.priv.gc.ca/en/opc-actions-and-decisions/research/explore-privacy-research/2011/hosein_201109/",
-    "description": "Examines how privacy and surveillance concerns are rapidly climbing policy agendas in developing countries, with particular attention to India where wiretapping and video surveillance systems represent growing markets.",
-    "id": "privacy-and-developing-countries",
-    "access_type": "check_access",
-    "tags": [
-      "India",
-      "data-technology"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Cross-Border Data Access for Law Enforcement: What Are India's Strategic Options?",
-    "authors": "Arindrajit Basu, Justin Sherman",
-    "year": 2020,
-    "type": "grey_literature",
-    "topic": "Data & Technology",
-    "url": "https://carnegieendowment.org/research/2020/11/cross-border-data-access-for-law-enforcement-what-are-indias-strategic-options",
-    "description": "Analyzes India's position in international data governance discussions, noting that local storage requirements expose individuals to greater unchecked surveillance by domestic agencies. Argues India can lead data governance discussions for the developing world.",
-    "id": "cross-border-data-access-for-law-enforcement-what-are-indias-strategic-options",
-    "access_type": "check_access",
-    "tags": [
-      "India",
       "data-technology",
       "governance"
     ],
@@ -905,22 +555,6 @@
     "verified": false
   },
   {
-    "title": "Digital Entrepreneurship in Africa: How a Continent Is Escaping Silicon Valley's Long Shadow",
-    "authors": "Nicolas Friederici, Michel Wahome, Mark Graham",
-    "year": 2020,
-    "type": "book",
-    "topic": "Data & Technology",
-    "url": "https://direct.mit.edu/books/oa-monograph/4457/Digital-Entrepreneurship-in-AfricaHow-a-Continent",
-    "description": "Open access book based on fieldwork in 11 African cities finding that digital entrepreneurship is diverse and locally situated. Shows that most digital businesses grow slowly and stay small, challenging narratives of Silicon Valley-style scaling.",
-    "id": "digital-entrepreneurship-in-africa-how-a-continent-is-escaping-silicon-valleys",
-    "access_type": "check_access",
-    "tags": [
-      "data-technology",
-      "digital"
-    ],
-    "verified": false
-  },
-  {
     "title": "Governance of Data and Data-driven Technology",
     "authors": "Nagla Rizk, Tobias Schonwetter",
     "year": 2024,
@@ -933,23 +567,6 @@
     "tags": [
       "data-technology",
       "governance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Global Information Society Watch 2019: Artificial Intelligence - Human Rights, Social Justice and Development",
-    "authors": "Association for Progressive Communications (APC), Hivos",
-    "year": 2019,
-    "type": "grey_literature",
-    "topic": "Data & Technology",
-    "url": "https://www.apc.org/en/pubs/global-information-society-watch-2019-artificial-intelligence-human-rights-social-justice-and",
-    "description": "Provides a Global South perspective on AI applications in everyday life with 40 country reports from diverse countries. Examines how algorithmic decision-making impacts marginalized people and the poor across health, education, and social services.",
-    "id": "global-information-society-watch-2019-artificial-intelligence-human-rights",
-    "access_type": "check_access",
-    "tags": [
-      "AI",
-      "data-technology",
-      "education"
     ],
     "verified": false
   },

@@ -1,0 +1,271 @@
+[
+  {
+    "title": "World Development Report 2011: Conflict, Security, and Development",
+    "authors": "World Bank",
+    "year": 2011,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/4389",
+    "description": "Landmark World Bank report examining the links between conflict, security, and development, finding that 1.5 billion people live in countries affected by repeated cycles of violence and that strengthening legitimate institutions and governance is key to breaking these cycles.",
+    "id": "world-development-report-2011-conflict-security-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "governance",
+      "institutions"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Trends: Forced Displacement in 2022",
+    "authors": "UNHCR",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.unhcr.org/global-trends-report-2022",
+    "description": "UNHCR annual report documenting that forced displacement reached 108.4 million people by the end of 2022, driven by the war in Ukraine, ongoing conflicts in Syria and Afghanistan, and new displacement crises in the Horn of Africa and Sahel.",
+    "id": "global-trends-forced-displacement-in-2022",
+    "access_type": "check_access",
+    "tags": [
+      "Afghanistan",
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Pathways for Peace: Inclusive Approaches to Preventing Violent Conflict",
+    "authors": "United Nations, World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/28337",
+    "description": "Joint UN-World Bank study on conflict prevention, finding that prevention is cost-effective and saves lives, and that inclusive development addressing group-based grievances, security sector reform, and strengthened institutions are critical for sustaining peace.",
+    "id": "pathways-for-peace-inclusive-approaches-to-preventing-violent-conflict",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "institutions"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Forcibly Displaced: Toward a Development Approach Supporting Refugees, the Internally Displaced, and Their Hosts",
+    "authors": "World Bank",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/25016",
+    "description": "World Bank report advocating for a development approach to forced displacement, arguing that refugees and IDPs should be seen as a development challenge requiring long-term investment in livelihoods, education, and host community support alongside humanitarian assistance.",
+    "id": "forcibly-displaced-toward-a-development-approach-supporting-refugees-the",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Conflict and Development: World Bank Strategy for Fragile and Conflict-Affected Situations",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.worldbank.org/en/topic/fragilityconflictviolence/publication/world-bank-group-strategy-for-fragility-conflict-and-violence-2020-2025",
+    "description": "World Bank Group strategy for fragility, conflict, and violence (2020-2025), outlining how the Bank will scale up engagement in FCV settings through prevention, remaining engaged during crises, and supporting the transition out of fragility.",
+    "id": "conflict-and-development-world-bank-strategy-for-fragile-and-conflict-affected",
+    "access_type": "free_to_read",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Civil War and Development Policy",
+    "authors": "Paul Collier",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/14043",
+    "description": "Analyzes the economic causes and consequences of civil war in developing countries, estimating the cost of a typical civil war at $64 billion and identifying low income, slow growth, and dependence on primary commodities as key risk factors for conflict.",
+    "id": "civil-war-and-development-policy",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Grand Bargain: A Shared Commitment to Better Serve People in Need",
+    "authors": "UN OCHA",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://interagencystandingcommittee.org/grand-bargain",
+    "description": "Agreement between major humanitarian donors and organizations to reform humanitarian financing and action, with commitments to increase cash programming, support localization, improve transparency, and reduce reporting burdens.",
+    "id": "the-grand-bargain-a-shared-commitment-to-better-serve-people-in-need",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disaster Risk Reduction Including Climate Change Adaptation Over South Asia: Challenges and Ways Forward",
+    "authors": "Rajib Shaw, Akhilesh Surjan, Gulsan Ara Parvin",
+    "year": 2016,
+    "type": "paper",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7123189/",
+    "description": "Reviews disaster risk reduction challenges in South Asia, examining the intersection of climate change adaptation and DRR, and analyzing institutional frameworks, community-based approaches, and policy integration across the region.",
+    "id": "disaster-risk-reduction-including-climate-change-adaptation-over-south-asia",
+    "access_type": "check_access",
+    "tags": [
+      "South-Asia",
+      "climate-adaptation",
+      "climate-change",
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Breaking the Conflict Trap: Civil War and Development Policy",
+    "authors": "Paul Collier, V.L. Elliott, Havard Hegre, Anke Hoeffler, Marta Reynal-Querol, Nicholas Sambanis",
+    "year": 2003,
+    "type": "book",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/13938",
+    "description": "World Bank research report demonstrating how low-income countries are trapped in cycles of conflict and poverty, with each civil war reducing growth and increasing the risk of future conflict, and proposing policy interventions to break these traps.",
+    "id": "breaking-the-conflict-trap-civil-war-and-development-policy",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Sendai Framework for Disaster Risk Reduction 2015-2030",
+    "authors": "UNDRR",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
+    "description": "The global framework for disaster risk reduction adopted at the Third UN World Conference, setting seven targets and four priorities including understanding disaster risk, strengthening governance, investing in resilience, and enhancing disaster preparedness.",
+    "id": "sendai-framework-for-disaster-risk-reduction-2015-2030",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian",
+      "governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Conflict, Fragility, and Forced Displacement in the Middle East and North Africa",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/33470",
+    "description": "Analyzes how conflict and fragility in MENA have reversed development gains, causing massive displacement, economic destruction, and social disruption, and proposing an integrated approach linking humanitarian, development, and peace interventions.",
+    "id": "conflict-fragility-and-forced-displacement-in-the-middle-east-and-north-africa",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Education in Emergencies: Including Everyone",
+    "authors": "INEE",
+    "year": 2010,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://inee.org/minimum-standards",
+    "description": "The INEE Minimum Standards for Education provide a framework for quality education in emergencies and chronic crises, covering access and learning environment, teaching and learning, teachers and other education personnel, and education policy.",
+    "id": "education-in-emergencies-including-everyone",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Post-Conflict Transitions Working Paper Series: Post-Conflict Economic Recovery",
+    "authors": "Paul Collier, Anke Hoeffler",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/14023",
+    "description": "Analyzes patterns of economic recovery after civil war, finding that post-conflict economies typically experience a period of rapid growth driven by reconstruction and resource reallocation, and identifying policies that support sustained recovery.",
+    "id": "post-conflict-transitions-working-paper-series-post-conflict-economic-recovery",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Building Resilience to Conflict Through Food-Security Policies and Programs",
+    "authors": "IFPRI",
+    "year": 2014,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.ifpri.org/publication/building-resilience-conflict-through-food-security-policies-and-programs",
+    "description": "IFPRI report examining how food security interventions can build resilience to conflict, analyzing the bidirectional relationship between food insecurity and conflict and identifying program design features that strengthen household and community resilience.",
+    "id": "building-resilience-to-conflict-through-food-security-policies-and-programs",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "food-security"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Securing Development: Public Finance and the Security Sector",
+    "authors": "World Bank",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/25138",
+    "description": "Examines how public finance and security sector spending interact in developing countries, arguing that improved governance and transparency of security expenditure is essential for development and that poorly managed security sectors undermine state legitimacy.",
+    "id": "securing-development-public-finance-and-the-security-sector",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Humanitarian Response Index 2011: Focus on Addressing Displacement",
+    "authors": "DARA",
+    "year": 2011,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://daraint.org/humanitarian-response-index/",
+    "description": "Assessment of donor governments' humanitarian response performance, evaluating how well major donors adhere to Good Humanitarian Donorship principles including needs-based allocation, timeliness, and support for accountability and learning.",
+    "id": "humanitarian-response-index-2011-focus-on-addressing-displacement",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Economics of the Syrian Civil War",
+    "authors": "World Bank",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/27541",
+    "description": "Estimates the economic destruction caused by the Syrian conflict, finding cumulative GDP losses of $226 billion by 2016, destruction of about a third of the housing stock, and massive human capital depletion through death, displacement, and disrupted education.",
+    "id": "the-economics-of-the-syrian-civil-war",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "education"
+    ],
+    "verified": false
+  }
+]

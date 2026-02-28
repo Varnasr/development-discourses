@@ -1,0 +1,192 @@
+[
+  {
+    "title": "World Development Report 2018: Learning to Realize Education's Promise",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.worldbank.org/en/publication/wdr2018",
+    "description": "Flagship World Bank report documenting the global learning crisis, finding that schooling does not always lead to learning, and proposing a three-pronged strategy focused on assessing learning, acting on evidence, and aligning actors to make schools work for all learners.",
+    "id": "world-development-report-2018-learning-to-realize-educations-promise",
+    "access_type": "free_to_read",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Effect of Girls' Education on Health Outcomes: Fact Sheet",
+    "authors": "World Bank",
+    "year": 2014,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.worldbank.org/en/topic/education/brief/girls-education",
+    "description": "Overview of evidence on the relationship between girls' education and development outcomes, showing that each additional year of schooling for girls reduces child mortality, increases future earnings, and lowers rates of child marriage.",
+    "id": "the-effect-of-girls-education-on-health-outcomes-fact-sheet",
+    "access_type": "free_to_read",
+    "tags": [
+      "child-health",
+      "child-marriage",
+      "education",
+      "girls-education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Making Schools Work: New Evidence on Accountability Reforms",
+    "authors": "Barbara Bruns, Deon Filmer, Harry Anthony Patrinos",
+    "year": 2011,
+    "type": "book",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2270",
+    "description": "World Bank report examining accountability-based education reforms in developing countries, analyzing evidence on school-based management, teacher accountability, school choice, and performance-based incentives across multiple country contexts.",
+    "id": "making-schools-work-new-evidence-on-accountability-reforms",
+    "access_type": "open_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Expanding Opportunities for the Next Generation: Early Childhood Development in the Middle East and North Africa",
+    "authors": "World Bank",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/32362",
+    "description": "Examines early childhood development in the MENA region, documenting how investments in early learning programs can reduce inequality, improve school readiness, and generate significant long-term returns for individuals and economies.",
+    "id": "expanding-opportunities-for-the-next-generation-early-childhood-development-in",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "inequality"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Case for Investing in Girls' Education",
+    "authors": "Quentin Wodon, Claudio Montenegro, Hoa Nguyen, Adenike Onagoruwa",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/29956",
+    "description": "World Bank study estimating the global costs of not educating girls, finding that limited educational opportunities for girls cost countries between $15 and $30 trillion in lost lifetime productivity and human capital wealth.",
+    "id": "the-case-for-investing-in-girls-education",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "girls-education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Student Learning in South Asia: Challenges, Opportunities, and Policy Priorities",
+    "authors": "Halil Dundar, Tara Beteille, Michelle Riboud, Anil Deolalikar",
+    "year": 2014,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/18486",
+    "description": "Comprehensive analysis of education quality in South Asia, documenting persistently low learning levels despite substantial enrollment gains and analyzing the teacher, governance, and financing challenges underlying the learning crisis.",
+    "id": "student-learning-in-south-asia-challenges-opportunities-and-policy-priorities",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "education",
+      "governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "COVID-19 and Education: The Lingering Effects of Unfinished Learning",
+    "authors": "World Bank, UNESCO, UNICEF",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.worldbank.org/en/topic/education/publication/state-of-global-learning-poverty",
+    "description": "Joint assessment finding that the COVID-19 pandemic increased learning poverty in low- and middle-income countries from 57% to an estimated 70%, with prolonged school closures causing learning losses equivalent to more than a year of schooling in many countries.",
+    "id": "covid-19-and-education-the-lingering-effects-of-unfinished-learning",
+    "access_type": "free_to_read",
+    "tags": [
+      "education",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Education in Sub-Saharan Africa: Comparing Faith-Inspired, Private Secular, and Public Schools",
+    "authors": "Quentin Wodon (ed.)",
+    "year": 2014,
+    "type": "book",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/18969",
+    "description": "Compares the performance of faith-inspired, private secular, and public schools across Sub-Saharan Africa, finding that faith-inspired schools serve a significant share of students, often in underserved areas, and frequently achieve comparable or better outcomes than public schools.",
+    "id": "education-in-sub-saharan-africa-comparing-faith-inspired-private-secular-and",
+    "access_type": "open_access",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Learning Generation: Investing in Education for a Changing World",
+    "authors": "International Commission on Financing Global Education Opportunity",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://report.educationcommission.org/report/",
+    "description": "Report of the Education Commission chaired by Gordon Brown, proposing a financing compact to achieve a 'learning generation' by 2030, calling for increased domestic spending, reformed aid, and innovative financing mechanisms to address the learning crisis.",
+    "id": "the-learning-generation-investing-in-education-for-a-changing-world",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Learning Adjusted Years of Schooling: Defining a New Macro Measure of Education",
+    "authors": "Noam Angrist, Simeon Djankov, Pinelopi Goldberg, Harry Anthony Patrinos",
+    "year": 2021,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/35043",
+    "description": "Introduces a harmonized measure of learning-adjusted years of schooling (LAYS) that combines enrollment and learning quality data, revealing that effective years of schooling are about half of enrolled years in many low-income countries.",
+    "id": "learning-adjusted-years-of-schooling-defining-a-new-macro-measure-of-education",
+    "access_type": "open_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "What Matters Most for School Autonomy and Accountability: A Framework Paper",
+    "authors": "Dina Abu-Ghaida, Sachiko Kataoka, Quentin Wodon",
+    "year": 2014,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/21063",
+    "description": "Presents a framework for understanding school-level autonomy and accountability mechanisms in developing countries, analyzing how decentralization, community participation, and accountability tools affect education quality.",
+    "id": "what-matters-most-for-school-autonomy-and-accountability-a-framework-paper",
+    "access_type": "open_access",
+    "tags": [
+      "decentralization",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Loud and Clear: Effective Language of Instruction Policies for Learning",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.worldbank.org/en/topic/education/publication/loud-and-clear-effective-language-of-instruction-policies-for-learning",
+    "description": "Examines the evidence on language of instruction policies in developing countries, finding that children learn better when initially taught in their mother tongue and that early-exit transition to a second language can harm learning outcomes.",
+    "id": "loud-and-clear-effective-language-of-instruction-policies-for-learning",
+    "access_type": "free_to_read",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  }
+]

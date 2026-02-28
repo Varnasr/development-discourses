@@ -1,21 +1,5 @@
 [
   {
-    "title": "Sustainable Rural Livelihoods: A Framework for Analysis",
-    "authors": "Ian Scoones",
-    "year": 1998,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://opendocs.ids.ac.uk/articles/report/Sustainable_Rural_Livelihoods_A_Framework_for_Analysis/26473384",
-    "description": "Foundational IDS Working Paper 72 that established the Sustainable Livelihoods Framework, defining livelihoods in terms of access to natural, economic, human, and social capitals combined in pursuit of agricultural intensification, diversification, and migration strategies.",
-    "id": "sustainable-rural-livelihoods-a-framework-for-analysis",
-    "access_type": "check_access",
-    "tags": [
-      "livelihoods",
-      "migration"
-    ],
-    "verified": false
-  },
-  {
     "title": "Sustainable Rural Livelihoods: Practical Concepts for the 21st Century",
     "authors": "Robert Chambers, Gordon R. Conway",
     "year": 1992,
@@ -115,24 +99,6 @@
     "verified": false
   },
   {
-    "title": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
-    "authors": "Abhijit V. Banerjee, Esther Duflo",
-    "year": 2011,
-    "type": "book",
-    "topic": "Livelihoods",
-    "url": "http://pooreconomics.com/",
-    "description": "Nobel laureates' book based on 15 years of randomized experiments across developing countries, challenging conventional assumptions about poverty and showing how the poor make livelihood decisions about savings, entrepreneurship, health, and education.",
-    "id": "poor-economics-a-radical-rethinking-of-the-way-to-fight-global-poverty",
-    "access_type": "check_access",
-    "tags": [
-      "RCT",
-      "education",
-      "livelihoods",
-      "poverty"
-    ],
-    "verified": false
-  },
-  {
     "title": "The Microfinance Promise",
     "authors": "Jonathan Morduch",
     "year": 1999,
@@ -198,24 +164,6 @@
     "access_type": "open_access",
     "tags": [
       "RCT",
-      "livelihoods",
-      "microfinance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Estimating the Impact of Microcredit on Those Who Take It Up: Evidence from a Randomized Experiment in Morocco",
-    "authors": "Bruno Crepon, Florencia Devoto, Esther Duflo, William Pariente",
-    "year": 2015,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://dspace.mit.edu/bitstream/handle/1721.1/95969/Duflo_Estimating%20the.pdf",
-    "description": "RCT of microcredit in rural Morocco showing that among likely borrowers, credit access led to significant increases in self-employment assets and profits but also reduced casual labor income, with no overall consumption gains.",
-    "id": "estimating-the-impact-of-microcredit-on-those-who-take-it-up-evidence-from-a",
-    "access_type": "free_to_read",
-    "tags": [
-      "RCT",
-      "employment",
       "livelihoods",
       "microfinance"
     ],
@@ -295,43 +243,6 @@
     "verified": false
   },
   {
-    "title": "Sustainability of Microfinance Self Help Groups in India",
-    "authors": "Girija Srinivasan",
-    "year": 2005,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://documents1.worldbank.org/curated/en/390771468771327388/pdf/wps3516.pdf",
-    "description": "World Bank Working Paper examining the SHG-bank linkage programme in India, analyzing SHG federations as an exit strategy for promoting organizations and assessing conditions for financial sustainability of the world's largest microfinance programme.",
-    "id": "sustainability-of-microfinance-self-help-groups-in-india",
-    "access_type": "open_access",
-    "tags": [
-      "India",
-      "livelihoods",
-      "microfinance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Economic and Social Impacts of Self-Help Groups in India",
-    "authors": "Klaus Deininger, Yanyan Liu",
-    "year": 2009,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1372961",
-    "description": "World Bank Working Paper using a large household survey to assess SHG impacts in India, finding positive effects on women's empowerment and nutritional intake, with empowerment benefits extending to non-participants through positive externalities.",
-    "id": "economic-and-social-impacts-of-self-help-groups-in-india",
-    "access_type": "free_to_read",
-    "tags": [
-      "India",
-      "SHGs",
-      "livelihoods",
-      "nutrition",
-      "survey-data",
-      "womens-empowerment"
-    ],
-    "verified": false
-  },
-  {
     "title": "Participation in Microfinance-Based Self Help Groups in India: Who Becomes a Member and for How Long?",
     "authors": "Payal Seth, Arnab Mukherji",
     "year": 2020,
@@ -382,24 +293,6 @@
     "verified": false
   },
   {
-    "title": "Returns to Capital in Microenterprises: Evidence from a Field Experiment",
-    "authors": "Suresh de Mel, David McKenzie, Christopher Woodruff",
-    "year": 2008,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://docs.iza.org/dp2934.pdf",
-    "description": "Randomized experiment providing cash and equipment grants to microenterprises in Sri Lanka, finding average real returns of 4.6-5.3% per month, substantially above market interest rates, but with significant gender heterogeneity showing no positive returns for female-owned enterprises.",
-    "id": "returns-to-capital-in-microenterprises-evidence-from-a-field-experiment",
-    "access_type": "check_access",
-    "tags": [
-      "RCT",
-      "Sri-Lanka",
-      "gender",
-      "livelihoods"
-    ],
-    "verified": false
-  },
-  {
     "title": "Microentrepreneurship in Developing Countries",
     "authors": "Abhijit Banerjee, Emily Breza, Esther Duflo, Cynthia Kinnan",
     "year": 2019,
@@ -412,45 +305,6 @@
     "tags": [
       "livelihoods",
       "microfinance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Teaching Entrepreneurship: Impact of Business Training on Microfinance Clients and Institutions",
-    "authors": "Dean Karlan, Martin Valdivia",
-    "year": 2011,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=920487",
-    "description": "First RCT evaluating business training for microfinance clients, conducted with FINCA in Peru, finding improved business knowledge and MFI client retention but negligible effects on revenue, profits, or employment among female microentrepreneurs.",
-    "id": "teaching-entrepreneurship-impact-of-business-training-on-microfinance-clients",
-    "access_type": "free_to_read",
-    "tags": [
-      "RCT",
-      "employment",
-      "institutions",
-      "livelihoods",
-      "microfinance"
-    ],
-    "verified": false
-  },
-  {
-    "title": "A Multifaceted Program Causes Lasting Progress for the Very Poor: Evidence from Six Countries",
-    "authors": "Abhijit Banerjee, Esther Duflo, Nathanael Goldberg, Dean Karlan, Robert Osei, William Pariente, Jeremy Shapiro, Bram Thuysbaert, Christopher Udry",
-    "year": 2015,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://dspace.mit.edu/handle/1721.1/97047",
-    "description": "Landmark study in Science reporting results from six RCTs of the graduation approach across Ethiopia, Ghana, Honduras, India, Pakistan, and Peru, demonstrating cost-effective and sustained improvements in consumption, assets, and psychological well-being for the ultra-poor.",
-    "id": "a-multifaceted-program-causes-lasting-progress-for-the-very-poor-evidence-from",
-    "access_type": "free_to_read",
-    "tags": [
-      "India",
-      "Pakistan",
-      "RCT",
-      "graduation-approach",
-      "livelihoods",
-      "ultra-poor"
     ],
     "verified": false
   },
@@ -486,23 +340,6 @@
       "livelihoods",
       "poverty",
       "ultra-poor"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Graduating the Poor: Completion Report of CGAP's Graduating the Poor Initiative",
-    "authors": "CGAP",
-    "year": 2019,
-    "type": "grey_literature",
-    "topic": "Livelihoods",
-    "url": "https://documents1.worldbank.org/curated/en/988811549967967067/pdf/Graduating-the-Poor.pdf",
-    "description": "Completion report finding that graduation programs are more cost-effective than lump-sum cash transfers or standalone livelihoods programs for the extreme poor, with nearly 60 actors now testing or scaling the approach worldwide.",
-    "id": "graduating-the-poor-completion-report-of-cgaps-graduating-the-poor-initiative",
-    "access_type": "open_access",
-    "tags": [
-      "cash-transfers",
-      "graduation-approach",
-      "livelihoods"
     ],
     "verified": false
   },
@@ -591,40 +428,6 @@
     "verified": false
   },
   {
-    "title": "Making Labor Markets Work for the Youth: An Approach Paper",
-    "authors": "World Bank",
-    "year": 2025,
-    "type": "grey_literature",
-    "topic": "Livelihoods",
-    "url": "https://documents1.worldbank.org/curated/en/099021125104529845/pdf/P506693-6eb8104a-0f5f-43e4-ab0b-7017bd23765a.pdf",
-    "description": "World Bank approach paper noting that 1.1 billion of the world's 1.2 billion youth live in the Global South, proposing a policy framework combining vocational training, mentoring, entrepreneurship support, and access to finance for youth employment.",
-    "id": "making-labor-markets-work-for-the-youth-an-approach-paper",
-    "access_type": "open_access",
-    "tags": [
-      "employment",
-      "labor-markets",
-      "livelihoods"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Youth Employment in Sub-Saharan Africa",
-    "authors": "Deon Filmer, Louise Fox",
-    "year": 2014,
-    "type": "book",
-    "topic": "Livelihoods",
-    "url": "https://documents1.worldbank.org/curated/en/424011468192529027/pdf/Full-report.pdf",
-    "description": "World Bank Africa Development Series book analyzing youth employment dynamics including the demographic transition, untapped farming opportunities, and youth aspirations in Sub-Saharan Africa, with policy recommendations for improving livelihoods.",
-    "id": "youth-employment-in-sub-saharan-africa",
-    "access_type": "open_access",
-    "tags": [
-      "Sub-Saharan-Africa",
-      "employment",
-      "livelihoods"
-    ],
-    "verified": false
-  },
-  {
     "title": "Youth Aspirations and the Reality of Jobs in Developing Countries: Mind the Gap",
     "authors": "OECD Development Centre",
     "year": 2017,
@@ -676,21 +479,6 @@
     "verified": false
   },
   {
-    "title": "Workers' Remittances: An Important and Stable Source of External Development Finance",
-    "authors": "Dilip Ratha",
-    "year": 2003,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3201568",
-    "description": "Pioneering World Bank analysis that brought remittances to global attention, showing they are larger than official aid, counter-cyclical to recipient economies, and represent the second-largest source of external finance for developing countries.",
-    "id": "workers-remittances-an-important-and-stable-source-of-external-development",
-    "access_type": "free_to_read",
-    "tags": [
-      "livelihoods"
-    ],
-    "verified": false
-  },
-  {
     "title": "Remittances and Poverty in Migrants' Home Areas: Evidence from the Philippines",
     "authors": "Dean Yang, HwaJung Choi",
     "year": 2007,
@@ -703,22 +491,6 @@
     "tags": [
       "livelihoods",
       "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Migration and Development Brief 39",
-    "authors": "KNOMAD, World Bank",
-    "year": 2023,
-    "type": "grey_literature",
-    "topic": "Livelihoods",
-    "url": "https://documents1.worldbank.org/curated/en/099740408142422676/pdf/IDU-84dfd61b-e135-4242-a202-3728b2e8fa86.pdf",
-    "description": "World Bank/KNOMAD brief reporting that remittance flows to LMICs reached $656 billion in 2023, surpassing FDI and ODA, while documenting that global remittance costs remain at 6.2%, more than twice the SDG target of 3%.",
-    "id": "migration-and-development-brief-39",
-    "access_type": "open_access",
-    "tags": [
-      "livelihoods",
-      "migration"
     ],
     "verified": false
   },
@@ -753,21 +525,6 @@
       "agriculture",
       "biodiversity",
       "food-security",
-      "livelihoods"
-    ],
-    "verified": false
-  },
-  {
-    "title": "The Economic Lives of Smallholder Farmers",
-    "authors": "FAO",
-    "year": 2015,
-    "type": "grey_literature",
-    "topic": "Livelihoods",
-    "url": "https://openknowledge.fao.org/server/api/core/bitstreams/32709b4d-ed41-4b1e-9d37-91786824cb9e/content",
-    "description": "FAO analytical report using the Smallholder Farmers' DataPortrait to examine economic conditions and livelihood strategies of smallholders across multiple countries, documenting the diversity of income sources and asset levels.",
-    "id": "the-economic-lives-of-smallholder-farmers",
-    "access_type": "open_access",
-    "tags": [
       "livelihoods"
     ],
     "verified": false
@@ -868,39 +625,6 @@
       "food-security",
       "livelihoods",
       "social-protection"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Long-Term Impacts of Conditional Cash Transfers: Review of the Evidence",
-    "authors": "Sarah Baird, Francisco H.G. Ferreira, Berk Ozler, Michael Woolcock",
-    "year": 2019,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://academic.oup.com/wbro/article/34/1/119/5492445",
-    "description": "World Bank Research Observer review of CCT long-term evidence highlighting that while short-term impacts on schooling and health are well-established, long-term effects on livelihoods and adult earnings remain mixed and methodologically challenging to measure.",
-    "id": "long-term-impacts-of-conditional-cash-transfers-review-of-the-evidence",
-    "access_type": "check_access",
-    "tags": [
-      "cash-transfers",
-      "education",
-      "livelihoods"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Evaluating the Impact of Conditional Cash Transfer Programs",
-    "authors": "Ariel Fiszbein, Norbert Schady",
-    "year": 2009,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://documents1.worldbank.org/curated/en/175211468331772414/pdf/767450JRN0WBRO00Box374387B00PUBLIC0.pdf",
-    "description": "World Bank analysis of CCT evaluations across Colombia, Honduras, Jamaica, Mexico, Nicaragua, and Turkey, finding clear evidence of success in increasing enrollment, improving preventive health care, and raising household consumption.",
-    "id": "evaluating-the-impact-of-conditional-cash-transfer-programs",
-    "access_type": "open_access",
-    "tags": [
-      "cash-transfers",
-      "livelihoods"
     ],
     "verified": false
   },
@@ -1053,21 +777,6 @@
     "tags": [
       "livelihoods",
       "poverty"
-    ],
-    "verified": false
-  },
-  {
-    "title": "A Sustainable Livelihoods Framework for the 21st Century",
-    "authors": "Nitya Natarajan, Andrew Newsham, Jonathan Rigg, Diana Suhardiman",
-    "year": 2022,
-    "type": "paper",
-    "topic": "Livelihoods",
-    "url": "https://socialprotection.org/sites/default/files/publications_files/1-s2.0-S0305750X22000882-main.pdf",
-    "description": "World Development paper proposing a reformulation of the classic Sustainable Livelihoods Framework, addressing critiques of theory, method, scale, politics, and decolonizing knowledge while updating the framework for contemporary development challenges.",
-    "id": "a-sustainable-livelihoods-framework-for-the-21st-century",
-    "access_type": "check_access",
-    "tags": [
-      "livelihoods"
     ],
     "verified": false
   }

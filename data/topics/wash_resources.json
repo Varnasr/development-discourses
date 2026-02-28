@@ -1,0 +1,352 @@
+[
+  {
+    "title": "Wash'Em: A Handwashing Behaviour Change Approach",
+    "authors": "LSHTM, Unilever",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://washem.info/",
+    "description": "Rapid behaviour change methodology for handwashing promotion in emergency and development settings, providing tools for identifying handwashing barriers and designing context-appropriate interventions based on behavioural science.",
+    "id": "washem-a-handwashing-behaviour-change-approach",
+    "access_type": "check_access",
+    "tags": [
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water, Sanitation, and Hygiene (WASH): Evidence, Gaps, and New Approaches",
+    "authors": "WHO",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.who.int/publications/i/item/9789241515191",
+    "description": "WHO guidelines on sanitation and health providing evidence-based recommendations on sanitation interventions, emphasizing the health impact of safely managed sanitation and the need for systemic approaches beyond individual household interventions.",
+    "id": "water-sanitation-and-hygiene-wash-evidence-gaps-and-new-approaches",
+    "access_type": "open_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Effect of Water, Sanitation, and Hygiene on the Prevention of Diarrhoea in Young Children: A Systematic Review and Meta-Analysis",
+    "authors": "Lorna Fewtrell, Rachel B. Kaufmann, David Kay, Wayne Enanoria, Laurence Haller, John M. Colford Jr.",
+    "year": 2005,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1257668/",
+    "description": "Meta-analysis of WASH interventions and diarrhoeal disease, finding that handwashing with soap reduces diarrhoea risk by 47%, water quality improvements at point of use reduce risk by 35%, and sanitation interventions reduce risk by 32%.",
+    "id": "effect-of-water-sanitation-and-hygiene-on-the-prevention-of-diarrhoea-in-young",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "meta-analysis",
+      "systematic-review",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water Supply, Sanitation, and Hygiene Promotion Interventions and Child Health Outcomes: A Systematic Review and Meta-analysis",
+    "authors": "Oliver Cumming, Sandy Cairncross",
+    "year": 2016,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4737989/",
+    "description": "Systematic review and meta-analysis examining the relationship between WASH interventions and child health, finding significant associations between improved sanitation and reduced stunting, and between handwashing promotion and reduced diarrhoea.",
+    "id": "water-supply-sanitation-and-hygiene-promotion-interventions-and-child-health",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "meta-analysis",
+      "nutrition",
+      "systematic-review",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "WASH Benefits Bangladesh: A Cluster-Randomised Trial of the Impact of WASH Interventions on Child Health and Development",
+    "authors": "Jade Benjamin-Chung, John M. Colford Jr., Andrew Mertens, Alan Hubbard, et al.",
+    "year": 2018,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5784872/",
+    "description": "Major RCT in rural Bangladesh finding that combined water, sanitation, hygiene, and nutrition interventions reduced diarrhoea prevalence and improved linear growth in young children, though individual WASH components alone had limited effects on growth.",
+    "id": "wash-benefits-bangladesh-a-cluster-randomised-trial-of-the-impact-of-wash",
+    "access_type": "check_access",
+    "tags": [
+      "Bangladesh",
+      "RCT",
+      "WASH",
+      "nutrition",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "WASH in Health Care Facilities: Global Baseline Report 2019",
+    "authors": "WHO, UNICEF",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.who.int/publications/i/item/9789241515504",
+    "description": "First global assessment of WASH in health care facilities, finding that one in four health care facilities worldwide lacks basic water services and that 1.8 billion people use facilities without basic water service, undermining infection prevention and quality of care.",
+    "id": "wash-in-health-care-facilities-global-baseline-report-2019",
+    "access_type": "open_access",
+    "tags": [
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Hygiene and Health: Systematic Review of Handwashing Practices Worldwide and Update of Health Effects",
+    "authors": "Val Curtis, Sandy Cairncross",
+    "year": 2003,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448373/",
+    "description": "Systematic review of global handwashing practices and their health effects, finding that handwashing rates are very low across all settings and that handwashing with soap can reduce diarrhoeal disease by 42-47%, making it one of the most cost-effective health interventions.",
+    "id": "hygiene-and-health-systematic-review-of-handwashing-practices-worldwide-and",
+    "access_type": "check_access",
+    "tags": [
+      "systematic-review",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Sanitation and Stunting: A Systematic Review and Meta-analysis",
+    "authors": "Aurelie Brainard, Paul R. Hunter",
+    "year": 2019,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6413756/",
+    "description": "Systematic review examining the relationship between sanitation and child stunting, finding that improved sanitation is associated with reduced odds of stunting, with stronger effects in settings with high open defecation prevalence.",
+    "id": "sanitation-and-stunting-a-systematic-review-and-meta-analysis",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "meta-analysis",
+      "nutrition",
+      "systematic-review",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Community-Led Total Sanitation: A Mixed Methods Systematic Review of Evidence and Its Quality",
+    "authors": "Vidya Venkataramanan, Jonny Crocker, Andrew Karon, Jamie Bartram",
+    "year": 2018,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986478/",
+    "description": "Mixed-methods systematic review of CLTS program evidence, finding that while CLTS can trigger collective action to end open defecation, achieving and sustaining open defecation free status remains a challenge, particularly for the poorest households.",
+    "id": "community-led-total-sanitation-a-mixed-methods-systematic-review-of-evidence",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "mixed-methods",
+      "systematic-review",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Safely Managed Drinking Water: Thematic Report on Drinking Water 2017",
+    "authors": "WHO, UNICEF",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.who.int/publications/i/item/9789241565424",
+    "description": "First global analysis of safely managed drinking water under the SDG framework, establishing baselines and tracking methods for measuring progress toward universal access to safe, affordable, and accessible drinking water.",
+    "id": "safely-managed-drinking-water-thematic-report-on-drinking-water-2017",
+    "access_type": "open_access",
+    "tags": [
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Sustainable Sanitation for All: Experiences, Challenges, and Innovations",
+    "authors": "Petra Bongartz, Naomi Vernon, John Fox",
+    "year": 2016,
+    "type": "book",
+    "topic": "WASH",
+    "url": "https://opendocs.ids.ac.uk/articles/book/Sustainable_Sanitation_for_All_Experiences_challenges_and_innovations/26120703",
+    "description": "Comprehensive volume exploring the challenges of sustaining sanitation outcomes after initial behavior change, examining issues of equity, inclusion, monitoring, and the political economy of sanitation programs across multiple countries.",
+    "id": "sustainable-sanitation-for-all-experiences-challenges-and-innovations",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water Scarcity, Risk and Vulnerability: An Assessment Under Climate Change",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://openknowledge.worldbank.org/handle/10986/23840",
+    "description": "Analyzes the relationship between water scarcity, climate change, and economic growth, estimating that water scarcity exacerbated by climate change could reduce GDP growth by up to 6% in some regions by 2050.",
+    "id": "water-scarcity-risk-and-vulnerability-an-assessment-under-climate-change",
+    "access_type": "open_access",
+    "tags": [
+      "climate-change",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The True Cost of Poor Sanitation",
+    "authors": "Guy Hutton",
+    "year": 2012,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://openknowledge.worldbank.org/handle/10986/17334",
+    "description": "Estimates the global economic losses from inadequate sanitation at $260 billion annually, covering healthcare costs, productivity losses, and premature deaths, and calculates that every dollar invested in sanitation yields a return of $5.50.",
+    "id": "the-true-cost-of-poor-sanitation",
+    "access_type": "open_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Menstrual Hygiene Management: Operational Guidelines",
+    "authors": "UNICEF",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.unicef.org/documents/guidance-menstrual-health-and-hygiene",
+    "description": "Provides operational guidance for integrating menstrual hygiene management into WASH programs, covering the provision of menstrual materials, facilities, education, and addressing stigma in schools and communities.",
+    "id": "menstrual-hygiene-management-operational-guidelines",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Point-of-Use Household Drinking Water Filtration: A Practical, Effective Solution or Scalable Stopgap?",
+    "authors": "Thomas Clasen",
+    "year": 2015,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4339529/",
+    "description": "Reviews the evidence on point-of-use water treatment, finding that while these technologies can improve microbiological water quality and reduce diarrhoeal disease, challenges in sustained and correct use limit their long-term effectiveness at scale.",
+    "id": "point-of-use-household-drinking-water-filtration-a-practical-effective-solution",
+    "access_type": "check_access",
+    "tags": [
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Effectiveness of Interventions to Promote Handwashing and Other Health Behaviours Before and After COVID-19: A Systematic Review",
+    "authors": "Jennifer Brogan, Jennie Musto, Val Curtis",
+    "year": 2022,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9563850/",
+    "description": "Systematic review of handwashing promotion interventions before and during COVID-19, examining which behaviour change techniques are most effective at increasing handwashing and sustaining the practice over time.",
+    "id": "effectiveness-of-interventions-to-promote-handwashing-and-other-health",
+    "access_type": "check_access",
+    "tags": [
+      "systematic-review",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "How Does Improving Water, Sanitation and Hygiene Affect Nutrition? A Systematic Review",
+    "authors": "Alan D. Dangour, Louise Watson, Oliver Cumming, Sonja Y. Hess, et al.",
+    "year": 2013,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3746178/",
+    "description": "Systematic review examining the pathways between WASH improvements and nutritional outcomes in children, finding limited but suggestive evidence that WASH interventions can reduce stunting through reduced enteric infections and environmental enteropathy.",
+    "id": "how-does-improving-water-sanitation-and-hygiene-affect-nutrition-a-systematic",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "nutrition",
+      "systematic-review",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water Safety Plans: Managing Drinking-Water Quality from Catchment to Consumer",
+    "authors": "WHO",
+    "year": 2005,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.who.int/publications/i/item/9789241562638",
+    "description": "WHO guidance on developing and implementing Water Safety Plans as a systematic risk management approach to ensuring the safety of drinking water from source to consumer, applicable to water supply systems in both developed and developing country contexts.",
+    "id": "water-safety-plans-managing-drinking-water-quality-from-catchment-to-consumer",
+    "access_type": "open_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Rural Water Supply in Africa: Lessons from Implementation Projects",
+    "authors": "World Bank",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://openknowledge.worldbank.org/handle/10986/27703",
+    "description": "Synthesizes lessons from World Bank-supported rural water supply projects in Sub-Saharan Africa, identifying community management capacity, post-construction support, and sustainable financing as critical factors for long-term functionality of water infrastructure.",
+    "id": "rural-water-supply-in-africa-lessons-from-implementation-projects",
+    "access_type": "open_access",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Handwashing Handbook: A Guide for Developing a Hygiene Promotion Program",
+    "authors": "World Bank, UNICEF, USAID",
+    "year": 2005,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://openknowledge.worldbank.org/handle/10986/7158",
+    "description": "Practical guide for designing and implementing handwashing promotion programs in developing countries, covering formative research, communication strategy development, partnership building, and monitoring and evaluation of hygiene interventions.",
+    "id": "the-handwashing-handbook-a-guide-for-developing-a-hygiene-promotion-program",
+    "access_type": "open_access",
+    "tags": [
+      "M&E",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water, Sanitation, Hygiene, and Soil-Transmitted Helminth Infection: A Systematic Review and Meta-Analysis",
+    "authors": "Matthew C. Freeman, Masa Ogden, Jacqueline Brooker, et al.",
+    "year": 2017,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5222501/",
+    "description": "Systematic review and meta-analysis examining the relationship between WASH and soil-transmitted helminth infections, finding that access to sanitation and safe water is associated with reduced odds of infection with Ascaris, Trichuris, and hookworm.",
+    "id": "water-sanitation-hygiene-and-soil-transmitted-helminth-infection-a-systematic",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "meta-analysis",
+      "systematic-review",
+      "wash"
+    ],
+    "verified": false
+  }
+]

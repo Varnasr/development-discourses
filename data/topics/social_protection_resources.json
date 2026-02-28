@@ -1,0 +1,396 @@
+[
+  {
+    "title": "World Development Report 2014: Risk and Opportunity - Managing Risk for Development",
+    "authors": "World Bank",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/16092",
+    "description": "World Bank flagship report examining how social protection and risk management systems help people prepare for, cope with, and recover from shocks, arguing that proactive risk management is essential for development and poverty reduction.",
+    "id": "world-development-report-2014-risk-and-opportunity-managing-risk-for-development",
+    "access_type": "open_access",
+    "tags": [
+      "poverty",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of Social Safety Nets 2018",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/29115",
+    "description": "Comprehensive World Bank review of global social safety net programs, finding that every country has at least one safety net program and that 2.5 billion people in developing countries are covered, though coverage gaps remain largest among the poorest.",
+    "id": "the-state-of-social-safety-nets-2018",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cash Transfers: What Does the Evidence Say? A Rigorous Review of Programme Impact and the Role of Design and Implementation Features",
+    "authors": "Francesca Bastagli, Jessica Hagen-Zanker, Luke Harman, Valentina Barca, Georgina Sturge, Tanja Schmidt",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://odi.org/en/publications/cash-transfers-what-does-the-evidence-say-a-rigorous-review-of-impacts-and-the-role-of-design-and-implementation-features/",
+    "description": "Major ODI review of 165 studies on cash transfer programs, finding strong evidence that cash transfers increase spending, food security, and school attendance, and that impacts depend on program design features including transfer size, frequency, and conditionality.",
+    "id": "cash-transfers-what-does-the-evidence-say-a-rigorous-review-of-programme-impact",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "education",
+      "food-security",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Conditional Cash Transfers: Reducing Present and Future Poverty",
+    "authors": "Ariel Fiszbein, Norbert Schady",
+    "year": 2009,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2597",
+    "description": "World Bank comprehensive assessment of conditional cash transfer programs across developing countries, finding that CCTs have been effective at increasing school enrollment and health service utilization, with the strongest effects among the poorest households.",
+    "id": "conditional-cash-transfers-reducing-present-and-future-poverty",
+    "access_type": "open_access",
+    "tags": [
+      "cash-transfers",
+      "education",
+      "poverty",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Social Protection and Labor at the World Bank, 2000-2008",
+    "authors": "World Bank",
+    "year": 2009,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2626",
+    "description": "Reviews the evolution of the World Bank's social protection and labor strategy, documenting the expansion from safety nets to a comprehensive social risk management framework encompassing insurance, assistance, and labor market programs.",
+    "id": "social-protection-and-labor-at-the-world-bank-2000-2008",
+    "access_type": "open_access",
+    "tags": [
+      "labor-markets",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Public Works Programs in Developing Countries: Beyond Safety Net Programs",
+    "authors": "Kalanidhi Subbarao, Carlo del Ninno, Colin Andrews, Claudia Rodriguez-Alas",
+    "year": 2013,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/11882",
+    "description": "Comprehensive analysis of public works programs in developing countries, examining how these programs can serve both as safety nets providing income support and as productive investments creating community assets when properly designed.",
+    "id": "public-works-programs-in-developing-countries-beyond-safety-net-programs",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Productive Safety Net Programme in Ethiopia: Impacts on Children's Schooling and Labour",
+    "authors": "John Hoddinott, Daniel O. Gilligan, Alemayehu Seyoum Taffesse",
+    "year": 2010,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://www.ifpri.org/publication/productive-safety-net-programme-ethiopia",
+    "description": "Evaluates Ethiopia's Productive Safety Net Programme, one of the largest social protection programs in Africa, finding that it reduced food insecurity among beneficiaries and that the public works component contributed to community asset creation.",
+    "id": "the-productive-safety-net-programme-in-ethiopia-impacts-on-childrens-schooling",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Targeting of Social Programs in Africa",
+    "authors": "David Coady, Margaret Grosh, John Hoddinott",
+    "year": 2004,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/14902",
+    "description": "World Bank analysis of targeting mechanisms used in social programs in developing countries, comparing proxy means testing, geographic targeting, community-based targeting, and self-targeting, and assessing their relative effectiveness and costs.",
+    "id": "targeting-of-social-programs-in-africa",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Social Safety Nets and Gender: Learning from Impact Evaluations and World Bank Projects",
+    "authors": "World Bank",
+    "year": 2014,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/21875",
+    "description": "Reviews the gender dimensions of social safety net programs, finding that programs targeting women as recipients tend to have stronger impacts on children's nutrition and education, and that public works programs can be designed to facilitate women's participation.",
+    "id": "social-safety-nets-and-gender-learning-from-impact-evaluations-and-world-bank",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "gender",
+      "impact-evaluation",
+      "nutrition",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Adaptive Social Protection: Building Resilience to Shocks",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/33785",
+    "description": "Introduces the concept of adaptive social protection, which integrates social protection, disaster risk management, and climate change adaptation to help poor and vulnerable households prepare for, cope with, and adapt to covariate shocks.",
+    "id": "adaptive-social-protection-building-resilience-to-shocks",
+    "access_type": "open_access",
+    "tags": [
+      "climate-adaptation",
+      "climate-change",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Universal Basic Income: A Primer",
+    "authors": "Ugo Gentilini, Margaret Grosh, Jamele Rigolini, Ruslan Yemtsov (eds.)",
+    "year": 2020,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/32677",
+    "description": "World Bank volume exploring universal basic income from multiple perspectives, examining the concept's history, the evidence from pilot programs, fiscal implications, and how UBI compares to targeted transfers in different developing country contexts.",
+    "id": "universal-basic-income-a-primer",
+    "access_type": "open_access",
+    "tags": [
+      "UBI",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Social Registries for Social Assistance and Beyond: A Guidance Note and Assessment Tool",
+    "authors": "World Bank",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/28406",
+    "description": "Technical guidance on building social registries that serve as integrated platforms for identifying, registering, and determining the eligibility of potential beneficiaries for social programs, drawing on country experiences across developing regions.",
+    "id": "social-registries-for-social-assistance-and-beyond-a-guidance-note-and",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Closing the Coverage Gap: The Role of Social Pensions and Other Retirement Income Transfers",
+    "authors": "World Bank",
+    "year": 2009,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2651",
+    "description": "Examines how social pensions and non-contributory transfers can close pension coverage gaps in developing countries where formal pension systems cover only a fraction of the elderly, analyzing design options, fiscal costs, and poverty impacts.",
+    "id": "closing-the-coverage-gap-the-role-of-social-pensions-and-other-retirement",
+    "access_type": "open_access",
+    "tags": [
+      "poverty",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Protecting the Poor: A Microinsurance Compendium",
+    "authors": "Craig Churchill (ed.)",
+    "year": 2006,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://www.ilo.org/publications/protecting-poor-microinsurance-compendium",
+    "description": "ILO compendium on microinsurance for low-income populations, covering health, life, property, and agricultural insurance products, and analyzing the institutional models, distribution channels, and regulatory frameworks that enable insurance to reach the poor.",
+    "id": "protecting-the-poor-a-microinsurance-compendium",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Social Safety Nets in Latin America: Responding to Crises and Building Resilience",
+    "authors": "Margaret Grosh, Carlos Leite, Matthew Wai-Poi, Emil Tesliuc",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/37095",
+    "description": "Analyzes how Latin American social safety net systems responded to the COVID-19 pandemic, documenting rapid expansion of cash transfers that reached 326 million people, and drawing lessons for building more adaptive and shock-responsive social protection systems.",
+    "id": "social-safety-nets-in-latin-america-responding-to-crises-and-building-resilience",
+    "access_type": "open_access",
+    "tags": [
+      "Latin-America",
+      "cash-transfers",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "India's National Rural Employment Guarantee Act (NREGA): An Assessment",
+    "authors": "World Bank",
+    "year": 2011,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2702",
+    "description": "Assessment of India's NREGA, the world's largest public works program guaranteeing 100 days of employment per rural household, examining its implementation, impact on poverty and food security, and challenges including leakage and delayed payments.",
+    "id": "indias-national-rural-employment-guarantee-act-nrega-an-assessment",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "employment",
+      "food-security",
+      "poverty",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Social Protection in a Changing Climate: Linking Social Protection and Climate Change Adaptation",
+    "authors": "IDS",
+    "year": 2010,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://opendocs.ids.ac.uk/articles/report/Social_Protection_and_Climate_Change/26201478",
+    "description": "Explores the potential for linking social protection programs with climate change adaptation strategies, arguing that adaptive social protection can help poor and vulnerable populations manage climate risks through a combination of protective, preventive, and promotive measures.",
+    "id": "social-protection-in-a-changing-climate-linking-social-protection-and-climate",
+    "access_type": "check_access",
+    "tags": [
+      "climate-adaptation",
+      "climate-change",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Sourcebook on the Foundations of Social Protection Delivery Systems",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/34044",
+    "description": "Comprehensive World Bank sourcebook on social protection delivery systems, covering the full delivery chain from outreach and intake through registration, eligibility assessment, enrollment, payment delivery, and grievance mechanisms.",
+    "id": "sourcebook-on-the-foundations-of-social-protection-delivery-systems",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Long-Term Impacts of Conditional Cash Transfers: Review of the Evidence",
+    "authors": "Sarah Baird, Francisco Ferreira, Berk Ozler, Michael Woolcock",
+    "year": 2013,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/16198",
+    "description": "Reviews the long-term evidence on conditional cash transfers, finding that while CCTs consistently improve short-term school enrollment and health visits, evidence on sustained impacts on learning, earnings, and poverty reduction after program exit is more mixed.",
+    "id": "long-term-impacts-of-conditional-cash-transfers-review-of-the-evidence",
+    "access_type": "open_access",
+    "tags": [
+      "cash-transfers",
+      "education",
+      "poverty",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Social Protection and Economic Growth in Low-Income Countries",
+    "authors": "Armando Barrientos, David Hulme",
+    "year": 2010,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3382120/",
+    "description": "Examines the relationship between social protection and economic growth in low-income countries, arguing that social protection programs can promote growth by enabling the poor to invest in productive activities and build human capital.",
+    "id": "social-protection-and-economic-growth-in-low-income-countries",
+    "access_type": "check_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Government Spending on Social Protection in Sub-Saharan Africa",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/29172",
+    "description": "Analyzes social protection spending patterns across Sub-Saharan Africa, finding that most countries spend less than 2% of GDP on social safety nets and that fiscal space constraints require efficiency improvements and better targeting to expand coverage.",
+    "id": "government-spending-on-social-protection-in-sub-saharan-africa",
+    "access_type": "open_access",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Role of Digital Technology in Social Protection During and After COVID-19",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/36018",
+    "description": "Documents how digital technologies enabled rapid expansion of social protection during COVID-19, including digital registration, mobile money payments, and data analytics for identification, while also highlighting digital exclusion risks.",
+    "id": "the-role-of-digital-technology-in-social-protection-during-and-after-covid-19",
+    "access_type": "open_access",
+    "tags": [
+      "digital",
+      "mobile-technology",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "School Feeding Programs: Addressing Malnutrition and Improving Education",
+    "authors": "World Bank, WFP",
+    "year": 2009,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2728",
+    "description": "Reviews the evidence on school feeding programs in developing countries, finding that they can improve school attendance, attention, and nutritional status, and are most effective when targeted at food-insecure areas and combined with other interventions.",
+    "id": "school-feeding-programs-addressing-malnutrition-and-improving-education",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "nutrition",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Reaching the Last Mile: Social Protection for Persons with Disabilities in Low- and Middle-Income Countries",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/36780",
+    "description": "Examines how social protection systems can better serve persons with disabilities, analyzing barriers to access including identification challenges, inaccessible registration processes, and inadequate benefit levels that fail to cover disability-related extra costs.",
+    "id": "reaching-the-last-mile-social-protection-for-persons-with-disabilities-in-low",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "social-protection"
+    ],
+    "verified": false
+  }
+]

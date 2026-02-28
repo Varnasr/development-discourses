@@ -1,0 +1,368 @@
+[
+  {
+    "title": "The State of Food Security and Nutrition in the World 2023",
+    "authors": "FAO, IFAD, UNICEF, WFP, WHO",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/sofi/2023/en/",
+    "description": "Annual UN report finding that between 691 and 783 million people faced hunger in 2022, and that urbanization is transforming agrifood systems in ways that affect food security and nutrition across the rural-urban continuum.",
+    "id": "the-state-of-food-security-and-nutrition-in-the-world-2023",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems",
+      "food-security",
+      "nutrition",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Development Report 2008: Agriculture for Development",
+    "authors": "World Bank",
+    "year": 2007,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/5990",
+    "description": "Landmark World Bank report making the case that agriculture is a fundamental instrument for sustainable development and poverty reduction, particularly for the 75% of the world's poor who live in rural areas and depend on farming for their livelihoods.",
+    "id": "world-development-report-2008-agriculture-for-development",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Food Policy Report 2023: Rethinking Food Crisis Responses",
+    "authors": "IFPRI",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.ifpri.org/publication/2023-global-food-policy-report",
+    "description": "IFPRI's annual assessment of the global food policy landscape, examining how the food crisis triggered by COVID-19, climate change, and the Ukraine war requires rethinking crisis responses to build more resilient food systems.",
+    "id": "global-food-policy-report-2023-rethinking-food-crisis-responses",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems",
+      "climate-change"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Climate-Smart Agriculture Sourcebook",
+    "authors": "FAO",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/climate-smart-agriculture-sourcebook/en/",
+    "description": "Comprehensive reference on climate-smart agriculture providing technical guidance on sustainably increasing productivity, building resilience to climate change, and reducing greenhouse gas emissions across crop, livestock, fishery, and forestry systems.",
+    "id": "climate-smart-agriculture-sourcebook",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "climate-change"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Harvesting Prosperity: Technology and Productivity Growth in Agriculture",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/32350",
+    "description": "World Bank report examining how agricultural technology and innovation can drive productivity growth in developing countries, analyzing the roles of R&D investment, extension services, ICT adoption, and enabling policy environments.",
+    "id": "harvesting-prosperity-technology-and-productivity-growth-in-agriculture",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of Food and Agriculture 2019: Moving Forward on Food Loss and Waste Reduction",
+    "authors": "FAO",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/sofa/2019/en/",
+    "description": "FAO report estimating that about 14% of food produced globally is lost between harvest and retail, and providing guidance on priority actions to reduce food loss across supply chains in different country contexts and commodity systems.",
+    "id": "the-state-of-food-and-agriculture-2019-moving-forward-on-food-loss-and-waste",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "supply-chains"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Enabling the Business of Agriculture 2019",
+    "authors": "World Bank",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/31804",
+    "description": "Benchmarks the regulatory environment for agriculture in 101 countries, measuring how regulations affect farmers' ability to access seeds, fertilizer, machinery, finance, and markets, and identifying policy reforms that can improve agricultural productivity.",
+    "id": "enabling-the-business-of-agriculture-2019",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Agricultural Extension in Developing Countries",
+    "authors": "Gershon Feder, Anthony Anderson, Rinku Murgai, Roger Slade",
+    "year": 2004,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/14136",
+    "description": "Reviews the evolution and effectiveness of agricultural extension systems in developing countries, examining models including training and visit, farmer field schools, and demand-driven approaches, and analyzing the conditions under which extension improves adoption and productivity.",
+    "id": "agricultural-extension-in-developing-countries",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Impact of Agricultural Index Insurance on Smallholder Farmers: A Systematic Review",
+    "authors": "Ruth Vargas Hill, Miguel Robles, Francisco Ceballos",
+    "year": 2016,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.ifpri.org/publication/impact-index-insurance-smallholder-farmers",
+    "description": "IFPRI systematic review of agricultural index insurance programs, finding that while insurance can encourage investment in higher-return agricultural activities, challenges including basis risk, low demand, and limited distribution channels constrain its impact.",
+    "id": "the-impact-of-agricultural-index-insurance-on-smallholder-farmers-a-systematic",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems",
+      "systematic-review"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Growing Africa: Unlocking the Potential of Agribusiness",
+    "authors": "World Bank",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/26082",
+    "description": "Analyzes the potential of agribusiness in Sub-Saharan Africa, estimating that the region's food market could grow from $313 billion to $1 trillion by 2030, and identifying investments in infrastructure, technology, and value chains needed to capture this opportunity.",
+    "id": "growing-africa-unlocking-the-potential-of-agribusiness",
+    "access_type": "open_access",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "agriculture-food-systems",
+      "value-chains"
+    ],
+    "verified": false
+  },
+  {
+    "title": "From Agriculture to Nutrition: Pathways, Synergies, and Outcomes",
+    "authors": "IFPRI",
+    "year": 2012,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.ifpri.org/publication/agriculture-nutrition-pathways-synergies-and-outcomes",
+    "description": "Examines the pathways through which agriculture affects nutrition outcomes, finding that nutrition-sensitive agricultural programs can improve diets and nutritional status when they are designed with explicit nutrition objectives and target women.",
+    "id": "from-agriculture-to-nutrition-pathways-synergies-and-outcomes",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "nutrition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Gender in Agriculture Sourcebook",
+    "authors": "World Bank, FAO, IFAD",
+    "year": 2009,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/6603",
+    "description": "Comprehensive sourcebook on gender issues in agriculture, documenting how closing gender gaps in access to inputs, extension, and markets could increase yields on women's farms by 20-30% and raise total agricultural output in developing countries by 2.5-4%.",
+    "id": "gender-in-agriculture-sourcebook",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "gender"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Food Systems for Better Nutrition",
+    "authors": "FAO",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/sofa/2013/en/",
+    "description": "FAO State of Food and Agriculture report examining how food systems can be reshaped to improve nutrition, analyzing the roles of food production, processing, distribution, and consumption in determining dietary patterns and nutritional outcomes.",
+    "id": "food-systems-for-better-nutrition",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "nutrition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Smallholder Agriculture and Market Participation: Evidence from Eastern and Southern Africa",
+    "authors": "World Bank",
+    "year": 2012,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2196",
+    "description": "Examines the barriers that prevent smallholder farmers in Eastern and Southern Africa from participating in agricultural markets, finding that transaction costs, infrastructure gaps, and information asymmetries are critical constraints to commercialization.",
+    "id": "smallholder-agriculture-and-market-participation-evidence-from-eastern-and",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Report on Food Crises 2023",
+    "authors": "Global Network Against Food Crises, FSIN",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fsinplatform.org/global-report-food-crises-2023",
+    "description": "Annual report on acute food insecurity finding that approximately 258 million people across 58 countries experienced acute food insecurity at crisis levels or worse in 2022, driven by conflict, weather extremes, and economic shocks.",
+    "id": "global-report-on-food-crises-2023",
+    "access_type": "check_access",
+    "tags": [
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Soil Fertility Management in Sub-Saharan Africa",
+    "authors": "World Bank",
+    "year": 2011,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2820",
+    "description": "Examines soil fertility challenges in Sub-Saharan Africa, where nutrient depletion constrains agricultural productivity, and analyzes integrated soil fertility management strategies combining organic and inorganic inputs with improved germplasm.",
+    "id": "soil-fertility-management-in-sub-saharan-africa",
+    "access_type": "open_access",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Land Governance Assessment Framework: Implementation Manual for Assessing Governance in the Land Sector",
+    "authors": "World Bank",
+    "year": 2012,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2376",
+    "description": "Framework for assessing land governance quality across countries, examining land tenure recognition, land use planning, land tax management, dispute resolution, and the management of public land, with implications for agricultural development.",
+    "id": "land-governance-assessment-framework-implementation-manual-for-assessing",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems",
+      "governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Digital Agriculture: Feeding the Future",
+    "authors": "World Bank",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/31922",
+    "description": "Examines how digital technologies including mobile platforms, remote sensing, and big data analytics can transform agriculture in developing countries, improving productivity, market access, and risk management for smallholder farmers.",
+    "id": "digital-agriculture-feeding-the-future",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "big-data",
+      "digital",
+      "mobile-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Resilience of Smallholder Farming Systems in Sub-Saharan Africa",
+    "authors": "IFPRI",
+    "year": 2016,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.ifpri.org/publication/building-resilience-food-and-nutrition-security",
+    "description": "Examines the resilience of smallholder farming systems in Sub-Saharan Africa to climate and economic shocks, identifying diversification, social capital, and access to safety nets as key determinants of household resilience.",
+    "id": "resilience-of-smallholder-farming-systems-in-sub-saharan-africa",
+    "access_type": "open_access",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "ICT in Agriculture: Connecting Smallholders to Knowledge, Networks, and Institutions",
+    "authors": "World Bank",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/27526",
+    "description": "Updated sourcebook on ICT applications in agriculture, documenting how mobile phones, internet platforms, and digital tools are being used to provide smallholders with market information, weather forecasts, extension advice, and access to financial services.",
+    "id": "ict-in-agriculture-connecting-smallholders-to-knowledge-networks-and",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "digital",
+      "institutions",
+      "mobile-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "High and Dry: Climate Change, Water, and the Economy",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/23665",
+    "description": "Analyzes how water scarcity amplified by climate change could constrain economic growth and agricultural production, with some regions seeing growth rates decline by up to 6% of GDP by 2050, and identifies water management policies to mitigate these impacts.",
+    "id": "high-and-dry-climate-change-water-and-the-economy",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems",
+      "climate-change"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Missing Food: The Case of Postharvest Grain Losses in Sub-Saharan Africa",
+    "authors": "World Bank",
+    "year": 2011,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/2824",
+    "description": "Estimates that postharvest grain losses in Sub-Saharan Africa amount to $4 billion annually, enough to feed 48 million people, and identifies improved storage, drying, and handling technologies that can significantly reduce these losses for smallholder farmers.",
+    "id": "missing-food-the-case-of-postharvest-grain-losses-in-sub-saharan-africa",
+    "access_type": "open_access",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  }
+]

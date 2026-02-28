@@ -1,0 +1,338 @@
+[
+  {
+    "title": "World Report on Disability",
+    "authors": "WHO, World Bank",
+    "year": 2011,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/9789241564182",
+    "description": "First comprehensive global report on disability, estimating that over 1 billion people (15% of the world's population) experience some form of disability, and documenting systematic barriers in health, education, employment, and social participation faced by persons with disabilities.",
+    "id": "world-report-on-disability",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "education",
+      "employment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability Inclusion and Accountability Framework",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.worldbank.org/en/topic/disability",
+    "description": "World Bank's framework for mainstreaming disability inclusion across its operations, establishing commitments to collect disaggregated data, consult with disabled persons' organizations, and ensure projects do not exclude people with disabilities.",
+    "id": "disability-inclusion-and-accountability-framework",
+    "access_type": "free_to_read",
+    "tags": [
+      "disability",
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Report on Assistive Technology",
+    "authors": "WHO, UNICEF",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/9789240049451",
+    "description": "First global report on assistive technology, finding that more than 2.5 billion people need at least one assistive product but that only 1 in 10 people in need have access, with the greatest gaps in low- and middle-income countries and among older persons.",
+    "id": "global-report-on-assistive-technology",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability and Poverty in Developing Countries: A Multidimensional Study",
+    "authors": "Sophie Mitra, Aleksandra Posarac, Brandon Vick",
+    "year": 2013,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/16327",
+    "description": "Cross-country study analyzing the relationship between disability and poverty in 15 developing countries, finding that persons with disabilities are significantly more likely to experience multidimensional deprivation in education, employment, and living standards.",
+    "id": "disability-and-poverty-in-developing-countries-a-multidimensional-study",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "education",
+      "employment",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Convention on the Rights of Persons with Disabilities (CRPD)",
+    "authors": "United Nations",
+    "year": 2006,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html",
+    "description": "The landmark international treaty affirming the rights of persons with disabilities, establishing obligations for states parties to ensure full and equal enjoyment of all human rights, and shifting the paradigm from a medical to a human rights model of disability.",
+    "id": "convention-on-the-rights-of-persons-with-disabilities-crpd",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Inclusive Education for Students with Disabilities: A Review of the Best Evidence",
+    "authors": "World Bank",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/31421",
+    "description": "Reviews evidence on inclusive education for students with disabilities in developing countries, finding that inclusive settings can produce equal or better academic and social outcomes when supported by trained teachers, accessible materials, and appropriate accommodations.",
+    "id": "inclusive-education-for-students-with-disabilities-a-review-of-the-best-evidence",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "WHO Global Disability Action Plan 2014-2021: Better Health for All People with Disability",
+    "authors": "WHO",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/who-global-disability-action-plan-2014-2021",
+    "description": "WHO action plan setting three objectives for improving health outcomes for persons with disabilities: removing barriers to health services, strengthening rehabilitation and habilitation services, and improving collection of disability-relevant data.",
+    "id": "who-global-disability-action-plan-2014-2021-better-health-for-all-people-with",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability and Development: An Overview",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.worldbank.org/en/topic/disability/overview",
+    "description": "World Bank overview of disability and development, presenting data showing that persons with disabilities face a 15 percentage point employment gap and are more likely to be poor, and outlining the Bank's approach to disability-inclusive development.",
+    "id": "disability-and-development-an-overview",
+    "access_type": "free_to_read",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "employment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Community-Based Rehabilitation: CBR Guidelines",
+    "authors": "WHO, UNESCO, ILO, IDDC",
+    "year": 2010,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/9789241548052",
+    "description": "Comprehensive WHO guidelines on community-based rehabilitation, providing practical guidance on implementing CBR programs across five domains: health, education, livelihood, social participation, and empowerment of persons with disabilities.",
+    "id": "community-based-rehabilitation-cbr-guidelines",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Relationship Between Disability and Poverty: What Is Known and What Does It Mean for Policy?",
+    "authors": "Sophie Mitra",
+    "year": 2018,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969768/",
+    "description": "Reviews the evidence on the disability-poverty nexus, finding a robust bidirectional relationship where disability increases the risk of poverty through reduced employment and extra costs, while poverty increases disability risk through poor nutrition and unsafe living conditions.",
+    "id": "the-relationship-between-disability-and-poverty-what-is-known-and-what-does-it",
+    "access_type": "check_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "employment",
+      "nutrition",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Status Report on Road Safety 2018",
+    "authors": "WHO",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/9789241565684",
+    "description": "WHO report documenting that 1.35 million people die and millions more sustain serious injuries from road traffic crashes annually, with low- and middle-income countries bearing 93% of fatalities, making road safety a major cause of disability in developing countries.",
+    "id": "global-status-report-on-road-safety-2018",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability, Poverty, and Schooling in Developing Countries: Results from 14 Household Surveys",
+    "authors": "Deon Filmer",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/4485",
+    "description": "Analysis of household survey data from 14 developing countries finding that children with disabilities are significantly less likely to attend school, with disability-related enrollment gaps of 10-60 percentage points depending on country and disability type.",
+    "id": "disability-poverty-and-schooling-in-developing-countries-results-from-14",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "education",
+      "poverty",
+      "survey-data"
+    ],
+    "verified": false
+  },
+  {
+    "title": "UN Flagship Report on Disability and Development 2018",
+    "authors": "United Nations",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.un.org/development/desa/disabilities/publication-disability-sdgs.html",
+    "description": "First UN flagship report on disability and the SDGs, analyzing how persons with disabilities fare across all 17 Sustainable Development Goals and finding that they are disproportionately disadvantaged on most indicators, calling for disability-inclusive SDG implementation.",
+    "id": "un-flagship-report-on-disability-and-development-2018",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Mental Health and Development: Targeting People with Mental Health Conditions as a Vulnerable Group",
+    "authors": "WHO",
+    "year": 2010,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/9789241563949",
+    "description": "WHO report examining how mental health conditions contribute to disability and poverty in developing countries, arguing that persons with mental health conditions should be recognized as a vulnerable group in development programming and social protection systems.",
+    "id": "mental-health-and-development-targeting-people-with-mental-health-conditions-as",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "poverty",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability Measurement and Monitoring Using the Washington Group Questions",
+    "authors": "Washington Group on Disability Statistics",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.washingtongroup-disability.com/resources/",
+    "description": "Guidance on using the Washington Group Short Set of questions for disability measurement in censuses and surveys, providing a standardized approach to identifying persons with disabilities based on functional difficulties in seeing, hearing, walking, cognition, self-care, and communication.",
+    "id": "disability-measurement-and-monitoring-using-the-washington-group-questions",
+    "access_type": "check_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "survey-data"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Burden of Disease Study: Disability Prevalence and Trends",
+    "authors": "GBD 2019 Diseases and Injuries Collaborators",
+    "year": 2020,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571816/",
+    "description": "Comprehensive analysis from the Global Burden of Disease study documenting disability trends worldwide, finding that years lived with disability have increased substantially since 1990 and that musculoskeletal, mental health, and neurological conditions are leading causes of disability.",
+    "id": "global-burden-of-disease-study-disability-prevalence-and-trends",
+    "access_type": "check_access",
+    "tags": [
+      "disability",
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Rehabilitation 2030: A Call for Action",
+    "authors": "WHO",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/initiatives/rehabilitation-2030",
+    "description": "WHO initiative calling for urgent action to strengthen rehabilitation services globally, documenting that an estimated 2.4 billion people live with health conditions that benefit from rehabilitation yet services remain severely inadequate in most low- and middle-income countries.",
+    "id": "rehabilitation-2030-a-call-for-action",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability-Inclusive Development Toolkit",
+    "authors": "DFID (now FCDO)",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.gov.uk/government/publications/dfids-disability-inclusion-strategy-2018-to-2023",
+    "description": "UK government strategy and toolkit for disability-inclusive development, committing to mainstreaming disability across all development programming and providing practical guidance on inclusive design, reasonable accommodations, and disability data collection.",
+    "id": "disability-inclusive-development-toolkit",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Extra Costs of Living with a Disability: A Systematic Review and Meta-Analysis",
+    "authors": "Sophie Mitra, Michael Palmer, Hoolda Kim, Daniel Mont, Nora Groce",
+    "year": 2017,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5502149/",
+    "description": "Systematic review and meta-analysis estimating the extra costs associated with disability, finding that persons with disabilities face additional costs of 12-40% of household income for items including healthcare, assistive devices, transport, and personal assistance.",
+    "id": "the-extra-costs-of-living-with-a-disability-a-systematic-review-and-meta",
+    "access_type": "check_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "meta-analysis",
+      "systematic-review"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Leaving No One Behind: The Role of Disability Data in Tracking Progress",
+    "authors": "UNDESA",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.un.org/development/desa/disabilities/resources.html",
+    "description": "UN analysis of disability data gaps in monitoring the SDGs, finding that most countries lack disability-disaggregated data for most SDG indicators and recommending adoption of the Washington Group questions in national surveys and administrative data systems.",
+    "id": "leaving-no-one-behind-the-role-of-disability-data-in-tracking-progress",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "survey-data"
+    ],
+    "verified": false
+  }
+]

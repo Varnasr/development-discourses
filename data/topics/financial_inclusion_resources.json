@@ -1,0 +1,219 @@
+[
+  {
+    "title": "The Global Findex Database 2021: Financial Inclusion, Digital Payments, and Resilience in the Age of COVID-19",
+    "authors": "Asli Demirguc-Kunt, Leora Klapper, Dorothe Singer, Saniya Ansar",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.worldbank.org/en/publication/globalfindex",
+    "description": "World Bank's comprehensive database finding that 76% of adults globally had a bank or mobile money account in 2021, up from 51% in 2011, with mobile money driving inclusion gains in Sub-Saharan Africa, though gender and income gaps persist.",
+    "id": "the-global-findex-database-2021-financial-inclusion-digital-payments-and",
+    "access_type": "free_to_read",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "digital",
+      "financial-inclusion",
+      "gender",
+      "mobile-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Miracle of Microfinance? Evidence from a Randomized Evaluation",
+    "authors": "Abhijit Banerjee, Esther Duflo, Rachel Glennerster, Cynthia Kinnan",
+    "year": 2015,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://www.povertyactionlab.org/evaluation/measuring-impact-microfinance-hyderabad-india",
+    "description": "RCT in Hyderabad, India finding that access to microcredit led to modest increases in business investment and profits among existing entrepreneurs but did not lead to transformative effects on average household income, health, or women's empowerment.",
+    "id": "the-miracle-of-microfinance-evidence-from-a-randomized-evaluation",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "RCT",
+      "financial-inclusion",
+      "microfinance",
+      "womens-empowerment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "State of the Industry Report on Mobile Money 2023",
+    "authors": "GSMA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.gsma.com/mobilemoneymetrics/",
+    "description": "GSMA annual report on the mobile money industry, documenting that the number of registered mobile money accounts surpassed 1.6 billion globally, with transaction values exceeding $1.26 trillion, and that mobile money continues to drive financial inclusion in underserved markets.",
+    "id": "state-of-the-industry-report-on-mobile-money-2023",
+    "access_type": "free_to_read",
+    "tags": [
+      "financial-inclusion",
+      "mobile-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Financial Inclusion: Overview",
+    "authors": "World Bank",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.worldbank.org/en/topic/financialinclusion/overview",
+    "description": "World Bank overview of financial inclusion as a development priority, summarizing the evidence that access to financial services enables poor households to manage risk, invest in opportunities, and build resilience to economic shocks.",
+    "id": "financial-inclusion-overview",
+    "access_type": "free_to_read",
+    "tags": [
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Microfinance and Poverty: Evidence Using Panel Data from Bangladesh",
+    "authors": "Shahidur R. Khandker",
+    "year": 2005,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/8357",
+    "description": "Panel data study finding that microfinance in Bangladesh helped reduce poverty among participants and generated positive spillovers to non-participants in program villages, with larger effects for extreme poverty and for female borrowers.",
+    "id": "microfinance-and-poverty-evidence-using-panel-data-from-bangladesh",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "financial-inclusion",
+      "microfinance",
+      "panel-data",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Expanding Access to Finance: Good Practices and Policies for Micro, Small, and Medium Enterprises",
+    "authors": "World Bank",
+    "year": 2006,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/7108",
+    "description": "Comprehensive review of policies and practices for expanding financial access for MSMEs in developing countries, analyzing the roles of credit registries, secured transactions, bank competition, and innovative lending technologies in closing the MSME finance gap.",
+    "id": "expanding-access-to-finance-good-practices-and-policies-for-micro-small-and",
+    "access_type": "open_access",
+    "tags": [
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Financial Inclusion and Development: A Cross Country Analysis",
+    "authors": "Asli Demirguc-Kunt, Leora Klapper",
+    "year": 2012,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/6020",
+    "description": "Foundational cross-country analysis using the first Global Findex data to document financial inclusion patterns across 148 countries, identifying income, education, gender, and age as key determinants of financial access and revealing large within-country inequalities.",
+    "id": "financial-inclusion-and-development-a-cross-country-analysis",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "financial-inclusion",
+      "gender"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Financial Education Programs and Interventions: A Systematic Review and Meta-analysis",
+    "authors": "Tim Kaiser, Lukas Menkhoff",
+    "year": 2019,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/31494",
+    "description": "Meta-analysis of 76 RCTs on financial education, finding that financial education programs have small but significant effects on financial knowledge and downstream financial behaviors, with effects that are larger in lower-income countries.",
+    "id": "financial-education-programs-and-interventions-a-systematic-review-and-meta",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "education",
+      "financial-inclusion",
+      "meta-analysis",
+      "systematic-review"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Achieving Universal Financial Access by 2020",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.worldbank.org/en/topic/financialinclusion/brief/achieving-universal-financial-access-by-2020",
+    "description": "World Bank overview of its Universal Financial Access 2020 initiative, tracking progress toward the goal of enabling adults worldwide to access a transaction account, and identifying the remaining barriers including documentation, distance, and cost.",
+    "id": "achieving-universal-financial-access-by-2020",
+    "access_type": "free_to_read",
+    "tags": [
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "FinTech and Financial Inclusion in the New Normal",
+    "authors": "World Bank",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/37902",
+    "description": "Examines how FinTech innovations accelerated by COVID-19 are reshaping financial inclusion, analyzing the roles of digital lending, insurtech, blockchain-based remittances, and regulatory sandboxes in expanding access while managing emerging risks.",
+    "id": "fintech-and-financial-inclusion-in-the-new-normal",
+    "access_type": "open_access",
+    "tags": [
+      "digital",
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Remittances and Financial Inclusion: Evidence from El Salvador",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/24308",
+    "description": "Examines the relationship between remittances and financial inclusion in El Salvador, finding that remittance recipients are more likely to have bank accounts and that digital remittance channels can serve as an entry point for broader financial service use.",
+    "id": "remittances-and-financial-inclusion-evidence-from-el-salvador",
+    "access_type": "open_access",
+    "tags": [
+      "digital",
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Little Data Book on Financial Inclusion 2022",
+    "authors": "World Bank",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/37578",
+    "description": "Pocket edition of Global Findex indicators for over 140 economies, providing country-level data on account ownership, digital payment use, savings and borrowing behavior, and the remaining barriers to financial inclusion across regions and demographics.",
+    "id": "the-little-data-book-on-financial-inclusion-2022",
+    "access_type": "open_access",
+    "tags": [
+      "digital",
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "National Financial Inclusion Strategies: Current State of Practice",
+    "authors": "World Bank",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/31981",
+    "description": "Reviews the experience of over 60 countries that have adopted national financial inclusion strategies, analyzing common elements including targets, coordination mechanisms, and regulatory reforms, and identifying lessons for effective strategy implementation.",
+    "id": "national-financial-inclusion-strategies-current-state-of-practice",
+    "access_type": "open_access",
+    "tags": [
+      "financial-inclusion"
+    ],
+    "verified": false
+  }
+]

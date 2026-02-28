@@ -1,0 +1,404 @@
+[
+  {
+    "title": "World Development Report 2009: Reshaping Economic Geography",
+    "authors": "World Bank",
+    "year": 2009,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/5991",
+    "description": "Flagship World Bank report analyzing how urbanization, migration, and trade drive economic development, arguing that spatial transformations including density, distance reduction, and division are essential for growth and poverty reduction.",
+    "id": "world-development-report-2009-reshaping-economic-geography",
+    "access_type": "open_access",
+    "tags": [
+      "migration",
+      "migration-urbanization",
+      "poverty",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Migration and Remittances Factbook 2016",
+    "authors": "Dilip Ratha, Supriyo De, Ervin Dervisevic, Sonia Plaza, et al.",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/23743",
+    "description": "Comprehensive data compilation on international migration and remittance flows for 214 countries, documenting that remittances to developing countries reached $432 billion in 2015 and are the largest source of external finance for many low-income countries.",
+    "id": "migration-and-remittances-factbook-2016",
+    "access_type": "open_access",
+    "tags": [
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Urbanization Beyond Municipal Boundaries: Nurturing Metropolitan Economies and Connecting Peri-Urban Areas in India",
+    "authors": "World Bank",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/13105",
+    "description": "Examines India's urbanization beyond municipal boundaries, analyzing how peri-urban growth creates governance challenges and arguing for metropolitan-level coordination to improve infrastructure, services, and economic productivity.",
+    "id": "urbanization-beyond-municipal-boundaries-nurturing-metropolitan-economies-and",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "governance",
+      "migration-urbanization",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Cities Report 2022: Envisaging the Future of Cities",
+    "authors": "UN-Habitat",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://unhabitat.org/world-cities-report-2022-envisaging-the-future-of-cities",
+    "description": "UN-Habitat report on the future of cities examining urbanization trends, the impact of COVID-19 on urban areas, climate change and urban resilience, and proposing pathways for more equitable, sustainable, and resilient urban development.",
+    "id": "world-cities-report-2022-envisaging-the-future-of-cities",
+    "access_type": "open_access",
+    "tags": [
+      "climate-change",
+      "migration-urbanization",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Moving for Prosperity: Global Migration and Labor Markets",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/29806",
+    "description": "World Bank Policy Research Report analyzing how labor migration affects both origin and destination countries, finding that migration generates large income gains for migrants and can benefit both sending and receiving economies when properly managed.",
+    "id": "moving-for-prosperity-global-migration-and-labor-markets",
+    "access_type": "open_access",
+    "tags": [
+      "labor-markets",
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Internal Migration in Developing Countries: A Review of the Literature",
+    "authors": "Luc Christiaensen, Joachim De Weerdt, Yasuyuki Todo",
+    "year": 2013,
+    "type": "paper",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/15695",
+    "description": "Reviews the evidence on internal migration in developing countries, examining drivers of rural-urban migration, the role of secondary towns, and the impact of migration on poverty reduction for migrants and their communities of origin.",
+    "id": "internal-migration-in-developing-countries-a-review-of-the-literature",
+    "access_type": "open_access",
+    "tags": [
+      "migration",
+      "migration-urbanization",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Leveraging Urbanization in South Asia: Managing Spatial Transformation for Prosperity and Livability",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/22549",
+    "description": "Analyzes urbanization in South Asia, finding that the region is urbanizing rapidly but inefficiently, with messy and hidden urbanization patterns that limit the productivity benefits of agglomeration and leave many urban residents in slum conditions.",
+    "id": "leveraging-urbanization-in-south-asia-managing-spatial-transformation-for",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "migration-urbanization",
+      "urban-poverty",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Forced Displacement by the Boko Haram Conflict in the Lake Chad Region",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/25183",
+    "description": "Analyzes the displacement crisis caused by the Boko Haram conflict in the Lake Chad region, examining the socioeconomic impacts on displaced populations and host communities and recommending integrated responses linking humanitarian and development assistance.",
+    "id": "forced-displacement-by-the-boko-haram-conflict-in-the-lake-chad-region",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Groundswell: Preparing for Internal Climate Migration",
+    "authors": "Kanta Kumari Rigaud, Alex de Sherbinin, Bryan Jones, et al.",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/29461",
+    "description": "World Bank report projecting that by 2050, climate change could force 143 million people in Sub-Saharan Africa, South Asia, and Latin America to move within their own countries, and identifying policy actions that could reduce climate migration by up to 80%.",
+    "id": "groundswell-preparing-for-internal-climate-migration",
+    "access_type": "open_access",
+    "tags": [
+      "Latin-America",
+      "South-Asia",
+      "Sub-Saharan-Africa",
+      "climate-change",
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Africa's Cities: Opening Doors to the World",
+    "authors": "World Bank",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/25896",
+    "description": "Analyzes why African cities have not realized the economic gains typically associated with urbanization, identifying high costs of living and doing business, fragmented urban layouts, and insufficient infrastructure as key constraints.",
+    "id": "africas-cities-opening-doors-to-the-world",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "State of World Population 2007: Unleashing the Potential of Urban Growth",
+    "authors": "UNFPA",
+    "year": 2007,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.unfpa.org/publications/state-world-population-2007",
+    "description": "UNFPA report marking the historic transition to a majority-urban world, arguing that urbanization is inevitable and potentially beneficial, and that proactive planning rather than anti-migration policies is needed to manage urban growth in developing countries.",
+    "id": "state-of-world-population-2007-unleashing-the-potential-of-urban-growth",
+    "access_type": "check_access",
+    "tags": [
+      "migration",
+      "migration-urbanization",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Impact of Remittances on Poverty and Human Capital: Evidence from Latin American Household Surveys",
+    "authors": "Pablo Acosta, Cesar Calderon, Pablo Fajnzylber, Humberto Lopez",
+    "year": 2008,
+    "type": "paper",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/6365",
+    "description": "Analyzes the poverty-reducing effects of remittances across 11 Latin American countries, finding that remittances have a significant negative effect on poverty levels and are associated with improved health and education outcomes in recipient households.",
+    "id": "the-impact-of-remittances-on-poverty-and-human-capital-evidence-from-latin",
+    "access_type": "open_access",
+    "tags": [
+      "Latin-America",
+      "education",
+      "migration-urbanization",
+      "poverty",
+      "survey-data"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Report on Internal Displacement 2023",
+    "authors": "Internal Displacement Monitoring Centre (IDMC)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.internal-displacement.org/global-report/grid2023/",
+    "description": "Documents a record 71.1 million internally displaced people worldwide at the end of 2022, driven by conflict, violence, and disasters, and analyzes trends in internal displacement across regions and the challenges of finding durable solutions.",
+    "id": "global-report-on-internal-displacement-2023",
+    "access_type": "check_access",
+    "tags": [
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "East Asia's Changing Urban Landscape: Measuring a Decade of Spatial Growth",
+    "authors": "World Bank",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/21159",
+    "description": "Uses satellite imagery to measure urban spatial expansion in East Asia, finding that urban land area grew faster than urban population in most countries, leading to declining urban densities that increase infrastructure costs and environmental impacts.",
+    "id": "east-asias-changing-urban-landscape-measuring-a-decade-of-spatial-growth",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Emigration and Its Effects on the Sending Country",
+    "authors": "Caglar Ozden, Maurice Schiff (eds.)",
+    "year": 2006,
+    "type": "book",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/7087",
+    "description": "World Bank volume analyzing how emigration affects sending countries through brain drain, remittances, return migration, and diaspora networks, presenting evidence that the effects are complex and depend heavily on country context and policy frameworks.",
+    "id": "emigration-and-its-effects-on-the-sending-country",
+    "access_type": "open_access",
+    "tags": [
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Urbanization and Development: Is Latin America and the Caribbean Different from the Rest of the World?",
+    "authors": "Eduardo Lora",
+    "year": 2012,
+    "type": "paper",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/19895",
+    "description": "Examines whether the relationship between urbanization and economic development differs in Latin America compared to other regions, finding that the region urbanized at lower income levels and that urban productivity gains have been smaller than expected.",
+    "id": "urbanization-and-development-is-latin-america-and-the-caribbean-different-from",
+    "access_type": "open_access",
+    "tags": [
+      "Latin-America",
+      "migration-urbanization",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Foresight: Migration and Global Environmental Change",
+    "authors": "UK Government Office for Science",
+    "year": 2011,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.gov.uk/government/publications/migration-and-global-environmental-change-future-challenges-and-opportunities",
+    "description": "Major foresight study examining how environmental change will affect migration over the next 50 years, finding that environmental change is more likely to trap vulnerable populations in place than to cause mass displacement, and that trapped populations face the greatest risks.",
+    "id": "foresight-migration-and-global-environmental-change",
+    "access_type": "open_access",
+    "tags": [
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Making the Most of Urbanization in Ethiopia: Systematic Country Diagnostic",
+    "authors": "World Bank",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/22979",
+    "description": "Analyzes Ethiopia's urbanization dynamics, finding that the country is one of the least urbanized in Africa but urbanizing rapidly, and that proactive investment in urban infrastructure, land management, and municipal capacity is needed to harness urbanization for growth.",
+    "id": "making-the-most-of-urbanization-in-ethiopia-systematic-country-diagnostic",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Urban Transport in the Developing World: A Handbook of Policy and Practice",
+    "authors": "World Bank",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/17408",
+    "description": "Comprehensive guide to urban transport challenges in developing cities, covering public transit, non-motorized transport, traffic management, and financing, with case studies demonstrating how transport investment shapes urban form and accessibility.",
+    "id": "urban-transport-in-the-developing-world-a-handbook-of-policy-and-practice",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "KNOMAD Migration and Development Brief 37: Remittances Brave Global Headwinds",
+    "authors": "KNOMAD, World Bank",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.knomad.org/publication/migration-and-development-brief-37",
+    "description": "Analyzes global remittance trends showing flows to low- and middle-income countries reached $626 billion in 2022, exceeding FDI and ODA combined, and examines the impact of economic headwinds, exchange rate shifts, and digital technologies on remittance flows.",
+    "id": "knomad-migration-and-development-brief-37-remittances-brave-global-headwinds",
+    "access_type": "check_access",
+    "tags": [
+      "digital",
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Land and the City",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/25116",
+    "description": "Examines how urban land markets function in developing countries and how land policy affects urban development outcomes, arguing that flexible and well-regulated land markets are essential for accommodating urban growth and ensuring affordable housing.",
+    "id": "land-and-the-city",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Challenge of Slums: Global Report on Human Settlements 2003",
+    "authors": "UN-Habitat",
+    "year": 2003,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://unhabitat.org/the-challenge-of-slums-global-report-on-human-settlements-2003",
+    "description": "Landmark UN-Habitat report providing the first global assessment of slums, estimating that 924 million people lived in slum conditions in 2001, and analyzing the causes, characteristics, and policy responses to informal settlements in developing countries.",
+    "id": "the-challenge-of-slums-global-report-on-human-settlements-2003",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization",
+      "urban-poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "People on the Move in Sub-Saharan Africa: Trends, Impacts, and Drivers of Internal Migration",
+    "authors": "Luc Christiaensen, Ravi Kanbur (eds.)",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/27484",
+    "description": "Analyzes internal migration patterns in Sub-Saharan Africa, highlighting the importance of rural-to-rural and rural-to-small-town migration alongside rural-urban flows, and examining how migration contributes to structural transformation and poverty reduction.",
+    "id": "people-on-the-move-in-sub-saharan-africa-trends-impacts-and-drivers-of-internal",
+    "access_type": "open_access",
+    "tags": [
+      "Sub-Saharan-Africa",
+      "migration",
+      "migration-urbanization",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cities of Hope: Young People and Opportunity in South Africa's Cities",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/30601",
+    "description": "Examines how urbanization in South Africa shapes opportunities for young people, analyzing spatial inequality within cities and the barriers that prevent youth in townships and informal settlements from accessing jobs, education, and services in urban centers.",
+    "id": "cities-of-hope-young-people-and-opportunity-in-south-africas-cities",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "inequality",
+      "migration-urbanization",
+      "urbanization"
+    ],
+    "verified": false
+  }
+]
