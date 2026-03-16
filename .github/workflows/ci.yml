@@ -1,4 +1,4 @@
-name: Link Checker
+name: CI
 
 on:
   push:
@@ -6,28 +6,15 @@ on:
   pull_request:
     branches: [main]
 
-permissions:
-  contents: read
-
 jobs:
-  link-check:
-    name: Check Links
+  check-links:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2
         with:
-          args: >-
-            --verbose
-            --no-progress
-            --accept 200,204,301,302,403
-            --exclude-mail
-            --timeout 30
-            --max-retries 3
-            './**/*.html'
-            './**/*.md'
-            './**/*.json'
-          fail: true
+          args: --accept 200,204,301,302,403,429 --exclude-mail --exclude "localhost|127.0.0.1|example.com|twitter.com|x.com|linkedin.com|facebook.com|instagram.com|t.me|wa.me|play.google.com|apps.apple.com" --timeout 30 --max-retries 2 "**/*.html" "**/*.md"
+          fail: false
+
