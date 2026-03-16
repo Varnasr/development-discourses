@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: development-discourses
+message: >-
+  If you use this research library, please cite it using
+  the metadata from this file.
+type: dataset
+authors:
+  - family-names: Sri Raman
+    given-names: Varna
+    alias: Varnasr
+repository-code: https://github.com/Varnasr/development-discourses
+url: https://impactmojo.in
+abstract: >-
+  A curated open-access library of 500+ research papers, books, and grey
+  literature for development practitioners. Covers MEAL, development economics,
+  gender, climate, public health, governance, technology, livelihoods, and
+  research methods.
+keywords:
+  - development
+  - research library
+  - MEAL
+  - development economics
+  - gender
+  - climate
+  - public health
+  - governance
+  - open-access
+  - grey literature
+license: MIT
+date-released: 2025-01-01
