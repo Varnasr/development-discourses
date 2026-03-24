@@ -1,129 +1,148 @@
 # Development Discourses
 
-**A curated open-access library of research papers, books, and grey literature for development practitioners.**
+[![Website](https://img.shields.io/badge/Website-impactmojo.in-orange)](https://www.impactmojo.in)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Content-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/Varnasr/development-discourses)](https://github.com/Varnasr/development-discourses/commits/main)
+[![Part of ImpactMojo](https://img.shields.io/badge/Part%20of-ImpactMojo-orange)](https://www.impactmojo.in)
 
-Part of [ImpactMojo](https://www.impactmojo.in) — free development economics & policy education for South Asia.
+**A curated open-access library of 500+ research papers, books, and grey literature for development practitioners in South Asia.**
 
-## What is this?
+Searchable, filterable, and fully free — part of the [ImpactMojo](https://www.impactmojo.in) learning platform.
 
-Development Discourses is a searchable, filterable library of 500+ open-access resources covering the topics that matter to development professionals:
+---
 
-- **MEAL & Evaluation** — Monitoring, evaluation, accountability, learning
-- **Development Economics** — Poverty, inequality, growth, microfinance
-- **Gender & Social Inclusion** — Feminist economics, intersectionality, caste, disability
-- **Climate & Environment** — Climate resilience, adaptation, just transition
-- **Public Health** — Universal health coverage, nutrition, community health
-- **Public Policy & Governance** — Decentralization, digital governance, accountability
-- **Data & Technology** — Data governance, open data, AI ethics
-- **Livelihoods** — Self-help groups, skills, migration, rural development
-- **Research Methods** — RCTs, mixed methods, participatory research
+## About
 
-Every resource is **free to read** — no paywalls.
+Development Discourses is a curated reference library for development professionals, researchers, and students. It aggregates open-access materials across the full breadth of development practice — from academic papers to practitioner guides to grey literature that rarely makes it into university syllabi.
 
-## Live Site
+Every resource is open-access, verified, and contextualised for South Asian development work.
 
-**[development-discourses on GitHub Pages](https://varnasr.github.io/development-discourses/)**
+---
 
-## Tech Stack
+## Coverage
 
-- Pure HTML, CSS, JavaScript — no frameworks, no build step
-- JSON data files in `data/topics/` merged into `data/resources.json`
-- Hosted on GitHub Pages
+| Theme | Examples |
+|-------|---------|
+| **MEAL & Evaluation** | Monitoring frameworks, evaluation methodology, accountability, adaptive management |
+| **Development Economics** | Poverty measurement, inequality, microfinance, labour markets, growth theory |
+| **Gender & Social Inclusion** | Feminist economics, intersectionality, care economy, caste, disability, LGBTQ+ inclusion |
+| **Climate & Environment** | Climate resilience, adaptation finance, just transition, environmental justice |
+| **Public Health** | Universal health coverage, nutrition, community health workers, WASH |
+| **Public Policy & Governance** | Decentralisation, digital governance, RTI, social accountability |
+| **Data & Technology** | Data governance, open data, AI ethics, digital development |
+| **Livelihoods** | Self-help groups, skills development, migration, rural livelihoods |
+| **Research Methods** | RCTs, mixed methods, participatory action research, ethnography |
+
+---
 
 ## Features
 
-- Full-text search (title, author, keywords)
-- Filter by topic and resource type (paper / book / grey literature)
-- Sort by title, year, or author
-- List and grid views
-- Responsive design
-- Keyboard shortcut: press `/` to focus search
+| Feature | Description |
+|---------|-------------|
+| **Search** | Full-text search across titles, authors, abstracts, and tags |
+| **Filter** | Filter by theme, resource type, region, publication year |
+| **Resource Types** | Academic papers, books, reports, toolkits, grey literature, policy briefs |
+| **Open Access Only** | Every resource is freely and legally accessible |
+| **Verified URLs** | All links validated by `verify_urls.py` — broken links flagged automatically |
+| **Zero Dependencies** | Vanilla HTML/CSS/JS — no build step required |
+
+---
 
 ## Project Structure
 
 ```
-data/
-  topics/                    # Source of truth — one file per topic
-    climate_environment_resources.json
-    data_technology_for_development.json
-    development_economics_resources.json
-    gender_social_inclusion_resources.json
-    livelihoods_resources.json
-    meal_resources.json
-    public_health_resources.json
-    public_policy_governance_resources.json
-    research_methods_resources.json
-  resources.json             # Auto-generated merged file (website reads this)
-build.py                     # Merges topic files → resources.json
-add_resource.py              # Helper to add entries to topic files
+development-discourses/
+├── index.html              # Main library interface (search + filter)
+├── resource.html           # Individual resource view
+├── data/                   # Resource database (JSON/CSV)
+├── css/                    # Stylesheets
+├── js/                     # Search and filter logic
+├── build.py                # Builds the static site from data files
+├── add_resource.py         # CLI tool to add new resources
+├── enrich_data.py          # Enriches resource metadata (abstracts, tags)
+├── verify_urls.py          # Checks all URLs are live and accessible
+├── url_verification_report.json  # Latest URL health check
+├── LICENSE
+└── README.md
 ```
+
+---
 
 ## Adding Resources
 
-### Option 1: Edit a topic file directly
-
-Open any file in `data/topics/` and add an entry:
-
-```json
-{
-  "title": "Resource Title",
-  "authors": "Author Name(s)",
-  "year": 2024,
-  "type": "paper",
-  "topic": "Development Economics",
-  "url": "https://example.com/paper.pdf",
-  "description": "Brief description of the resource."
-}
-```
-
-Then rebuild:
+Use the CLI tool to add new resources:
 
 ```bash
-python3 build.py
+python add_resource.py --title "Resource Title" \
+  --author "Author Name" \
+  --url "https://..." \
+  --theme "Gender" \
+  --type "paper" \
+  --year 2024
 ```
 
-### Option 2: Use the add_resource helper
+Or edit the data files directly and run `python build.py` to regenerate the static site.
+
+---
+
+## URL Verification
 
 ```bash
-# Interactive mode
-python3 add_resource.py
+# Check all resource URLs
+python verify_urls.py
 
-# Batch import from a file
-python3 add_resource.py --from-file new_entries.json --topic livelihoods_resources.json
+# Results saved to url_verification_report.json
 ```
 
-### Option 3: Ask Claude to add entries
+Broken links are flagged for manual review. Run periodically to maintain library quality.
 
-In a Claude Code session, just ask:
-
-> "Add 10 more livelihoods papers to data/topics/livelihoods_resources.json"
-
-Then run `python3 build.py` to merge.
-
-### Build commands
-
-```bash
-python3 build.py              # Merge all topic files
-python3 build.py --stats      # Show stats after merging
-python3 build.py --validate   # Check for missing fields
-python3 build.py --dry-run    # Preview without writing
-```
-
-**type** must be one of: `paper`, `book`, `grey_literature`
-
-**topic** should match an existing topic or be a new category.
-
-To suggest a resource, [open an issue](https://github.com/Varnasr/development-discourses/issues/new).
+---
 
 ## Local Development
 
-Just open `index.html` in a browser, or serve locally:
-
 ```bash
-python -m http.server 8000
-# then visit http://localhost:8000
+git clone https://github.com/Varnasr/development-discourses.git
+cd development-discourses
+
+# View the library
+open index.html
+
+# Or serve locally
+python3 -m http.server 8000
 ```
+
+---
+
+## Tech Stack
+
+| Layer | Technology | Purpose |
+|-------|-----------|---------|
+| Frontend | Vanilla HTML / CSS / JavaScript | Zero-dependency search and browse interface |
+| Data | JSON / CSV | Resource metadata and content |
+| Build | Python (`build.py`) | Generates static HTML from data files |
+| Verification | Python (`verify_urls.py`) | URL health checks |
+
+---
+
+## Part of the ImpactMojo Ecosystem
+
+**Related repositories:**
+- [ImpactMojo](https://github.com/Varnasr/ImpactMojo) — Main platform
+- [dev-case-studies](https://github.com/Varnasr/dev-case-studies) — 200 real development case studies
+- [ImpactLex](https://github.com/Varnasr/ImpactLex) — Development sector terminology dictionary
+- [PolicyDhara](https://github.com/Varnasr/PolicyDhara) — Indian policy tracker
+
+---
 
 ## License
 
-Content curation is CC BY 4.0. Code is MIT.
+- **Content / curated resources:** CC BY-NC-SA 4.0
+- **Code (build scripts, search logic):** MIT
+
+---
+
+## Contact
+
+- **Platform:** [impactmojo.in](https://www.impactmojo.in)
+- **GitHub:** [github.com/Varnasr](https://github.com/Varnasr)
