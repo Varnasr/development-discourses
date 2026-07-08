@@ -1,0 +1,183 @@
+[
+  {
+    "title": "World Mental Health Report: Transforming Mental Health for All",
+    "authors": "World Health Organization",
+    "year": 2022,
+    "type": "book",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789240049338",
+    "description": "WHO's landmark call to reshape mental-health environments, services, and rights, and to close the vast global treatment gap.",
+    "id": "world-mental-health-report-transforming-mental-health-for-all",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "mhGAP Intervention Guide, Version 2.0",
+    "authors": "World Health Organization",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789241549790",
+    "description": "The Mental Health Gap Action Programme guide for managing priority mental, neurological, and substance-use conditions in non-specialist settings.",
+    "id": "mhgap-intervention-guide-version-20",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Out of the Shadows: Making Mental Health a Global Priority",
+    "authors": "World Bank, WHO",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://openknowledge.worldbank.org/handle/10986/27000",
+    "description": "The report from the first global mental-health conference making the development and economic case for investment.",
+    "id": "out-of-the-shadows-making-mental-health-a-global-priority",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Depression and Other Common Mental Disorders: Global Estimates",
+    "authors": "World Health Organization",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/depression-global-health-estimates",
+    "description": "WHO's global prevalence estimates showing depression as a leading cause of disability worldwide.",
+    "id": "depression-and-other-common-mental-disorders-global-estimates",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Lancet Commission on Global Mental Health and Sustainable Development",
+    "authors": "Vikram Patel et al.",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.thelancet.com/commissions/global-mental-health",
+    "description": "A major commission reframing mental health as a global public good central to the SDGs, with a focus on scaling care.",
+    "id": "the-lancet-commission-on-global-mental-health-and-sustainable-development",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Mental Health and Psychosocial Support in Emergencies (IASC Guidelines)",
+    "authors": "Inter-Agency Standing Committee",
+    "year": 2007,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://interagencystandingcommittee.org/iasc-task-force-mental-health-and-psychosocial-support-emergency-settings",
+    "description": "The inter-agency guidelines coordinating mental-health and psychosocial support in humanitarian settings.",
+    "id": "mental-health-and-psychosocial-support-in-emergencies-iasc-guidelines",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Task-Sharing for Mental Health Care in Low-Resource Settings",
+    "authors": "World Health Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/teams/mental-health-and-substance-use",
+    "description": "Evidence and guidance on delivering psychological interventions through trained non-specialist community workers.",
+    "id": "task-sharing-for-mental-health-care-in-low-resource-settings",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Adolescent Mental Health and Wellbeing",
+    "authors": "UNICEF",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.unicef.org/reports/state-worlds-children-2021",
+    "description": "'On My Mind'—the State of the World's Children focused on promoting, protecting, and caring for children's mental health.",
+    "id": "adolescent-mental-health-and-wellbeing",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Economic Case for Investing in Mental Health",
+    "authors": "World Health Organization",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789241511810",
+    "description": "Return-on-investment analysis showing that scaling up treatment for depression and anxiety yields large economic gains.",
+    "id": "the-economic-case-for-investing-in-mental-health",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Comprehensive Mental Health Action Plan 2013-2030",
+    "authors": "World Health Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789240031029",
+    "description": "The updated global action plan setting targets for leadership, community care, promotion, and information systems.",
+    "id": "comprehensive-mental-health-action-plan-2013-2030",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Suicide Worldwide in 2019: Global Health Estimates",
+    "authors": "World Health Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789240026643",
+    "description": "WHO estimates on the global burden of suicide and the LIVE LIFE strategies for prevention.",
+    "id": "suicide-worldwide-in-2019-global-health-estimates",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Wellbeing and Happiness: The World Happiness Report 2024",
+    "authors": "Sustainable Development Solutions Network",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://worldhappiness.report/ed/2024/",
+    "description": "The annual ranking and analysis of subjective wellbeing across countries and the life circumstances that shape it.",
+    "id": "wellbeing-and-happiness-the-world-happiness-report-2024",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  }
+]

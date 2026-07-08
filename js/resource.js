@@ -36,10 +36,13 @@
         }
 
         renderResource();
+        injectSEO();
         renderMetadata();
         renderTags();
         renderCitation();
         renderRelated();
+        renderRecentlyViewed();
+        recordVisit();
         // Render interactive LitMaps-style graph
         if (window.renderLitmap) {
             window.renderLitmap(currentResource, allResources);
@@ -88,6 +91,63 @@
             '&labels=community-note&body=' +
             encodeURIComponent('## Community Note\n\n**Resource:** ' + r.title + '\n**ID:** ' + r.id + '\n\n### Note\n\n(Write your note here — reading tips, practitioner context, critiques, related resources...)\n');
         document.getElementById('contributeNote').href = noteUrl;
+    }
+
+    // ---- Dynamic SEO / structured data ----
+    function injectSEO() {
+        const r = currentResource;
+        const desc = (r.description || r.title).substring(0, 300);
+        const pageUrl = window.location.href;
+
+        setMeta('name', 'description', desc);
+        setMeta('property', 'og:title', r.title);
+        setMeta('property', 'og:description', desc);
+        setMeta('property', 'og:url', pageUrl);
+        setMeta('name', 'twitter:title', r.title);
+        setMeta('name', 'twitter:description', desc);
+
+        // Canonical
+        let canonical = document.querySelector('link[rel="canonical"]');
+        if (!canonical) {
+            canonical = document.createElement('link');
+            canonical.rel = 'canonical';
+            document.head.appendChild(canonical);
+        }
+        canonical.href = pageUrl;
+
+        // JSON-LD
+        const schemaType = r.type === 'book' ? 'Book'
+            : r.type === 'grey_literature' ? 'Report' : 'ScholarlyArticle';
+        const ld = {
+            '@context': 'https://schema.org',
+            '@type': schemaType,
+            'name': r.title,
+            'headline': r.title,
+            'author': (r.authors || 'Unknown').split(/,\s*/).map(a => ({ '@type': 'Organization', 'name': a })),
+            'datePublished': r.year ? String(r.year) : undefined,
+            'description': r.description || undefined,
+            'url': r.url,
+            'about': r.topic,
+            'keywords': (r.tags || []).join(', ') || undefined,
+            'isAccessibleForFree': r.access_type === 'open_access' || r.access_type === 'free_to_read',
+            'isPartOf': { '@type': 'CollectionPage', 'name': 'Development Discourses' },
+        };
+        if (r.doi) ld.identifier = 'https://doi.org/' + r.doi;
+
+        const script = document.createElement('script');
+        script.type = 'application/ld+json';
+        script.textContent = JSON.stringify(ld);
+        document.head.appendChild(script);
+    }
+
+    function setMeta(attr, key, value) {
+        let el = document.head.querySelector(`meta[${attr}="${key}"]`);
+        if (!el) {
+            el = document.createElement('meta');
+            el.setAttribute(attr, key);
+            document.head.appendChild(el);
+        }
+        el.setAttribute('content', value);
     }
 
     function getAccessInfo(accessType) {
@@ -250,6 +310,47 @@
                 </a>
             `;
         }).join('');
+    }
+
+    // ---- Recently Viewed (localStorage) ----
+    const RECENT_KEY = 'imx_recent';
+    const RECENT_MAX = 8;
+
+    function readRecent() {
+        try { return JSON.parse(localStorage.getItem(RECENT_KEY)) || []; }
+        catch (e) { return []; }
+    }
+
+    function recordVisit() {
+        if (!currentResource || !currentResource.id) return;
+        try {
+            let ids = readRecent().filter(id => id !== currentResource.id);
+            ids.unshift(currentResource.id);
+            ids = ids.slice(0, RECENT_MAX + 4);
+            localStorage.setItem(RECENT_KEY, JSON.stringify(ids));
+        } catch (e) { /* storage unavailable */ }
+    }
+
+    function renderRecentlyViewed() {
+        const card = document.getElementById('recentCard');
+        const list = document.getElementById('recentList');
+        if (!card || !list) return;
+
+        const ids = readRecent().filter(id => id !== currentResource.id);
+        const items = ids
+            .map(id => allResources.find(r => r.id === id))
+            .filter(Boolean)
+            .slice(0, RECENT_MAX);
+
+        if (items.length === 0) return;
+
+        card.style.display = 'block';
+        list.innerHTML = items.map(r => `
+            <a href="resource.html?id=${encodeURIComponent(r.id)}" class="related-item">
+                <span class="related-title">${escapeHtml(truncate(r.title, 80))}</span>
+                <span class="related-meta">${escapeHtml(r.authors ? r.authors.split(',')[0] : '')}${r.year ? ', ' + r.year : ''}</span>
+            </a>
+        `).join('');
     }
 
     // ---- Events ----

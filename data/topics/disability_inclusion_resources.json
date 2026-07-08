@@ -334,5 +334,101 @@
       "survey-data"
     ],
     "verified": false
+  },
+  {
+    "title": "Global Report on Health Equity for Persons with Disabilities",
+    "authors": "World Health Organization",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/9789240063600",
+    "description": "WHO's assessment of the health inequities faced by persons with disabilities and the actions health systems must take.",
+    "id": "global-report-on-health-equity-for-persons-with-disabilities",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability, Poverty and Development",
+    "authors": "DFID",
+    "year": 2000,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.gov.uk/government/publications/disability-poverty-and-development",
+    "description": "An early and influential policy paper establishing the two-way links between disability and poverty in development.",
+    "id": "disability-poverty-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Assistive Technology: Global Report",
+    "authors": "WHO, UNICEF",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/9789240049451",
+    "description": "The first global report on effective access to assistive technology, estimating that 2.5 billion people need one or more assistive products.",
+    "id": "assistive-technology-global-report",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Nothing About Us Without Us: Disability and Development",
+    "authors": "UN DESA",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.un.org/development/desa/disabilities/publication-disability-sdgs.html",
+    "description": "UN flagship on the situation of persons with disabilities in relation to the Sustainable Development Goals.",
+    "id": "nothing-about-us-without-us-disability-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Inclusive Education for Children with Disabilities",
+    "authors": "UNICEF",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.unicef.org/reports/education-children-disabilities",
+    "description": "UNICEF evidence on the exclusion of children with disabilities from schooling and strategies for inclusive education systems.",
+    "id": "inclusive-education-for-children-with-disabilities",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability Data in Household Surveys: The Washington Group Approach",
+    "authors": "Washington Group on Disability Statistics",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.washingtongroup-disability.com/resources/",
+    "description": "The internationally standardised question sets for capturing disability in censuses and surveys.",
+    "id": "disability-data-in-household-surveys-the-washington-group-approach",
+    "access_type": "check_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "survey-data"
+    ],
+    "verified": false
   }
 ]

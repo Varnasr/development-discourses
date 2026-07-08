@@ -695,5 +695,167 @@
       "development-economics"
     ],
     "verified": false
+  },
+  {
+    "title": "World Development Report 2023: Migrants, Refugees, and Societies",
+    "authors": "World Bank",
+    "year": 2023,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/39696",
+    "description": "Reframes migration as a development strategy, introducing a 'Match and Motive' matrix to guide policy for migrants, refugees, and host societies.",
+    "id": "world-development-report-2023-migrants-refugees-and-societies",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics",
+      "migration"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Development Report 2024: The Middle-Income Trap",
+    "authors": "World Bank",
+    "year": 2024,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/41919",
+    "description": "Proposes an '3i' strategy—investment, infusion, innovation—for how middle-income countries can escape stagnation and reach high income.",
+    "id": "world-development-report-2024-the-middle-income-trap",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Development Report 2013: Jobs",
+    "authors": "World Bank",
+    "year": 2013,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/11843",
+    "description": "Argues that jobs are the cornerstone of development, driving living standards, productivity, and social cohesion.",
+    "id": "world-development-report-2013-jobs",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
+    "authors": "Abhijit Banerjee, Esther Duflo",
+    "year": 2011,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://www.pooreconomics.com/",
+    "description": "The Nobel laureates' synthesis of randomised-evaluation evidence on how the poor actually make decisions about health, education, and finance.",
+    "id": "poor-economics-a-radical-rethinking-of-the-way-to-fight-global-poverty",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "development-economics",
+      "education",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Good Economics for Hard Times",
+    "authors": "Abhijit Banerjee, Esther Duflo",
+    "year": 2019,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://www.penguinrandomhouse.com/books/564316/good-economics-for-hard-times/",
+    "description": "A survey of what economics can and cannot say about migration, trade, growth, inequality, and the social policies to address them.",
+    "id": "good-economics-for-hard-times",
+    "access_type": "check_access",
+    "tags": [
+      "development-economics",
+      "inequality",
+      "migration",
+      "survey-data"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Human Development Report 2023/24",
+    "authors": "UNDP",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://hdr.undp.org/content/human-development-report-2023-24",
+    "description": "'Breaking the Gridlock'—the HDR examining rising global polarisation and the reimagined cooperation needed for human development.",
+    "id": "human-development-report-202324",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Trade and Development Report 2023",
+    "authors": "UNCTAD",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://unctad.org/publication/trade-and-development-report-2023",
+    "description": "UNCTAD's macroeconomic assessment of growth, debt, and the reforms needed in the international financial architecture.",
+    "id": "trade-and-development-report-2023",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The World Inequality Report 2022",
+    "authors": "World Inequality Lab",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://wir2022.wid.world/",
+    "description": "Coordinated by Chancel, Piketty, Saez and Zucman, the most comprehensive global account of income and wealth inequality.",
+    "id": "the-world-inequality-report-2022",
+    "access_type": "check_access",
+    "tags": [
+      "development-economics",
+      "inequality"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+    "authors": "Daron Acemoglu, James Robinson",
+    "year": 2012,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://www.hachettebookgroup.com/titles/daron-acemoglu/why-nations-fail/9780307719225/",
+    "description": "The influential thesis that inclusive political and economic institutions, not geography or culture, explain why some nations prosper.",
+    "id": "why-nations-fail-the-origins-of-power-prosperity-and-poverty",
+    "access_type": "check_access",
+    "tags": [
+      "development-economics",
+      "institutions",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Great Indian Poverty Debate",
+    "authors": "Angus Deaton, Valerie Kozel",
+    "year": 2005,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/7484",
+    "description": "A classic collection dissecting the measurement controversies behind India's 1990s poverty estimates.",
+    "id": "the-great-indian-poverty-debate",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "development-economics",
+      "poverty"
+    ],
+    "verified": false
   }
 ]

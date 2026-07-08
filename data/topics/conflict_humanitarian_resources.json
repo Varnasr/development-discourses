@@ -267,5 +267,112 @@
       "education"
     ],
     "verified": false
+  },
+  {
+    "title": "Global Report on Internal Displacement 2024",
+    "authors": "Internal Displacement Monitoring Centre",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.internal-displacement.org/global-report/grid2024/",
+    "description": "The authoritative annual count of people displaced within their own countries by conflict, violence, and disasters.",
+    "id": "global-report-on-internal-displacement-2024",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Humanitarian Overview 2024",
+    "authors": "UN OCHA",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.unocha.org/publications/report/world/global-humanitarian-overview-2024",
+    "description": "OCHA's consolidated appeal quantifying people in need and funding requirements across the world's humanitarian crises.",
+    "id": "global-humanitarian-overview-2024",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Sphere Handbook: Humanitarian Charter and Minimum Standards",
+    "authors": "Sphere Association",
+    "year": 2018,
+    "type": "book",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://spherestandards.org/handbook/",
+    "description": "The most widely used set of common principles and universal minimum standards for humanitarian response.",
+    "id": "the-sphere-handbook-humanitarian-charter-and-minimum-standards",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of the World's Refugees",
+    "authors": "UNHCR",
+    "year": 2012,
+    "type": "book",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.unhcr.org/publications/state-worlds-refugees",
+    "description": "UNHCR's periodic flagship analysing forced displacement trends and the international protection regime.",
+    "id": "the-state-of-the-worlds-refugees",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Humanitarian Response in Fragile Settings",
+    "authors": "ODI",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://odi.org/en/publications/",
+    "description": "ODI Humanitarian Policy Group research on adapting aid delivery to protracted crises and fragile states.",
+    "id": "humanitarian-response-in-fragile-settings",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cash Transfers in Humanitarian Contexts",
+    "authors": "World Bank, UNHCR",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/24593",
+    "description": "Evidence review on the effectiveness and operational challenges of cash-based assistance in emergencies.",
+    "id": "cash-transfers-in-humanitarian-contexts",
+    "access_type": "open_access",
+    "tags": [
+      "cash-transfers",
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Grievances, Governance and Violent Extremism",
+    "authors": "UNDP",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.undp.org/publications/journey-extremism-africa",
+    "description": "UNDP's multi-country study of the drivers that push individuals toward violent extremist recruitment in Africa.",
+    "id": "grievances-governance-and-violent-extremism",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "governance"
+    ],
+    "verified": false
   }
 ]

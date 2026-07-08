@@ -366,6 +366,165 @@
     "verified": false
   },
   {
+    "title": "The State of Food Security and Nutrition in the World 2024",
+    "authors": "FAO, IFAD, UNICEF, WFP, WHO",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
+    "description": "The 2024 edition of the UN's flagship food security report, tracking progress toward ending hunger and examining financing for food security and nutrition.",
+    "id": "the-state-of-food-security-and-nutrition-in-the-world-2024",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems",
+      "food-security",
+      "nutrition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of Food and Agriculture 2023",
+    "authors": "FAO",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/sofa/2023/en/",
+    "description": "FAO's annual flagship, applying the 'true cost accounting' framework to reveal the hidden environmental, health, and social costs of global agrifood systems.",
+    "id": "the-state-of-food-and-agriculture-2023",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Report on Food Crises 2024",
+    "authors": "Food Security Information Network (FSIN)",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/CC8879EN",
+    "description": "Annual multi-agency assessment of acute food insecurity across crisis-affected countries, documenting the drivers of hunger from conflict to climate shocks.",
+    "id": "global-report-on-food-crises-2024",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Repurposing Agricultural Policies and Support",
+    "authors": "World Bank, FAO, IFPRI",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/37361",
+    "description": "Analysis of how the roughly USD 600 billion in annual agricultural support could be repurposed to boost productivity, equity, and environmental sustainability.",
+    "id": "repurposing-agricultural-policies-and-support",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Agricultural Innovation for Family Farming",
+    "authors": "FAO",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/CA2588EN",
+    "description": "Documents ten decisive challenges and successful innovation cases for smallholder and family farming systems worldwide.",
+    "id": "agricultural-innovation-for-family-farming",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water for Sustainable Food and Agriculture",
+    "authors": "FAO",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/I7959EN",
+    "description": "A report to the G20 examining the water constraints on agricultural production and pathways to more water-efficient food systems.",
+    "id": "water-for-sustainable-food-and-agriculture",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Ending Hunger: What Would It Cost?",
+    "authors": "IISD, IFPRI",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.ifpri.org/publication/ceres2030-sustainable-solutions-end-hunger",
+    "description": "Ceres2030 estimates the additional investment needed to end hunger, double smallholder incomes, and limit agricultural emissions by 2030.",
+    "id": "ending-hunger-what-would-it-cost",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Crop Production and Natural Resource Use",
+    "authors": "FAO",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/CA1553EN",
+    "description": "Assessment of how crop production systems interact with land, water, and biodiversity resources in the transition to sustainable agriculture.",
+    "id": "crop-production-and-natural-resource-use",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "biodiversity"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Future of Food and Agriculture: Trends and Challenges",
+    "authors": "FAO",
+    "year": 2017,
+    "type": "book",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/I6583EN",
+    "description": "FAO's foresight report mapping the megatrends—population, climate, resource scarcity—shaping the food systems of 2050.",
+    "id": "the-future-of-food-and-agriculture-trends-and-challenges",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Agriculture for Development in India",
+    "authors": "IFPRI",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.ifpri.org/publication/2020-2021-annual-report",
+    "description": "IFPRI research syntheses on Indian agricultural transformation, procurement reform, and farmer welfare policy.",
+    "id": "agriculture-for-development-in-india",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
     "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability",
     "authors": "Hans-Otto Pörtner, Debra C. Roberts, Melinda Tignor, Elvira S. Poloczanska, et al. (eds.)",
     "year": 2022,
@@ -994,6 +1153,132 @@
     "verified": false
   },
   {
+    "title": "Climate Change 2023: Synthesis Report (AR6)",
+    "authors": "IPCC",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.ipcc.ch/report/ar6/syr/",
+    "description": "The capstone of the IPCC's Sixth Assessment Cycle, synthesising the physical science, impacts, adaptation, and mitigation findings for policymakers.",
+    "id": "climate-change-2023-synthesis-report-ar6",
+    "access_type": "open_access",
+    "tags": [
+      "climate-adaptation",
+      "climate-change",
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Emissions Gap Report 2024",
+    "authors": "UNEP",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.unep.org/resources/emissions-gap-report-2024",
+    "description": "UNEP's annual accounting of the gap between national climate pledges and the emissions cuts needed to hold warming to 1.5°C.",
+    "id": "emissions-gap-report-2024",
+    "access_type": "open_access",
+    "tags": [
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Adaptation Gap Report 2024",
+    "authors": "UNEP",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.unep.org/resources/adaptation-gap-report-2024",
+    "description": "Assessment of global progress and shortfalls in adaptation planning, finance, and implementation.",
+    "id": "adaptation-gap-report-2024",
+    "access_type": "open_access",
+    "tags": [
+      "climate-adaptation",
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Groundswell: Preparing for Internal Climate Migration",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/36248",
+    "description": "Projects that climate change could drive over 200 million people to migrate within their countries by 2050 absent concerted action.",
+    "id": "groundswell-preparing-for-internal-climate-migration",
+    "access_type": "open_access",
+    "tags": [
+      "climate-change",
+      "climate-environment",
+      "migration"
+    ],
+    "verified": false
+  },
+  {
+    "title": "State of the Global Climate 2023",
+    "authors": "World Meteorological Organization",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://library.wmo.int/records/item/68835-state-of-the-global-climate-2023",
+    "description": "WMO's annual report confirming record temperatures, ocean heat, sea-level rise, and glacier retreat.",
+    "id": "state-of-the-global-climate-2023",
+    "access_type": "check_access",
+    "tags": [
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Development Report 2010: Development and Climate Change",
+    "authors": "World Bank",
+    "year": 2010,
+    "type": "book",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/4387",
+    "description": "The World Bank's flagship framing of the twin challenge of promoting development while confronting climate change.",
+    "id": "world-development-report-2010-development-and-climate-change",
+    "access_type": "open_access",
+    "tags": [
+      "climate-change",
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Warming of 1.5°C (SR15)",
+    "authors": "IPCC",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.ipcc.ch/sr15/",
+    "description": "The special report that established the scientific case for limiting warming to 1.5°C and catalysed net-zero commitments worldwide.",
+    "id": "global-warming-of-15c-sr15",
+    "access_type": "open_access",
+    "tags": [
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Financing Climate Action in Developing Countries",
+    "authors": "OECD",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.oecd.org/climate-change/finance-usd-100-billion-goal/",
+    "description": "Tracks progress toward the USD 100 billion climate finance commitment made to developing countries.",
+    "id": "financing-climate-action-in-developing-countries",
+    "access_type": "free_to_read",
+    "tags": [
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
     "title": "World Development Report 2011: Conflict, Security, and Development",
     "authors": "World Bank",
     "year": 2011,
@@ -1259,6 +1544,113 @@
     "tags": [
       "conflict-humanitarian",
       "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Report on Internal Displacement 2024",
+    "authors": "Internal Displacement Monitoring Centre",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.internal-displacement.org/global-report/grid2024/",
+    "description": "The authoritative annual count of people displaced within their own countries by conflict, violence, and disasters.",
+    "id": "global-report-on-internal-displacement-2024",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Humanitarian Overview 2024",
+    "authors": "UN OCHA",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.unocha.org/publications/report/world/global-humanitarian-overview-2024",
+    "description": "OCHA's consolidated appeal quantifying people in need and funding requirements across the world's humanitarian crises.",
+    "id": "global-humanitarian-overview-2024",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Sphere Handbook: Humanitarian Charter and Minimum Standards",
+    "authors": "Sphere Association",
+    "year": 2018,
+    "type": "book",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://spherestandards.org/handbook/",
+    "description": "The most widely used set of common principles and universal minimum standards for humanitarian response.",
+    "id": "the-sphere-handbook-humanitarian-charter-and-minimum-standards",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of the World's Refugees",
+    "authors": "UNHCR",
+    "year": 2012,
+    "type": "book",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.unhcr.org/publications/state-worlds-refugees",
+    "description": "UNHCR's periodic flagship analysing forced displacement trends and the international protection regime.",
+    "id": "the-state-of-the-worlds-refugees",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Humanitarian Response in Fragile Settings",
+    "authors": "ODI",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://odi.org/en/publications/",
+    "description": "ODI Humanitarian Policy Group research on adapting aid delivery to protracted crises and fragile states.",
+    "id": "humanitarian-response-in-fragile-settings",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cash Transfers in Humanitarian Contexts",
+    "authors": "World Bank, UNHCR",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/24593",
+    "description": "Evidence review on the effectiveness and operational challenges of cash-based assistance in emergencies.",
+    "id": "cash-transfers-in-humanitarian-contexts",
+    "access_type": "open_access",
+    "tags": [
+      "cash-transfers",
+      "conflict-humanitarian"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Grievances, Governance and Violent Extremism",
+    "authors": "UNDP",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.undp.org/publications/journey-extremism-africa",
+    "description": "UNDP's multi-country study of the drivers that push individuals toward violent extremist recruitment in Africa.",
+    "id": "grievances-governance-and-violent-extremism",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "governance"
     ],
     "verified": false
   },
@@ -1862,6 +2254,150 @@
     "access_type": "open_access",
     "tags": [
       "data-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Development Report 2016: Digital Dividends (Overview)",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/23347",
+    "description": "The overview volume arguing that digital technologies must be paired with analog complements—regulation, skills, institutions—to deliver development gains.",
+    "id": "world-development-report-2016-digital-dividends-overview",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology",
+      "digital",
+      "institutions"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Digital Public Infrastructure and Development",
+    "authors": "UNDP",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://www.undp.org/publications/dfs-digital-public-infrastructure",
+    "description": "Framework for how interoperable digital public infrastructure—ID, payments, data exchange—can accelerate inclusive development.",
+    "id": "digital-public-infrastructure-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology",
+      "digital"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Government Analytics Handbook",
+    "authors": "World Bank",
+    "year": 2023,
+    "type": "book",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/40015",
+    "description": "A practical guide to using administrative and survey data to measure and improve the performance of public administration.",
+    "id": "the-government-analytics-handbook",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology",
+      "survey-data"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Data for Better Lives (WDR 2021 Overview)",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/35218",
+    "description": "Overview of the WDR calling for a new social contract on data that maximises value while safeguarding against harm.",
+    "id": "data-for-better-lives-wdr-2021-overview",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Artificial Intelligence in the Global South",
+    "authors": "UNCTAD",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://unctad.org/publication/technology-and-innovation-report-2023",
+    "description": "UNCTAD's Technology and Innovation Report examining frontier technologies, AI, and the widening capability gap between countries.",
+    "id": "artificial-intelligence-in-the-global-south",
+    "access_type": "open_access",
+    "tags": [
+      "AI",
+      "data-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Digital Financial Services Landscape",
+    "authors": "GSMA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://www.gsma.com/r/state-of-the-industry-report/",
+    "description": "GSMA's State of the Industry Report on mobile money, tracking accounts, transaction values, and financial inclusion impact.",
+    "id": "the-digital-financial-services-landscape",
+    "access_type": "free_to_read",
+    "tags": [
+      "data-technology",
+      "digital",
+      "mobile-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Identification for Development (ID4D) Global Dataset",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://id4d.worldbank.org/global-dataset",
+    "description": "The World Bank's global estimates of the roughly 850 million people who lack official proof of identity.",
+    "id": "identification-for-development-id4d-global-dataset",
+    "access_type": "check_access",
+    "tags": [
+      "data-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Open Data for Development",
+    "authors": "Open Data Watch",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://opendatawatch.com/publications/",
+    "description": "Assessments of the coverage and openness of national statistical systems and their contribution to the SDGs.",
+    "id": "open-data-for-development",
+    "access_type": "check_access",
+    "tags": [
+      "data-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "AI Ethics and Governance in Practice",
+    "authors": "UNESCO",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+    "description": "UNESCO's Recommendation on the Ethics of Artificial Intelligence, the first global standard-setting instrument on AI.",
+    "id": "ai-ethics-and-governance-in-practice",
+    "access_type": "check_access",
+    "tags": [
+      "AI",
+      "data-technology",
+      "governance"
     ],
     "verified": false
   },
@@ -2545,6 +3081,168 @@
     "verified": false
   },
   {
+    "title": "World Development Report 2023: Migrants, Refugees, and Societies",
+    "authors": "World Bank",
+    "year": 2023,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/39696",
+    "description": "Reframes migration as a development strategy, introducing a 'Match and Motive' matrix to guide policy for migrants, refugees, and host societies.",
+    "id": "world-development-report-2023-migrants-refugees-and-societies",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics",
+      "migration"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Development Report 2024: The Middle-Income Trap",
+    "authors": "World Bank",
+    "year": 2024,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/41919",
+    "description": "Proposes an '3i' strategy—investment, infusion, innovation—for how middle-income countries can escape stagnation and reach high income.",
+    "id": "world-development-report-2024-the-middle-income-trap",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Development Report 2013: Jobs",
+    "authors": "World Bank",
+    "year": 2013,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/11843",
+    "description": "Argues that jobs are the cornerstone of development, driving living standards, productivity, and social cohesion.",
+    "id": "world-development-report-2013-jobs",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
+    "authors": "Abhijit Banerjee, Esther Duflo",
+    "year": 2011,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://www.pooreconomics.com/",
+    "description": "The Nobel laureates' synthesis of randomised-evaluation evidence on how the poor actually make decisions about health, education, and finance.",
+    "id": "poor-economics-a-radical-rethinking-of-the-way-to-fight-global-poverty",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "development-economics",
+      "education",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Good Economics for Hard Times",
+    "authors": "Abhijit Banerjee, Esther Duflo",
+    "year": 2019,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://www.penguinrandomhouse.com/books/564316/good-economics-for-hard-times/",
+    "description": "A survey of what economics can and cannot say about migration, trade, growth, inequality, and the social policies to address them.",
+    "id": "good-economics-for-hard-times",
+    "access_type": "check_access",
+    "tags": [
+      "development-economics",
+      "inequality",
+      "migration",
+      "survey-data"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Human Development Report 2023/24",
+    "authors": "UNDP",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://hdr.undp.org/content/human-development-report-2023-24",
+    "description": "'Breaking the Gridlock'—the HDR examining rising global polarisation and the reimagined cooperation needed for human development.",
+    "id": "human-development-report-202324",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Trade and Development Report 2023",
+    "authors": "UNCTAD",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://unctad.org/publication/trade-and-development-report-2023",
+    "description": "UNCTAD's macroeconomic assessment of growth, debt, and the reforms needed in the international financial architecture.",
+    "id": "trade-and-development-report-2023",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The World Inequality Report 2022",
+    "authors": "World Inequality Lab",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://wir2022.wid.world/",
+    "description": "Coordinated by Chancel, Piketty, Saez and Zucman, the most comprehensive global account of income and wealth inequality.",
+    "id": "the-world-inequality-report-2022",
+    "access_type": "check_access",
+    "tags": [
+      "development-economics",
+      "inequality"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
+    "authors": "Daron Acemoglu, James Robinson",
+    "year": 2012,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://www.hachettebookgroup.com/titles/daron-acemoglu/why-nations-fail/9780307719225/",
+    "description": "The influential thesis that inclusive political and economic institutions, not geography or culture, explain why some nations prosper.",
+    "id": "why-nations-fail-the-origins-of-power-prosperity-and-poverty",
+    "access_type": "check_access",
+    "tags": [
+      "development-economics",
+      "institutions",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Great Indian Poverty Debate",
+    "authors": "Angus Deaton, Valerie Kozel",
+    "year": 2005,
+    "type": "book",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/7484",
+    "description": "A classic collection dissecting the measurement controversies behind India's 1990s poverty estimates.",
+    "id": "the-great-indian-poverty-debate",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "development-economics",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
     "title": "World Report on Disability",
     "authors": "WHO, World Bank",
     "year": 2011,
@@ -2881,6 +3579,102 @@
     "verified": false
   },
   {
+    "title": "Global Report on Health Equity for Persons with Disabilities",
+    "authors": "World Health Organization",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/9789240063600",
+    "description": "WHO's assessment of the health inequities faced by persons with disabilities and the actions health systems must take.",
+    "id": "global-report-on-health-equity-for-persons-with-disabilities",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability, Poverty and Development",
+    "authors": "DFID",
+    "year": 2000,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.gov.uk/government/publications/disability-poverty-and-development",
+    "description": "An early and influential policy paper establishing the two-way links between disability and poverty in development.",
+    "id": "disability-poverty-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Assistive Technology: Global Report",
+    "authors": "WHO, UNICEF",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.who.int/publications/i/item/9789240049451",
+    "description": "The first global report on effective access to assistive technology, estimating that 2.5 billion people need one or more assistive products.",
+    "id": "assistive-technology-global-report",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Nothing About Us Without Us: Disability and Development",
+    "authors": "UN DESA",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.un.org/development/desa/disabilities/publication-disability-sdgs.html",
+    "description": "UN flagship on the situation of persons with disabilities in relation to the Sustainable Development Goals.",
+    "id": "nothing-about-us-without-us-disability-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Inclusive Education for Children with Disabilities",
+    "authors": "UNICEF",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.unicef.org/reports/education-children-disabilities",
+    "description": "UNICEF evidence on the exclusion of children with disabilities from schooling and strategies for inclusive education systems.",
+    "id": "inclusive-education-for-children-with-disabilities",
+    "access_type": "open_access",
+    "tags": [
+      "disability-inclusion",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disability Data in Household Surveys: The Washington Group Approach",
+    "authors": "Washington Group on Disability Statistics",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://www.washingtongroup-disability.com/resources/",
+    "description": "The internationally standardised question sets for capturing disability in censuses and surveys.",
+    "id": "disability-data-in-household-surveys-the-washington-group-approach",
+    "access_type": "check_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "survey-data"
+    ],
+    "verified": false
+  },
+  {
     "title": "World Development Report 2018: Learning to Realize Education's Promise",
     "authors": "World Bank",
     "year": 2018,
@@ -3067,6 +3861,315 @@
     "access_type": "free_to_read",
     "tags": [
       "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Education Monitoring Report 2023: Technology in Education",
+    "authors": "UNESCO",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.unesco.org/gem-report/en/technology",
+    "description": "The GEM Report's critical appraisal of when, and whether, technology genuinely improves learning and equity.",
+    "id": "global-education-monitoring-report-2023-technology-in-education",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of Global Learning Poverty: 2022 Update",
+    "authors": "World Bank, UNESCO, UNICEF, FCDO, USAID, Gates Foundation",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/37837",
+    "description": "Estimates that 70% of 10-year-olds in low- and middle-income countries cannot read and understand a simple text.",
+    "id": "the-state-of-global-learning-poverty-2022-update",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Education Monitoring Report 2021/2: Non-State Actors",
+    "authors": "UNESCO",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.unesco.org/gem-report/en/non-state-actors",
+    "description": "Examines the role of private and non-state provision in education and its implications for equity and the right to education.",
+    "id": "global-education-monitoring-report-20212-non-state-actors",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Learning Losses from COVID-19 School Closures",
+    "authors": "UNESCO, UNICEF, World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/36566",
+    "description": "'The State of the Global Education Crisis'—a joint assessment of pandemic learning losses and recovery strategies.",
+    "id": "learning-losses-from-covid-19-school-closures",
+    "access_type": "open_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Teaching at the Right Level: Evidence Review",
+    "authors": "J-PAL",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.povertyactionlab.org/case-study/teaching-right-level-improve-learning",
+    "description": "Synthesis of the randomised evidence behind Pratham's TaRL approach to remediating foundational learning.",
+    "id": "teaching-at-the-right-level-evidence-review",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cost-Effective Approaches to Improve Global Learning",
+    "authors": "World Bank, FCDO, Building Evidence in Education",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/34658",
+    "description": "Ranks education interventions by their cost-effectiveness in delivering additional years of learning-adjusted schooling ('Smart Buys').",
+    "id": "cost-effective-approaches-to-improve-global-learning",
+    "access_type": "open_access",
+    "tags": [
+      "cost-effectiveness",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Girls' Education and Women's Empowerment",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/29956",
+    "description": "'Missed Opportunities'—quantifies the large economic costs of not educating girls to secondary level.",
+    "id": "girls-education-and-womens-empowerment",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "girls-education",
+      "womens-empowerment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Foundational Learning and the SDG 4 Agenda",
+    "authors": "UNESCO Institute for Statistics",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://uis.unesco.org/en/topic/sustainable-development-goal-4",
+    "description": "Data and indicators tracking global progress toward inclusive and equitable quality education.",
+    "id": "foundational-learning-and-the-sdg-4-agenda",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Tracking SDG 7: The Energy Progress Report 2024",
+    "authors": "IEA, IRENA, UNSD, World Bank, WHO",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.worldbank.org/en/topic/energy/publication/tracking-sdg7-the-energy-progress-report-2024",
+    "description": "The custodian agencies' annual assessment of global progress toward universal access to affordable, reliable, sustainable energy.",
+    "id": "tracking-sdg-7-the-energy-progress-report-2024",
+    "access_type": "free_to_read",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Energy Outlook 2023",
+    "authors": "International Energy Agency",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.iea.org/reports/world-energy-outlook-2023",
+    "description": "The IEA's flagship scenario analysis of the global energy system and the pace of the clean-energy transition.",
+    "id": "world-energy-outlook-2023",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Energy Transitions Outlook 2023",
+    "authors": "IRENA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.irena.org/Publications/2023/Jun/World-Energy-Transitions-Outlook-2023",
+    "description": "IRENA's 1.5°C pathway detailing the renewables scale-up, electrification, and investment needed to meet climate goals.",
+    "id": "world-energy-transitions-outlook-2023",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Energy Access and the Sustainable Development Goals",
+    "authors": "World Bank ESMAP",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.esmap.org/",
+    "description": "ESMAP research on closing the energy-access gap for the 675 million people still living without electricity.",
+    "id": "energy-access-and-the-sustainable-development-goals",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Geopolitics of the Energy Transition",
+    "authors": "IRENA",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.irena.org/publications/2019/Jan/A-New-World-The-Geopolitics-of-the-Energy-Transformation",
+    "description": "'A New World'—examines how the shift to renewables reshapes global power, trade, and security.",
+    "id": "the-geopolitics-of-the-energy-transition",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Just Transition of the Workforce",
+    "authors": "International Labour Organization",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies",
+    "description": "The ILO Guidelines for a just transition toward environmentally sustainable economies and societies for all.",
+    "id": "just-transition-of-the-workforce",
+    "access_type": "open_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Scaling Up Renewable Energy in Developing Countries",
+    "authors": "IRENA",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.irena.org/Energy-Transition/Outlook",
+    "description": "Analysis of the finance, policy, and grid reforms needed to accelerate renewables deployment in the Global South.",
+    "id": "scaling-up-renewable-energy-in-developing-countries",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition",
+      "renewable-energy"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cooking with Clean Energy: Access and Health",
+    "authors": "World Health Organization",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health",
+    "description": "WHO evidence on the 2.3 billion people relying on polluting cooking fuels and the resulting health burden.",
+    "id": "cooking-with-clean-energy-access-and-health",
+    "access_type": "open_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Role of Critical Minerals in Clean Energy Transitions",
+    "authors": "International Energy Agency",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions",
+    "description": "The IEA's assessment of mineral demand, supply risks, and the sustainability challenges of the energy transition.",
+    "id": "the-role-of-critical-minerals-in-clean-energy-transitions",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Solar Power and Rural Electrification in South Asia",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://openknowledge.worldbank.org/handle/10986/34188",
+    "description": "Reviews decentralised solar and off-grid electrification models expanding energy access in rural South Asia.",
+    "id": "solar-power-and-rural-electrification-in-south-asia",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Energy Subsidy Reform: Lessons and Implications",
+    "authors": "International Monetary Fund",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.imf.org/en/Publications/Books/Issues/2016/12/31/Energy-Subsidy-Reform-Lessons-and-Implications-40410",
+    "description": "The IMF's influential analysis of the fiscal, environmental, and distributional case for reforming fossil-fuel subsidies.",
+    "id": "energy-subsidy-reform-lessons-and-implications",
+    "access_type": "free_to_read",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Powering Jobs: The Employment Footprint of Renewable Energy",
+    "authors": "IRENA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.irena.org/Publications/2023/Sep/Renewable-energy-and-jobs-Annual-review-2023",
+    "description": "The annual review estimating renewable-energy employment worldwide and its distribution across technologies and regions.",
+    "id": "powering-jobs-the-employment-footprint-of-renewable-energy",
+    "access_type": "check_access",
+    "tags": [
+      "employment",
+      "energy-just-transition",
+      "renewable-energy"
     ],
     "verified": false
   },
@@ -3265,6 +4368,137 @@
     "access_type": "open_access",
     "tags": [
       "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Global Findex Database 2021",
+    "authors": "World Bank",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.worldbank.org/en/publication/globalfindex",
+    "description": "The definitive demand-side data on how adults save, borrow, make payments, and manage risk—covering 123 economies.",
+    "id": "the-global-findex-database-2021",
+    "access_type": "free_to_read",
+    "tags": [
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Financial Inclusion and Digital Financial Services",
+    "authors": "CGAP",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.cgap.org/research",
+    "description": "CGAP's research portfolio on branchless banking, agent networks, and consumer protection in inclusive finance.",
+    "id": "financial-inclusion-and-digital-financial-services",
+    "access_type": "check_access",
+    "tags": [
+      "digital",
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of Economic Inclusion Report 2021",
+    "authors": "World Bank, PEI",
+    "year": 2021,
+    "type": "book",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/34917",
+    "description": "The first global stocktaking of 'graduation' and economic-inclusion programs reaching over 90 million people.",
+    "id": "the-state-of-economic-inclusion-report-2021",
+    "access_type": "open_access",
+    "tags": [
+      "financial-inclusion",
+      "graduation-approach"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Banking the World: Empirical Foundations of Financial Inclusion",
+    "authors": "Robert Cull, Asli Demirguc-Kunt, Jonathan Morduch",
+    "year": 2013,
+    "type": "book",
+    "topic": "Financial Inclusion",
+    "url": "https://direct.mit.edu/books/book/2434/Banking-the-WorldEmpirical-Foundations-of",
+    "description": "A landmark edited volume assembling the empirical evidence on access to finance for the poor.",
+    "id": "banking-the-world-empirical-foundations-of-financial-inclusion",
+    "access_type": "check_access",
+    "tags": [
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Portfolios of the Poor: How the World's Poor Live on $2 a Day",
+    "authors": "Daryl Collins, Jonathan Morduch, Stuart Rutherford, Orlanda Ruthven",
+    "year": 2009,
+    "type": "book",
+    "topic": "Financial Inclusion",
+    "url": "https://www.portfoliosofthepoor.com/",
+    "description": "The 'financial diaries' study revealing the sophisticated money management of poor households across India, Bangladesh, and South Africa.",
+    "id": "portfolios-of-the-poor-how-the-worlds-poor-live-on-2-a-day",
+    "access_type": "check_access",
+    "tags": [
+      "Bangladesh",
+      "India",
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Six Randomized Evaluations of Microcredit",
+    "authors": "Abhijit Banerjee, Dean Karlan, Jonathan Zinman",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.povertyactionlab.org/evaluation/measuring-impact-microcredit-hyderabad-india",
+    "description": "The synthesis showing that microcredit expands business activity but has modest average effects on income and well-being.",
+    "id": "six-randomized-evaluations-of-microcredit",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "financial-inclusion",
+      "microfinance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Digital Financial Services and Inclusion",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/34789",
+    "description": "Reviews how mobile money and fintech are reshaping access to finance in developing economies.",
+    "id": "digital-financial-services-and-inclusion",
+    "access_type": "open_access",
+    "tags": [
+      "digital",
+      "financial-inclusion",
+      "mobile-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Advancing Women's Financial Inclusion",
+    "authors": "GSMA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.gsma.com/mobilefordevelopment/gsma_resources/the-mobile-gender-gap-report-2023/",
+    "description": "The Mobile Gender Gap Report analysing the barriers women face in accessing mobile and digital financial services.",
+    "id": "advancing-womens-financial-inclusion",
+    "access_type": "free_to_read",
+    "tags": [
+      "digital",
+      "financial-inclusion",
+      "gender",
+      "mobile-technology"
     ],
     "verified": false
   },
@@ -3886,6 +5120,134 @@
     "verified": false
   },
   {
+    "title": "World Development Report 2012: Gender Equality and Development",
+    "authors": "World Bank",
+    "year": 2012,
+    "type": "book",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/4391",
+    "description": "The World Bank's landmark case that gender equality is both a core development objective and smart economics.",
+    "id": "world-development-report-2012-gender-equality-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "gender",
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Progress of the World's Women 2019-2020: Families in a Changing World",
+    "authors": "UN Women",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.unwomen.org/en/digital-library/progress-of-the-worlds-women",
+    "description": "UN Women's flagship examining how family policies can advance women's rights across diverse family forms.",
+    "id": "progress-of-the-worlds-women-2019-2020-families-in-a-changing-world",
+    "access_type": "check_access",
+    "tags": [
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Gender at Work: A Companion to the World Development Report on Jobs",
+    "authors": "World Bank",
+    "year": 2014,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/17121",
+    "description": "Analyses the persistent gender gaps in labour markets and the constraints on women's economic participation.",
+    "id": "gender-at-work-a-companion-to-the-world-development-report-on-jobs",
+    "access_type": "open_access",
+    "tags": [
+      "gender",
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of the World's Children 2023",
+    "authors": "UNICEF",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.unicef.org/reports/state-worlds-children",
+    "description": "UNICEF's flagship on children's rights and wellbeing, with a focus on immunisation and equity.",
+    "id": "the-state-of-the-worlds-children-2023",
+    "access_type": "open_access",
+    "tags": [
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Caste, Discrimination and Exclusion in Modern India",
+    "authors": "Sukhadeo Thorat, Katherine Newman",
+    "year": 2010,
+    "type": "book",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://in.sagepub.com/en-in/sas/blocked-by-caste/book234286",
+    "description": "'Blocked by Caste'—empirical studies of economic discrimination against Dalits and Adivasis in Indian labour and credit markets.",
+    "id": "caste-discrimination-and-exclusion-in-modern-india",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "caste",
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Half the Sky: Turning Oppression into Opportunity for Women Worldwide",
+    "authors": "Nicholas Kristof, Sheryl WuDunn",
+    "year": 2009,
+    "type": "book",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.halftheskymovement.org/",
+    "description": "A widely read account linking maternal mortality, trafficking, and gender-based violence to development priorities.",
+    "id": "half-the-sky-turning-oppression-into-opportunity-for-women-worldwide",
+    "access_type": "check_access",
+    "tags": [
+      "GBV",
+      "gender",
+      "gender-social-inclusion",
+      "maternal-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Making Women Count: Gender Data and the SDGs",
+    "authors": "UN Women",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://data.unwomen.org/publications/turning-promises-action-gender-equality-2030-agenda",
+    "description": "'Turning Promises into Action'—UN Women's monitoring report on gender equality across the 2030 Agenda.",
+    "id": "making-women-count-gender-data-and-the-sdgs",
+    "access_type": "check_access",
+    "tags": [
+      "gender",
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Intersectionality and Development",
+    "authors": "UN Women",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.unwomen.org/en/digital-library/publications",
+    "description": "Guidance on applying an intersectional lens to development programming and data disaggregation.",
+    "id": "intersectionality-and-development",
+    "access_type": "check_access",
+    "tags": [
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
     "title": "Sustainable Rural Livelihoods: Practical Concepts for the 21st Century",
     "authors": "Robert Chambers, Gordon R. Conway",
     "year": 1992,
@@ -3913,22 +5275,6 @@
     "access_type": "open_access",
     "tags": [
       "livelihoods"
-    ],
-    "verified": false
-  },
-  {
-    "title": "World Development Report 2013: Jobs",
-    "authors": "World Bank",
-    "year": 2012,
-    "type": "grey_literature",
-    "topic": "Livelihoods",
-    "url": "https://openknowledge.worldbank.org/handle/10986/11843",
-    "description": "World Bank flagship report analyzing how jobs drive development by reducing poverty, empowering women, and building social cohesion, emphasizing that the private sector accounts for 90% of jobs in developing countries.",
-    "id": "world-development-report-2013-jobs",
-    "access_type": "open_access",
-    "tags": [
-      "livelihoods",
-      "poverty"
     ],
     "verified": false
   },
@@ -4595,6 +5941,134 @@
     "verified": false
   },
   {
+    "title": "Sustainable Livelihoods Framework",
+    "authors": "DFID",
+    "year": 1999,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ennonline.net/dfidsustainableliving",
+    "description": "The foundational DFID guidance sheets that made 'sustainable livelihoods' a central lens in development practice.",
+    "id": "sustainable-livelihoods-framework",
+    "access_type": "check_access",
+    "tags": [
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Ultra-Poor Graduation Approach: Evidence",
+    "authors": "J-PAL, Innovations for Poverty Action",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.povertyactionlab.org/evaluation/impact-ultra-poor-graduation-programs-six-countries",
+    "description": "Six-country RCT evidence that the BRAC-pioneered graduation model produces lasting gains for the poorest households.",
+    "id": "the-ultra-poor-graduation-approach-evidence",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "graduation-approach",
+      "livelihoods",
+      "ultra-poor"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Women and Men in the Informal Economy: A Statistical Picture",
+    "authors": "International Labour Organization",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/publications/women-and-men-informal-economy-statistical-picture-third-edition",
+    "description": "The definitive global statistics showing that over 60% of the world's employed are in informal work.",
+    "id": "women-and-men-in-the-informal-economy-a-statistical-picture",
+    "access_type": "open_access",
+    "tags": [
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Future of Work in the Global South",
+    "authors": "IDRC",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://idrc-crdi.ca/en/research-in-action/future-work-global-south",
+    "description": "Research on how automation, platforms, and demographic change are reshaping work in developing economies.",
+    "id": "the-future-of-work-in-the-global-south",
+    "access_type": "check_access",
+    "tags": [
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Skills Development and the Informal Sector",
+    "authors": "International Labour Organization",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/skills",
+    "description": "ILO evidence on apprenticeships and vocational training pathways for workers in the informal economy.",
+    "id": "skills-development-and-the-informal-sector",
+    "access_type": "open_access",
+    "tags": [
+      "informal-economy",
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Self-Help Groups and Women's Empowerment in India",
+    "authors": "IFPRI",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ifpri.org/publication/self-help-groups-india",
+    "description": "Evaluations of India's SHG movement and its effects on savings, agency, and collective action.",
+    "id": "self-help-groups-and-womens-empowerment-in-india",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "SHGs",
+      "livelihoods",
+      "womens-empowerment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Rural Non-Farm Economy and Livelihood Diversification",
+    "authors": "IFAD",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ifad.org/en/rural-development-report",
+    "description": "IFAD's Rural Development Report on structural and rural transformation and the diversification of rural livelihoods.",
+    "id": "rural-non-farm-economy-and-livelihood-diversification",
+    "access_type": "check_access",
+    "tags": [
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Decent Work and the Sustainable Development Goals",
+    "authors": "International Labour Organization",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/global/topics/dw4sd",
+    "description": "ILO framework linking decent work, social protection, and the 2030 Agenda.",
+    "id": "decent-work-and-the-sustainable-development-goals",
+    "access_type": "open_access",
+    "tags": [
+      "livelihoods",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
     "title": "Using Randomization in Development Economics Research: A Toolkit",
     "authors": "Esther Duflo, Rachel Glennerster, Michael Kremer",
     "year": 2008,
@@ -5176,6 +6650,295 @@
     "verified": false
   },
   {
+    "title": "Running Randomized Evaluations: A Practical Guide",
+    "authors": "Rachel Glennerster, Kudzai Takavarasha",
+    "year": 2013,
+    "type": "book",
+    "topic": "MEAL & Evaluation",
+    "url": "https://runningres.com/",
+    "description": "A step-by-step field manual for designing and implementing randomised controlled trials in development.",
+    "id": "running-randomized-evaluations-a-practical-guide",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Rethinking Impact to Improve Effectiveness",
+    "authors": "3ie",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.3ieimpact.org/our-work",
+    "description": "3ie syntheses on how impact evidence can be produced and used to improve development programs and policy.",
+    "id": "rethinking-impact-to-improve-effectiveness",
+    "access_type": "open_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The DAC Evaluation Criteria: Adapted Definitions",
+    "authors": "OECD DAC",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.oecd.org/dac/evaluation/daccriteriaforevaluatingdevelopmentassistance.htm",
+    "description": "The revised relevance-coherence-effectiveness-efficiency-impact-sustainability criteria that anchor development evaluation globally.",
+    "id": "the-dac-evaluation-criteria-adapted-definitions",
+    "access_type": "free_to_read",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Developmental Evaluation",
+    "authors": "Michael Quinn Patton",
+    "year": 2011,
+    "type": "book",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.betterevaluation.org/methods-approaches/approaches/developmental-evaluation",
+    "description": "Patton's approach to evaluating innovation and complex, emergent interventions in real time.",
+    "id": "developmental-evaluation",
+    "access_type": "open_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "A Guide to Monitoring and Evaluation for Programmes",
+    "authors": "UNICEF",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.unicef.org/evaluation",
+    "description": "UNICEF's practical guidance on results frameworks, indicators, and evaluation planning.",
+    "id": "a-guide-to-monitoring-and-evaluation-for-programmes",
+    "access_type": "open_access",
+    "tags": [
+      "M&E",
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Outcome Mapping: Building Learning and Reflection into Development",
+    "authors": "IDRC",
+    "year": 2001,
+    "type": "book",
+    "topic": "MEAL & Evaluation",
+    "url": "https://idrc-crdi.ca/en/book/outcome-mapping-building-learning-and-reflection-development-programs",
+    "description": "A methodology that focuses evaluation on changes in the behaviour of the actors a program works with.",
+    "id": "outcome-mapping-building-learning-and-reflection-into-development",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Using Administrative Data for Monitoring and Evaluation",
+    "authors": "J-PAL",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.povertyactionlab.org/resource/using-administrative-data-randomized-evaluations",
+    "description": "Guidance on leveraging government administrative records to lower the cost and increase the scope of evaluations.",
+    "id": "using-administrative-data-for-monitoring-and-evaluation",
+    "access_type": "open_access",
+    "tags": [
+      "M&E",
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Mental Health Report: Transforming Mental Health for All",
+    "authors": "World Health Organization",
+    "year": 2022,
+    "type": "book",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789240049338",
+    "description": "WHO's landmark call to reshape mental-health environments, services, and rights, and to close the vast global treatment gap.",
+    "id": "world-mental-health-report-transforming-mental-health-for-all",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "mhGAP Intervention Guide, Version 2.0",
+    "authors": "World Health Organization",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789241549790",
+    "description": "The Mental Health Gap Action Programme guide for managing priority mental, neurological, and substance-use conditions in non-specialist settings.",
+    "id": "mhgap-intervention-guide-version-20",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Out of the Shadows: Making Mental Health a Global Priority",
+    "authors": "World Bank, WHO",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://openknowledge.worldbank.org/handle/10986/27000",
+    "description": "The report from the first global mental-health conference making the development and economic case for investment.",
+    "id": "out-of-the-shadows-making-mental-health-a-global-priority",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Depression and Other Common Mental Disorders: Global Estimates",
+    "authors": "World Health Organization",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/depression-global-health-estimates",
+    "description": "WHO's global prevalence estimates showing depression as a leading cause of disability worldwide.",
+    "id": "depression-and-other-common-mental-disorders-global-estimates",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Lancet Commission on Global Mental Health and Sustainable Development",
+    "authors": "Vikram Patel et al.",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.thelancet.com/commissions/global-mental-health",
+    "description": "A major commission reframing mental health as a global public good central to the SDGs, with a focus on scaling care.",
+    "id": "the-lancet-commission-on-global-mental-health-and-sustainable-development",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Mental Health and Psychosocial Support in Emergencies (IASC Guidelines)",
+    "authors": "Inter-Agency Standing Committee",
+    "year": 2007,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://interagencystandingcommittee.org/iasc-task-force-mental-health-and-psychosocial-support-emergency-settings",
+    "description": "The inter-agency guidelines coordinating mental-health and psychosocial support in humanitarian settings.",
+    "id": "mental-health-and-psychosocial-support-in-emergencies-iasc-guidelines",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Task-Sharing for Mental Health Care in Low-Resource Settings",
+    "authors": "World Health Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/teams/mental-health-and-substance-use",
+    "description": "Evidence and guidance on delivering psychological interventions through trained non-specialist community workers.",
+    "id": "task-sharing-for-mental-health-care-in-low-resource-settings",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Adolescent Mental Health and Wellbeing",
+    "authors": "UNICEF",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.unicef.org/reports/state-worlds-children-2021",
+    "description": "'On My Mind'—the State of the World's Children focused on promoting, protecting, and caring for children's mental health.",
+    "id": "adolescent-mental-health-and-wellbeing",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Economic Case for Investing in Mental Health",
+    "authors": "World Health Organization",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789241511810",
+    "description": "Return-on-investment analysis showing that scaling up treatment for depression and anxiety yields large economic gains.",
+    "id": "the-economic-case-for-investing-in-mental-health",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Comprehensive Mental Health Action Plan 2013-2030",
+    "authors": "World Health Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789240031029",
+    "description": "The updated global action plan setting targets for leadership, community care, promotion, and information systems.",
+    "id": "comprehensive-mental-health-action-plan-2013-2030",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Suicide Worldwide in 2019: Global Health Estimates",
+    "authors": "World Health Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789240026643",
+    "description": "WHO estimates on the global burden of suicide and the LIVE LIFE strategies for prevention.",
+    "id": "suicide-worldwide-in-2019-global-health-estimates",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Wellbeing and Happiness: The World Happiness Report 2024",
+    "authors": "Sustainable Development Solutions Network",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://worldhappiness.report/ed/2024/",
+    "description": "The annual ranking and analysis of subjective wellbeing across countries and the life circumstances that shape it.",
+    "id": "wellbeing-and-happiness-the-world-happiness-report-2024",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "verified": false
+  },
+  {
     "title": "World Development Report 2009: Reshaping Economic Geography",
     "authors": "World Bank",
     "year": 2009,
@@ -5307,26 +7070,6 @@
     "id": "forced-displacement-by-the-boko-haram-conflict-in-the-lake-chad-region",
     "access_type": "open_access",
     "tags": [
-      "migration-urbanization"
-    ],
-    "verified": false
-  },
-  {
-    "title": "Groundswell: Preparing for Internal Climate Migration",
-    "authors": "Kanta Kumari Rigaud, Alex de Sherbinin, Bryan Jones, et al.",
-    "year": 2018,
-    "type": "grey_literature",
-    "topic": "Migration & Urbanization",
-    "url": "https://openknowledge.worldbank.org/handle/10986/29461",
-    "description": "World Bank report projecting that by 2050, climate change could force 143 million people in Sub-Saharan Africa, South Asia, and Latin America to move within their own countries, and identifying policy actions that could reduce climate migration by up to 80%.",
-    "id": "groundswell-preparing-for-internal-climate-migration",
-    "access_type": "open_access",
-    "tags": [
-      "Latin-America",
-      "South-Asia",
-      "Sub-Saharan-Africa",
-      "climate-change",
-      "migration",
       "migration-urbanization"
     ],
     "verified": false
@@ -5574,6 +7317,120 @@
       "inequality",
       "migration-urbanization",
       "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Migration Report 2024",
+    "authors": "International Organization for Migration",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.iom.int/world-migration-report-2024",
+    "description": "IOM's flagship providing global data and analysis on migration patterns, remittances, and displacement.",
+    "id": "world-migration-report-2024",
+    "access_type": "check_access",
+    "tags": [
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Migration and Development Brief 39",
+    "authors": "World Bank, KNOMAD",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.knomad.org/publication/migration-and-development-brief-39",
+    "description": "The semi-annual update on global remittance flows, the largest external finance source for many low-income countries.",
+    "id": "migration-and-development-brief-39",
+    "access_type": "check_access",
+    "tags": [
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Reshaping Economic Geography (WDR 2009)",
+    "authors": "World Bank",
+    "year": 2009,
+    "type": "book",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/5991",
+    "description": "The WDR making the case that rising density, shorter distances, and fewer divisions drive economic development.",
+    "id": "reshaping-economic-geography-wdr-2009",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Making of a Riot: Urbanization and Slums",
+    "authors": "UN-Habitat",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://unhabitat.org/world-cities-report-2016",
+    "description": "'Urbanization and Development: Emerging Futures'—UN-Habitat on the transformative power and challenges of cities.",
+    "id": "the-making-of-a-riot-urbanization-and-slums",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization",
+      "urban-poverty",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Leveraging Urbanization in South Asia",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "book",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/22549",
+    "description": "Analysis of South Asia's messy and hidden urbanisation and the policies to make cities more livable and productive.",
+    "id": "leveraging-urbanization-in-south-asia",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "migration-urbanization",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Internal Migration in India",
+    "authors": "UNESCO, UNICEF",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.unesco.org/en/articles/internal-migration-india-initiative",
+    "description": "A social inclusion agenda addressing the exclusion of India's vast internal migrant workforce.",
+    "id": "internal-migration-in-india",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Climate Migration and Urban Resilience",
+    "authors": "UN-Habitat",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://unhabitat.org/topics/climate-change",
+    "description": "Examines how cities can plan for climate-induced migration and build resilient informal settlements.",
+    "id": "climate-migration-and-urban-resilience",
+    "access_type": "open_access",
+    "tags": [
+      "migration",
+      "migration-urbanization"
     ],
     "verified": false
   },
@@ -6071,6 +7928,128 @@
     "doi": "10.1371/journal.pmed.1001731",
     "tags": [
       "UHC",
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Health Statistics 2024",
+    "authors": "World Health Organization",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/data/gho/publications/world-health-statistics",
+    "description": "WHO's annual snapshot of health and health-system indicators across all Member States and the SDGs.",
+    "id": "world-health-statistics-2024",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The World Health Report 2000: Health Systems",
+    "authors": "World Health Organization",
+    "year": 2000,
+    "type": "book",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/924156198X",
+    "description": "The influential and controversial report that ranked national health systems and framed the goals of health-system performance.",
+    "id": "the-world-health-report-2000-health-systems",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disease Control Priorities, Third Edition",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "book",
+    "topic": "Public Health",
+    "url": "https://openknowledge.worldbank.org/handle/10986/28877",
+    "description": "The nine-volume synthesis of the most cost-effective health interventions for low- and middle-income countries.",
+    "id": "disease-control-priorities-third-edition",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "State of the World's Nursing 2020",
+    "authors": "World Health Organization",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/9789240003279",
+    "description": "The first global report on the nursing workforce, identifying the shortfall needed to reach UHC.",
+    "id": "state-of-the-worlds-nursing-2020",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Nutrition Report 2021",
+    "authors": "Global Nutrition Report",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://globalnutritionreport.org/reports/2021-global-nutrition-report/",
+    "description": "The independent annual review of the state of global nutrition and progress against malnutrition targets.",
+    "id": "global-nutrition-report-2021",
+    "access_type": "check_access",
+    "tags": [
+      "nutrition",
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Closing the Gap in a Generation: Social Determinants of Health",
+    "authors": "WHO Commission on Social Determinants of Health",
+    "year": 2008,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/WHO-IER-CSDH-08.1",
+    "description": "The landmark report reframing health inequities as a product of the unequal distribution of power, money, and resources.",
+    "id": "closing-the-gap-in-a-generation-social-determinants-of-health",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Trends in Maternal Mortality 2000 to 2020",
+    "authors": "WHO, UNICEF, UNFPA, World Bank, UNDESA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/9789240068759",
+    "description": "The inter-agency estimates tracking the global stagnation in reducing maternal deaths.",
+    "id": "trends-in-maternal-mortality-2000-to-2020",
+    "access_type": "open_access",
+    "tags": [
+      "maternal-health",
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Mental Health Atlas 2020",
+    "authors": "World Health Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/9789240036703",
+    "description": "WHO's compilation of country data on mental-health resources, policies, and service coverage.",
+    "id": "mental-health-atlas-2020",
+    "access_type": "open_access",
+    "tags": [
       "public-health"
     ],
     "verified": false
@@ -6789,6 +8768,115 @@
     "verified": false
   },
   {
+    "title": "Governance and Development",
+    "authors": "World Bank",
+    "year": 1992,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/12876",
+    "description": "The foundational paper that introduced governance as an explicit concern of the development agenda.",
+    "id": "governance-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "governance",
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Worldwide Governance Indicators",
+    "authors": "Daniel Kaufmann, Aart Kraay",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+    "description": "The long-running composite indicators of voice, accountability, rule of law, and control of corruption for over 200 economies.",
+    "id": "the-worldwide-governance-indicators",
+    "access_type": "free_to_read",
+    "tags": [
+      "corruption",
+      "governance",
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Seeing Like a State",
+    "authors": "James C. Scott",
+    "year": 1998,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://yalebooks.yale.edu/book/9780300246759/seeing-like-a-state/",
+    "description": "Scott's classic on why grand schemes to improve the human condition, imposed through high-modernist legibility, so often fail.",
+    "id": "seeing-like-a-state",
+    "access_type": "check_access",
+    "tags": [
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Logic of Collective Action",
+    "authors": "Mancur Olson",
+    "year": 1965,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.hup.harvard.edu/books/9780674537514",
+    "description": "The foundational text on how group size and selective incentives shape collective action and public-goods provision.",
+    "id": "the-logic-of-collective-action",
+    "access_type": "check_access",
+    "tags": [
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Governing the Commons",
+    "authors": "Elinor Ostrom",
+    "year": 1990,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5",
+    "description": "Ostrom's Nobel-recognised demonstration that communities can sustainably self-govern common-pool resources.",
+    "id": "governing-the-commons",
+    "access_type": "check_access",
+    "tags": [
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Building State Capability",
+    "authors": "Matt Andrews, Lant Pritchett, Michael Woolcock",
+    "year": 2017,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://buildingstatecapability.com/the-book/",
+    "description": "Introduces Problem-Driven Iterative Adaptation (PDIA) as an alternative to isomorphic mimicry in public-sector reform.",
+    "id": "building-state-capability",
+    "access_type": "check_access",
+    "tags": [
+      "climate-adaptation",
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Right to Information and Social Accountability",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/24857",
+    "description": "Reviews the evidence on transparency, RTI laws, and citizen-led accountability mechanisms.",
+    "id": "the-right-to-information-and-social-accountability",
+    "access_type": "open_access",
+    "tags": [
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
     "title": "Experimentation at Scale",
     "authors": "Karthik Muralidharan, Paul Niehaus",
     "year": 2017,
@@ -7404,23 +9492,6 @@
     "verified": false
   },
   {
-    "title": "Running Randomized Evaluations: A Practical Guide",
-    "authors": "Rachel Glennerster, Kudzai Takavarasha",
-    "year": 2013,
-    "type": "book",
-    "topic": "Research Methods",
-    "url": "https://www.povertyactionlab.org/resource/quick-guide-power-calculations",
-    "description": "Comprehensive practical guide from J-PAL leadership covering end-to-end design and implementation of randomized evaluations, including power calculations, randomization, survey design, and ethical considerations.",
-    "id": "running-randomized-evaluations-a-practical-guide",
-    "access_type": "open_access",
-    "tags": [
-      "RCT",
-      "research-methods",
-      "survey-data"
-    ],
-    "verified": false
-  },
-  {
     "title": "Pre-Analysis Plans",
     "authors": "J-PAL",
     "year": 2023,
@@ -7432,6 +9503,117 @@
     "access_type": "open_access",
     "tags": [
       "RCT",
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Mostly Harmless Econometrics: An Empiricist's Companion",
+    "authors": "Joshua Angrist, Jorn-Steffen Pischke",
+    "year": 2009,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://www.mostlyharmlesseconometrics.com/",
+    "description": "The influential guide to the modern quasi-experimental toolkit—IV, regression discontinuity, and difference-in-differences.",
+    "id": "mostly-harmless-econometrics-an-empiricists-companion",
+    "access_type": "check_access",
+    "tags": [
+      "diff-in-diff",
+      "quasi-experimental",
+      "regression-discontinuity",
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Effect: An Introduction to Research Design and Causality",
+    "authors": "Nick Huntington-Klein",
+    "year": 2021,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://theeffectbook.net/",
+    "description": "An accessible, open textbook connecting research design, causal diagrams, and estimation.",
+    "id": "the-effect-an-introduction-to-research-design-and-causality",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Qualitative Data Analysis: A Methods Sourcebook",
+    "authors": "Matthew Miles, Michael Huberman, Johnny Saldana",
+    "year": 2014,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://us.sagepub.com/en-us/nam/qualitative-data-analysis/book246128",
+    "description": "The standard reference for designing and analysing qualitative research through displays and coding.",
+    "id": "qualitative-data-analysis-a-methods-sourcebook",
+    "access_type": "check_access",
+    "tags": [
+      "qualitative",
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+    "authors": "John Creswell, David Creswell",
+    "year": 2018,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://us.sagepub.com/en-us/nam/research-design/book270550",
+    "description": "The widely assigned text guiding students through choosing and combining research paradigms.",
+    "id": "research-design-qualitative-quantitative-and-mixed-methods-approaches",
+    "access_type": "check_access",
+    "tags": [
+      "qualitative",
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "A Practical Guide to Sampling",
+    "authors": "National Audit Office",
+    "year": 2001,
+    "type": "grey_literature",
+    "topic": "Research Methods",
+    "url": "https://www.nao.org.uk/",
+    "description": "A concise practitioner reference on probability and non-probability sampling for applied studies.",
+    "id": "a-practical-guide-to-sampling",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Ethnography and the Development Encounter",
+    "authors": "Various",
+    "year": 2011,
+    "type": "grey_literature",
+    "topic": "Research Methods",
+    "url": "https://www.participatorymethods.org/",
+    "description": "Resources on participatory and ethnographic methods for understanding development from the ground up.",
+    "id": "ethnography-and-the-development-encounter",
+    "access_type": "check_access",
+    "tags": [
+      "ethnography",
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Pre-Analysis Plans and Research Transparency",
+    "authors": "BITSS",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Research Methods",
+    "url": "https://www.bitss.org/",
+    "description": "The Berkeley Initiative for Transparency in the Social Sciences on pre-registration, replication, and open science.",
+    "id": "pre-analysis-plans-and-research-transparency",
+    "access_type": "check_access",
+    "tags": [
       "research-methods"
     ],
     "verified": false
@@ -7813,6 +9995,101 @@
     "verified": false
   },
   {
+    "title": "World Social Protection Report 2020-22",
+    "authors": "International Labour Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://www.ilo.org/publications/flagship-reports/world-social-protection-report-2020-22-social-protection-crossroads",
+    "description": "The ILO's flagship documenting that over half the world's population lacks any social protection coverage.",
+    "id": "world-social-protection-report-2020-22",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cash Transfers: What Does the Evidence Say?",
+    "authors": "ODI",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://odi.org/en/publications/cash-transfers-what-does-the-evidence-say-a-rigorous-review-of-impacts-and-the-role-of-design-and-implementation-features/",
+    "description": "A rigorous review of 15 years of cash-transfer evaluations across poverty, education, health, and empowerment outcomes.",
+    "id": "cash-transfers-what-does-the-evidence-say",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "education",
+      "poverty",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Realizing the Full Potential of Social Safety Nets in Africa",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/29789",
+    "description": "Analyses how adaptive safety nets can respond to shocks and build the human capital of the poor.",
+    "id": "realizing-the-full-potential-of-social-safety-nets-in-africa",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Just Give Money to the Poor",
+    "authors": "Joseph Hanlon, Armando Barrientos, David Hulme",
+    "year": 2010,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://www.routledge.com/Just-Give-Money-to-the-Poor-The-Development-Revolution-from-the-Global-South/Hanlon-Barrientos-Hulme/p/book/9781565493339",
+    "description": "The influential argument for unconditional cash transfers as a development revolution from the Global South.",
+    "id": "just-give-money-to-the-poor",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Social Protection and Jobs Responses to COVID-19",
+    "authors": "World Bank",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/37188",
+    "description": "A 'real-time review' documenting the largest scale-up of social assistance in history during the pandemic.",
+    "id": "social-protection-and-jobs-responses-to-covid-19",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Universal Basic Income: Debate and Evidence",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/32677",
+    "description": "'Exploring Universal Basic Income'—a rigorous examination of the concept's rationale, costs, and evidence.",
+    "id": "universal-basic-income-debate-and-evidence",
+    "access_type": "open_access",
+    "tags": [
+      "UBI",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
     "title": "Wash'Em: A Handwashing Behaviour Change Approach",
     "authors": "LSHTM, Unilever",
     "year": 2020,
@@ -8158,6 +10435,136 @@
       "WASH",
       "meta-analysis",
       "systematic-review",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Progress on Household Drinking Water, Sanitation and Hygiene 2000-2022",
+    "authors": "WHO, UNICEF (JMP)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://washdata.org/reports/jmp-2023-wash-households",
+    "description": "The Joint Monitoring Programme's authoritative global update on progress toward SDG 6 water and sanitation targets.",
+    "id": "progress-on-household-drinking-water-sanitation-and-hygiene-2000-2022",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Human Right to Water and Sanitation",
+    "authors": "UN",
+    "year": 2010,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.un.org/waterforlifedecade/human_right_to_water.shtml",
+    "description": "Background on the UN General Assembly resolution recognising safe drinking water and sanitation as a human right.",
+    "id": "the-human-right-to-water-and-sanitation",
+    "access_type": "open_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Water Development Report 2024",
+    "authors": "UNESCO, UN-Water",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.unesco.org/reports/wwdr/en/2024/s",
+    "description": "'Water for Prosperity and Peace'—the UN's flagship on water's role in livelihoods, cooperation, and conflict.",
+    "id": "world-water-development-report-2024",
+    "access_type": "check_access",
+    "tags": [
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Sanitation and Health",
+    "authors": "World Health Organization",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.who.int/publications/i/item/9789241514705",
+    "description": "WHO Guidelines on Sanitation and Health establishing the evidence and recommendations for safe sanitation systems.",
+    "id": "sanitation-and-health",
+    "access_type": "open_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Economics of Sanitation Initiative",
+    "authors": "World Bank Water and Sanitation Program",
+    "year": 2012,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.worldbank.org/en/topic/sanitationhygiene",
+    "description": "Quantifies the large economic losses from poor sanitation and the returns to sanitation investment.",
+    "id": "the-economics-of-sanitation-initiative",
+    "access_type": "free_to_read",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water Supply, Sanitation and Hygiene in Schools",
+    "authors": "UNICEF, WHO",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://washdata.org/reports/jmp-2020-wash-schools",
+    "description": "JMP baseline on WASH services in schools and their links to attendance, especially for adolescent girls.",
+    "id": "water-supply-sanitation-and-hygiene-in-schools",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "education",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Ending Open Defecation: Lessons from the Swachh Bharat Mission",
+    "authors": "World Bank",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.worldbank.org/en/news/feature/2019/10/02/lessons-from-swachh-bharat",
+    "description": "Reviews the achievements and behavioural-change strategies of India's national sanitation campaign.",
+    "id": "ending-open-defecation-lessons-from-the-swachh-bharat-mission",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water and Climate Change",
+    "authors": "UN-Water",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.unwater.org/publications/un-world-water-development-report-2020",
+    "description": "The World Water Development Report examining the interlinkages between water management and climate adaptation.",
+    "id": "water-and-climate-change",
+    "access_type": "check_access",
+    "tags": [
+      "climate-adaptation",
+      "climate-change",
       "wash"
     ],
     "verified": false

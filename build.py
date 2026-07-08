@@ -168,6 +168,29 @@ def main():
 
     print(f"Wrote {len(resources)} resources to {OUTPUT_FILE}")
 
+    if "--no-assets" not in args:
+        generate_assets(resources)
+
+
+def generate_assets(resources):
+    """Generate derived assets (sitemap, feed, stats...) after a successful build."""
+    try:
+        import generate_assets as ga
+    except Exception as e:  # pragma: no cover - optional step
+        print(f"Skipping asset generation ({e}).")
+        return
+
+    base_url = ga.resolve_base_url(None)
+    print(f"Generating site assets (base URL: {base_url})...")
+    ga.write(os.path.join(SCRIPT_DIR, "sitemap.xml"), ga.build_sitemap(resources, base_url), False)
+    ga.write(os.path.join(SCRIPT_DIR, "feed.json"),
+             json.dumps(ga.build_feed(resources, base_url), indent=2, ensure_ascii=False) + "\n", False)
+    ga.write(os.path.join(SCRIPT_DIR, "opensearch.xml"), ga.build_opensearch(base_url), False)
+    ga.write(os.path.join(SCRIPT_DIR, "data", "stats.json"),
+             json.dumps(ga.build_stats(resources), indent=2, ensure_ascii=False) + "\n", False)
+    ga.write(os.path.join(SCRIPT_DIR, "data", "search-index.json"),
+             json.dumps(ga.build_search_index(resources), ensure_ascii=False) + "\n", False)
+
 
 if __name__ == "__main__":
     main()

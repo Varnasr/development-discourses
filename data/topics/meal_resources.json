@@ -595,5 +595,113 @@
       "meal-evaluation"
     ],
     "verified": false
+  },
+  {
+    "title": "Running Randomized Evaluations: A Practical Guide",
+    "authors": "Rachel Glennerster, Kudzai Takavarasha",
+    "year": 2013,
+    "type": "book",
+    "topic": "MEAL & Evaluation",
+    "url": "https://runningres.com/",
+    "description": "A step-by-step field manual for designing and implementing randomised controlled trials in development.",
+    "id": "running-randomized-evaluations-a-practical-guide",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Rethinking Impact to Improve Effectiveness",
+    "authors": "3ie",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.3ieimpact.org/our-work",
+    "description": "3ie syntheses on how impact evidence can be produced and used to improve development programs and policy.",
+    "id": "rethinking-impact-to-improve-effectiveness",
+    "access_type": "open_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The DAC Evaluation Criteria: Adapted Definitions",
+    "authors": "OECD DAC",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.oecd.org/dac/evaluation/daccriteriaforevaluatingdevelopmentassistance.htm",
+    "description": "The revised relevance-coherence-effectiveness-efficiency-impact-sustainability criteria that anchor development evaluation globally.",
+    "id": "the-dac-evaluation-criteria-adapted-definitions",
+    "access_type": "free_to_read",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Developmental Evaluation",
+    "authors": "Michael Quinn Patton",
+    "year": 2011,
+    "type": "book",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.betterevaluation.org/methods-approaches/approaches/developmental-evaluation",
+    "description": "Patton's approach to evaluating innovation and complex, emergent interventions in real time.",
+    "id": "developmental-evaluation",
+    "access_type": "open_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "A Guide to Monitoring and Evaluation for Programmes",
+    "authors": "UNICEF",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.unicef.org/evaluation",
+    "description": "UNICEF's practical guidance on results frameworks, indicators, and evaluation planning.",
+    "id": "a-guide-to-monitoring-and-evaluation-for-programmes",
+    "access_type": "open_access",
+    "tags": [
+      "M&E",
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Outcome Mapping: Building Learning and Reflection into Development",
+    "authors": "IDRC",
+    "year": 2001,
+    "type": "book",
+    "topic": "MEAL & Evaluation",
+    "url": "https://idrc-crdi.ca/en/book/outcome-mapping-building-learning-and-reflection-development-programs",
+    "description": "A methodology that focuses evaluation on changes in the behaviour of the actors a program works with.",
+    "id": "outcome-mapping-building-learning-and-reflection-into-development",
+    "access_type": "check_access",
+    "tags": [
+      "meal-evaluation"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Using Administrative Data for Monitoring and Evaluation",
+    "authors": "J-PAL",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.povertyactionlab.org/resource/using-administrative-data-randomized-evaluations",
+    "description": "Guidance on leveraging government administrative records to lower the cost and increase the scope of evaluations.",
+    "id": "using-administrative-data-for-monitoring-and-evaluation",
+    "access_type": "open_access",
+    "tags": [
+      "M&E",
+      "meal-evaluation"
+    ],
+    "verified": false
   }
 ]

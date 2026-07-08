@@ -400,5 +400,119 @@
       "urbanization"
     ],
     "verified": false
+  },
+  {
+    "title": "World Migration Report 2024",
+    "authors": "International Organization for Migration",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.iom.int/world-migration-report-2024",
+    "description": "IOM's flagship providing global data and analysis on migration patterns, remittances, and displacement.",
+    "id": "world-migration-report-2024",
+    "access_type": "check_access",
+    "tags": [
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Migration and Development Brief 39",
+    "authors": "World Bank, KNOMAD",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.knomad.org/publication/migration-and-development-brief-39",
+    "description": "The semi-annual update on global remittance flows, the largest external finance source for many low-income countries.",
+    "id": "migration-and-development-brief-39",
+    "access_type": "check_access",
+    "tags": [
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Reshaping Economic Geography (WDR 2009)",
+    "authors": "World Bank",
+    "year": 2009,
+    "type": "book",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/5991",
+    "description": "The WDR making the case that rising density, shorter distances, and fewer divisions drive economic development.",
+    "id": "reshaping-economic-geography-wdr-2009",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Making of a Riot: Urbanization and Slums",
+    "authors": "UN-Habitat",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://unhabitat.org/world-cities-report-2016",
+    "description": "'Urbanization and Development: Emerging Futures'—UN-Habitat on the transformative power and challenges of cities.",
+    "id": "the-making-of-a-riot-urbanization-and-slums",
+    "access_type": "open_access",
+    "tags": [
+      "migration-urbanization",
+      "urban-poverty",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Leveraging Urbanization in South Asia",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "book",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/22549",
+    "description": "Analysis of South Asia's messy and hidden urbanisation and the policies to make cities more livable and productive.",
+    "id": "leveraging-urbanization-in-south-asia",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "migration-urbanization",
+      "urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Internal Migration in India",
+    "authors": "UNESCO, UNICEF",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.unesco.org/en/articles/internal-migration-india-initiative",
+    "description": "A social inclusion agenda addressing the exclusion of India's vast internal migrant workforce.",
+    "id": "internal-migration-in-india",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Climate Migration and Urban Resilience",
+    "authors": "UN-Habitat",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://unhabitat.org/topics/climate-change",
+    "description": "Examines how cities can plan for climate-induced migration and build resilient informal settlements.",
+    "id": "climate-migration-and-urban-resilience",
+    "access_type": "open_access",
+    "tags": [
+      "migration",
+      "migration-urbanization"
+    ],
+    "verified": false
   }
 ]

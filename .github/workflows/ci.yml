@@ -7,6 +7,32 @@ on:
     branches: [main]
 
 jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dev dependencies
+        run: pip install pytest
+
+      - name: Build data pipeline
+        run: |
+          python enrich_data.py
+          python build.py --validate --stats
+
+      - name: Verify build output is committed (no drift)
+        run: |
+          git diff --exit-code data/resources.json data/stats.json data/search-index.json sitemap.xml feed.json opensearch.xml \
+            || (echo "::error::Generated files are stale. Run 'make build' and commit the result." && exit 1)
+
+      - name: Run tests
+        run: python -m pytest -q
+
   check-links:
     runs-on: ubuntu-latest
     steps:

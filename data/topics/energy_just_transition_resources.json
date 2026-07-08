@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Tracking SDG 7: The Energy Progress Report 2024",
+    "authors": "IEA, IRENA, UNSD, World Bank, WHO",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.worldbank.org/en/topic/energy/publication/tracking-sdg7-the-energy-progress-report-2024",
+    "description": "The custodian agencies' annual assessment of global progress toward universal access to affordable, reliable, sustainable energy.",
+    "id": "tracking-sdg-7-the-energy-progress-report-2024",
+    "access_type": "free_to_read",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Energy Outlook 2023",
+    "authors": "International Energy Agency",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.iea.org/reports/world-energy-outlook-2023",
+    "description": "The IEA's flagship scenario analysis of the global energy system and the pace of the clean-energy transition.",
+    "id": "world-energy-outlook-2023",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Energy Transitions Outlook 2023",
+    "authors": "IRENA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.irena.org/Publications/2023/Jun/World-Energy-Transitions-Outlook-2023",
+    "description": "IRENA's 1.5°C pathway detailing the renewables scale-up, electrification, and investment needed to meet climate goals.",
+    "id": "world-energy-transitions-outlook-2023",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Energy Access and the Sustainable Development Goals",
+    "authors": "World Bank ESMAP",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.esmap.org/",
+    "description": "ESMAP research on closing the energy-access gap for the 675 million people still living without electricity.",
+    "id": "energy-access-and-the-sustainable-development-goals",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Geopolitics of the Energy Transition",
+    "authors": "IRENA",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.irena.org/publications/2019/Jan/A-New-World-The-Geopolitics-of-the-Energy-Transformation",
+    "description": "'A New World'—examines how the shift to renewables reshapes global power, trade, and security.",
+    "id": "the-geopolitics-of-the-energy-transition",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Just Transition of the Workforce",
+    "authors": "International Labour Organization",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-sustainable-economies",
+    "description": "The ILO Guidelines for a just transition toward environmentally sustainable economies and societies for all.",
+    "id": "just-transition-of-the-workforce",
+    "access_type": "open_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Scaling Up Renewable Energy in Developing Countries",
+    "authors": "IRENA",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.irena.org/Energy-Transition/Outlook",
+    "description": "Analysis of the finance, policy, and grid reforms needed to accelerate renewables deployment in the Global South.",
+    "id": "scaling-up-renewable-energy-in-developing-countries",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition",
+      "renewable-energy"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cooking with Clean Energy: Access and Health",
+    "authors": "World Health Organization",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health",
+    "description": "WHO evidence on the 2.3 billion people relying on polluting cooking fuels and the resulting health burden.",
+    "id": "cooking-with-clean-energy-access-and-health",
+    "access_type": "open_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Role of Critical Minerals in Clean Energy Transitions",
+    "authors": "International Energy Agency",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions",
+    "description": "The IEA's assessment of mineral demand, supply risks, and the sustainability challenges of the energy transition.",
+    "id": "the-role-of-critical-minerals-in-clean-energy-transitions",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Solar Power and Rural Electrification in South Asia",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://openknowledge.worldbank.org/handle/10986/34188",
+    "description": "Reviews decentralised solar and off-grid electrification models expanding energy access in rural South Asia.",
+    "id": "solar-power-and-rural-electrification-in-south-asia",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Energy Subsidy Reform: Lessons and Implications",
+    "authors": "International Monetary Fund",
+    "year": 2013,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.imf.org/en/Publications/Books/Issues/2016/12/31/Energy-Subsidy-Reform-Lessons-and-Implications-40410",
+    "description": "The IMF's influential analysis of the fiscal, environmental, and distributional case for reforming fossil-fuel subsidies.",
+    "id": "energy-subsidy-reform-lessons-and-implications",
+    "access_type": "free_to_read",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Powering Jobs: The Employment Footprint of Renewable Energy",
+    "authors": "IRENA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.irena.org/Publications/2023/Sep/Renewable-energy-and-jobs-Annual-review-2023",
+    "description": "The annual review estimating renewable-energy employment worldwide and its distribution across technologies and regions.",
+    "id": "powering-jobs-the-employment-footprint-of-renewable-energy",
+    "access_type": "check_access",
+    "tags": [
+      "employment",
+      "energy-just-transition",
+      "renewable-energy"
+    ],
+    "verified": false
+  }
+]

@@ -748,5 +748,116 @@
       "research-methods"
     ],
     "verified": false
+  },
+  {
+    "title": "Mostly Harmless Econometrics: An Empiricist's Companion",
+    "authors": "Joshua Angrist, Jorn-Steffen Pischke",
+    "year": 2009,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://www.mostlyharmlesseconometrics.com/",
+    "description": "The influential guide to the modern quasi-experimental toolkit—IV, regression discontinuity, and difference-in-differences.",
+    "id": "mostly-harmless-econometrics-an-empiricists-companion",
+    "access_type": "check_access",
+    "tags": [
+      "diff-in-diff",
+      "quasi-experimental",
+      "regression-discontinuity",
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Effect: An Introduction to Research Design and Causality",
+    "authors": "Nick Huntington-Klein",
+    "year": 2021,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://theeffectbook.net/",
+    "description": "An accessible, open textbook connecting research design, causal diagrams, and estimation.",
+    "id": "the-effect-an-introduction-to-research-design-and-causality",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Qualitative Data Analysis: A Methods Sourcebook",
+    "authors": "Matthew Miles, Michael Huberman, Johnny Saldana",
+    "year": 2014,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://us.sagepub.com/en-us/nam/qualitative-data-analysis/book246128",
+    "description": "The standard reference for designing and analysing qualitative research through displays and coding.",
+    "id": "qualitative-data-analysis-a-methods-sourcebook",
+    "access_type": "check_access",
+    "tags": [
+      "qualitative",
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
+    "authors": "John Creswell, David Creswell",
+    "year": 2018,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://us.sagepub.com/en-us/nam/research-design/book270550",
+    "description": "The widely assigned text guiding students through choosing and combining research paradigms.",
+    "id": "research-design-qualitative-quantitative-and-mixed-methods-approaches",
+    "access_type": "check_access",
+    "tags": [
+      "qualitative",
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "A Practical Guide to Sampling",
+    "authors": "National Audit Office",
+    "year": 2001,
+    "type": "grey_literature",
+    "topic": "Research Methods",
+    "url": "https://www.nao.org.uk/",
+    "description": "A concise practitioner reference on probability and non-probability sampling for applied studies.",
+    "id": "a-practical-guide-to-sampling",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Ethnography and the Development Encounter",
+    "authors": "Various",
+    "year": 2011,
+    "type": "grey_literature",
+    "topic": "Research Methods",
+    "url": "https://www.participatorymethods.org/",
+    "description": "Resources on participatory and ethnographic methods for understanding development from the ground up.",
+    "id": "ethnography-and-the-development-encounter",
+    "access_type": "check_access",
+    "tags": [
+      "ethnography",
+      "research-methods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Pre-Analysis Plans and Research Transparency",
+    "authors": "BITSS",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Research Methods",
+    "url": "https://www.bitss.org/",
+    "description": "The Berkeley Initiative for Transparency in the Social Sciences on pre-registration, replication, and open science.",
+    "id": "pre-analysis-plans-and-research-transparency",
+    "access_type": "check_access",
+    "tags": [
+      "research-methods"
+    ],
+    "verified": false
   }
 ]

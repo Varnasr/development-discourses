@@ -511,5 +511,127 @@
       "public-health"
     ],
     "verified": false
+  },
+  {
+    "title": "World Health Statistics 2024",
+    "authors": "World Health Organization",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/data/gho/publications/world-health-statistics",
+    "description": "WHO's annual snapshot of health and health-system indicators across all Member States and the SDGs.",
+    "id": "world-health-statistics-2024",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The World Health Report 2000: Health Systems",
+    "authors": "World Health Organization",
+    "year": 2000,
+    "type": "book",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/924156198X",
+    "description": "The influential and controversial report that ranked national health systems and framed the goals of health-system performance.",
+    "id": "the-world-health-report-2000-health-systems",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Disease Control Priorities, Third Edition",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "book",
+    "topic": "Public Health",
+    "url": "https://openknowledge.worldbank.org/handle/10986/28877",
+    "description": "The nine-volume synthesis of the most cost-effective health interventions for low- and middle-income countries.",
+    "id": "disease-control-priorities-third-edition",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "State of the World's Nursing 2020",
+    "authors": "World Health Organization",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/9789240003279",
+    "description": "The first global report on the nursing workforce, identifying the shortfall needed to reach UHC.",
+    "id": "state-of-the-worlds-nursing-2020",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Nutrition Report 2021",
+    "authors": "Global Nutrition Report",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://globalnutritionreport.org/reports/2021-global-nutrition-report/",
+    "description": "The independent annual review of the state of global nutrition and progress against malnutrition targets.",
+    "id": "global-nutrition-report-2021",
+    "access_type": "check_access",
+    "tags": [
+      "nutrition",
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Closing the Gap in a Generation: Social Determinants of Health",
+    "authors": "WHO Commission on Social Determinants of Health",
+    "year": 2008,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/WHO-IER-CSDH-08.1",
+    "description": "The landmark report reframing health inequities as a product of the unequal distribution of power, money, and resources.",
+    "id": "closing-the-gap-in-a-generation-social-determinants-of-health",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Trends in Maternal Mortality 2000 to 2020",
+    "authors": "WHO, UNICEF, UNFPA, World Bank, UNDESA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/9789240068759",
+    "description": "The inter-agency estimates tracking the global stagnation in reducing maternal deaths.",
+    "id": "trends-in-maternal-mortality-2000-to-2020",
+    "access_type": "open_access",
+    "tags": [
+      "maternal-health",
+      "public-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Mental Health Atlas 2020",
+    "authors": "World Health Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Public Health",
+    "url": "https://www.who.int/publications/i/item/9789240036703",
+    "description": "WHO's compilation of country data on mental-health resources, policies, and service coverage.",
+    "id": "mental-health-atlas-2020",
+    "access_type": "open_access",
+    "tags": [
+      "public-health"
+    ],
+    "verified": false
   }
 ]

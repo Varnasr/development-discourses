@@ -601,5 +601,149 @@
       "data-technology"
     ],
     "verified": false
+  },
+  {
+    "title": "World Development Report 2016: Digital Dividends (Overview)",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/23347",
+    "description": "The overview volume arguing that digital technologies must be paired with analog complements—regulation, skills, institutions—to deliver development gains.",
+    "id": "world-development-report-2016-digital-dividends-overview",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology",
+      "digital",
+      "institutions"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Digital Public Infrastructure and Development",
+    "authors": "UNDP",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://www.undp.org/publications/dfs-digital-public-infrastructure",
+    "description": "Framework for how interoperable digital public infrastructure—ID, payments, data exchange—can accelerate inclusive development.",
+    "id": "digital-public-infrastructure-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology",
+      "digital"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Government Analytics Handbook",
+    "authors": "World Bank",
+    "year": 2023,
+    "type": "book",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/40015",
+    "description": "A practical guide to using administrative and survey data to measure and improve the performance of public administration.",
+    "id": "the-government-analytics-handbook",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology",
+      "survey-data"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Data for Better Lives (WDR 2021 Overview)",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/35218",
+    "description": "Overview of the WDR calling for a new social contract on data that maximises value while safeguarding against harm.",
+    "id": "data-for-better-lives-wdr-2021-overview",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Artificial Intelligence in the Global South",
+    "authors": "UNCTAD",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://unctad.org/publication/technology-and-innovation-report-2023",
+    "description": "UNCTAD's Technology and Innovation Report examining frontier technologies, AI, and the widening capability gap between countries.",
+    "id": "artificial-intelligence-in-the-global-south",
+    "access_type": "open_access",
+    "tags": [
+      "AI",
+      "data-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Digital Financial Services Landscape",
+    "authors": "GSMA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://www.gsma.com/r/state-of-the-industry-report/",
+    "description": "GSMA's State of the Industry Report on mobile money, tracking accounts, transaction values, and financial inclusion impact.",
+    "id": "the-digital-financial-services-landscape",
+    "access_type": "free_to_read",
+    "tags": [
+      "data-technology",
+      "digital",
+      "mobile-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Identification for Development (ID4D) Global Dataset",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://id4d.worldbank.org/global-dataset",
+    "description": "The World Bank's global estimates of the roughly 850 million people who lack official proof of identity.",
+    "id": "identification-for-development-id4d-global-dataset",
+    "access_type": "check_access",
+    "tags": [
+      "data-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Open Data for Development",
+    "authors": "Open Data Watch",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://opendatawatch.com/publications/",
+    "description": "Assessments of the coverage and openness of national statistical systems and their contribution to the SDGs.",
+    "id": "open-data-for-development",
+    "access_type": "check_access",
+    "tags": [
+      "data-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "AI Ethics and Governance in Practice",
+    "authors": "UNESCO",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics",
+    "description": "UNESCO's Recommendation on the Ethics of Artificial Intelligence, the first global standard-setting instrument on AI.",
+    "id": "ai-ethics-and-governance-in-practice",
+    "access_type": "check_access",
+    "tags": [
+      "AI",
+      "data-technology",
+      "governance"
+    ],
+    "verified": false
   }
 ]

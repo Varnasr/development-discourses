@@ -1,0 +1,37 @@
+{
+  "total": 645,
+  "by_type": {
+    "book": 70,
+    "grey_literature": 350,
+    "paper": 225
+  },
+  "by_topic": {
+    "Agriculture & Food Systems": 32,
+    "Climate & Environment": 46,
+    "Conflict & Humanitarian": 24,
+    "Data & Technology": 46,
+    "Development Economics": 51,
+    "Disability & Inclusion": 26,
+    "Education": 20,
+    "Energy & Just Transition": 12,
+    "Financial Inclusion": 20,
+    "Gender & Social Inclusion": 44,
+    "Livelihoods": 49,
+    "MEAL & Evaluation": 43,
+    "Mental Health & Wellbeing": 12,
+    "Migration & Urbanization": 30,
+    "Public Health": 36,
+    "Public Policy & Governance": 50,
+    "Research Methods": 46,
+    "Social Protection": 29,
+    "WASH": 29
+  },
+  "by_access": {
+    "check_access": 200,
+    "free_to_read": 104,
+    "open_access": 341
+  },
+  "topic_count": 19,
+  "year_min": 1965,
+  "year_max": 2025
+}

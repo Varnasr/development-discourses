@@ -1,0 +1,24 @@
+[project]
+name = "development-discourses"
+version = "0.2.0"
+description = "A curated open-access library of research papers, books, and grey literature for development practitioners in South Asia."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Varna Sri Raman" }]
+keywords = ["development", "open-access", "south-asia", "research", "impactmojo"]
+
+# The build/enrich/asset pipeline uses only the Python standard library.
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.urls]
+Homepage = "https://www.impactmojo.in"
+Repository = "https://github.com/Varnasr/development-discourses"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+pythonpath = ["."]
