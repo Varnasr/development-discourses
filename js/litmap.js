@@ -27,6 +27,8 @@
         'Social Protection': '#c026d3',
         'Financial Inclusion': '#ea580c',
         'Disability & Inclusion': '#475569',
+        'Energy & Just Transition': '#ca8a04',
+        'Mental Health & Wellbeing': '#0f766e',
     };
 
     let simulation = null;

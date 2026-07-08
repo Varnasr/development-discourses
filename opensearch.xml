@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Dev Discourses</ShortName>
+  <Description>Search the Development Discourses open-access library</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Url type="text/html" method="get" template="https://varnasr.github.io/development-discourses/index.html?q={searchTerms}"/>
+  <moreurl>https://varnasr.github.io/development-discourses/index.html</moreurl>
+</OpenSearchDescription>

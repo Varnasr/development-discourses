@@ -779,5 +779,133 @@
       "poverty"
     ],
     "verified": false
+  },
+  {
+    "title": "Sustainable Livelihoods Framework",
+    "authors": "DFID",
+    "year": 1999,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ennonline.net/dfidsustainableliving",
+    "description": "The foundational DFID guidance sheets that made 'sustainable livelihoods' a central lens in development practice.",
+    "id": "sustainable-livelihoods-framework",
+    "access_type": "check_access",
+    "tags": [
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Ultra-Poor Graduation Approach: Evidence",
+    "authors": "J-PAL, Innovations for Poverty Action",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.povertyactionlab.org/evaluation/impact-ultra-poor-graduation-programs-six-countries",
+    "description": "Six-country RCT evidence that the BRAC-pioneered graduation model produces lasting gains for the poorest households.",
+    "id": "the-ultra-poor-graduation-approach-evidence",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "graduation-approach",
+      "livelihoods",
+      "ultra-poor"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Women and Men in the Informal Economy: A Statistical Picture",
+    "authors": "International Labour Organization",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/publications/women-and-men-informal-economy-statistical-picture-third-edition",
+    "description": "The definitive global statistics showing that over 60% of the world's employed are in informal work.",
+    "id": "women-and-men-in-the-informal-economy-a-statistical-picture",
+    "access_type": "open_access",
+    "tags": [
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Future of Work in the Global South",
+    "authors": "IDRC",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://idrc-crdi.ca/en/research-in-action/future-work-global-south",
+    "description": "Research on how automation, platforms, and demographic change are reshaping work in developing economies.",
+    "id": "the-future-of-work-in-the-global-south",
+    "access_type": "check_access",
+    "tags": [
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Skills Development and the Informal Sector",
+    "authors": "International Labour Organization",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/skills",
+    "description": "ILO evidence on apprenticeships and vocational training pathways for workers in the informal economy.",
+    "id": "skills-development-and-the-informal-sector",
+    "access_type": "open_access",
+    "tags": [
+      "informal-economy",
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Self-Help Groups and Women's Empowerment in India",
+    "authors": "IFPRI",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ifpri.org/publication/self-help-groups-india",
+    "description": "Evaluations of India's SHG movement and its effects on savings, agency, and collective action.",
+    "id": "self-help-groups-and-womens-empowerment-in-india",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "SHGs",
+      "livelihoods",
+      "womens-empowerment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Rural Non-Farm Economy and Livelihood Diversification",
+    "authors": "IFAD",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ifad.org/en/rural-development-report",
+    "description": "IFAD's Rural Development Report on structural and rural transformation and the diversification of rural livelihoods.",
+    "id": "rural-non-farm-economy-and-livelihood-diversification",
+    "access_type": "check_access",
+    "tags": [
+      "livelihoods"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Decent Work and the Sustainable Development Goals",
+    "authors": "International Labour Organization",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/global/topics/dw4sd",
+    "description": "ILO framework linking decent work, social protection, and the 2030 Agenda.",
+    "id": "decent-work-and-the-sustainable-development-goals",
+    "access_type": "open_access",
+    "tags": [
+      "livelihoods",
+      "social-protection"
+    ],
+    "verified": false
   }
 ]

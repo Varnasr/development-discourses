@@ -215,5 +215,136 @@
       "financial-inclusion"
     ],
     "verified": false
+  },
+  {
+    "title": "The Global Findex Database 2021",
+    "authors": "World Bank",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.worldbank.org/en/publication/globalfindex",
+    "description": "The definitive demand-side data on how adults save, borrow, make payments, and manage risk—covering 123 economies.",
+    "id": "the-global-findex-database-2021",
+    "access_type": "free_to_read",
+    "tags": [
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Financial Inclusion and Digital Financial Services",
+    "authors": "CGAP",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.cgap.org/research",
+    "description": "CGAP's research portfolio on branchless banking, agent networks, and consumer protection in inclusive finance.",
+    "id": "financial-inclusion-and-digital-financial-services",
+    "access_type": "check_access",
+    "tags": [
+      "digital",
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of Economic Inclusion Report 2021",
+    "authors": "World Bank, PEI",
+    "year": 2021,
+    "type": "book",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/34917",
+    "description": "The first global stocktaking of 'graduation' and economic-inclusion programs reaching over 90 million people.",
+    "id": "the-state-of-economic-inclusion-report-2021",
+    "access_type": "open_access",
+    "tags": [
+      "financial-inclusion",
+      "graduation-approach"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Banking the World: Empirical Foundations of Financial Inclusion",
+    "authors": "Robert Cull, Asli Demirguc-Kunt, Jonathan Morduch",
+    "year": 2013,
+    "type": "book",
+    "topic": "Financial Inclusion",
+    "url": "https://direct.mit.edu/books/book/2434/Banking-the-WorldEmpirical-Foundations-of",
+    "description": "A landmark edited volume assembling the empirical evidence on access to finance for the poor.",
+    "id": "banking-the-world-empirical-foundations-of-financial-inclusion",
+    "access_type": "check_access",
+    "tags": [
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Portfolios of the Poor: How the World's Poor Live on $2 a Day",
+    "authors": "Daryl Collins, Jonathan Morduch, Stuart Rutherford, Orlanda Ruthven",
+    "year": 2009,
+    "type": "book",
+    "topic": "Financial Inclusion",
+    "url": "https://www.portfoliosofthepoor.com/",
+    "description": "The 'financial diaries' study revealing the sophisticated money management of poor households across India, Bangladesh, and South Africa.",
+    "id": "portfolios-of-the-poor-how-the-worlds-poor-live-on-2-a-day",
+    "access_type": "check_access",
+    "tags": [
+      "Bangladesh",
+      "India",
+      "financial-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Six Randomized Evaluations of Microcredit",
+    "authors": "Abhijit Banerjee, Dean Karlan, Jonathan Zinman",
+    "year": 2015,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.povertyactionlab.org/evaluation/measuring-impact-microcredit-hyderabad-india",
+    "description": "The synthesis showing that microcredit expands business activity but has modest average effects on income and well-being.",
+    "id": "six-randomized-evaluations-of-microcredit",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "financial-inclusion",
+      "microfinance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Digital Financial Services and Inclusion",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/34789",
+    "description": "Reviews how mobile money and fintech are reshaping access to finance in developing economies.",
+    "id": "digital-financial-services-and-inclusion",
+    "access_type": "open_access",
+    "tags": [
+      "digital",
+      "financial-inclusion",
+      "mobile-technology"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Advancing Women's Financial Inclusion",
+    "authors": "GSMA",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://www.gsma.com/mobilefordevelopment/gsma_resources/the-mobile-gender-gap-report-2023/",
+    "description": "The Mobile Gender Gap Report analysing the barriers women face in accessing mobile and digital financial services.",
+    "id": "advancing-womens-financial-inclusion",
+    "access_type": "free_to_read",
+    "tags": [
+      "digital",
+      "financial-inclusion",
+      "gender",
+      "mobile-technology"
+    ],
+    "verified": false
   }
 ]

@@ -791,5 +791,114 @@
       "social-protection"
     ],
     "verified": false
+  },
+  {
+    "title": "Governance and Development",
+    "authors": "World Bank",
+    "year": 1992,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/12876",
+    "description": "The foundational paper that introduced governance as an explicit concern of the development agenda.",
+    "id": "governance-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "governance",
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Worldwide Governance Indicators",
+    "authors": "Daniel Kaufmann, Aart Kraay",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.worldbank.org/en/publication/worldwide-governance-indicators",
+    "description": "The long-running composite indicators of voice, accountability, rule of law, and control of corruption for over 200 economies.",
+    "id": "the-worldwide-governance-indicators",
+    "access_type": "free_to_read",
+    "tags": [
+      "corruption",
+      "governance",
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Seeing Like a State",
+    "authors": "James C. Scott",
+    "year": 1998,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://yalebooks.yale.edu/book/9780300246759/seeing-like-a-state/",
+    "description": "Scott's classic on why grand schemes to improve the human condition, imposed through high-modernist legibility, so often fail.",
+    "id": "seeing-like-a-state",
+    "access_type": "check_access",
+    "tags": [
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Logic of Collective Action",
+    "authors": "Mancur Olson",
+    "year": 1965,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.hup.harvard.edu/books/9780674537514",
+    "description": "The foundational text on how group size and selective incentives shape collective action and public-goods provision.",
+    "id": "the-logic-of-collective-action",
+    "access_type": "check_access",
+    "tags": [
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Governing the Commons",
+    "authors": "Elinor Ostrom",
+    "year": 1990,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5",
+    "description": "Ostrom's Nobel-recognised demonstration that communities can sustainably self-govern common-pool resources.",
+    "id": "governing-the-commons",
+    "access_type": "check_access",
+    "tags": [
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Building State Capability",
+    "authors": "Matt Andrews, Lant Pritchett, Michael Woolcock",
+    "year": 2017,
+    "type": "book",
+    "topic": "Public Policy & Governance",
+    "url": "https://buildingstatecapability.com/the-book/",
+    "description": "Introduces Problem-Driven Iterative Adaptation (PDIA) as an alternative to isomorphic mimicry in public-sector reform.",
+    "id": "building-state-capability",
+    "access_type": "check_access",
+    "tags": [
+      "climate-adaptation",
+      "public-policy-governance"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Right to Information and Social Accountability",
+    "authors": "World Bank",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/24857",
+    "description": "Reviews the evidence on transparency, RTI laws, and citizen-led accountability mechanisms.",
+    "id": "the-right-to-information-and-social-accountability",
+    "access_type": "open_access",
+    "tags": [
+      "public-policy-governance"
+    ],
+    "verified": false
   }
 ]

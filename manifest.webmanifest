@@ -1,0 +1,20 @@
+{
+  "name": "Development Discourses",
+  "short_name": "Dev Discourses",
+  "description": "A curated open-access library of research papers, books, and grey literature for development practitioners in South Asia.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf9f7",
+  "theme_color": "#2563eb",
+  "lang": "en",
+  "categories": ["education", "books", "reference"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

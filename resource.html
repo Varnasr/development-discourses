@@ -17,6 +17,20 @@
       })();
     </script>
     <meta name="description" content="Development Discourses resource detail page.">
+
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.webmanifest">
+    <meta name="theme-color" content="#2563eb">
+    <link rel="icon" href="icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="icon.svg">
+    <link rel="search" type="application/opensearchdescription+xml" title="Dev Discourses" href="opensearch.xml">
+
+    <!-- Open Graph (title/description refined per-resource by resource.js) -->
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="ImpactMojo">
+    <meta property="og:title" content="Development Discourses">
+    <meta name="twitter:card" content="summary">
+
     <link rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -178,6 +192,12 @@
                             </div>
                         </div>
 
+                        <!-- Recently Viewed -->
+                        <div class="sidebar-card" id="recentCard" style="display:none;">
+                            <h3>Recently Viewed</h3>
+                            <div class="related-list" id="recentList"></div>
+                        </div>
+
                     </aside>
                 </div>
             </div>
@@ -198,6 +218,13 @@
 
     <script src="js/litmap.js"></script>
     <script src="js/resource.js"></script>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+          navigator.serviceWorker.register('service-worker.js').catch(function () {});
+        });
+      }
+    </script>
     <script>
       (function() {
         var KEY = 'imx_theme';

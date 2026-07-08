@@ -364,5 +364,164 @@
       "agriculture-food-systems"
     ],
     "verified": false
+  },
+  {
+    "title": "The State of Food Security and Nutrition in the World 2024",
+    "authors": "FAO, IFAD, UNICEF, WFP, WHO",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
+    "description": "The 2024 edition of the UN's flagship food security report, tracking progress toward ending hunger and examining financing for food security and nutrition.",
+    "id": "the-state-of-food-security-and-nutrition-in-the-world-2024",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems",
+      "food-security",
+      "nutrition"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of Food and Agriculture 2023",
+    "authors": "FAO",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/sofa/2023/en/",
+    "description": "FAO's annual flagship, applying the 'true cost accounting' framework to reveal the hidden environmental, health, and social costs of global agrifood systems.",
+    "id": "the-state-of-food-and-agriculture-2023",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Report on Food Crises 2024",
+    "authors": "Food Security Information Network (FSIN)",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/CC8879EN",
+    "description": "Annual multi-agency assessment of acute food insecurity across crisis-affected countries, documenting the drivers of hunger from conflict to climate shocks.",
+    "id": "global-report-on-food-crises-2024",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Repurposing Agricultural Policies and Support",
+    "authors": "World Bank, FAO, IFPRI",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/37361",
+    "description": "Analysis of how the roughly USD 600 billion in annual agricultural support could be repurposed to boost productivity, equity, and environmental sustainability.",
+    "id": "repurposing-agricultural-policies-and-support",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Agricultural Innovation for Family Farming",
+    "authors": "FAO",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/CA2588EN",
+    "description": "Documents ten decisive challenges and successful innovation cases for smallholder and family farming systems worldwide.",
+    "id": "agricultural-innovation-for-family-farming",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water for Sustainable Food and Agriculture",
+    "authors": "FAO",
+    "year": 2017,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/I7959EN",
+    "description": "A report to the G20 examining the water constraints on agricultural production and pathways to more water-efficient food systems.",
+    "id": "water-for-sustainable-food-and-agriculture",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Ending Hunger: What Would It Cost?",
+    "authors": "IISD, IFPRI",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.ifpri.org/publication/ceres2030-sustainable-solutions-end-hunger",
+    "description": "Ceres2030 estimates the additional investment needed to end hunger, double smallholder incomes, and limit agricultural emissions by 2030.",
+    "id": "ending-hunger-what-would-it-cost",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Crop Production and Natural Resource Use",
+    "authors": "FAO",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/CA1553EN",
+    "description": "Assessment of how crop production systems interact with land, water, and biodiversity resources in the transition to sustainable agriculture.",
+    "id": "crop-production-and-natural-resource-use",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems",
+      "biodiversity"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Future of Food and Agriculture: Trends and Challenges",
+    "authors": "FAO",
+    "year": 2017,
+    "type": "book",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.fao.org/publications/card/en/c/I6583EN",
+    "description": "FAO's foresight report mapping the megatrends—population, climate, resource scarcity—shaping the food systems of 2050.",
+    "id": "the-future-of-food-and-agriculture-trends-and-challenges",
+    "access_type": "open_access",
+    "tags": [
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Agriculture for Development in India",
+    "authors": "IFPRI",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.ifpri.org/publication/2020-2021-annual-report",
+    "description": "IFPRI research syntheses on Indian agricultural transformation, procurement reform, and farmer welfare policy.",
+    "id": "agriculture-for-development-in-india",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "agriculture",
+      "agriculture-food-systems"
+    ],
+    "verified": false
   }
 ]

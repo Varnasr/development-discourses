@@ -632,5 +632,133 @@
       "gender-social-inclusion"
     ],
     "verified": false
+  },
+  {
+    "title": "World Development Report 2012: Gender Equality and Development",
+    "authors": "World Bank",
+    "year": 2012,
+    "type": "book",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/4391",
+    "description": "The World Bank's landmark case that gender equality is both a core development objective and smart economics.",
+    "id": "world-development-report-2012-gender-equality-and-development",
+    "access_type": "open_access",
+    "tags": [
+      "gender",
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Progress of the World's Women 2019-2020: Families in a Changing World",
+    "authors": "UN Women",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.unwomen.org/en/digital-library/progress-of-the-worlds-women",
+    "description": "UN Women's flagship examining how family policies can advance women's rights across diverse family forms.",
+    "id": "progress-of-the-worlds-women-2019-2020-families-in-a-changing-world",
+    "access_type": "check_access",
+    "tags": [
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Gender at Work: A Companion to the World Development Report on Jobs",
+    "authors": "World Bank",
+    "year": 2014,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/17121",
+    "description": "Analyses the persistent gender gaps in labour markets and the constraints on women's economic participation.",
+    "id": "gender-at-work-a-companion-to-the-world-development-report-on-jobs",
+    "access_type": "open_access",
+    "tags": [
+      "gender",
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of the World's Children 2023",
+    "authors": "UNICEF",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.unicef.org/reports/state-worlds-children",
+    "description": "UNICEF's flagship on children's rights and wellbeing, with a focus on immunisation and equity.",
+    "id": "the-state-of-the-worlds-children-2023",
+    "access_type": "open_access",
+    "tags": [
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Caste, Discrimination and Exclusion in Modern India",
+    "authors": "Sukhadeo Thorat, Katherine Newman",
+    "year": 2010,
+    "type": "book",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://in.sagepub.com/en-in/sas/blocked-by-caste/book234286",
+    "description": "'Blocked by Caste'—empirical studies of economic discrimination against Dalits and Adivasis in Indian labour and credit markets.",
+    "id": "caste-discrimination-and-exclusion-in-modern-india",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "caste",
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Half the Sky: Turning Oppression into Opportunity for Women Worldwide",
+    "authors": "Nicholas Kristof, Sheryl WuDunn",
+    "year": 2009,
+    "type": "book",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.halftheskymovement.org/",
+    "description": "A widely read account linking maternal mortality, trafficking, and gender-based violence to development priorities.",
+    "id": "half-the-sky-turning-oppression-into-opportunity-for-women-worldwide",
+    "access_type": "check_access",
+    "tags": [
+      "GBV",
+      "gender",
+      "gender-social-inclusion",
+      "maternal-health"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Making Women Count: Gender Data and the SDGs",
+    "authors": "UN Women",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://data.unwomen.org/publications/turning-promises-action-gender-equality-2030-agenda",
+    "description": "'Turning Promises into Action'—UN Women's monitoring report on gender equality across the 2030 Agenda.",
+    "id": "making-women-count-gender-data-and-the-sdgs",
+    "access_type": "check_access",
+    "tags": [
+      "gender",
+      "gender-social-inclusion"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Intersectionality and Development",
+    "authors": "UN Women",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.unwomen.org/en/digital-library/publications",
+    "description": "Guidance on applying an intersectional lens to development programming and data disaggregation.",
+    "id": "intersectionality-and-development",
+    "access_type": "check_access",
+    "tags": [
+      "gender-social-inclusion"
+    ],
+    "verified": false
   }
 ]

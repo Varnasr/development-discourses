@@ -626,5 +626,131 @@
       "climate-environment"
     ],
     "verified": false
+  },
+  {
+    "title": "Climate Change 2023: Synthesis Report (AR6)",
+    "authors": "IPCC",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.ipcc.ch/report/ar6/syr/",
+    "description": "The capstone of the IPCC's Sixth Assessment Cycle, synthesising the physical science, impacts, adaptation, and mitigation findings for policymakers.",
+    "id": "climate-change-2023-synthesis-report-ar6",
+    "access_type": "open_access",
+    "tags": [
+      "climate-adaptation",
+      "climate-change",
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Emissions Gap Report 2024",
+    "authors": "UNEP",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.unep.org/resources/emissions-gap-report-2024",
+    "description": "UNEP's annual accounting of the gap between national climate pledges and the emissions cuts needed to hold warming to 1.5°C.",
+    "id": "emissions-gap-report-2024",
+    "access_type": "open_access",
+    "tags": [
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Adaptation Gap Report 2024",
+    "authors": "UNEP",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.unep.org/resources/adaptation-gap-report-2024",
+    "description": "Assessment of global progress and shortfalls in adaptation planning, finance, and implementation.",
+    "id": "adaptation-gap-report-2024",
+    "access_type": "open_access",
+    "tags": [
+      "climate-adaptation",
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Groundswell: Preparing for Internal Climate Migration",
+    "authors": "World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/36248",
+    "description": "Projects that climate change could drive over 200 million people to migrate within their countries by 2050 absent concerted action.",
+    "id": "groundswell-preparing-for-internal-climate-migration",
+    "access_type": "open_access",
+    "tags": [
+      "climate-change",
+      "climate-environment",
+      "migration"
+    ],
+    "verified": false
+  },
+  {
+    "title": "State of the Global Climate 2023",
+    "authors": "World Meteorological Organization",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://library.wmo.int/records/item/68835-state-of-the-global-climate-2023",
+    "description": "WMO's annual report confirming record temperatures, ocean heat, sea-level rise, and glacier retreat.",
+    "id": "state-of-the-global-climate-2023",
+    "access_type": "check_access",
+    "tags": [
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Development Report 2010: Development and Climate Change",
+    "authors": "World Bank",
+    "year": 2010,
+    "type": "book",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/4387",
+    "description": "The World Bank's flagship framing of the twin challenge of promoting development while confronting climate change.",
+    "id": "world-development-report-2010-development-and-climate-change",
+    "access_type": "open_access",
+    "tags": [
+      "climate-change",
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Warming of 1.5°C (SR15)",
+    "authors": "IPCC",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.ipcc.ch/sr15/",
+    "description": "The special report that established the scientific case for limiting warming to 1.5°C and catalysed net-zero commitments worldwide.",
+    "id": "global-warming-of-15c-sr15",
+    "access_type": "open_access",
+    "tags": [
+      "climate-environment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Financing Climate Action in Developing Countries",
+    "authors": "OECD",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://www.oecd.org/climate-change/finance-usd-100-billion-goal/",
+    "description": "Tracks progress toward the USD 100 billion climate finance commitment made to developing countries.",
+    "id": "financing-climate-action-in-developing-countries",
+    "access_type": "free_to_read",
+    "tags": [
+      "climate-environment"
+    ],
+    "verified": false
   }
 ]

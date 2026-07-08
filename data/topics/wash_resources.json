@@ -348,5 +348,135 @@
       "wash"
     ],
     "verified": false
+  },
+  {
+    "title": "Progress on Household Drinking Water, Sanitation and Hygiene 2000-2022",
+    "authors": "WHO, UNICEF (JMP)",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://washdata.org/reports/jmp-2023-wash-households",
+    "description": "The Joint Monitoring Programme's authoritative global update on progress toward SDG 6 water and sanitation targets.",
+    "id": "progress-on-household-drinking-water-sanitation-and-hygiene-2000-2022",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Human Right to Water and Sanitation",
+    "authors": "UN",
+    "year": 2010,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.un.org/waterforlifedecade/human_right_to_water.shtml",
+    "description": "Background on the UN General Assembly resolution recognising safe drinking water and sanitation as a human right.",
+    "id": "the-human-right-to-water-and-sanitation",
+    "access_type": "open_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "World Water Development Report 2024",
+    "authors": "UNESCO, UN-Water",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.unesco.org/reports/wwdr/en/2024/s",
+    "description": "'Water for Prosperity and Peace'—the UN's flagship on water's role in livelihoods, cooperation, and conflict.",
+    "id": "world-water-development-report-2024",
+    "access_type": "check_access",
+    "tags": [
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Sanitation and Health",
+    "authors": "World Health Organization",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.who.int/publications/i/item/9789241514705",
+    "description": "WHO Guidelines on Sanitation and Health establishing the evidence and recommendations for safe sanitation systems.",
+    "id": "sanitation-and-health",
+    "access_type": "open_access",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The Economics of Sanitation Initiative",
+    "authors": "World Bank Water and Sanitation Program",
+    "year": 2012,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.worldbank.org/en/topic/sanitationhygiene",
+    "description": "Quantifies the large economic losses from poor sanitation and the returns to sanitation investment.",
+    "id": "the-economics-of-sanitation-initiative",
+    "access_type": "free_to_read",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water Supply, Sanitation and Hygiene in Schools",
+    "authors": "UNICEF, WHO",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://washdata.org/reports/jmp-2020-wash-schools",
+    "description": "JMP baseline on WASH services in schools and their links to attendance, especially for adolescent girls.",
+    "id": "water-supply-sanitation-and-hygiene-in-schools",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "education",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Ending Open Defecation: Lessons from the Swachh Bharat Mission",
+    "authors": "World Bank",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.worldbank.org/en/news/feature/2019/10/02/lessons-from-swachh-bharat",
+    "description": "Reviews the achievements and behavioural-change strategies of India's national sanitation campaign.",
+    "id": "ending-open-defecation-lessons-from-the-swachh-bharat-mission",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "WASH",
+      "wash"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Water and Climate Change",
+    "authors": "UN-Water",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.unwater.org/publications/un-world-water-development-report-2020",
+    "description": "The World Water Development Report examining the interlinkages between water management and climate adaptation.",
+    "id": "water-and-climate-change",
+    "access_type": "check_access",
+    "tags": [
+      "climate-adaptation",
+      "climate-change",
+      "wash"
+    ],
+    "verified": false
   }
 ]

@@ -188,5 +188,130 @@
       "education"
     ],
     "verified": false
+  },
+  {
+    "title": "Global Education Monitoring Report 2023: Technology in Education",
+    "authors": "UNESCO",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.unesco.org/gem-report/en/technology",
+    "description": "The GEM Report's critical appraisal of when, and whether, technology genuinely improves learning and equity.",
+    "id": "global-education-monitoring-report-2023-technology-in-education",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "The State of Global Learning Poverty: 2022 Update",
+    "authors": "World Bank, UNESCO, UNICEF, FCDO, USAID, Gates Foundation",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/37837",
+    "description": "Estimates that 70% of 10-year-olds in low- and middle-income countries cannot read and understand a simple text.",
+    "id": "the-state-of-global-learning-poverty-2022-update",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "poverty"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Global Education Monitoring Report 2021/2: Non-State Actors",
+    "authors": "UNESCO",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.unesco.org/gem-report/en/non-state-actors",
+    "description": "Examines the role of private and non-state provision in education and its implications for equity and the right to education.",
+    "id": "global-education-monitoring-report-20212-non-state-actors",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Learning Losses from COVID-19 School Closures",
+    "authors": "UNESCO, UNICEF, World Bank",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/36566",
+    "description": "'The State of the Global Education Crisis'—a joint assessment of pandemic learning losses and recovery strategies.",
+    "id": "learning-losses-from-covid-19-school-closures",
+    "access_type": "open_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Teaching at the Right Level: Evidence Review",
+    "authors": "J-PAL",
+    "year": 2019,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.povertyactionlab.org/case-study/teaching-right-level-improve-learning",
+    "description": "Synthesis of the randomised evidence behind Pratham's TaRL approach to remediating foundational learning.",
+    "id": "teaching-at-the-right-level-evidence-review",
+    "access_type": "open_access",
+    "tags": [
+      "RCT",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cost-Effective Approaches to Improve Global Learning",
+    "authors": "World Bank, FCDO, Building Evidence in Education",
+    "year": 2020,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/34658",
+    "description": "Ranks education interventions by their cost-effectiveness in delivering additional years of learning-adjusted schooling ('Smart Buys').",
+    "id": "cost-effective-approaches-to-improve-global-learning",
+    "access_type": "open_access",
+    "tags": [
+      "cost-effectiveness",
+      "education"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Girls' Education and Women's Empowerment",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/29956",
+    "description": "'Missed Opportunities'—quantifies the large economic costs of not educating girls to secondary level.",
+    "id": "girls-education-and-womens-empowerment",
+    "access_type": "open_access",
+    "tags": [
+      "education",
+      "girls-education",
+      "womens-empowerment"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Foundational Learning and the SDG 4 Agenda",
+    "authors": "UNESCO Institute for Statistics",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://uis.unesco.org/en/topic/sustainable-development-goal-4",
+    "description": "Data and indicators tracking global progress toward inclusive and equitable quality education.",
+    "id": "foundational-learning-and-the-sdg-4-agenda",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "verified": false
   }
 ]

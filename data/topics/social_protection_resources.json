@@ -392,5 +392,100 @@
       "social-protection"
     ],
     "verified": false
+  },
+  {
+    "title": "World Social Protection Report 2020-22",
+    "authors": "International Labour Organization",
+    "year": 2021,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://www.ilo.org/publications/flagship-reports/world-social-protection-report-2020-22-social-protection-crossroads",
+    "description": "The ILO's flagship documenting that over half the world's population lacks any social protection coverage.",
+    "id": "world-social-protection-report-2020-22",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Cash Transfers: What Does the Evidence Say?",
+    "authors": "ODI",
+    "year": 2016,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://odi.org/en/publications/cash-transfers-what-does-the-evidence-say-a-rigorous-review-of-impacts-and-the-role-of-design-and-implementation-features/",
+    "description": "A rigorous review of 15 years of cash-transfer evaluations across poverty, education, health, and empowerment outcomes.",
+    "id": "cash-transfers-what-does-the-evidence-say",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "education",
+      "poverty",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Realizing the Full Potential of Social Safety Nets in Africa",
+    "authors": "World Bank",
+    "year": 2018,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/29789",
+    "description": "Analyses how adaptive safety nets can respond to shocks and build the human capital of the poor.",
+    "id": "realizing-the-full-potential-of-social-safety-nets-in-africa",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Just Give Money to the Poor",
+    "authors": "Joseph Hanlon, Armando Barrientos, David Hulme",
+    "year": 2010,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://www.routledge.com/Just-Give-Money-to-the-Poor-The-Development-Revolution-from-the-Global-South/Hanlon-Barrientos-Hulme/p/book/9781565493339",
+    "description": "The influential argument for unconditional cash transfers as a development revolution from the Global South.",
+    "id": "just-give-money-to-the-poor",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Social Protection and Jobs Responses to COVID-19",
+    "authors": "World Bank",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/37188",
+    "description": "A 'real-time review' documenting the largest scale-up of social assistance in history during the pandemic.",
+    "id": "social-protection-and-jobs-responses-to-covid-19",
+    "access_type": "open_access",
+    "tags": [
+      "social-protection"
+    ],
+    "verified": false
+  },
+  {
+    "title": "Universal Basic Income: Debate and Evidence",
+    "authors": "World Bank",
+    "year": 2020,
+    "type": "book",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/32677",
+    "description": "'Exploring Universal Basic Income'—a rigorous examination of the concept's rationale, costs, and evidence.",
+    "id": "universal-basic-income-debate-and-evidence",
+    "access_type": "open_access",
+    "tags": [
+      "UBI",
+      "social-protection"
+    ],
+    "verified": false
   }
 ]

@@ -1,0 +1,885 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Development Discourses",
+  "home_page_url": "https://varnasr.github.io/development-discourses/index.html",
+  "feed_url": "https://varnasr.github.io/development-discourses/feed.json",
+  "description": "A curated open-access library of research papers, books, and grey literature for development practitioners in South Asia.",
+  "language": "en",
+  "items": [
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable",
+      "external_url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
+      "title": "Water, Sanitation, and Hygiene (WASH) Factors and the Incidence of Communicable Diseases in Urban Bangladesh: Evidence from Municipal Areas",
+      "content_text": "PLOS NTDs study finding that nearly one in four participants in urban Bangladesh reported communicable diseases, with diarrhoea most common and poor hand hygiene showing the strongest disease association.",
+      "authors": [
+        {
+          "name": "Md Nuruzzaman Khan, Raaj Kishore Biswas, Shuva Das"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "Bangladesh",
+        "WASH",
+        "public-health"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=state-of-social-protection-report-2025-the-2-billion-person-challenge",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=state-of-social-protection-report-2025-the-2-billion-person-challenge",
+      "external_url": "https://www.worldbank.org/en/topic/socialprotection/publication/state-of-social-protection-2025-2-billion-person-challenge",
+      "title": "State of Social Protection Report 2025: The 2-Billion-Person Challenge",
+      "content_text": "Documents that 2 billion people in low- and middle-income countries remain uncovered by social protection, with three out of four people in low-income countries receiving no support and current growth rates requiring 18 years to achieve full coverage.",
+      "authors": [
+        {
+          "name": "World Bank"
+        }
+      ],
+      "tags": [
+        "Public Policy & Governance",
+        "public-policy-governance",
+        "social-protection"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=socioeconomic-inequalities-in-access-to-maternal-healthcare-in-south-asian",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=socioeconomic-inequalities-in-access-to-maternal-healthcare-in-south-asian",
+      "external_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326130",
+      "title": "Socioeconomic Inequalities in Access to Maternal Healthcare in South-Asian Countries: A Systematic Review",
+      "content_text": "Systematic review of 55 studies from India, Nepal, Bangladesh, Afghanistan, and Pakistan showing that maternal healthcare access is linked to economic status, education, and women's autonomy in patriarchal family structures.",
+      "authors": [
+        {
+          "name": "Parveen Ali, Rubab Zahra, Shehla Naeem, Sana Waqas"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "Afghanistan",
+        "Bangladesh",
+        "India",
+        "Nepal",
+        "Pakistan",
+        "education",
+        "maternal-health",
+        "public-health",
+        "systematic-review"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=moving-toward-universal-health-coverage-with-a-national-health-insurance",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=moving-toward-universal-health-coverage-with-a-national-health-insurance",
+      "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003651",
+      "title": "Moving toward Universal Health Coverage with a National Health Insurance Program: A Scoping Review of Experiences in Eleven Low- and Lower-Middle-Income Countries",
+      "content_text": "Assesses strategies adopted by low- and lower-middle-income countries with a national health insurance scheme to expand UHC, examining variations in progress across eleven countries.",
+      "authors": [
+        {
+          "name": "Katya Galactionova, Elizabeth Kalesha, Abena Asumadu-Sakyi, Fabrizio Tediosi"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "UHC",
+        "health-insurance",
+        "public-health",
+        "scoping-review"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=mental-health-policy-implementation-in-low-and-middle-income-countries-a",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=mental-health-policy-implementation-in-low-and-middle-income-countries-a",
+      "external_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320420",
+      "title": "Mental Health Policy Implementation in Low- and Middle-Income Countries: A Realist Review Protocol",
+      "content_text": "Protocol for a realist synthesis explaining how, why, for whom, and under what health system conditions certain mental health policy implementation strategies work or fail in LMICs.",
+      "authors": [
+        {
+          "name": "Ruth Trainor, Florence Baingana, Assegid Debebe"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "public-health"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for",
+      "external_url": "https://www.nber.org/system/files/working_papers/w33756/w33756.pdf",
+      "title": "From Delay to Payday: Using a Digital Platform to Improve State Capacity for Welfare Payment Processing",
+      "content_text": "Studies a digital dashboard platform for real-time tracking of NREGS payment processing in two Indian states, finding that access to the platform expedited bureaucrat payment processing by 17% and increased available worksites by 23%.",
+      "authors": [
+        {
+          "name": "Karthik Muralidharan, Vaidyanathan Nandakumar, Gaurav Siddharth Sawant"
+        }
+      ],
+      "tags": [
+        "Public Policy & Governance",
+        "India",
+        "digital",
+        "public-policy-governance"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=demographic-socioeconomic-and-regional-disparities-in-the-coverage-of-water",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=demographic-socioeconomic-and-regional-disparities-in-the-coverage-of-water",
+      "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11913270/",
+      "title": "Demographic, Socioeconomic and Regional Disparities in the Coverage of Water, Sanitation and Hygiene Facilities in Four South Asian Countries",
+      "content_text": "PLOS ONE study using MICS data from Afghanistan, Bangladesh, Nepal, and Pakistan to examine WASH facility coverage disparities and identify significant socioeconomic and demographic factors.",
+      "authors": [
+        {
+          "name": "Md Hasibul Islam Jitu, Mohammad Shahed Masud"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "Afghanistan",
+        "Bangladesh",
+        "Nepal",
+        "Pakistan",
+        "South-Asia",
+        "WASH",
+        "public-health"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=challenges-and-opportunities-for-universal-health-coverage-in-south-asia-a",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=challenges-and-opportunities-for-universal-health-coverage-in-south-asia-a",
+      "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11800725/",
+      "title": "Challenges and Opportunities for Universal Health Coverage in South Asia: A Scoping Review",
+      "content_text": "Scoping review examining challenges and opportunities for UHC across South Asian countries, identifying underfunding, fragmented health systems, and inadequate insurance coverage as key barriers.",
+      "authors": [
+        {
+          "name": "Jayendra Sharma, Milena Pavlova, Wim Groot"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "South-Asia",
+        "UHC",
+        "public-health",
+        "scoping-review"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-water-development-report-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-water-development-report-2024",
+      "external_url": "https://www.unesco.org/reports/wwdr/en/2024/s",
+      "title": "World Water Development Report 2024",
+      "content_text": "'Water for Prosperity and Peace'—the UN's flagship on water's role in livelihoods, cooperation, and conflict.",
+      "authors": [
+        {
+          "name": "UNESCO, UN-Water"
+        }
+      ],
+      "tags": [
+        "WASH",
+        "wash"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-social-protection-report-2024-26-asia-and-the-pacific",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-social-protection-report-2024-26-asia-and-the-pacific",
+      "external_url": "https://www.ilo.org/sites/default/files/2024-09/WSPR_2024_Asia_and_Pacific_EN_WEB.pdf",
+      "title": "World Social Protection Report 2024-26: Asia and the Pacific",
+      "content_text": "ILO report highlighting key challenges for social protection in Asia-Pacific from a life-cycle perspective, addressing COVID-19 aftermath, climate change threats, persistent informality, and demographic shifts across the region.",
+      "authors": [
+        {
+          "name": "International Labour Organization"
+        }
+      ],
+      "tags": [
+        "Public Policy & Governance",
+        "climate-change",
+        "public-policy-governance",
+        "social-protection"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-migration-report-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-migration-report-2024",
+      "external_url": "https://www.iom.int/world-migration-report-2024",
+      "title": "World Migration Report 2024",
+      "content_text": "IOM's flagship providing global data and analysis on migration patterns, remittances, and displacement.",
+      "authors": [
+        {
+          "name": "International Organization for Migration"
+        }
+      ],
+      "tags": [
+        "Migration & Urbanization",
+        "migration",
+        "migration-urbanization"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-health-statistics-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-health-statistics-2024",
+      "external_url": "https://www.who.int/data/gho/publications/world-health-statistics",
+      "title": "World Health Statistics 2024",
+      "content_text": "WHO's annual snapshot of health and health-system indicators across all Member States and the SDGs.",
+      "authors": [
+        {
+          "name": "World Health Organization"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "public-health"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-employment-and-social-outlook-trends-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-employment-and-social-outlook-trends-2024",
+      "external_url": "https://www.ilo.org/publications/world-employment-and-social-outlook-trends-2024",
+      "title": "World Employment and Social Outlook: Trends 2024",
+      "content_text": "ILO flagship report analyzing global labor market trends, finding that the jobs gap reached 402 million people in 2024, with persistent gender gaps, high youth unemployment at 12.6%, and informal work returning to pre-pandemic levels.",
+      "authors": [
+        {
+          "name": "ILO"
+        }
+      ],
+      "tags": [
+        "Livelihoods",
+        "employment",
+        "gender",
+        "labor-markets",
+        "livelihoods"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-development-report-2024-the-middle-income-trap",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-development-report-2024-the-middle-income-trap",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/41919",
+      "title": "World Development Report 2024: The Middle-Income Trap",
+      "content_text": "Proposes an '3i' strategy—investment, infusion, innovation—for how middle-income countries can escape stagnation and reach high income.",
+      "authors": [
+        {
+          "name": "World Bank"
+        }
+      ],
+      "tags": [
+        "Development Economics",
+        "development-economics"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=women-business-and-the-law-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=women-business-and-the-law-2024",
+      "external_url": "https://openknowledge.worldbank.org/entities/publication/853a55af-f1ba-4979-949c-61979af2fbb9",
+      "title": "Women, Business and the Law 2024",
+      "content_text": "Tenth annual study measuring the legal enabling environment for women's economic opportunity across 190 economies, introducing new indicators on safety and childcare and a framework for measuring the implementation gap.",
+      "authors": [
+        {
+          "name": "World Bank Group"
+        }
+      ],
+      "tags": [
+        "Gender & Social Inclusion",
+        "gender-social-inclusion"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=wellbeing-and-happiness-the-world-happiness-report-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=wellbeing-and-happiness-the-world-happiness-report-2024",
+      "external_url": "https://worldhappiness.report/ed/2024/",
+      "title": "Wellbeing and Happiness: The World Happiness Report 2024",
+      "content_text": "The annual ranking and analysis of subjective wellbeing across countries and the life circumstances that shape it.",
+      "authors": [
+        {
+          "name": "Sustainable Development Solutions Network"
+        }
+      ],
+      "tags": [
+        "Mental Health & Wellbeing",
+        "mental-health-wellbeing"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-the-evolution-of-a-global-health-and",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-the-evolution-of-a-global-health-and",
+      "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11459319/",
+      "title": "Water, Sanitation and Hygiene (WASH): The Evolution of a Global Health and Development Sector",
+      "content_text": "BMJ Global Health open access article examining the evolution of the global WASH sector, noting that universal WASH access by 2030 under SDG 6 remains a distant prospect in many countries.",
+      "authors": [
+        {
+          "name": "Sara de Wit, Euphrasia Luseka, David Bradley, Joe Brown, Jayant Bhagwan, Barbara Evans, Matthew C Freeman, Guy Howard, Isha Ray, Ian Ross, Sheillah Simiyu, Oliver Cumming, Clare I R Chandler"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "WASH",
+        "public-health"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=value-chain-microfinance",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=value-chain-microfinance",
+      "external_url": "https://www.nber.org/papers/w32085",
+      "title": "Value Chain Microfinance",
+      "content_text": "NBER Working Paper studying how provision of financial services within value chain relationships can overcome barriers to financial access for small firms and workers in developing countries, reviewing empirical literature at the intersection of value chains and microfinance.",
+      "authors": [
+        {
+          "name": "Lorenzo Casaburi, Jack Willis"
+        }
+      ],
+      "tags": [
+        "Livelihoods",
+        "livelihoods",
+        "microfinance",
+        "value-chains"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=undp-lgbti-inclusion-index-report-on-the-pilot-implementation",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=undp-lgbti-inclusion-index-report-on-the-pilot-implementation",
+      "external_url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-04/undp-2024-lgbti-inclusion-index-report-on-the-pilot-implementation.pdf",
+      "title": "UNDP LGBTI Inclusion Index: Report on the Pilot Implementation",
+      "content_text": "UNDP report on the pilot LGBTI Inclusion Index with 51 indicators covering health, education, political participation, economic empowerment, and security, tested across 52 countries.",
+      "authors": [
+        {
+          "name": "UNDP"
+        }
+      ],
+      "tags": [
+        "Gender & Social Inclusion",
+        "education",
+        "gender-social-inclusion"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=tracking-sdg-7-the-energy-progress-report-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=tracking-sdg-7-the-energy-progress-report-2024",
+      "external_url": "https://www.worldbank.org/en/topic/energy/publication/tracking-sdg7-the-energy-progress-report-2024",
+      "title": "Tracking SDG 7: The Energy Progress Report 2024",
+      "content_text": "The custodian agencies' annual assessment of global progress toward universal access to affordable, reliable, sustainable energy.",
+      "authors": [
+        {
+          "name": "IEA, IRENA, UNSD, World Bank, WHO"
+        }
+      ],
+      "tags": [
+        "Energy & Just Transition",
+        "energy-just-transition"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-sustainable-development-goals-report-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-sustainable-development-goals-report-2024",
+      "external_url": "https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf",
+      "title": "The Sustainable Development Goals Report 2024",
+      "content_text": "Official UN report monitoring global progress on the 2030 Agenda using the latest available data and estimates. Provides a comprehensive assessment showing that the current pace of change is insufficient to fully achieve the Goals by 2030.",
+      "authors": [
+        {
+          "name": "United Nations Statistics Division"
+        }
+      ],
+      "tags": [
+        "Data & Technology",
+        "data-technology"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-state-of-food-security-and-nutrition-in-the-world-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-state-of-food-security-and-nutrition-in-the-world-2024",
+      "external_url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
+      "title": "The State of Food Security and Nutrition in the World 2024",
+      "content_text": "The 2024 edition of the UN's flagship food security report, tracking progress toward ending hunger and examining financing for food security and nutrition.",
+      "authors": [
+        {
+          "name": "FAO, IFAD, UNICEF, WFP, WHO"
+        }
+      ],
+      "tags": [
+        "Agriculture & Food Systems",
+        "agriculture-food-systems",
+        "food-security",
+        "nutrition"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-macroeconomic-impact-of-climate-change-global-vs-local-temperature",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-macroeconomic-impact-of-climate-change-global-vs-local-temperature",
+      "external_url": "https://www.nber.org/system/files/working_papers/w32450/w32450.pdf",
+      "title": "The Macroeconomic Impact of Climate Change: Global vs. Local Temperature",
+      "content_text": "NBER working paper using 173 countries from 1960 to 2019, finding that global temperature rises lead to GDP per capita declines of 12-16% after six years, with effects persisting 8-10 years, comparable in magnitude to severe financial crises.",
+      "authors": [
+        {
+          "name": "Adrien Bilal, Diego R. Känzig"
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "climate-change",
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=state-of-the-global-climate-2023",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=state-of-the-global-climate-2023",
+      "external_url": "https://library.wmo.int/records/item/68835-state-of-the-global-climate-2023",
+      "title": "State of the Global Climate 2023",
+      "content_text": "WMO's annual report confirming record temperatures, ocean heat, sea-level rise, and glacier retreat.",
+      "authors": [
+        {
+          "name": "World Meteorological Organization"
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=self-management-of-chronic-non-communicable-diseases-in-south-asian-settings-a",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=self-management-of-chronic-non-communicable-diseases-in-south-asian-settings-a",
+      "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001668",
+      "title": "Self-Management of Chronic, Non-Communicable Diseases in South Asian Settings: A Systematic Mixed-Studies Review",
+      "content_text": "Systematic review finding that age, education, income, knowledge, social support, self-efficacy, and affordability of medicine are key determinants of chronic NCD self-management in South Asia.",
+      "authors": [
+        {
+          "name": "Farooq Siddiqui, Omara Dogar, Mona Kanaan, Kamran Siddiqi"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "South-Asia",
+        "education",
+        "public-health",
+        "systematic-review"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=rethinking-social-protection-in-south-asia-toward-progressive-universalism",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=rethinking-social-protection-in-south-asia-toward-progressive-universalism",
+      "external_url": "https://www.worldbank.org/en/region/sar/publication/rethinking-social-protection-in-south-asia-toward-progressive-universalism",
+      "title": "Rethinking Social Protection in South Asia: Toward Progressive Universalism",
+      "content_text": "World Bank report arguing that South Asia has made significant progress in social protection delivery but still has far to go, advocating for progressive universalism as a framework for expanding coverage and improving adequacy.",
+      "authors": [
+        {
+          "name": "Rene Leon Solano, Jumana Alaref, Mark Dorfman, Zaineb Majoka, Mostafa Amir Sabbih, Elizabeth Mata Lorenzo"
+        }
+      ],
+      "tags": [
+        "Public Policy & Governance",
+        "South-Asia",
+        "public-policy-governance",
+        "social-protection"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=navigating-algorithm-bias-in-ai-ensuring-fairness-and-trust-in-africa",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=navigating-algorithm-bias-in-ai-ensuring-fairness-and-trust-in-africa",
+      "external_url": "https://www.frontiersin.org/journals/research-metrics-and-analytics/articles/10.3389/frma.2024.1486600/full",
+      "title": "Navigating Algorithm Bias in AI: Ensuring Fairness and Trust in Africa",
+      "content_text": "Documents how algorithmic bias exacerbates existing inequalities in developing countries. Argues that African values and ethical principles are currently lacking in global AI ethics discussions and advocates for culturally sensitive AI development.",
+      "authors": [
+        {
+          "name": "Multiple authors"
+        }
+      ],
+      "tags": [
+        "Data & Technology",
+        "data-technology"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=human-development-report-202324",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=human-development-report-202324",
+      "external_url": "https://hdr.undp.org/content/human-development-report-2023-24",
+      "title": "Human Development Report 2023/24",
+      "content_text": "'Breaking the Gridlock'—the HDR examining rising global polarisation and the reimagined cooperation needed for human development.",
+      "authors": [
+        {
+          "name": "UNDP"
+        }
+      ],
+      "tags": [
+        "Development Economics",
+        "development-economics"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=governance-of-data-and-data-driven-technology",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=governance-of-data-and-data-driven-technology",
+      "external_url": "https://openair.africa/wp-content/uploads/2024/12/WP-29-Rizk-Schonwetter-Governance-of-Data-and-Data-driven-Technology.pdf",
+      "title": "Governance of Data and Data-driven Technology",
+      "content_text": "OpenAIR working paper examining tools for monitoring open data availability and use, including the Global Data Barometer. Assesses government performance on data readiness, implementation, and impact across African countries.",
+      "authors": [
+        {
+          "name": "Nagla Rizk, Tobias Schonwetter"
+        }
+      ],
+      "tags": [
+        "Data & Technology",
+        "data-technology",
+        "governance"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=global-report-on-internal-displacement-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=global-report-on-internal-displacement-2024",
+      "external_url": "https://www.internal-displacement.org/global-report/grid2024/",
+      "title": "Global Report on Internal Displacement 2024",
+      "content_text": "The authoritative annual count of people displaced within their own countries by conflict, violence, and disasters.",
+      "authors": [
+        {
+          "name": "Internal Displacement Monitoring Centre"
+        }
+      ],
+      "tags": [
+        "Conflict & Humanitarian",
+        "conflict-humanitarian"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=global-report-on-food-crises-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=global-report-on-food-crises-2024",
+      "external_url": "https://www.fao.org/publications/card/en/c/CC8879EN",
+      "title": "Global Report on Food Crises 2024",
+      "content_text": "Annual multi-agency assessment of acute food insecurity across crisis-affected countries, documenting the drivers of hunger from conflict to climate shocks.",
+      "authors": [
+        {
+          "name": "Food Security Information Network (FSIN)"
+        }
+      ],
+      "tags": [
+        "Agriculture & Food Systems",
+        "agriculture-food-systems"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=global-poverty-revisited-using-2021-ppps",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=global-poverty-revisited-using-2021-ppps",
+      "external_url": "https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf",
+      "title": "Global Poverty Revisited Using 2021 PPPs",
+      "content_text": "World Bank Policy Research Working Paper updating global poverty estimates using 2021 PPPs, setting the international poverty line at $3.00/day and documenting the shift of extreme poverty concentration from South Asia to Sub-Saharan Africa.",
+      "authors": [
+        {
+          "name": "Dean Mitchell Jolliffe, Daniel Mahler, Christoph Lakner, Espen Beer Prydz, Nishant Yonzan"
+        }
+      ],
+      "tags": [
+        "Development Economics",
+        "South-Asia",
+        "Sub-Saharan-Africa",
+        "development-economics",
+        "poverty"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=global-humanitarian-overview-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=global-humanitarian-overview-2024",
+      "external_url": "https://www.unocha.org/publications/report/world/global-humanitarian-overview-2024",
+      "title": "Global Humanitarian Overview 2024",
+      "content_text": "OCHA's consolidated appeal quantifying people in need and funding requirements across the world's humanitarian crises.",
+      "authors": [
+        {
+          "name": "UN OCHA"
+        }
+      ],
+      "tags": [
+        "Conflict & Humanitarian",
+        "conflict-humanitarian"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=gender-equality-and-disability-inclusion-guidelines-to-address-the-specific",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=gender-equality-and-disability-inclusion-guidelines-to-address-the-specific",
+      "external_url": "https://www.adb.org/sites/default/files/publication/970411/gender-equality-disability-inclusion-guidelines.pdf",
+      "title": "Gender Equality and Disability Inclusion: Guidelines to Address the Specific Needs of Women and Girls with Disabilities",
+      "content_text": "ADB guidelines addressing how women and girls with disabilities face compounded barriers from poverty, gender, and disability discrimination, with practical strategies for disability-inclusive development.",
+      "authors": [
+        {
+          "name": "Asian Development Bank"
+        }
+      ],
+      "tags": [
+        "Gender & Social Inclusion",
+        "disability",
+        "gender",
+        "gender-social-inclusion",
+        "poverty"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=firm-adaptation-to-climate-change-evidence-from-establishment-level-data",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=firm-adaptation-to-climate-change-evidence-from-establishment-level-data",
+      "external_url": "https://www.nber.org/system/files/working_papers/w32848/w32848.pdf",
+      "title": "Firm Adaptation to Climate Change: Evidence from Establishment-Level Data",
+      "content_text": "NBER working paper examining firm-level adaptation to climate change, highlighting a global free-rider problem as developing nations prioritize economic growth over decarbonization and emphasizing the growing climate risks faced by firms in developing countries.",
+      "authors": [
+        {
+          "name": "Arti Grover, Jamus Jerome Lim"
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "carbon-emissions",
+        "climate-adaptation",
+        "climate-change",
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=emissions-gap-report-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=emissions-gap-report-2024",
+      "external_url": "https://www.unep.org/resources/emissions-gap-report-2024",
+      "title": "Emissions Gap Report 2024",
+      "content_text": "UNEP's annual accounting of the gap between national climate pledges and the emissions cuts needed to hold warming to 1.5°C.",
+      "authors": [
+        {
+          "name": "UNEP"
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=digital-health-interventions-for-improving-access-to-primary-care-in-india-a",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=digital-health-interventions-for-improving-access-to-primary-care-in-india-a",
+      "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002645",
+      "title": "Digital Health Interventions for Improving Access to Primary Care in India: A Scoping Review",
+      "content_text": "PLOS Global Public Health scoping review of digital health interventions to improve primary care access in India, examining telemedicine and mobile health approaches for vulnerable populations.",
+      "authors": [
+        {
+          "name": "Smisha Agarwal, Yumna Vahanvaty, Manushi Patel, Olakunle Alonge"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "India",
+        "digital",
+        "mobile-technology",
+        "public-health",
+        "scoping-review"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=contribution-of-malnutrition-to-infant-and-child-deaths-in-sub-saharan-africa",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=contribution-of-malnutrition-to-infant-and-child-deaths-in-sub-saharan-africa",
+      "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11624724/",
+      "title": "Contribution of Malnutrition to Infant and Child Deaths in Sub-Saharan Africa and South Asia",
+      "content_text": "Study using postmortem data from seven LMICs revealing that malnutrition plays a significant role in the causal chain of 40% of deaths among children under 5 years of age in Sub-Saharan Africa and South Asia.",
+      "authors": [
+        {
+          "name": "Cynthia Boschi-Pinto, Emily R Smith, Jonathon L Simon, Myo Myo Mon, Alka Dev"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "South-Asia",
+        "Sub-Saharan-Africa",
+        "nutrition",
+        "public-health"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022",
+      "external_url": "https://www.oecd.org/en/publications/2024/05/climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022_8031029a.html",
+      "title": "Climate Finance Provided and Mobilised by Developed Countries in 2013-2022",
+      "content_text": "OECD report confirming that developed countries exceeded the $100 billion annual climate finance goal for the first time in 2022, reaching $115.9 billion, but noting that finance to low-income countries remained relatively low at 10%.",
+      "authors": [
+        {
+          "name": "Organisation for Economic Co-operation and Development (OECD)"
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=climate-change-and-food-security-in-south-asia-the-importance-of-renewable",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=climate-change-and-food-security-in-south-asia-the-importance-of-renewable",
+      "external_url": "https://www.nature.com/articles/s41599-024-02847-3",
+      "title": "Climate Change and Food Security in South Asia: The Importance of Renewable Energy and Agricultural Credit",
+      "content_text": "Open-access paper in Nature Humanities and Social Sciences Communications analyzing the relationships between climate change, agricultural credit, renewable energy, and food security in South Asia from 1990 to 2021, finding that climate change reduces food availability and increases food insecurity.",
+      "authors": [
+        {
+          "name": "Various authors"
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "South-Asia",
+        "climate-change",
+        "climate-environment",
+        "food-security",
+        "renewable-energy"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=climate-change-economics-over-time-and-space",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=climate-change-economics-over-time-and-space",
+      "external_url": "https://www.nber.org/system/files/working_papers/w32197/w32197.pdf",
+      "title": "Climate Change Economics over Time and Space",
+      "content_text": "NBER working paper emphasizing spatial heterogeneity in climate impacts, showing that warming in less-developed countries lowers growth by 1.3 percentage points and reverses structural change by increasing the expenditure share of agriculture, magnifying vulnerability.",
+      "authors": [
+        {
+          "name": "Per Krusell, Anthony A. Smith Jr."
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "agriculture",
+        "climate-change",
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=adaptation-to-climate-change",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=adaptation-to-climate-change",
+      "external_url": "https://www.nber.org/system/files/working_papers/w33264/w33264.pdf",
+      "title": "Adaptation to Climate Change",
+      "content_text": "NBER working paper reviewing the economics of climate adaptation, finding that existing literature offers relatively little guidance for emerging policy and identifying key knowledge gaps in understanding adaptation effectiveness in developing countries.",
+      "authors": [
+        {
+          "name": "Tamma Carleton, Amir Jina, Michael Greenstone, et al."
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "climate-adaptation",
+        "climate-change",
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=adaptation-gap-report-2024",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=adaptation-gap-report-2024",
+      "external_url": "https://www.unep.org/resources/adaptation-gap-report-2024",
+      "title": "Adaptation Gap Report 2024",
+      "content_text": "Assessment of global progress and shortfalls in adaptation planning, finance, and implementation.",
+      "authors": [
+        {
+          "name": "UNEP"
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "climate-adaptation",
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-energy-transitions-outlook-2023",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-energy-transitions-outlook-2023",
+      "external_url": "https://www.irena.org/Publications/2023/Jun/World-Energy-Transitions-Outlook-2023",
+      "title": "World Energy Transitions Outlook 2023",
+      "content_text": "IRENA's 1.5°C pathway detailing the renewables scale-up, electrification, and investment needed to meet climate goals.",
+      "authors": [
+        {
+          "name": "IRENA"
+        }
+      ],
+      "tags": [
+        "Energy & Just Transition",
+        "energy-just-transition"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-energy-outlook-2023",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-energy-outlook-2023",
+      "external_url": "https://www.iea.org/reports/world-energy-outlook-2023",
+      "title": "World Energy Outlook 2023",
+      "content_text": "The IEA's flagship scenario analysis of the global energy system and the pace of the clean-energy transition.",
+      "authors": [
+        {
+          "name": "International Energy Agency"
+        }
+      ],
+      "tags": [
+        "Energy & Just Transition",
+        "energy-just-transition"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-development-report-2023-migrants-refugees-and-societies",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-development-report-2023-migrants-refugees-and-societies",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/39696",
+      "title": "World Development Report 2023: Migrants, Refugees, and Societies",
+      "content_text": "Reframes migration as a development strategy, introducing a 'Match and Motive' matrix to guide policy for migrants, refugees, and host societies.",
+      "authors": [
+        {
+          "name": "World Bank"
+        }
+      ],
+      "tags": [
+        "Development Economics",
+        "development-economics",
+        "migration"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=workload-and-emerging-challenges-of-community-health-workers-in-low-and-middle",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=workload-and-emerging-challenges-of-community-health-workers-in-low-and-middle",
+      "external_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282717",
+      "title": "Workload and Emerging Challenges of Community Health Workers in Low- and Middle-Income Countries: A Mixed-Methods Systematic Review",
+      "content_text": "Systematic review summarizing community health workers' perceived workload in LMICs, finding that excessive workload affects productivity and retention of CHWs in remote and underserved areas.",
+      "authors": [
+        {
+          "name": "Tegbar Yigzaw, Wondwosen Shiferaw, Frehiwot Berhane, Mengistu Hailemariam"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "CHWs",
+        "mixed-methods",
+        "public-health",
+        "systematic-review"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=whats-trending-in-difference-in-differences-a-synthesis-of-the-recent",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=whats-trending-in-difference-in-differences-a-synthesis-of-the-recent",
+      "external_url": "https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf",
+      "title": "What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature",
+      "content_text": "Synthesizes the rapidly evolving difference-in-differences literature, covering staggered adoption, heterogeneous treatment effects, pre-trend testing, and best practices for practitioners.",
+      "authors": [
+        {
+          "name": "Jonathan Roth, Pedro H.C. Sant'Anna, Alyssa Bilinski, John Poe"
+        }
+      ],
+      "tags": [
+        "Research Methods",
+        "diff-in-diff",
+        "research-methods"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=trends-in-maternal-mortality-2000-to-2020",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=trends-in-maternal-mortality-2000-to-2020",
+      "external_url": "https://www.who.int/publications/i/item/9789240068759",
+      "title": "Trends in Maternal Mortality 2000 to 2020",
+      "content_text": "The inter-agency estimates tracking the global stagnation in reducing maternal deaths.",
+      "authors": [
+        {
+          "name": "WHO, UNICEF, UNFPA, World Bank, UNDESA"
+        }
+      ],
+      "tags": [
+        "Public Health",
+        "maternal-health",
+        "public-health"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=trade-and-development-report-2023",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=trade-and-development-report-2023",
+      "external_url": "https://unctad.org/publication/trade-and-development-report-2023",
+      "title": "Trade and Development Report 2023",
+      "content_text": "UNCTAD's macroeconomic assessment of growth, debt, and the reforms needed in the international financial architecture.",
+      "authors": [
+        {
+          "name": "UNCTAD"
+        }
+      ],
+      "tags": [
+        "Development Economics",
+        "development-economics"
+      ]
+    }
+  ]
+}
