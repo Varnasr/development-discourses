@@ -7,7 +7,7 @@
  * Bump CACHE_VERSION to invalidate old caches on the next visit.
  */
 
-const CACHE_VERSION = 'dd-v2';
+const CACHE_VERSION = 'dd-v3';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 
