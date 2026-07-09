@@ -1623,26 +1623,29 @@ mark {
 
 /* ==========================================================================
    IMPACTMOJO BRAND UNIFICATION LAYER
-   Aligns Development Discourses with the shared library design system
-   (deep blue + teal). Loaded last so it wins. Light + dark defined
-   explicitly so the dark accent still overrides in dark mode.
+   Aligns Development Discourses with the shared library design system.
+   Brand VALUES live in the vendored ImpactMojo Kit (css/impactmojo-kit.css,
+   linked before this stylesheet); here we alias them onto this site's own
+   token names so the kit is the single source of truth.
    ========================================================================== */
 
 :root {
-  --color-accent:        #235789;
-  --color-accent-hover:  #16416b;
-  --color-accent-light:  #e9f1f9;
-  --color-accent-2:      #2a9d8f;
-  --brand-grad:          linear-gradient(135deg, #235789 0%, #2a7ab0 55%, #2a9d8f 130%);
-  --brand-ring:          0 0 0 3px rgba(35,87,137,0.18);
+  --color-accent:        var(--imx-accent);
+  --color-accent-hover:  var(--imx-accent-hover);
+  --color-accent-light:  var(--imx-accent-light);
+  --color-accent-2:      var(--imx-accent-2);
+  --brand-grad:          var(--imx-brand-grad);
+  --brand-ring:          var(--imx-ring);
 }
 [data-theme="dark"] {
-  --color-accent:        #6cb2ff;
-  --color-accent-hover:  #93c6ff;
-  --color-accent-light:  #16283c;
-  --color-accent-2:      #4fd1c5;
-  --brand-grad:          linear-gradient(135deg, #1b3b5c 0%, #23557f 55%, #1f5e57 130%);
-  --brand-ring:          0 0 0 3px rgba(108,178,255,0.22);
+  /* Dark values come from the kit's [data-theme="dark"] block; re-alias so
+     this site's token names resolve to them in dark mode. */
+  --color-accent:        var(--imx-accent);
+  --color-accent-hover:  var(--imx-accent-hover);
+  --color-accent-light:  var(--imx-accent-light);
+  --color-accent-2:      var(--imx-accent-2);
+  --brand-grad:          var(--imx-brand-grad);
+  --brand-ring:          var(--imx-ring);
 }
 
 /* Brand mark → gradient chip (matches Dev Case Studies logo) */

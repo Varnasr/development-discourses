@@ -1,0 +1,99 @@
+/* ==========================================================================
+   ImpactMojo Kit — shared design tokens + components for the ImpactMojo
+   library family (Dev Case Studies, Development Discourses, ImpactLex …).
+
+   Single source of truth for the brand. Vendor this file into a site and
+   link it BEFORE the site's own stylesheet, then reference the --imx-*
+   tokens (or use the .imx-* components) instead of hard-coding brand values.
+
+   Version: 1.0.0
+   ========================================================================== */
+
+/* ---------- Canonical brand tokens (light) ---------- */
+:root {
+  --imx-accent:        #235789;
+  --imx-accent-hover:  #16416b;
+  --imx-accent-light:  #e9f1f9;
+  --imx-accent-2:      #2a9d8f;              /* teal secondary */
+  --imx-brand-grad:    linear-gradient(135deg, #235789 0%, #2a7ab0 55%, #2a9d8f 130%);
+  --imx-ring:          0 0 0 3px rgba(35,87,137,0.18);
+
+  --imx-radius-sm:     6px;
+  --imx-radius-md:     10px;
+  --imx-radius-lg:     16px;
+
+  --imx-shadow-sm:     0 1px 2px rgba(16,32,52,0.06);
+  --imx-shadow-md:     0 4px 14px rgba(16,32,52,0.09);
+  --imx-shadow-lg:     0 12px 34px rgba(16,32,52,0.14);
+
+  --imx-font-sans:     'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --imx-font-serif:    'Source Serif 4', Georgia, 'Times New Roman', serif;
+}
+
+/* ---------- Canonical brand tokens (dark) ---------- */
+[data-theme="dark"] {
+  --imx-accent:        #6cb2ff;
+  --imx-accent-hover:  #93c6ff;
+  --imx-accent-light:  #16283c;
+  --imx-accent-2:      #4fd1c5;
+  --imx-brand-grad:    linear-gradient(135deg, #1b3b5c 0%, #23557f 55%, #1f5e57 130%);
+  --imx-ring:          0 0 0 3px rgba(108,178,255,0.22);
+
+  --imx-shadow-sm:     0 1px 2px rgba(0,0,0,0.5);
+  --imx-shadow-md:     0 4px 16px rgba(0,0,0,0.55);
+  --imx-shadow-lg:     0 14px 40px rgba(0,0,0,0.65);
+}
+
+/* ==========================================================================
+   Optional component library (namespaced .imx-*). Safe to drop into a new
+   site; existing sites can adopt these incrementally. All reference the
+   tokens above, so they restyle automatically with the brand.
+   ========================================================================== */
+
+/* Brand mark — a gradient chip that wraps a glyph or inline SVG */
+.imx-brand-mark {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 26px; height: 26px; border-radius: 8px;
+  background: var(--imx-brand-grad); color: #fff;
+  box-shadow: var(--imx-shadow-sm);
+}
+.imx-brand-mark svg { width: 15px; height: 15px; stroke: #fff; fill: none; }
+
+/* Ecosystem cross-links */
+.imx-eco-nav { display: inline-flex; align-items: center; gap: 12px; }
+.imx-eco-link {
+  font-size: 0.82rem; font-weight: 600; color: var(--imx-accent-hover);
+  text-decoration: none; border-bottom: 2px solid transparent; padding-bottom: 1px;
+  white-space: nowrap; opacity: 0.85;
+}
+.imx-eco-link:hover { opacity: 1; color: var(--imx-accent); }
+.imx-eco-link.current { opacity: 1; color: var(--imx-accent); border-bottom-color: var(--imx-accent); }
+@media (max-width: 900px) { .imx-eco-nav { display: none; } }
+
+/* Buttons */
+.imx-btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 6px 12px; font-size: 0.78rem; font-weight: 600;
+  font-family: var(--imx-font-sans); cursor: pointer;
+  border-radius: var(--imx-radius-md); border: 1px solid currentColor;
+  background: transparent; color: var(--imx-accent);
+  transition: background 0.15s, box-shadow 0.15s, transform 0.15s;
+}
+.imx-btn:hover { box-shadow: var(--imx-shadow-sm); }
+.imx-btn-primary { background: var(--imx-accent); border-color: var(--imx-accent); color: #fff; }
+.imx-btn-primary:hover { background: var(--imx-accent-hover); border-color: var(--imx-accent-hover); }
+
+/* Reading progress bar */
+.imx-reading-progress {
+  position: fixed; top: 0; left: 0; right: 0; height: 3px; z-index: 200;
+  background: transparent; opacity: 0; transition: opacity 0.25s; pointer-events: none;
+}
+.imx-reading-progress.visible { opacity: 1; }
+.imx-reading-progress > span {
+  display: block; height: 100%; width: 0%;
+  background: var(--imx-brand-grad); box-shadow: 0 0 8px rgba(42,157,143,0.4);
+  transition: width 0.1s linear;
+}
+
+/* Focus ring */
+.imx-focusable:focus-visible { outline: 2px solid var(--imx-accent); outline-offset: 2px; border-radius: 4px; }

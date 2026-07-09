@@ -7,7 +7,7 @@
  * Bump CACHE_VERSION to invalidate old caches on the next visit.
  */
 
-const CACHE_VERSION = 'dd-v1';
+const CACHE_VERSION = 'dd-v2';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 
@@ -15,6 +15,7 @@ const SHELL_ASSETS = [
   './',
   './index.html',
   './resource.html',
+  './css/impactmojo-kit.css',
   './css/style.css',
   './js/app.js',
   './js/resource.js',
