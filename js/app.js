@@ -98,6 +98,81 @@
 
         applyFilters();
         bindEvents();
+        setupInsights();
+    }
+
+    // ---- Insights dashboard ----
+    function setupInsights() {
+        const btn = document.getElementById('insightsBtn');
+        const panel = document.getElementById('insightsPanel');
+        if (!btn || !panel) return;
+        let loaded = false;
+
+        function barChart(title, obj, clickTopic) {
+            const rows = Object.keys(obj || {}).map(k => ({ label: k, count: obj[k] }))
+                .sort((a, b) => b.count - a.count);
+            if (!rows.length) return '';
+            const max = Math.max.apply(null, rows.map(r => r.count));
+            const bars = rows.map(r => {
+                const pct = Math.round((r.count / max) * 100);
+                const attrs = clickTopic ? ` data-topic="${escapeHtml(r.label)}" role="button" tabindex="0"` : '';
+                return `<div class="insight-bar${clickTopic ? ' clickable' : ''}"${attrs}>
+                    <span class="insight-bar-label">${escapeHtml(prettyLabel(r.label))}</span>
+                    <span class="insight-bar-track"><span class="insight-bar-fill" style="width:${pct}%"></span></span>
+                    <span class="insight-bar-value">${r.count}</span>
+                </div>`;
+            }).join('');
+            return `<div class="insight-group"><h4 class="insight-group-title">${escapeHtml(title)}</h4>${bars}</div>`;
+        }
+
+        function prettyLabel(k) {
+            return ({ grey_literature: 'Grey literature', paper: 'Papers', book: 'Books',
+                open_access: 'Open access', free_to_read: 'Free to read', check_access: 'Check access' })[k] || k;
+        }
+
+        function render(s) {
+            const tiles = [
+                { v: s.total, l: 'Resources' },
+                { v: s.topic_count, l: 'Topics' },
+                { v: (s.by_type && s.by_type.paper) || 0, l: 'Papers' },
+                { v: (s.by_access && s.by_access.open_access) || 0, l: 'Open access' },
+                { v: (s.year_min && s.year_max) ? (s.year_min + '–' + s.year_max) : '—', l: 'Year span' },
+            ];
+            panel.innerHTML =
+                '<div class="insight-tiles">' +
+                tiles.map(x => `<div class="insight-tile"><span class="insight-tile-value">${x.v}</span><span class="insight-tile-label">${x.l}</span></div>`).join('') +
+                '</div><div class="insight-charts">' +
+                barChart('By topic', s.by_topic, true) +
+                barChart('By type', s.by_type, false) +
+                barChart('By access', s.by_access, false) +
+                '</div><p class="insight-note">Generated from the library index. Click a topic bar to filter.</p>';
+
+            panel.querySelectorAll('[data-topic]').forEach(el => {
+                const apply = () => {
+                    currentTopic = el.dataset.topic;
+                    setActivePill(topicFilters, currentTopic);
+                    displayCount = PAGE_SIZE;
+                    applyFilters();
+                    document.querySelector('.results-section').scrollIntoView({ behavior: 'smooth' });
+                };
+                el.addEventListener('click', apply);
+                el.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); apply(); } });
+            });
+        }
+
+        btn.addEventListener('click', function () {
+            const open = panel.classList.toggle('open');
+            btn.classList.toggle('active', open);
+            btn.setAttribute('aria-expanded', String(open));
+            if (open && !loaded) {
+                loaded = true;
+                panel.innerHTML = '<div class="insight-loading">Loading insights…</div>';
+                fetch('data/stats.json')
+                    .then(r => r.ok ? r.json() : Promise.reject())
+                    .then(render)
+                    .catch(() => { panel.innerHTML = '<div class="insight-loading">Insights unavailable.</div>'; });
+            }
+        });
     }
 
     function showLoadingSkeleton() {
