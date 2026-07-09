@@ -20,8 +20,35 @@
     let currentSearch = '';
     let currentView = 'list';
     let displayCount = 50;
+    let savedOnly = false;
     const PAGE_SIZE = 50;
     const RECENT_KEY = 'imx_recent';
+    const BOOKMARK_KEY = 'imx_bookmarks';
+
+    // ---- Bookmarks (saved reading list) ----
+    function resKey(r) { return String(r.id || r.url || r.title || ''); }
+    function getBookmarks() {
+        try { return JSON.parse(localStorage.getItem(BOOKMARK_KEY)) || []; } catch (e) { return []; }
+    }
+    function isBookmarked(key) { return getBookmarks().indexOf(key) !== -1; }
+    function toggleBookmark(key) {
+        const m = getBookmarks(); const i = m.indexOf(key);
+        if (i === -1) m.push(key); else m.splice(i, 1);
+        try { localStorage.setItem(BOOKMARK_KEY, JSON.stringify(m)); } catch (e) { /* ignore */ }
+        return i === -1;
+    }
+    function bookmarkSvg(filled) {
+        return '<svg viewBox="0 0 24 24" fill="' + (filled ? 'currentColor' : 'none') +
+            '" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">' +
+            '<path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>';
+    }
+    function updateSavedCount() {
+        const el = document.querySelector('#savedBtn .saved-count');
+        if (!el) return;
+        const n = getBookmarks().length;
+        el.textContent = n;
+        el.classList.toggle('visible', n > 0);
+    }
 
     // DOM refs
     const searchInput = document.getElementById('searchInput');
@@ -252,6 +279,33 @@
             window.location.href = r.id ? 'resource.html?id=' + encodeURIComponent(r.id) : r.url;
         });
 
+        // Bookmark toggle on cards (card is a link, so stop navigation)
+        resourcesList.addEventListener('click', function (e) {
+            const btn = e.target.closest('.rc-bookmark');
+            if (!btn) return;
+            e.preventDefault();
+            e.stopPropagation();
+            const key = decodeURIComponent(btn.dataset.key || '');
+            const nowSaved = toggleBookmark(key);
+            btn.classList.toggle('saved', nowSaved);
+            btn.setAttribute('aria-pressed', String(nowSaved));
+            btn.setAttribute('title', nowSaved ? 'Saved — click to remove' : 'Save for later');
+            btn.innerHTML = bookmarkSvg(nowSaved);
+            updateSavedCount();
+            if (savedOnly) { displayCount = PAGE_SIZE; applyFilters(); }
+        });
+
+        // Saved-only toggle
+        const savedBtn = document.getElementById('savedBtn');
+        if (savedBtn) savedBtn.addEventListener('click', function () {
+            savedOnly = !savedOnly;
+            savedBtn.classList.toggle('active', savedOnly);
+            savedBtn.setAttribute('aria-pressed', String(savedOnly));
+            displayCount = PAGE_SIZE;
+            applyFilters();
+        });
+        updateSavedCount();
+
         // Export
         if (exportBtn) {
             exportBtn.addEventListener('click', function (e) {
@@ -327,6 +381,7 @@
         const terms = currentSearch ? currentSearch.split(/\s+/).filter(Boolean) : [];
 
         filteredResources = allResources.filter(r => {
+            if (savedOnly && !isBookmarked(resKey(r))) return false;
             if (currentTopic !== 'all' && r.topic !== currentTopic) return false;
             if (currentType !== 'all' && r.type !== currentType) return false;
             if (currentAccess !== 'all' && (r.access_type || 'check_access') !== currentAccess) return false;
@@ -448,8 +503,11 @@
             const typeLabel = r.type === 'grey_literature' ? 'Grey Lit' : capitalize(r.type);
             const accessClass = r.access_type || 'check_access';
             const accessLabel = accessLabelOf(accessClass);
+            const bkey = resKey(r);
+            const bsaved = isBookmarked(bkey);
 
             card.innerHTML = `
+                <button class="rc-bookmark${bsaved ? ' saved' : ''}" data-key="${encodeURIComponent(bkey)}" aria-pressed="${bsaved}" title="${bsaved ? 'Saved — click to remove' : 'Save for later'}" aria-label="Save resource">${bookmarkSvg(bsaved)}</button>
                 <div class="resource-card-header">
                     <span class="resource-type-badge ${typeClass}">${typeLabel}</span>
                     <span class="resource-title">${highlight(r.title, terms)}</span>

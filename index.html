@@ -21,7 +21,7 @@
 
     <!-- PWA -->
     <link rel="manifest" href="manifest.webmanifest">
-    <meta name="theme-color" content="#2563eb">
+    <meta name="theme-color" content="#235789">
     <link rel="icon" href="icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="icon.svg">
     <link rel="search" type="application/opensearchdescription+xml" title="Dev Discourses" href="opensearch.xml">
@@ -71,6 +71,11 @@
                 <p class="site-tagline">A curated open-access library for development practitioners in South Asia</p>
             </div>
             <nav class="header-nav">
+                <span class="eco-nav" aria-label="ImpactMojo libraries">
+                    <a href="https://varnasr.github.io/dev-case-studies/" class="eco-link">Case Studies</a>
+                    <a href="https://varnasr.github.io/development-discourses/" class="eco-link current" aria-current="page">Discourses</a>
+                    <a href="https://www.impactmojo.in/impactlex/" class="eco-link" target="_blank" rel="noopener">ImpactLex</a>
+                </span>
                 <a href="#about" class="nav-link">About</a>
                 <a href="https://www.impactmojo.in" class="nav-link" target="_blank" rel="noopener">ImpactMojo &nearr;</a>
                 <div class="theme-selector" role="group" aria-label="Theme selection">
@@ -194,6 +199,11 @@
                         <button class="tool-btn" id="randomBtn" title="Open a random resource">
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5"></path><path d="M4 20 21 3"></path><path d="M21 16v5h-5"></path><path d="m15 15 6 6"></path><path d="M4 4l5 5"></path></svg>
                             <span>Surprise me</span>
+                        </button>
+                        <button class="tool-btn" id="savedBtn" aria-pressed="false" title="Show only saved resources">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+                            <span>Saved</span>
+                            <span class="saved-count"></span>
                         </button>
                         <div class="export-menu">
                             <button class="tool-btn" id="exportBtn" title="Export the filtered list" aria-haspopup="true" aria-expanded="false">
