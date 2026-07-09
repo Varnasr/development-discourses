@@ -1619,3 +1619,92 @@ mark {
   .theme-btn { width: 26px; height: 26px; }
   .theme-btn svg { width: 14px; height: 14px; }
 }
+
+
+/* ==========================================================================
+   IMPACTMOJO BRAND UNIFICATION LAYER
+   Aligns Development Discourses with the shared library design system
+   (deep blue + teal). Loaded last so it wins. Light + dark defined
+   explicitly so the dark accent still overrides in dark mode.
+   ========================================================================== */
+
+:root {
+  --color-accent:        #235789;
+  --color-accent-hover:  #16416b;
+  --color-accent-light:  #e9f1f9;
+  --color-accent-2:      #2a9d8f;
+  --brand-grad:          linear-gradient(135deg, #235789 0%, #2a7ab0 55%, #2a9d8f 130%);
+  --brand-ring:          0 0 0 3px rgba(35,87,137,0.18);
+}
+[data-theme="dark"] {
+  --color-accent:        #6cb2ff;
+  --color-accent-hover:  #93c6ff;
+  --color-accent-light:  #16283c;
+  --color-accent-2:      #4fd1c5;
+  --brand-grad:          linear-gradient(135deg, #1b3b5c 0%, #23557f 55%, #1f5e57 130%);
+  --brand-ring:          0 0 0 3px rgba(108,178,255,0.22);
+}
+
+/* Brand mark → gradient chip (matches Dev Case Studies logo) */
+.brand-icon {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 26px; height: 26px; border-radius: 8px;
+  background: var(--brand-grad); color: #fff !important;
+  font-size: 1rem; box-shadow: var(--shadow-sm);
+}
+
+/* Ecosystem cross-links in the header nav */
+.eco-nav { display: inline-flex; align-items: center; gap: 14px; }
+.eco-link {
+  font-size: 0.85rem; font-weight: 600; color: var(--color-text-secondary);
+  border-bottom: 2px solid transparent; padding-bottom: 2px; white-space: nowrap;
+}
+.eco-link:hover { color: var(--color-accent); text-decoration: none; }
+.eco-link.current { color: var(--color-accent); border-bottom-color: var(--color-accent); }
+
+/* Stat numbers pick up the brand */
+.stat-number { color: var(--color-accent); }
+
+/* Cards: subtle lift + gradient accent strip on hover */
+.resource-card { position: relative; transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease; }
+.resource-card::before {
+  content: ""; position: absolute; inset: 0 0 auto 0; height: 3px;
+  background: var(--brand-grad); opacity: 0;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0; transition: opacity 0.18s ease;
+}
+.resource-card:hover { transform: translateY(-3px); box-shadow: var(--shadow-md); }
+.resource-card:hover::before { opacity: 1; }
+
+/* Bookmark button on cards */
+.rc-bookmark {
+  position: absolute; top: 10px; right: 10px; z-index: 2;
+  width: 30px; height: 30px; display: inline-flex; align-items: center; justify-content: center;
+  background: color-mix(in srgb, var(--color-surface) 82%, transparent);
+  border: 1px solid var(--color-border-light); border-radius: 8px;
+  color: var(--color-text-muted); cursor: pointer;
+  opacity: 0; transform: translateY(-2px); transition: all 0.15s;
+}
+.resource-card:hover .rc-bookmark,
+.rc-bookmark.saved,
+.rc-bookmark:focus-visible { opacity: 1; transform: translateY(0); }
+.rc-bookmark:hover { color: var(--color-accent); border-color: var(--color-accent); }
+.rc-bookmark.saved { color: var(--color-accent); border-color: var(--color-accent); background: var(--color-accent-light); }
+.rc-bookmark svg { width: 15px; height: 15px; }
+
+/* Saved toggle in the results tools */
+.tool-btn.active { background: var(--color-accent); border-color: var(--color-accent); color: #fff; }
+.tool-btn .saved-count {
+  display: none; margin-left: 6px; font-size: 0.66rem; font-weight: 700; line-height: 15px;
+  min-width: 15px; text-align: center; padding: 0 4px; border-radius: 8px;
+  background: var(--color-accent); color: #fff;
+}
+.tool-btn.active .saved-count { background: rgba(255,255,255,0.25); }
+.tool-btn .saved-count.visible { display: inline-block; }
+
+/* Footer: brand gradient top edge (matches Dev Case Studies) */
+.site-footer { border-top: 3px solid transparent; border-image: var(--brand-grad) 1; }
+
+/* Focus rings on the brand */
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 2px solid var(--color-accent); outline-offset: 2px; border-radius: 4px;
+}
