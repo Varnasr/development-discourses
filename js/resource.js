@@ -48,6 +48,24 @@
             window.renderLitmap(currentResource, allResources);
         }
         bindEvents();
+        initReadingProgress();
+    }
+
+    // ---- Reading progress bar ----
+    function initReadingProgress() {
+        const bar = document.getElementById('reading-progress');
+        if (!bar) return;
+        const fill = bar.firstElementChild;
+        function update() {
+            const doc = document.documentElement;
+            const scrollable = doc.scrollHeight - doc.clientHeight;
+            const pct = scrollable > 0 ? Math.min(100, (window.scrollY / scrollable) * 100) : 0;
+            if (fill) fill.style.width = pct + '%';
+            bar.classList.toggle('visible', window.scrollY > 60);
+        }
+        window.addEventListener('scroll', update, { passive: true });
+        window.addEventListener('resize', update, { passive: true });
+        update();
     }
 
     // ---- Render Main ----

@@ -1708,3 +1708,39 @@ mark {
 a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible {
   outline: 2px solid var(--color-accent); outline-offset: 2px; border-radius: 4px;
 }
+
+/* ---------- Reading progress bar (resource pages) ---------- */
+.reading-progress {
+  position: fixed; top: 0; left: 0; right: 0; height: 3px;
+  z-index: 200; background: transparent; opacity: 0;
+  transition: opacity 0.25s; pointer-events: none;
+}
+.reading-progress.visible { opacity: 1; }
+.reading-progress > span {
+  display: block; height: 100%; width: 0%;
+  background: var(--brand-grad); box-shadow: 0 0 8px rgba(42,157,143,0.4);
+  transition: width 0.1s linear;
+}
+
+/* ---------- Insights dashboard ---------- */
+.insights-panel {
+  display: none; background: var(--color-surface);
+  border: 1px solid var(--color-border); border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm); padding: 24px; margin: 0 0 20px;
+}
+.insights-panel.open { display: block; }
+.insight-loading { padding: 24px; text-align: center; color: var(--color-text-muted); font-size: 0.85rem; }
+.insight-tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 12px; margin-bottom: 24px; }
+.insight-tile { display: flex; flex-direction: column; gap: 2px; padding: 16px; border-radius: var(--radius-md); background: var(--color-bg); border: 1px solid var(--color-border-light); }
+.insight-tile-value { font-family: var(--font-serif); font-size: 1.55rem; font-weight: 700; color: var(--color-accent); line-height: 1; letter-spacing: -0.02em; }
+.insight-tile-label { font-size: 0.68rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-text-muted); }
+.insight-charts { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 24px 32px; }
+.insight-group-title { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--color-text-muted); margin-bottom: 12px; padding-bottom: 8px; border-bottom: 1px solid var(--color-border-light); }
+.insight-bar { display: grid; grid-template-columns: 1fr 90px 34px; align-items: center; gap: 8px; padding: 3px 4px; border-radius: var(--radius-sm); }
+.insight-bar.clickable { cursor: pointer; }
+.insight-bar.clickable:hover { background: var(--color-accent-light); }
+.insight-bar-label { font-size: 0.76rem; color: var(--color-text-secondary); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.insight-bar-track { height: 7px; background: var(--color-border-light); border-radius: 4px; overflow: hidden; }
+.insight-bar-fill { display: block; height: 100%; border-radius: 4px; background: var(--brand-grad); transition: width 0.6s cubic-bezier(0.2,0.8,0.2,1); }
+.insight-bar-value { font-size: 0.74rem; font-weight: 700; color: var(--color-text-secondary); text-align: right; font-variant-numeric: tabular-nums; }
+.insight-note { margin-top: 20px; font-size: 0.73rem; color: var(--color-text-muted); font-style: italic; }

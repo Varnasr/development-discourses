@@ -196,6 +196,10 @@
                 <div class="results-header">
                     <p class="results-count" id="resultsCount">Loading resources...</p>
                     <div class="results-tools">
+                        <button class="tool-btn" id="insightsBtn" aria-expanded="false" aria-controls="insightsPanel" title="Show library insights">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="20" x2="12" y2="10"></line><line x1="18" y1="20" x2="18" y2="4"></line><line x1="6" y1="20" x2="6" y2="16"></line></svg>
+                            <span>Insights</span>
+                        </button>
                         <button class="tool-btn" id="randomBtn" title="Open a random resource">
                             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5"></path><path d="M4 20 21 3"></path><path d="M21 16v5h-5"></path><path d="m15 15 6 6"></path><path d="M4 4l5 5"></path></svg>
                             <span>Surprise me</span>
@@ -235,6 +239,8 @@
                         </div>
                     </div>
                 </div>
+
+                <section id="insightsPanel" class="insights-panel" aria-label="Library insights"></section>
 
                 <div class="resources-list" id="resourcesList">
                     <!-- Resources rendered by JS -->
