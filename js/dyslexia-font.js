@@ -26,6 +26,17 @@
  * Where the button goes: an element carrying data-dyslexia-slot, else a theme
  * control if the site has one, else a small fixed button in the bottom-left
  * corner. Give a site's nav bar data-dyslexia-slot and the button joins it.
+ *
+ * How it looks: set these on the script tag (data-accent, data-radius, ...) or
+ * in the site's own stylesheet, pointing them at the site's tokens so they
+ * track its themes.
+ *     --dys-accent        colour of the button when the switch is on
+ *     --dys-radius        corner radius (default 8px; 0 for a square house style)
+ *     --dys-border-width  default 1px
+ *     --dys-idle-border   default currentColor
+ *     --dys-idle-opacity  default .72
+ *     --dys-font          label typeface (default system-ui)
+ *     --dys-surface/--dys-fg   ground and ink for the fixed corner variant
  */
 (function () {
   'use strict';
@@ -51,12 +62,44 @@
   // has chosen the font should not watch each page render in the default one.
   if (on()) root.classList.add(CLS);
 
+  // Per-site look, read off the script tag:
+  //   data-accent="var(--accent)"  data-radius="0"  data-font="'JetBrains Mono',monospace"
+  // A site with a stylesheet can set the same custom properties there instead;
+  // these attributes exist because several of these sites carry their CSS
+  // inline, per page, with no shared file to put a rule in. Pointing the
+  // attribute at the site's own token rather than a literal colour is what
+  // makes the button follow that site into dark mode: a var() resolves where it
+  // is used, so whatever --accent means on the page is what the button gets.
+  function opt(name) {
+    var v = self && self.getAttribute('data-' + name);
+    if (!v) return '';
+    // These values are written straight into a stylesheet, so nothing that could
+    // close a declaration or open a rule is allowed through. Colours, lengths,
+    // font stacks and var() references all survive this; a semicolon, a brace,
+    // an @rule or a backslash escape does not.
+    if (v.length > 120 || /[;{}@\\<>]/.test(v)) return '';
+    return v;
+  }
+
   function face(weight, style, file) {
     return '@font-face{font-family:"OpenDyslexic";font-weight:' + weight + ';font-style:' + style +
       ';font-display:swap;src:url("' + DIR + file + '") format("woff2")}';
   }
 
   function styles() {
+    var vars = '';
+    [['accent', '--dys-accent'], ['radius', '--dys-radius'], ['font', '--dys-font'],
+     ['border-width', '--dys-border-width'], ['idle-border', '--dys-idle-border'],
+     ['idle-opacity', '--dys-idle-opacity'], ['surface', '--dys-surface'], ['fg', '--dys-fg']
+    ].forEach(function (pair) {
+      var v = opt(pair[0]);
+      if (v) vars += pair[1] + ':' + v + ';';
+    });
+    // Scoped to the button, not :root, so a site's own token namespace is left
+    // alone. The site's stylesheet can still set these on :root and they will
+    // inherit in; anything given on the tag wins, being on the element itself.
+    var scoped = vars ? '#dys-font-btn{' + vars + '}' : '';
+
     return face(400, 'normal', 'opendyslexic-400.woff2')
       + face(700, 'normal', 'opendyslexic-700.woff2')
       + face(400, 'italic', 'opendyslexic-400-italic.woff2')
@@ -70,16 +113,45 @@
       + 'html.' + CLS + ' blockquote,html.' + CLS + ' figcaption,html.' + CLS + ' td,html.' + CLS + ' th{'
       + 'line-height:1.7!important;letter-spacing:.04em!important;word-spacing:.16em!important}'
       + 'html.' + CLS + ' p,html.' + CLS + ' li,html.' + CLS + ' blockquote{text-align:left!important}'
-      // The control itself. Neutral enough to sit in any bar; the fixed
-      // fallback carries its own background so it reads on any ground.
+      // The control itself. Every value a site is likely to care about is a
+      // custom property with a neutral fallback, so a site themes the button by
+      // setting --dys-accent (and friends) in its own stylesheet rather than
+      // fighting this rule on specificity. Point --dys-accent at the site's own
+      // accent token and dark mode follows for free, because a var() is resolved
+      // where it is used, not where it is declared.
       + '#dys-font-btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;'
-      + 'min-width:36px;height:32px;padding:0 10px;border-radius:8px;cursor:pointer;'
-      + 'border:1px solid currentColor;background:transparent;color:inherit;'
-      + 'font:700 13px/1 system-ui,sans-serif;letter-spacing:.02em;opacity:.75}'
+      + 'min-width:36px;height:32px;padding:0 10px;cursor:pointer;'
+      + 'border-radius:var(--dys-radius,8px);'
+      + 'border:var(--dys-border-width,1px) solid var(--dys-idle-border,currentColor);'
+      + 'background:transparent;color:inherit;'
+      + 'font:700 13px/1 var(--dys-font,system-ui,sans-serif);'
+      + 'letter-spacing:.02em;opacity:var(--dys-idle-opacity,.72)}'
       + '#dys-font-btn:hover,#dys-font-btn:focus-visible{opacity:1}'
-      + '#dys-font-btn[aria-pressed="true"]{background:#0EA5E9;border-color:#0EA5E9;color:#fff;opacity:1}'
+      // "On" is the site's accent as outline and a wash of itself, with the
+      // label left at whatever ink the bar around it already uses. Two earlier
+      // shapes were worse. A filled button needs an ink that clears 4.5:1
+      // against whatever the accent happens to be, and these sites swap their
+      // accent between themes (someperspective goes from #b4530e to #fb923c,
+      // where white is fine on the first and fails on the second). Putting the
+      // accent in the label instead moves the problem rather than solving it:
+      // measured across the sites, Democracy by Design's --blue came out at
+      // 3.34:1 and How India Lives' #0EA5E9 at 2.77:1 in light mode. Leaving
+      // the ink alone is the one version that cannot go wrong, because it is
+      // the ink the site already chose for that bar. State does not rest on
+      // colour anyway: when the switch is on the label is set in OpenDyslexic,
+      // and aria-pressed carries it for anyone who cannot see either.
+      + '#dys-font-btn[aria-pressed="true"]{opacity:1;'
+      + 'border-color:var(--dys-accent,#0EA5E9);'
+      + 'background:color-mix(in srgb,var(--dys-accent,#0EA5E9) 16%,transparent)}'
       + '#dys-font-btn.dys-fixed{position:fixed;left:16px;bottom:16px;z-index:9990;'
-      + 'background:Canvas;color:CanvasText;box-shadow:0 2px 10px rgba(0,0,0,.18);opacity:.92}';
+      + 'background:var(--dys-surface,Canvas);color:var(--dys-fg,CanvasText);'
+      + 'box-shadow:0 2px 10px rgba(0,0,0,.18);opacity:.92}'
+      // Declared after the plain fixed background so a browser without
+      // color-mix drops this line and keeps a solid one rather than going
+      // transparent over the page.
+      + '#dys-font-btn.dys-fixed[aria-pressed="true"]{'
+      + 'background:color-mix(in srgb,var(--dys-accent,#0EA5E9) 16%,var(--dys-surface,Canvas))}'
+      + scoped;
   }
 
   // Deliberately short. An earlier version fell back to the page <header>, which
