@@ -88,9 +88,16 @@
   // data-dyslexia-slot, or has a theme control to sit beside, or gets the fixed
   // corner button, which at least lands somewhere predictable.
   function host() {
-    return document.querySelector('[data-dyslexia-slot]')
-      || document.querySelector('.theme-selector,.theme-toggle,.theme-switch,.theme-btn-group')
-      || null;
+    var el = document.querySelector('[data-dyslexia-slot]');
+    if (el) return el;
+    el = document.querySelector('.theme-selector,.theme-toggle,.theme-switch,'
+      + '.theme-btn-group,.theme-toggle-group,.themebar');
+    if (!el) return null;
+    // On several of these sites .theme-toggle is the <button> itself rather
+    // than a container. A button inside a button is invalid markup and the
+    // parser moves it out anyway, so take the row it sits in.
+    if (/^(BUTTON|A|INPUT|LABEL|SELECT)$/.test(el.tagName)) return el.parentElement;
+    return el;
   }
 
   function init() {
