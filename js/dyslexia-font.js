@@ -36,6 +36,7 @@
  *     --dys-idle-border   default currentColor
  *     --dys-idle-opacity  default .72
  *     --dys-font          label typeface (default system-ui)
+ *     --dys-min-size      minimum touch target (default 44px)
  *     --dys-surface/--dys-fg   ground and ink for the fixed corner variant
  */
 (function () {
@@ -119,14 +120,28 @@
       // fighting this rule on specificity. Point --dys-accent at the site's own
       // accent token and dark mode follows for free, because a var() is resolved
       // where it is used, not where it is declared.
+      // 44px, not 32. This button is a reading aid, so the people most likely
+      // to reach for it are the ones a small target costs most; WCAG 2.2's
+      // Target Size (Minimum), 2.5.8, puts the floor at 24px and the older
+      // 2.5.5 at 44. It was 36x32 on every site using this script. Override
+      // with --dys-min-size if a host genuinely needs it smaller.
       + '#dys-font-btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;'
-      + 'min-width:36px;height:32px;padding:0 10px;cursor:pointer;'
+      + 'min-width:var(--dys-min-size,44px);min-height:var(--dys-min-size,44px);padding:0 12px;cursor:pointer;'
       + 'border-radius:var(--dys-radius,8px);'
       + 'border:var(--dys-border-width,1px) solid var(--dys-idle-border,currentColor);'
       + 'background:transparent;color:inherit;'
       + 'font:700 13px/1 var(--dys-font,system-ui,sans-serif);'
-      + 'letter-spacing:.02em;opacity:var(--dys-idle-opacity,.72)}'
-      + '#dys-font-btn:hover,#dys-font-btn:focus-visible{opacity:1}'
+      // Idle opacity defaults to 1, not .72. The paragraph below argues that
+      // leaving the ink alone is the one version that cannot go wrong, because
+      // it is the ink the site already chose for that bar -- and then took 28%
+      // off it, which undoes exactly that guarantee. Measured on
+      // pinpointventures, --color-text #4b5563 is 6.41:1 on the header and the
+      // composite at .72 is #7d858f, 3.73:1. A control that exists so people who
+      // find text hard to read can read it should not be the dimmest thing on
+      // the page. The idle/on distinction rides on the border and the wash, which
+      // it already did. --dys-idle-opacity is still there for a site whose bar
+      // has the headroom to spend.
+      + 'letter-spacing:.02em;opacity:var(--dys-idle-opacity,1)}'
       // "On" is the site's accent as outline and a wash of itself, with the
       // label left at whatever ink the bar around it already uses. Two earlier
       // shapes were worse. A filled button needs an ink that clears 4.5:1
@@ -172,6 +187,18 @@
     return el;
   }
 
+  // Where in the slot the button lands. Default is the end of the row, which is
+  // where it has always gone. A site that wants it somewhere else names an
+  // element to sit in front of: data-dyslexia-before="#docsLink" on the slot.
+  // Opt-in on purpose -- this file is shared across nine pages and a change to
+  // the default would move the button on all of them.
+  function place(h, b) {
+    var sel = h.getAttribute && h.getAttribute('data-dyslexia-before');
+    var ref = sel ? h.querySelector(sel) : null;
+    if (ref && ref.parentElement === h) h.insertBefore(b, ref);
+    else h.appendChild(b);
+  }
+
   function init() {
     if (document.getElementById('dys-font-btn')) return;
     var st = document.createElement('style');
@@ -201,7 +228,7 @@
     sync();
 
     var h = host();
-    if (h) { h.appendChild(b); return; }
+    if (h) { place(h, b); return; }
 
     // No home yet. Two of these sites build their masthead from JavaScript after
     // this runs, so a slot that does not exist at DOMContentLoaded may exist a
@@ -215,7 +242,7 @@
       var late = host();
       if (!late || late.contains(b)) return;
       b.className = '';
-      late.appendChild(b);
+      place(late, b);
       mo.disconnect();
     });
     mo.observe(document.body, { childList: true, subtree: true });
