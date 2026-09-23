@@ -7,6 +7,134 @@
   "language": "en",
   "items": [
     {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=supporting-learning-in-and-out-of-school-experimental-evidence-from-india",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=supporting-learning-in-and-out-of-school-experimental-evidence-from-india",
+      "external_url": "https://doi.org/10.1016/j.jdeveco.2026.103906",
+      "title": "Supporting learning in and out of school: Experimental evidence from India",
+      "content_text": "A cross-cutting trial across 200 villages in Assam. Neither the in-school pedagogy component nor the community study groups moved learning alone; together they raised maths by 0.11 SD and language by 0.09 SD. An argument about complementarity rather than about either component.",
+      "authors": [
+        {
+          "name": "Martina Björkman Nyqvist, Andrea Guariso"
+        }
+      ],
+      "tags": [
+        "Education",
+        "India",
+        "education"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=mobile-money-and-the-welfare-of-women-and-youths-in-fragile-states-evidence",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=mobile-money-and-the-welfare-of-women-and-youths-in-fragile-states-evidence",
+      "external_url": "https://doi.org/10.1371/journal.pone.0343349",
+      "title": "Mobile money, and the welfare of women and youths in fragile states: Evidence from Mozambique",
+      "content_text": "900 households from the 2019 FinScope survey in a post-conflict, climate-exposed setting. Welfare gains run through active usage, not account ownership. The authors state plainly that their instrument cannot be fully tested, which is worth more than the point estimate.",
+      "authors": [
+        {
+          "name": "Lwanga Elizabeth Nanziri et al."
+        }
+      ],
+      "tags": [
+        "Financial Inclusion",
+        "financial-inclusion",
+        "mobile-technology",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=impact-of-cash-transfers-on-child-poverty-among-school-aged-refugee-children",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=impact-of-cash-transfers-on-child-poverty-among-school-aged-refugee-children",
+      "external_url": "https://doi.org/10.1007/s12187-026-10430-2",
+      "title": "Impact of Cash Transfers on Child Poverty Among School-aged Refugee Children: Evidence from Uganda",
+      "content_text": "Alkire-Foster multidimensional poverty combined with propensity score matching in Kyaka II. A 7 per cent effect, which the authors read as cash alone being insufficient against child multidimensional poverty rather than as a success.",
+      "authors": [
+        {
+          "name": "Emmanuel Keith Kisaame, Susan Namirembe Kavuma, Edward Bbaale"
+        }
+      ],
+      "tags": [
+        "Social Protection",
+        "cash-transfers",
+        "education",
+        "poverty",
+        "social-protection"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=fintech-and-savings-in-african-countries-the-case-of-mobile-money",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=fintech-and-savings-in-african-countries-the-case-of-mobile-money",
+      "external_url": "https://doi.org/10.1057/s41302-026-00339-7",
+      "title": "Fintech and Savings in African Countries: The Case of Mobile Money",
+      "content_text": "Harmonised FinScope surveys from Malawi, Tanzania and Uganda across 2013, 2017 and 2021, instrumented on distance to the nearest agent. The contribution is the decomposition: mobile money moves saving onto digital platforms and away from banks and ROSCAs rather than simply raising the amount saved.",
+      "authors": [
+        {
+          "name": "Claudia Chilundo, Hermine Vedogbeton"
+        }
+      ],
+      "tags": [
+        "Financial Inclusion",
+        "digital",
+        "financial-inclusion",
+        "mobile-technology",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=digital-personalised-learning-to-improve-literacy-and-numeracy-outcomes-a",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=digital-personalised-learning-to-improve-literacy-and-numeracy-outcomes-a",
+      "external_url": "https://doi.org/10.1080/02671522.2025.2605645",
+      "title": "Digital personalised learning to improve literacy and numeracy outcomes: a randomised controlled trial in Kenyan pre-primary classrooms",
+      "content_text": "1,955 pre-primary learners across 291 Kenyan government schools over 13 months, 0.53 SD from baseline. Worth reading for the decay after midline, which the authors attribute to running out of suitable content rather than to the method failing.",
+      "authors": [
+        {
+          "name": "Louis Major et al."
+        }
+      ],
+      "tags": [
+        "Education",
+        "RCT",
+        "digital",
+        "education"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=beyond-access-clean-energy-use-in-low-income-and-middle-income-countries",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=beyond-access-clean-energy-use-in-low-income-and-middle-income-countries",
+      "external_url": "https://doi.org/10.1016/s2214-109x(25)00532-7",
+      "title": "Beyond access: clean energy use in low-income and middle-income countries",
+      "content_text": "Makes the measurement argument plainly: SDG 7's binary indicators overstate health and equity gains because they cannot see fuel stacking, dynamic consumption or the gendered burden of polluting fuels.",
+      "authors": [
+        {
+          "name": "Annelise Gill-Wiehl et al."
+        }
+      ],
+      "tags": [
+        "Energy & Just Transition",
+        "energy-just-transition",
+        "gender"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=association-between-water-sanitation-and-hygiene-wash-practices-and-childhood",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=association-between-water-sanitation-and-hygiene-wash-practices-and-childhood",
+      "external_url": "https://doi.org/10.1186/s12889-026-27639-z",
+      "title": "Association between water, sanitation, and hygiene (WASH) practices and childhood stunting in low- and middle-income countries: a systematic review and meta-analysis",
+      "content_text": "16 studies, 36,574 children. Water quality, water accessibility and sanitation facility type are associated with lower stunting odds; drinking water source, household treatment, toilet access and safe disposal of child faeces are not. Observational, and the authors say so.",
+      "authors": [
+        {
+          "name": "Frengki Prabowo Saputro Wijayanto et al."
+        }
+      ],
+      "tags": [
+        "WASH",
+        "WASH",
+        "meta-analysis",
+        "nutrition",
+        "systematic-review",
+        "wash"
+      ]
+    },
+    {
       "id": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable",
       "url": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable",
       "external_url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
@@ -22,6 +150,57 @@
         "Bangladesh",
         "WASH",
         "public-health"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-impact-of-a-participatory-intervention-to-improve-learning-outcomes-and",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-impact-of-a-participatory-intervention-to-improve-learning-outcomes-and",
+      "external_url": "https://doi.org/10.1016/j.ijedudev.2025.103409",
+      "title": "The impact of a participatory intervention to improve learning outcomes and reduce school-based discrimination and community stigma in primary rural schools of Afghanistan: A cluster control randomized trial",
+      "content_text": "83 schools across three Afghan provinces, 2,519 children. Life skills, self-efficacy and reading literacy all improve, effects rise with dose, and girls gain more than boys. One of the few learning trials run in an active crisis setting.",
+      "authors": [
+        {
+          "name": "Jean-Francois Trani et al."
+        }
+      ],
+      "tags": [
+        "Education",
+        "Afghanistan",
+        "RCT",
+        "education"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-false-optimism-of-electrification-why-universal-electricity-access-has-not",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-false-optimism-of-electrification-why-universal-electricity-access-has-not",
+      "external_url": "https://doi.org/10.1016/j.enpol.2025.114506",
+      "title": "The false optimism of electrification: why universal electricity access has not delivered urban energy transformation in South Africa",
+      "content_text": "Argues that counting grid connections measures proximity to a wire, not access to energy services, and that households in un-serviceable settlements are permanently excluded by design. Directly relevant to anyone reading SDG 7 progress figures.",
+      "authors": [
+        {
+          "name": "Charlotte Lemanski et al."
+        }
+      ],
+      "tags": [
+        "Energy & Just Transition",
+        "energy-just-transition"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-impact-of-shock-responsive-social-cash-transfers-evidence-from-an-aggregate",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-impact-of-shock-responsive-social-cash-transfers-evidence-from-an-aggregate",
+      "external_url": "https://doi.org/10.1080/00220388.2025.2504425",
+      "title": "The Impact of Shock-Responsive Social Cash Transfers: Evidence from an Aggregate Shock in Kenya",
+      "content_text": "Kenya's shock-responsive scheme during the pandemic, on informal-economy households. Less income loss, less food scarcity, and fewer distress sales of productive assets — but only where payment cycles were pooled and transfers vertically scaled.",
+      "authors": [
+        {
+          "name": "Christoph Strupat, Emmanuel Nshakira-Rukundo, Arndt Reichert"
+        }
+      ],
+      "tags": [
+        "Social Protection",
+        "cash-transfers",
+        "social-protection"
       ]
     },
     {
@@ -101,6 +280,24 @@
       ]
     },
     {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=improving-energy-access-climate-and-socio-economic-outcomes-through-off-grid",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=improving-energy-access-climate-and-socio-economic-outcomes-through-off-grid",
+      "external_url": "https://doi.org/10.1002/cl2.70060",
+      "title": "Improving Energy Access, Climate and Socio-Economic Outcomes Through Off-Grid Electrification Technologies: A Systematic Review",
+      "content_text": "47 impact evaluations of off-grid solar, from 18 databases and 29 grey sources. Kerosene use falls and uptake rises; reliability, affordability and energy expenditure do not move, and the effect on time spent studying shows publication bias. The most honest evidence map in this field.",
+      "authors": [
+        {
+          "name": "Cem Yavuz et al."
+        }
+      ],
+      "tags": [
+        "Energy & Just Transition",
+        "energy-just-transition",
+        "impact-evaluation",
+        "systematic-review"
+      ]
+    },
+    {
       "id": "https://varnasr.github.io/development-discourses/resource.html?id=from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for",
       "url": "https://varnasr.github.io/development-discourses/resource.html?id=from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for",
       "external_url": "https://www.nber.org/system/files/working_papers/w33756/w33756.pdf",
@@ -116,6 +313,76 @@
         "India",
         "digital",
         "public-policy-governance"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=evaluating-implementation-research-outcomes-for-a-task-sharing-mental-health",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=evaluating-implementation-research-outcomes-for-a-task-sharing-mental-health",
+      "external_url": "https://doi.org/10.1017/gmh.2025.10025",
+      "title": "Evaluating implementation research outcomes for a task-sharing mental health intervention: A systematic review of the Friendship Bench",
+      "content_text": "Seven studies on Zimbabwe's Friendship Bench, the most-cited lay-worker mental health model in Africa. Acceptable and feasible; the limits are an unreliable referral system behind it and no answer for severe illness.",
+      "authors": [
+        {
+          "name": "John Patena et al."
+        }
+      ],
+      "tags": [
+        "Mental Health & Wellbeing",
+        "mental-health-wellbeing",
+        "systematic-review"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=energy-justice-and-gender-bridging-equity-access-and-policy-for-sustainable",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=energy-justice-and-gender-bridging-equity-access-and-policy-for-sustainable",
+      "external_url": "https://doi.org/10.1007/s43621-025-01375-7",
+      "title": "Energy justice and gender: bridging equity, access, and policy for sustainable development",
+      "content_text": "616 publications mapped against SDG 5 and SDG 7. Finds clean energy adoption reduces unpaid domestic work and strengthens women's economic opportunities, and that policies written without a gender lens tend to entrench the inequalities they meant to relieve.",
+      "authors": [
+        {
+          "name": "Raghu Raman et al."
+        }
+      ],
+      "tags": [
+        "Energy & Just Transition",
+        "energy-just-transition",
+        "gender"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=effects-of-a-community-driven-water-sanitation-and-hygiene-intervention-on",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=effects-of-a-community-driven-water-sanitation-and-hygiene-intervention-on",
+      "external_url": "https://hdl.handle.net/10986/42845",
+      "title": "Effects of a Community-Driven Water, Sanitation, and Hygiene Intervention on Diarrhea, Child Growth, and Local Institutions: A Cluster-Randomized Controlled Trial in Rural Democratic Republic of Congo",
+      "content_text": "332 villages, measured 3.6 years after the programme. Improved water access up 24 points, sanitation up 18, WASH committees established and still running — and no effect whatever on diarrhoea or on length-for-age. The clearest published example of infrastructure and institutions moving without health following.",
+      "authors": [
+        {
+          "name": "John P Quattrochi et al."
+        }
+      ],
+      "tags": [
+        "WASH",
+        "RCT",
+        "WASH",
+        "institutions",
+        "wash"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=distributional-justice-and-rapid-green-energy-transitions-citizen-experiences",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=distributional-justice-and-rapid-green-energy-transitions-citizen-experiences",
+      "external_url": "https://doi.org/10.1088/1748-9326/add27d",
+      "title": "Distributional justice and rapid green energy transitions: citizen experiences in Kenya",
+      "content_text": "Kenya is on track for SDG 7 and is held up as the African success case. Focus groups and survey data show the poor carrying the cost of the transition, and a gap between the national narrative and what citizens report.",
+      "authors": [
+        {
+          "name": "Christopher D Gore et al."
+        }
+      ],
+      "tags": [
+        "Energy & Just Transition",
+        "energy-just-transition",
+        "survey-data"
       ]
     },
     {
@@ -156,6 +423,61 @@
         "South-Asia",
         "UHC",
         "public-health",
+        "scoping-review"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in",
+      "external_url": "https://doi.org/10.1017/s1474746425101267",
+      "title": "Assessing the Impact of Cash Transfer Programmes on Socioeconomic Outcomes in the MENA Region: A Systematic Review",
+      "content_text": "270 studies, 2000 to 2024. Finds a threshold: transfers of 5 to 10 per cent of household income change behaviour, but poverty reduction needs 15 to 20 per cent or more, and humanitarian effects dissipate in four to ten months without a livelihood pathway behind them.",
+      "authors": [
+        {
+          "name": "Anis Ben Brik"
+        }
+      ],
+      "tags": [
+        "Social Protection",
+        "cash-transfers",
+        "poverty",
+        "social-protection",
+        "systematic-review"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=assessing-household-confidence-in-saving-with-banks-and-mno-led-mobile-money",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=assessing-household-confidence-in-saving-with-banks-and-mno-led-mobile-money",
+      "external_url": "https://doi.org/10.1080/23322039.2025.2535488",
+      "title": "Assessing household confidence in saving with banks and MNO-led mobile money: evidence from the household survey in Tanzania",
+      "content_text": "9,915 FinScope respondents. Households trust banks with savings more than mobile network operators, and education and location both shift that. A corrective to the assumption that an account is an account.",
+      "authors": [
+        {
+          "name": "Goodluck Charles, Renger Kanani, Neema Mori"
+        }
+      ],
+      "tags": [
+        "Financial Inclusion",
+        "education",
+        "financial-inclusion",
+        "mobile-technology",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=a-global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=a-global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve",
+      "external_url": "https://doi.org/10.1017/gmh.2025.10013",
+      "title": "A global scoping review of task shifting and sharing interventions to improve the mental health of people living with HIV/AIDS",
+      "content_text": "Scopes a decade of lay-worker psychosocial support for people living with HIV. Notes what is consistently under-reported in this literature: how lay health workers were selected, paid and supervised.",
+      "authors": [
+        {
+          "name": "Caroline Wang Kokubun et al."
+        }
+      ],
+      "tags": [
+        "Mental Health & Wellbeing",
+        "mental-health-wellbeing",
         "scoping-review"
       ]
     },
@@ -311,6 +633,23 @@
       ]
     },
     {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=wash-interventions-and-child-diarrhea-at-the-interface-of-climate-and",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=wash-interventions-and-child-diarrhea-at-the-interface-of-climate-and",
+      "external_url": "https://doi.org/10.1038/s41467-024-45624-1",
+      "title": "WASH interventions and child diarrhea at the interface of climate and socioeconomic position in Bangladesh",
+      "content_text": "360 clusters and 8,440 measurements, then extrapolated across rural Bangladesh with geospatial layers. Benefits concentrate among the poorest children and during the monsoon, which is the argument for targeting WASH by season and position rather than uniformly.",
+      "authors": [
+        {
+          "name": "Pearl Anne Ante-Testard et al."
+        }
+      ],
+      "tags": [
+        "WASH",
+        "Bangladesh",
+        "wash"
+      ]
+    },
+    {
       "id": "https://varnasr.github.io/development-discourses/resource.html?id=value-chain-microfinance",
       "url": "https://varnasr.github.io/development-discourses/resource.html?id=value-chain-microfinance",
       "external_url": "https://www.nber.org/papers/w32085",
@@ -343,6 +682,23 @@
         "Gender & Social Inclusion",
         "education",
         "gender-social-inclusion"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=transdiagnostic-psychological-interventions-for-symptoms-of-common-mental",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=transdiagnostic-psychological-interventions-for-symptoms-of-common-mental",
+      "external_url": "https://doi.org/10.1155/2024/5037662",
+      "title": "Transdiagnostic Psychological Interventions for Symptoms of Common Mental Disorders Delivered by Non‐Specialist Providers in Low‐ and Middle‐Income Countries: A Systematic Review and Meta‐Analysis",
+      "content_text": "21 transdiagnostic interventions. Moderate reductions in distress, anxiety and depression at post-treatment (g about -0.6), smaller but surviving at 13 to 26 weeks. Argues against building one programme per diagnosis in a setting that has no specialists.",
+      "authors": [
+        {
+          "name": "Éanna Ó hAnrachtaigh et al."
+        }
+      ],
+      "tags": [
+        "Mental Health & Wellbeing",
+        "mental-health-wellbeing",
+        "systematic-review"
       ]
     },
     {
@@ -482,6 +838,40 @@
       ]
     },
     {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=improving-learning-outcomes-for-out-of-school-children-evidence-from-a",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=improving-learning-outcomes-for-out-of-school-children-evidence-from-a",
+      "external_url": "https://doi.org/10.1080/09645292.2024.2410773",
+      "title": "Improving learning outcomes for out-of-school children: evidence from a randomized evaluation of an accelerated learning program in Liberia",
+      "content_text": "Liberia records 2.2 learning-adjusted years of schooling, among the lowest measured anywhere. A ten-month accelerated programme across 100 communities brings out-of-school children up to the learning level of children in government schools.",
+      "authors": [
+        {
+          "name": "Jeffery McManus et al."
+        }
+      ],
+      "tags": [
+        "Education",
+        "RCT",
+        "education"
+      ]
+    },
+    {
+      "id": "https://varnasr.github.io/development-discourses/resource.html?id=improving-childrens-foundational-learning-through-community-school",
+      "url": "https://varnasr.github.io/development-discourses/resource.html?id=improving-childrens-foundational-learning-through-community-school",
+      "external_url": "https://doi.org/10.1016/j.labeco.2024.102615",
+      "title": "Improving children's foundational learning through community-school participation: Experimental evidence from rural India",
+      "content_text": "A trial in 400 Indian villages comparing community-only accountability against school-community collaboration. Both raise foundational literacy and numeracy; the collaborative arm pulls ahead only where parents actually visited the school.",
+      "authors": [
+        {
+          "name": "Deepak Kumar et al."
+        }
+      ],
+      "tags": [
+        "Education",
+        "India",
+        "education"
+      ]
+    },
+    {
       "id": "https://varnasr.github.io/development-discourses/resource.html?id=human-development-report-202324",
       "url": "https://varnasr.github.io/development-discourses/resource.html?id=human-development-report-202324",
       "external_url": "https://hdr.undp.org/content/human-development-report-2023-24",
@@ -490,390 +880,6 @@
       "authors": [
         {
           "name": "UNDP"
-        }
-      ],
-      "tags": [
-        "Development Economics",
-        "development-economics"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=governance-of-data-and-data-driven-technology",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=governance-of-data-and-data-driven-technology",
-      "external_url": "https://openair.africa/wp-content/uploads/2024/12/WP-29-Rizk-Schonwetter-Governance-of-Data-and-Data-driven-Technology.pdf",
-      "title": "Governance of Data and Data-driven Technology",
-      "content_text": "OpenAIR working paper examining tools for monitoring open data availability and use, including the Global Data Barometer. Assesses government performance on data readiness, implementation, and impact across African countries.",
-      "authors": [
-        {
-          "name": "Nagla Rizk, Tobias Schonwetter"
-        }
-      ],
-      "tags": [
-        "Data & Technology",
-        "data-technology",
-        "governance"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=global-report-on-internal-displacement-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=global-report-on-internal-displacement-2024",
-      "external_url": "https://www.internal-displacement.org/global-report/grid2024/",
-      "title": "Global Report on Internal Displacement 2024",
-      "content_text": "The authoritative annual count of people displaced within their own countries by conflict, violence, and disasters.",
-      "authors": [
-        {
-          "name": "Internal Displacement Monitoring Centre"
-        }
-      ],
-      "tags": [
-        "Conflict & Humanitarian",
-        "conflict-humanitarian"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=global-report-on-food-crises-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=global-report-on-food-crises-2024",
-      "external_url": "https://www.fao.org/publications/card/en/c/CC8879EN",
-      "title": "Global Report on Food Crises 2024",
-      "content_text": "Annual multi-agency assessment of acute food insecurity across crisis-affected countries, documenting the drivers of hunger from conflict to climate shocks.",
-      "authors": [
-        {
-          "name": "Food Security Information Network (FSIN)"
-        }
-      ],
-      "tags": [
-        "Agriculture & Food Systems",
-        "agriculture-food-systems"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=global-poverty-revisited-using-2021-ppps",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=global-poverty-revisited-using-2021-ppps",
-      "external_url": "https://documents1.worldbank.org/curated/en/099503206032533226/pdf/IDU-e2e09dcf-0af2-481a-a60a-64adf28171d0.pdf",
-      "title": "Global Poverty Revisited Using 2021 PPPs",
-      "content_text": "World Bank Policy Research Working Paper updating global poverty estimates using 2021 PPPs, setting the international poverty line at $3.00/day and documenting the shift of extreme poverty concentration from South Asia to Sub-Saharan Africa.",
-      "authors": [
-        {
-          "name": "Dean Mitchell Jolliffe, Daniel Mahler, Christoph Lakner, Espen Beer Prydz, Nishant Yonzan"
-        }
-      ],
-      "tags": [
-        "Development Economics",
-        "South-Asia",
-        "Sub-Saharan-Africa",
-        "development-economics",
-        "poverty"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=global-humanitarian-overview-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=global-humanitarian-overview-2024",
-      "external_url": "https://www.unocha.org/publications/report/world/global-humanitarian-overview-2024",
-      "title": "Global Humanitarian Overview 2024",
-      "content_text": "OCHA's consolidated appeal quantifying people in need and funding requirements across the world's humanitarian crises.",
-      "authors": [
-        {
-          "name": "UN OCHA"
-        }
-      ],
-      "tags": [
-        "Conflict & Humanitarian",
-        "conflict-humanitarian"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=gender-equality-and-disability-inclusion-guidelines-to-address-the-specific",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=gender-equality-and-disability-inclusion-guidelines-to-address-the-specific",
-      "external_url": "https://www.adb.org/sites/default/files/publication/970411/gender-equality-disability-inclusion-guidelines.pdf",
-      "title": "Gender Equality and Disability Inclusion: Guidelines to Address the Specific Needs of Women and Girls with Disabilities",
-      "content_text": "ADB guidelines addressing how women and girls with disabilities face compounded barriers from poverty, gender, and disability discrimination, with practical strategies for disability-inclusive development.",
-      "authors": [
-        {
-          "name": "Asian Development Bank"
-        }
-      ],
-      "tags": [
-        "Gender & Social Inclusion",
-        "disability",
-        "gender",
-        "gender-social-inclusion",
-        "poverty"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=firm-adaptation-to-climate-change-evidence-from-establishment-level-data",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=firm-adaptation-to-climate-change-evidence-from-establishment-level-data",
-      "external_url": "https://www.nber.org/system/files/working_papers/w32848/w32848.pdf",
-      "title": "Firm Adaptation to Climate Change: Evidence from Establishment-Level Data",
-      "content_text": "NBER working paper examining firm-level adaptation to climate change, highlighting a global free-rider problem as developing nations prioritize economic growth over decarbonization and emphasizing the growing climate risks faced by firms in developing countries.",
-      "authors": [
-        {
-          "name": "Arti Grover, Jamus Jerome Lim"
-        }
-      ],
-      "tags": [
-        "Climate & Environment",
-        "carbon-emissions",
-        "climate-adaptation",
-        "climate-change",
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=emissions-gap-report-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=emissions-gap-report-2024",
-      "external_url": "https://www.unep.org/resources/emissions-gap-report-2024",
-      "title": "Emissions Gap Report 2024",
-      "content_text": "UNEP's annual accounting of the gap between national climate pledges and the emissions cuts needed to hold warming to 1.5°C.",
-      "authors": [
-        {
-          "name": "UNEP"
-        }
-      ],
-      "tags": [
-        "Climate & Environment",
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=digital-health-interventions-for-improving-access-to-primary-care-in-india-a",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=digital-health-interventions-for-improving-access-to-primary-care-in-india-a",
-      "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0002645",
-      "title": "Digital Health Interventions for Improving Access to Primary Care in India: A Scoping Review",
-      "content_text": "PLOS Global Public Health scoping review of digital health interventions to improve primary care access in India, examining telemedicine and mobile health approaches for vulnerable populations.",
-      "authors": [
-        {
-          "name": "Smisha Agarwal, Yumna Vahanvaty, Manushi Patel, Olakunle Alonge"
-        }
-      ],
-      "tags": [
-        "Public Health",
-        "India",
-        "digital",
-        "mobile-technology",
-        "public-health",
-        "scoping-review"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=contribution-of-malnutrition-to-infant-and-child-deaths-in-sub-saharan-africa",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=contribution-of-malnutrition-to-infant-and-child-deaths-in-sub-saharan-africa",
-      "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11624724/",
-      "title": "Contribution of Malnutrition to Infant and Child Deaths in Sub-Saharan Africa and South Asia",
-      "content_text": "Study using postmortem data from seven LMICs revealing that malnutrition plays a significant role in the causal chain of 40% of deaths among children under 5 years of age in Sub-Saharan Africa and South Asia.",
-      "authors": [
-        {
-          "name": "Cynthia Boschi-Pinto, Emily R Smith, Jonathon L Simon, Myo Myo Mon, Alka Dev"
-        }
-      ],
-      "tags": [
-        "Public Health",
-        "South-Asia",
-        "Sub-Saharan-Africa",
-        "nutrition",
-        "public-health"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022",
-      "external_url": "https://www.oecd.org/en/publications/2024/05/climate-finance-provided-and-mobilised-by-developed-countries-in-2013-2022_8031029a.html",
-      "title": "Climate Finance Provided and Mobilised by Developed Countries in 2013-2022",
-      "content_text": "OECD report confirming that developed countries exceeded the $100 billion annual climate finance goal for the first time in 2022, reaching $115.9 billion, but noting that finance to low-income countries remained relatively low at 10%.",
-      "authors": [
-        {
-          "name": "Organisation for Economic Co-operation and Development (OECD)"
-        }
-      ],
-      "tags": [
-        "Climate & Environment",
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=climate-change-and-food-security-in-south-asia-the-importance-of-renewable",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=climate-change-and-food-security-in-south-asia-the-importance-of-renewable",
-      "external_url": "https://www.nature.com/articles/s41599-024-02847-3",
-      "title": "Climate Change and Food Security in South Asia: The Importance of Renewable Energy and Agricultural Credit",
-      "content_text": "Open-access paper in Nature Humanities and Social Sciences Communications analyzing the relationships between climate change, agricultural credit, renewable energy, and food security in South Asia from 1990 to 2021, finding that climate change reduces food availability and increases food insecurity.",
-      "authors": [
-        {
-          "name": "Various authors"
-        }
-      ],
-      "tags": [
-        "Climate & Environment",
-        "South-Asia",
-        "climate-change",
-        "climate-environment",
-        "food-security",
-        "renewable-energy"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=climate-change-economics-over-time-and-space",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=climate-change-economics-over-time-and-space",
-      "external_url": "https://www.nber.org/system/files/working_papers/w32197/w32197.pdf",
-      "title": "Climate Change Economics over Time and Space",
-      "content_text": "NBER working paper emphasizing spatial heterogeneity in climate impacts, showing that warming in less-developed countries lowers growth by 1.3 percentage points and reverses structural change by increasing the expenditure share of agriculture, magnifying vulnerability.",
-      "authors": [
-        {
-          "name": "Per Krusell, Anthony A. Smith Jr."
-        }
-      ],
-      "tags": [
-        "Climate & Environment",
-        "agriculture",
-        "climate-change",
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=adaptation-to-climate-change",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=adaptation-to-climate-change",
-      "external_url": "https://www.nber.org/system/files/working_papers/w33264/w33264.pdf",
-      "title": "Adaptation to Climate Change",
-      "content_text": "NBER working paper reviewing the economics of climate adaptation, finding that existing literature offers relatively little guidance for emerging policy and identifying key knowledge gaps in understanding adaptation effectiveness in developing countries.",
-      "authors": [
-        {
-          "name": "Tamma Carleton, Amir Jina, Michael Greenstone, et al."
-        }
-      ],
-      "tags": [
-        "Climate & Environment",
-        "climate-adaptation",
-        "climate-change",
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=adaptation-gap-report-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=adaptation-gap-report-2024",
-      "external_url": "https://www.unep.org/resources/adaptation-gap-report-2024",
-      "title": "Adaptation Gap Report 2024",
-      "content_text": "Assessment of global progress and shortfalls in adaptation planning, finance, and implementation.",
-      "authors": [
-        {
-          "name": "UNEP"
-        }
-      ],
-      "tags": [
-        "Climate & Environment",
-        "climate-adaptation",
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-energy-transitions-outlook-2023",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-energy-transitions-outlook-2023",
-      "external_url": "https://www.irena.org/Publications/2023/Jun/World-Energy-Transitions-Outlook-2023",
-      "title": "World Energy Transitions Outlook 2023",
-      "content_text": "IRENA's 1.5°C pathway detailing the renewables scale-up, electrification, and investment needed to meet climate goals.",
-      "authors": [
-        {
-          "name": "IRENA"
-        }
-      ],
-      "tags": [
-        "Energy & Just Transition",
-        "energy-just-transition"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-energy-outlook-2023",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-energy-outlook-2023",
-      "external_url": "https://www.iea.org/reports/world-energy-outlook-2023",
-      "title": "World Energy Outlook 2023",
-      "content_text": "The IEA's flagship scenario analysis of the global energy system and the pace of the clean-energy transition.",
-      "authors": [
-        {
-          "name": "International Energy Agency"
-        }
-      ],
-      "tags": [
-        "Energy & Just Transition",
-        "energy-just-transition"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-development-report-2023-migrants-refugees-and-societies",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-development-report-2023-migrants-refugees-and-societies",
-      "external_url": "https://openknowledge.worldbank.org/handle/10986/39696",
-      "title": "World Development Report 2023: Migrants, Refugees, and Societies",
-      "content_text": "Reframes migration as a development strategy, introducing a 'Match and Motive' matrix to guide policy for migrants, refugees, and host societies.",
-      "authors": [
-        {
-          "name": "World Bank"
-        }
-      ],
-      "tags": [
-        "Development Economics",
-        "development-economics",
-        "migration"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=workload-and-emerging-challenges-of-community-health-workers-in-low-and-middle",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=workload-and-emerging-challenges-of-community-health-workers-in-low-and-middle",
-      "external_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282717",
-      "title": "Workload and Emerging Challenges of Community Health Workers in Low- and Middle-Income Countries: A Mixed-Methods Systematic Review",
-      "content_text": "Systematic review summarizing community health workers' perceived workload in LMICs, finding that excessive workload affects productivity and retention of CHWs in remote and underserved areas.",
-      "authors": [
-        {
-          "name": "Tegbar Yigzaw, Wondwosen Shiferaw, Frehiwot Berhane, Mengistu Hailemariam"
-        }
-      ],
-      "tags": [
-        "Public Health",
-        "CHWs",
-        "mixed-methods",
-        "public-health",
-        "systematic-review"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=whats-trending-in-difference-in-differences-a-synthesis-of-the-recent",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=whats-trending-in-difference-in-differences-a-synthesis-of-the-recent",
-      "external_url": "https://www.jonathandroth.com/assets/files/DiD_Review_Paper.pdf",
-      "title": "What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature",
-      "content_text": "Synthesizes the rapidly evolving difference-in-differences literature, covering staggered adoption, heterogeneous treatment effects, pre-trend testing, and best practices for practitioners.",
-      "authors": [
-        {
-          "name": "Jonathan Roth, Pedro H.C. Sant'Anna, Alyssa Bilinski, John Poe"
-        }
-      ],
-      "tags": [
-        "Research Methods",
-        "diff-in-diff",
-        "research-methods"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=trends-in-maternal-mortality-2000-to-2020",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=trends-in-maternal-mortality-2000-to-2020",
-      "external_url": "https://www.who.int/publications/i/item/9789240068759",
-      "title": "Trends in Maternal Mortality 2000 to 2020",
-      "content_text": "The inter-agency estimates tracking the global stagnation in reducing maternal deaths.",
-      "authors": [
-        {
-          "name": "WHO, UNICEF, UNFPA, World Bank, UNDESA"
-        }
-      ],
-      "tags": [
-        "Public Health",
-        "maternal-health",
-        "public-health"
-      ]
-    },
-    {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=trade-and-development-report-2023",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=trade-and-development-report-2023",
-      "external_url": "https://unctad.org/publication/trade-and-development-report-2023",
-      "title": "Trade and Development Report 2023",
-      "content_text": "UNCTAD's macroeconomic assessment of growth, debt, and the reforms needed in the international financial architecture.",
-      "authors": [
-        {
-          "name": "UNCTAD"
         }
       ],
       "tags": [

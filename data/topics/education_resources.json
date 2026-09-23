@@ -333,5 +333,164 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Improving Learning in Low- and Lower-Middle-Income Countries",
+    "authors": "Noam Angrist et al.",
+    "year": 2023,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://doi.org/10.1017/bca.2023.26",
+    "description": "The benefit-cost case for learning rather than spending. Primary education spending in low-income countries rose about $137 per student between 2000 and 2015, an 80 per cent real increase, with no change in average learning. Structured pedagogy and teaching at the right level return about $65 per $1.",
+    "id": "improving-learning-in-low-and-lower-middle-income-countries",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "doi": "10.1017/bca.2023.26",
+    "journal": "Journal of Benefit-Cost Analysis",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Improving children's foundational learning through community-school participation: Experimental evidence from rural India",
+    "authors": "Deepak Kumar et al.",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://doi.org/10.1016/j.labeco.2024.102615",
+    "description": "A trial in 400 Indian villages comparing community-only accountability against school-community collaboration. Both raise foundational literacy and numeracy; the collaborative arm pulls ahead only where parents actually visited the school.",
+    "id": "improving-childrens-foundational-learning-through-community-school",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "education"
+    ],
+    "doi": "10.1016/j.labeco.2024.102615",
+    "journal": "Labour Economics",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Supporting learning in and out of school: Experimental evidence from India",
+    "authors": "Martina Björkman Nyqvist, Andrea Guariso",
+    "year": 2027,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://doi.org/10.1016/j.jdeveco.2026.103906",
+    "description": "A cross-cutting trial across 200 villages in Assam. Neither the in-school pedagogy component nor the community study groups moved learning alone; together they raised maths by 0.11 SD and language by 0.09 SD. An argument about complementarity rather than about either component.",
+    "id": "supporting-learning-in-and-out-of-school-experimental-evidence-from-india",
+    "access_type": "check_access",
+    "tags": [
+      "India",
+      "education"
+    ],
+    "doi": "10.1016/j.jdeveco.2026.103906",
+    "journal": "Journal of Development Economics",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "The effectiveness of technology‐supported personalised learning in low‐ and middle‐income countries: A meta‐analysis",
+    "authors": "Louis Major, Gill A. Francis, Maria Tsapali",
+    "year": 2021,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://doi.org/10.1111/bjet.13116",
+    "description": "16 trials, 53,029 learners aged 6 to 15. Overall effect 0.18 SD; approaches that genuinely adapt to a learner's level reach 0.35 SD, while those that only personalise feedback or interests do not. The distinction the word personalised usually hides.",
+    "id": "the-effectiveness-of-technologysupported-personalised-learning-in-low-and",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "doi": "10.1111/bjet.13116",
+    "journal": "British Journal of Educational Technology",
+    "license": "cc-by-nc-nd",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Improving learning outcomes for out-of-school children: evidence from a randomized evaluation of an accelerated learning program in Liberia",
+    "authors": "Jeffery McManus et al.",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://doi.org/10.1080/09645292.2024.2410773",
+    "description": "Liberia records 2.2 learning-adjusted years of schooling, among the lowest measured anywhere. A ten-month accelerated programme across 100 communities brings out-of-school children up to the learning level of children in government schools.",
+    "id": "improving-learning-outcomes-for-out-of-school-children-evidence-from-a",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "education"
+    ],
+    "doi": "10.1080/09645292.2024.2410773",
+    "journal": "Education Economics",
+    "license": "cc-by-nc-nd",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Digital personalised learning to improve literacy and numeracy outcomes: a randomised controlled trial in Kenyan pre-primary classrooms",
+    "authors": "Louis Major et al.",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://doi.org/10.1080/02671522.2025.2605645",
+    "description": "1,955 pre-primary learners across 291 Kenyan government schools over 13 months, 0.53 SD from baseline. Worth reading for the decay after midline, which the authors attribute to running out of suitable content rather than to the method failing.",
+    "id": "digital-personalised-learning-to-improve-literacy-and-numeracy-outcomes-a",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "digital",
+      "education"
+    ],
+    "doi": "10.1080/02671522.2025.2605645",
+    "journal": "Research Papers in Education",
+    "license": "other-oa",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Pedagogical features of interactive apps for effective learning of foundational skills",
+    "authors": "Bethany Huntington, James Goulding, Nicola J. Pitchford",
+    "year": 2023,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://doi.org/10.1111/bjet.13317",
+    "description": "Compares the five Global Learning XPRIZE apps deployed to 2,041 out-of-school children in 172 Tanzanian villages. Six features separate the winners; free play is not one of them.",
+    "id": "pedagogical-features-of-interactive-apps-for-effective-learning-of-foundational",
+    "access_type": "check_access",
+    "tags": [
+      "education"
+    ],
+    "doi": "10.1111/bjet.13317",
+    "journal": "British Journal of Educational Technology",
+    "license": "cc-by",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "The impact of a participatory intervention to improve learning outcomes and reduce school-based discrimination and community stigma in primary rural schools of Afghanistan: A cluster control randomized trial",
+    "authors": "Jean-Francois Trani et al.",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://doi.org/10.1016/j.ijedudev.2025.103409",
+    "description": "83 schools across three Afghan provinces, 2,519 children. Life skills, self-efficacy and reading literacy all improve, effects rise with dose, and girls gain more than boys. One of the few learning trials run in an active crisis setting.",
+    "id": "the-impact-of-a-participatory-intervention-to-improve-learning-outcomes-and",
+    "access_type": "check_access",
+    "tags": [
+      "Afghanistan",
+      "RCT",
+      "education"
+    ],
+    "doi": "10.1016/j.ijedudev.2025.103409",
+    "journal": "International Journal of Educational Development",
+    "license": "cc-by-nc",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

@@ -507,5 +507,159 @@
     ],
     "link_status": "blocked",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Effectiveness of interventions to improve drinking water, sanitation, and handwashing with soap on risk of diarrhoeal disease in children in low-income and middle-income settings: a systematic review and meta-analysis",
+    "authors": "Jennyfer Wolf et al.",
+    "year": 2022,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://doi.org/10.1016/s0140-6736(22)00937-0",
+    "description": "124 studies and over 200,000 children, organised by the SDG service ladder. Point-of-use filtration halves diarrhoea risk, sewer connection cuts it 47 per cent, handwashing promotion 30 per cent. The closing line matters most: no study evaluated safely managed services, the level universal coverage is actually committed to.",
+    "id": "effectiveness-of-interventions-to-improve-drinking-water-sanitation-and",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "meta-analysis",
+      "systematic-review",
+      "wash"
+    ],
+    "doi": "10.1016/s0140-6736(22)00937-0",
+    "journal": "The Lancet",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Impact on childhood mortality of interventions to improve drinking water, sanitation, and hygiene (WASH) to households: Systematic review and meta-analysis",
+    "authors": "Hugh Sharma Waddington et al.",
+    "year": 2023,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://doi.org/10.1371/journal.pmed.1004215",
+    "description": "35 studies, 2,600 deaths, built from participant flow data rather than self-reported morbidity. All-cause child mortality down 17 per cent, diarrhoea mortality down 45 per cent. Water in quantity drives the first; community-wide sanitation drives the second.",
+    "id": "impact-on-childhood-mortality-of-interventions-to-improve-drinking-water",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "child-health",
+      "meta-analysis",
+      "systematic-review",
+      "wash"
+    ],
+    "doi": "10.1371/journal.pmed.1004215",
+    "journal": "PLOS Medicine",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Effects of a Community-Driven Water, Sanitation, and Hygiene Intervention on Diarrhea, Child Growth, and Local Institutions: A Cluster-Randomized Controlled Trial in Rural Democratic Republic of Congo",
+    "authors": "John P Quattrochi et al.",
+    "year": 2025,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://hdl.handle.net/10986/42845",
+    "description": "332 villages, measured 3.6 years after the programme. Improved water access up 24 points, sanitation up 18, WASH committees established and still running — and no effect whatever on diarrhoea or on length-for-age. The clearest published example of infrastructure and institutions moving without health following.",
+    "id": "effects-of-a-community-driven-water-sanitation-and-hygiene-intervention-on",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "WASH",
+      "institutions",
+      "wash"
+    ],
+    "doi": "10.1596/1813-9450-11070",
+    "journal": "",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Interventions promoting uptake of water, sanitation and hygiene (WASH) technologies in low- and middle-income countries: An evidence and gap map of effectiveness studies",
+    "authors": "Hannah Chirgwin et al.",
+    "year": 2021,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://doi.org/10.1002/cl2.1194",
+    "description": "367 impact evaluations and 43 systematic reviews mapped by mechanism, technology and outcome. Two gaps it names plainly: almost nothing on sustained adoption and slippage, and not a single eligible study targeting or disaggregating for people living with a disability.",
+    "id": "interventions-promoting-uptake-of-water-sanitation-and-hygiene-wash",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "disability",
+      "impact-evaluation",
+      "systematic-review",
+      "wash"
+    ],
+    "doi": "10.1002/cl2.1194",
+    "journal": "Campbell Systematic Reviews: Better Evidence for a Better World",
+    "license": "public-domain",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "WASH interventions and child diarrhea at the interface of climate and socioeconomic position in Bangladesh",
+    "authors": "Pearl Anne Ante-Testard et al.",
+    "year": 2024,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://doi.org/10.1038/s41467-024-45624-1",
+    "description": "360 clusters and 8,440 measurements, then extrapolated across rural Bangladesh with geospatial layers. Benefits concentrate among the poorest children and during the monsoon, which is the argument for targeting WASH by season and position rather than uniformly.",
+    "id": "wash-interventions-and-child-diarrhea-at-the-interface-of-climate-and",
+    "access_type": "check_access",
+    "tags": [
+      "Bangladesh",
+      "wash"
+    ],
+    "doi": "10.1038/s41467-024-45624-1",
+    "journal": "Nature Communications",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Association between water, sanitation, and hygiene (WASH) practices and childhood stunting in low- and middle-income countries: a systematic review and meta-analysis",
+    "authors": "Frengki Prabowo Saputro Wijayanto et al.",
+    "year": 2026,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://doi.org/10.1186/s12889-026-27639-z",
+    "description": "16 studies, 36,574 children. Water quality, water accessibility and sanitation facility type are associated with lower stunting odds; drinking water source, household treatment, toilet access and safe disposal of child faeces are not. Observational, and the authors say so.",
+    "id": "association-between-water-sanitation-and-hygiene-wash-practices-and-childhood",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "meta-analysis",
+      "nutrition",
+      "systematic-review",
+      "wash"
+    ],
+    "doi": "10.1186/s12889-026-27639-z",
+    "journal": "BMC Public Health",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Leveraging water, sanitation and hygiene for nutrition in low‐ and middle‐income countries: A conceptual framework",
+    "authors": "Eleonor Zavala et al.",
+    "year": 2021,
+    "type": "paper",
+    "topic": "WASH",
+    "url": "https://doi.org/10.1111/mcn.13202",
+    "description": "Written to explain why the epidemiological association between WASH and stunting is consistent while the trials that provided WASH did not move child growth. Useful as a design frame rather than as evidence.",
+    "id": "leveraging-water-sanitation-and-hygiene-for-nutrition-in-low-and-middleincome",
+    "access_type": "check_access",
+    "tags": [
+      "WASH",
+      "nutrition",
+      "wash"
+    ],
+    "doi": "10.1111/mcn.13202",
+    "journal": "Maternal &amp; Child Nutrition",
+    "license": "cc-by-nc",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   }
 ]
