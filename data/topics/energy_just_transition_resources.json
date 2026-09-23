@@ -194,5 +194,125 @@
     ],
     "link_status": "blocked",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Improving Energy Access, Climate and Socio-Economic Outcomes Through Off-Grid Electrification Technologies: A Systematic Review",
+    "authors": "Cem Yavuz et al.",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Energy & Just Transition",
+    "url": "https://doi.org/10.1002/cl2.70060",
+    "description": "47 impact evaluations of off-grid solar, from 18 databases and 29 grey sources. Kerosene use falls and uptake rises; reliability, affordability and energy expenditure do not move, and the effect on time spent studying shows publication bias. The most honest evidence map in this field.",
+    "id": "improving-energy-access-climate-and-socio-economic-outcomes-through-off-grid",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition",
+      "impact-evaluation",
+      "systematic-review"
+    ],
+    "doi": "10.1002/cl2.70060",
+    "journal": "Campbell Systematic Reviews: Better Evidence for a Better World",
+    "license": "cc-by",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "The false optimism of electrification: why universal electricity access has not delivered urban energy transformation in South Africa",
+    "authors": "Charlotte Lemanski et al.",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Energy & Just Transition",
+    "url": "https://doi.org/10.1016/j.enpol.2025.114506",
+    "description": "Argues that counting grid connections measures proximity to a wire, not access to energy services, and that households in un-serviceable settlements are permanently excluded by design. Directly relevant to anyone reading SDG 7 progress figures.",
+    "id": "the-false-optimism-of-electrification-why-universal-electricity-access-has-not",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition"
+    ],
+    "doi": "10.1016/j.enpol.2025.114506",
+    "journal": "Energy Policy",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Distributional justice and rapid green energy transitions: citizen experiences in Kenya",
+    "authors": "Christopher D Gore et al.",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Energy & Just Transition",
+    "url": "https://doi.org/10.1088/1748-9326/add27d",
+    "description": "Kenya is on track for SDG 7 and is held up as the African success case. Focus groups and survey data show the poor carrying the cost of the transition, and a gap between the national narrative and what citizens report.",
+    "id": "distributional-justice-and-rapid-green-energy-transitions-citizen-experiences",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition",
+      "survey-data"
+    ],
+    "doi": "10.1088/1748-9326/add27d",
+    "journal": "Environmental Research Letters",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Beyond access: clean energy use in low-income and middle-income countries",
+    "authors": "Annelise Gill-Wiehl et al.",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Energy & Just Transition",
+    "url": "https://doi.org/10.1016/s2214-109x(25)00532-7",
+    "description": "Makes the measurement argument plainly: SDG 7's binary indicators overstate health and equity gains because they cannot see fuel stacking, dynamic consumption or the gendered burden of polluting fuels.",
+    "id": "beyond-access-clean-energy-use-in-low-income-and-middle-income-countries",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition",
+      "gender"
+    ],
+    "doi": "10.1016/s2214-109x(25)00532-7",
+    "journal": "The Lancet Global Health",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "An Ecohealth approach to energy justice: Evidence from Malawi’s energy transition from biomass to electrification",
+    "authors": "Rebecca Grant et al.",
+    "year": 2021,
+    "type": "paper",
+    "topic": "Energy & Just Transition",
+    "url": "https://pure.eur.nl/en/publications/433b86ea-ff2c-4190-970b-bb79053f7159",
+    "description": "Malawi runs biomass cooking and hydroelectricity at once, so deforestation silts the rivers that generate the power. An argument for analysing energy systems against both human health and ecosystem function rather than one at a time.",
+    "id": "an-ecohealth-approach-to-energy-justice-evidence-from-malawis-energy-transition",
+    "access_type": "check_access",
+    "tags": [
+      "deforestation",
+      "energy-just-transition"
+    ],
+    "doi": "10.1016/j.erss.2020.101875",
+    "journal": "Energy Research &amp; Social Science",
+    "license": "other-oa",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Energy justice and gender: bridging equity, access, and policy for sustainable development",
+    "authors": "Raghu Raman et al.",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Energy & Just Transition",
+    "url": "https://doi.org/10.1007/s43621-025-01375-7",
+    "description": "616 publications mapped against SDG 5 and SDG 7. Finds clean energy adoption reduces unpaid domestic work and strengthens women's economic opportunities, and that policies written without a gender lens tend to entrench the inequalities they meant to relieve.",
+    "id": "energy-justice-and-gender-bridging-equity-access-and-policy-for-sustainable",
+    "access_type": "check_access",
+    "tags": [
+      "energy-just-transition",
+      "gender"
+    ],
+    "doi": "10.1007/s43621-025-01375-7",
+    "journal": "Discover Sustainability",
+    "license": "cc-by-nc-nd",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

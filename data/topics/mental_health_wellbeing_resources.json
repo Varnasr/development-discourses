@@ -191,5 +191,126 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Barriers and facilitators to implementation of evidence-based task-sharing mental health interventions in low- and middle-income countries: a systematic review using implementation science frameworks",
+    "authors": "PhuongThao D. Le et al.",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://doi.org/10.1186/s13012-021-01179-z",
+    "description": "Thirty-seven papers across 28 task-sharing interventions, coded into a framework of 37 constructs. The finding worth acting on: the facilitators sit in the things a programme can change (the intervention, the providers), while the barriers sit in the things it cannot (the mental health system, stigma).",
+    "id": "barriers-and-facilitators-to-implementation-of-evidence-based-task-sharing",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing",
+      "systematic-review"
+    ],
+    "doi": "10.1186/s13012-021-01179-z",
+    "journal": "Implementation Science",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Task-sharing psychosocial interventions for the prevention of common mental disorders in the perinatal period in low- and middle-income countries: A systematic review and meta-analysis",
+    "authors": "Eleonora Prina et al.",
+    "year": 2023,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://hdl.handle.net/1871.1/745c1348-a69d-4da7-be62-d3dab42eda10",
+    "description": "23 trials, 24,442 participants. Task-shared psychosocial prevention roughly halves the incidence of perinatal depression (RR 0.51), does not shift anxiety, and the effect decays at follow-up — which is the part most summaries leave out.",
+    "id": "task-sharing-psychosocial-interventions-for-the-prevention-of-common-mental",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing",
+      "meta-analysis",
+      "systematic-review"
+    ],
+    "doi": "10.1177/00207640231174451",
+    "journal": "International Journal of Social Psychiatry",
+    "license": "other-oa",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Expanding mental health services in low- and middle-income countries: A task-shifting framework for delivery of comprehensive, collaborative, and community-based care",
+    "authors": "Paul Bolton et al.",
+    "year": 2023,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://doi.org/10.1017/gmh.2023.5",
+    "description": "A service-design framework that separates workers by skill rather than by cadre: psychoeducation, community psychotherapeutic counselling, and primary medical care as three distinct roles. Useful when costing a programme rather than describing one.",
+    "id": "expanding-mental-health-services-in-low-and-middle-income-countries-a-task",
+    "access_type": "check_access",
+    "tags": [
+      "education",
+      "mental-health-wellbeing"
+    ],
+    "doi": "10.1017/gmh.2023.5",
+    "journal": "Cambridge Prisms: Global Mental Health",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Evaluating implementation research outcomes for a task-sharing mental health intervention: A systematic review of the Friendship Bench",
+    "authors": "John Patena et al.",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://doi.org/10.1017/gmh.2025.10025",
+    "description": "Seven studies on Zimbabwe's Friendship Bench, the most-cited lay-worker mental health model in Africa. Acceptable and feasible; the limits are an unreliable referral system behind it and no answer for severe illness.",
+    "id": "evaluating-implementation-research-outcomes-for-a-task-sharing-mental-health",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing",
+      "systematic-review"
+    ],
+    "doi": "10.1017/gmh.2025.10025",
+    "journal": "Cambridge Prisms: Global Mental Health",
+    "license": "cc-by-nc-nd",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Transdiagnostic Psychological Interventions for Symptoms of Common Mental Disorders Delivered by Non‐Specialist Providers in Low‐ and Middle‐Income Countries: A Systematic Review and Meta‐Analysis",
+    "authors": "Éanna Ó hAnrachtaigh et al.",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://doi.org/10.1155/2024/5037662",
+    "description": "21 transdiagnostic interventions. Moderate reductions in distress, anxiety and depression at post-treatment (g about -0.6), smaller but surviving at 13 to 26 weeks. Argues against building one programme per diagnosis in a setting that has no specialists.",
+    "id": "transdiagnostic-psychological-interventions-for-symptoms-of-common-mental",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing",
+      "systematic-review"
+    ],
+    "doi": "10.1155/2024/5037662",
+    "journal": "Depression and Anxiety",
+    "license": "cc-by",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "A global scoping review of task shifting and sharing interventions to improve the mental health of people living with HIV/AIDS",
+    "authors": "Caroline Wang Kokubun et al.",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://doi.org/10.1017/gmh.2025.10013",
+    "description": "Scopes a decade of lay-worker psychosocial support for people living with HIV. Notes what is consistently under-reported in this literature: how lay health workers were selected, paid and supervised.",
+    "id": "a-global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve",
+    "access_type": "check_access",
+    "tags": [
+      "mental-health-wellbeing",
+      "scoping-review"
+    ],
+    "doi": "10.1017/gmh.2025.10013",
+    "journal": "Cambridge Prisms: Global Mental Health",
+    "license": "cc-by-nc-nd",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

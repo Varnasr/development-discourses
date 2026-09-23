@@ -368,5 +368,154 @@
     ],
     "link_status": "blocked",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Is Mobile Money Changing Rural Africa? Evidence from a Field Experiment",
+    "authors": "Catia Batista, Pedro C. Vicente",
+    "year": 2023,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://doi.org/10.2139/ssrn.4436702",
+    "description": "A randomised introduction of mobile money in rural Mozambican villages. Remittances received and household welfare rise, especially under floods and idiosyncratic shocks, and migration out of the villages rises with agricultural activity and investment falling. Read it for the second half, which most citations omit.",
+    "id": "is-mobile-money-changing-rural-africa-evidence-from-a-field-experiment",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "financial-inclusion",
+      "migration",
+      "mobile-technology"
+    ],
+    "doi": "10.2139/ssrn.4436702",
+    "journal": "SSRN Electronic Journal",
+    "license": "",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Mobile Money, Financial Inclusion, and Unmet Opportunities: Evidence from Uganda",
+    "authors": "Jana S. Hamdan, Katharina Lehmann-Uschner, Lukas Menkhoff",
+    "year": 2021,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://doi.org/10.1080/00220388.2021.1988078",
+    "description": "86 per cent of the microentrepreneurs sampled own a mobile money account and 49 per cent use it. The gap is the finding. A choice experiment attributes much of it to fees, agent density and low price sensitivity from thin financial education.",
+    "id": "mobile-money-financial-inclusion-and-unmet-opportunities-evidence-from-uganda",
+    "access_type": "check_access",
+    "tags": [
+      "education",
+      "financial-inclusion",
+      "mobile-technology"
+    ],
+    "doi": "10.1080/00220388.2021.1988078",
+    "journal": "The Journal of Development Studies",
+    "license": "cc-by",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Fintech and Savings in African Countries: The Case of Mobile Money",
+    "authors": "Claudia Chilundo, Hermine Vedogbeton",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://doi.org/10.1057/s41302-026-00339-7",
+    "description": "Harmonised FinScope surveys from Malawi, Tanzania and Uganda across 2013, 2017 and 2021, instrumented on distance to the nearest agent. The contribution is the decomposition: mobile money moves saving onto digital platforms and away from banks and ROSCAs rather than simply raising the amount saved.",
+    "id": "fintech-and-savings-in-african-countries-the-case-of-mobile-money",
+    "access_type": "check_access",
+    "tags": [
+      "digital",
+      "financial-inclusion",
+      "mobile-technology",
+      "survey-data"
+    ],
+    "doi": "10.1057/s41302-026-00339-7",
+    "journal": "Eastern Economic Journal",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Do financial innovations improve financial inclusion? Evidence from mobile money adoption in Africa",
+    "authors": "Désiré Avom, Chrysost Bangaké, Hermann Ndoya",
+    "year": 2023,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://doi.org/10.1016/j.techfore.2023.122451",
+    "description": "Panel of 50 African countries, 2004 to 2020, with propensity score matching putting the effect of mobile money adoption on financial inclusion at 12 to 14 per cent. Macro counterpart to the household-level trials.",
+    "id": "do-financial-innovations-improve-financial-inclusion-evidence-from-mobile-money",
+    "access_type": "check_access",
+    "tags": [
+      "financial-inclusion",
+      "mobile-technology"
+    ],
+    "doi": "10.1016/j.techfore.2023.122451",
+    "journal": "Technological Forecasting and Social Change",
+    "license": "",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "From expanding financial services to tackling poverty in West African Economic and Monetary Union: The accelerating role of mobile money",
+    "authors": "Melain Modeste Senou, Denis Acclassato Houensou",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://doi.org/10.1002/jid.3881",
+    "description": "Uses Findex data and a recursive bivariate probit across the WAEMU countries. Separates the purpose of use (saving, borrowing, remittance) rather than treating mobile money as one thing.",
+    "id": "from-expanding-financial-services-to-tackling-poverty-in-west-african-economic",
+    "access_type": "check_access",
+    "tags": [
+      "financial-inclusion",
+      "mobile-technology",
+      "poverty"
+    ],
+    "doi": "10.1002/jid.3881",
+    "journal": "Journal of International Development",
+    "license": "cc-by",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Mobile money, and the welfare of women and youths in fragile states: Evidence from Mozambique",
+    "authors": "Lwanga Elizabeth Nanziri et al.",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://doi.org/10.1371/journal.pone.0343349",
+    "description": "900 households from the 2019 FinScope survey in a post-conflict, climate-exposed setting. Welfare gains run through active usage, not account ownership. The authors state plainly that their instrument cannot be fully tested, which is worth more than the point estimate.",
+    "id": "mobile-money-and-the-welfare-of-women-and-youths-in-fragile-states-evidence",
+    "access_type": "check_access",
+    "tags": [
+      "financial-inclusion",
+      "mobile-technology",
+      "survey-data"
+    ],
+    "doi": "10.1371/journal.pone.0343349",
+    "journal": "PLOS One",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Assessing household confidence in saving with banks and MNO-led mobile money: evidence from the household survey in Tanzania",
+    "authors": "Goodluck Charles, Renger Kanani, Neema Mori",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://doi.org/10.1080/23322039.2025.2535488",
+    "description": "9,915 FinScope respondents. Households trust banks with savings more than mobile network operators, and education and location both shift that. A corrective to the assumption that an account is an account.",
+    "id": "assessing-household-confidence-in-saving-with-banks-and-mno-led-mobile-money",
+    "access_type": "check_access",
+    "tags": [
+      "education",
+      "financial-inclusion",
+      "mobile-technology",
+      "survey-data"
+    ],
+    "doi": "10.1080/23322039.2025.2535488",
+    "journal": "Cogent Economics &amp; Finance",
+    "license": "cc-by",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   }
 ]

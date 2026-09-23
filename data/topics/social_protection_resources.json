@@ -517,5 +517,90 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Distributional impacts of cash transfers on the multidimensional poverty of refugees: The Emergency Social Safety Net in Turkey",
+    "authors": "Matthew Robson et al.",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://doi.org/10.1016/j.worlddev.2024.106599",
+    "description": "The largest humanitarian cash programme in the world, analysed with a purpose-built Refugee Multidimensional Poverty Index. The distributional result — the most deprived households gain most — is invisible to an average treatment effect, which is the methodological point.",
+    "id": "distributional-impacts-of-cash-transfers-on-the-multidimensional-poverty-of",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "poverty",
+      "social-protection"
+    ],
+    "doi": "10.1016/j.worlddev.2024.106599",
+    "journal": "World Development",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Assessing the Impact of Cash Transfer Programmes on Socioeconomic Outcomes in the MENA Region: A Systematic Review",
+    "authors": "Anis Ben Brik",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://doi.org/10.1017/s1474746425101267",
+    "description": "270 studies, 2000 to 2024. Finds a threshold: transfers of 5 to 10 per cent of household income change behaviour, but poverty reduction needs 15 to 20 per cent or more, and humanitarian effects dissipate in four to ten months without a livelihood pathway behind them.",
+    "id": "assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "poverty",
+      "social-protection",
+      "systematic-review"
+    ],
+    "doi": "10.1017/s1474746425101267",
+    "journal": "Social Policy and Society",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "The Impact of Shock-Responsive Social Cash Transfers: Evidence from an Aggregate Shock in Kenya",
+    "authors": "Christoph Strupat, Emmanuel Nshakira-Rukundo, Arndt Reichert",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://doi.org/10.1080/00220388.2025.2504425",
+    "description": "Kenya's shock-responsive scheme during the pandemic, on informal-economy households. Less income loss, less food scarcity, and fewer distress sales of productive assets — but only where payment cycles were pooled and transfers vertically scaled.",
+    "id": "the-impact-of-shock-responsive-social-cash-transfers-evidence-from-an-aggregate",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "social-protection"
+    ],
+    "doi": "10.1080/00220388.2025.2504425",
+    "journal": "The Journal of Development Studies",
+    "license": "cc-by",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Impact of Cash Transfers on Child Poverty Among School-aged Refugee Children: Evidence from Uganda",
+    "authors": "Emmanuel Keith Kisaame, Susan Namirembe Kavuma, Edward Bbaale",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://doi.org/10.1007/s12187-026-10430-2",
+    "description": "Alkire-Foster multidimensional poverty combined with propensity score matching in Kyaka II. A 7 per cent effect, which the authors read as cash alone being insufficient against child multidimensional poverty rather than as a success.",
+    "id": "impact-of-cash-transfers-on-child-poverty-among-school-aged-refugee-children",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "education",
+      "poverty",
+      "social-protection"
+    ],
+    "doi": "10.1007/s12187-026-10430-2",
+    "journal": "Child Indicators Research",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

@@ -398,5 +398,91 @@
     ],
     "link_status": "blocked",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Impact of conditional and unconditional cash transfers on health outcomes and use of health services in humanitarian settings: a mixed-methods systematic review",
+    "authors": "Kim Robin van Daalen et al.",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://doi.org/10.1136/bmjgh-2021-007902",
+    "description": "30,673 records screened down to 23 studies from 16 countries. Nineteen report some positive health effect, eleven find nothing statistically significant, and four report potential harm. The fourth number is the one to carry into a design meeting.",
+    "id": "impact-of-conditional-and-unconditional-cash-transfers-on-health-outcomes-and",
+    "access_type": "check_access",
+    "tags": [
+      "cash-transfers",
+      "conflict-humanitarian",
+      "mixed-methods",
+      "systematic-review"
+    ],
+    "doi": "10.1136/bmjgh-2021-007902",
+    "journal": "BMJ Global Health",
+    "license": "cc-by",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Cash and In-Kind Transfers in Humanitarian Settings: A Review of Evidence and Knowledge Gaps",
+    "authors": "Dahyeon Jeong, Iva Trako",
+    "year": 2022,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://hdl.handle.net/10986/37369",
+    "description": "Twenty-one experimental and quasi-experimental studies across five outcome families. Its value is the map of what is missing: cash against in-kind head to head, targeting, cost-effectiveness and anything longer term are all thin.",
+    "id": "cash-and-in-kind-transfers-in-humanitarian-settings-a-review-of-evidence-and",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian",
+      "cost-effectiveness",
+      "quasi-experimental"
+    ],
+    "doi": "10.1596/1813-9450-10026",
+    "journal": "Policy Research Working Papers",
+    "license": "cc-by-nc",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "The nutritional benefits of cash transfers in humanitarian crises: evidence from Yemen",
+    "authors": "Sikandra Kurdi",
+    "year": 2021,
+    "type": "paper",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://doi.org/10.1016/j.worlddev.2021.105664",
+    "description": "A cluster randomised trial that survived a pilot turning into a national emergency programme mid-conflict. Cash plus nutritional training raised dietary diversity, and height-for-age by 0.3 SD in the poorest tercile, where the transfer was largest relative to the food budget.",
+    "id": "the-nutritional-benefits-of-cash-transfers-in-humanitarian-crises-evidence-from",
+    "access_type": "check_access",
+    "tags": [
+      "RCT",
+      "cash-transfers",
+      "conflict-humanitarian",
+      "nutrition"
+    ],
+    "doi": "10.1016/j.worlddev.2021.105664",
+    "journal": "World Development",
+    "license": "cc-by",
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Cash, COVID-19 and aid cuts: a mixed-method impact evaluation among South Sudanese refugees registered in Kiryandongo settlement, Uganda",
+    "authors": "Daniel Stein et al.",
+    "year": 2022,
+    "type": "paper",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://doi.org/10.1136/bmjgh-2021-007747",
+    "description": "1,200 households facing two shocks at once, the pandemic and a cut to monthly aid. Food security up 14.4 per cent and psychological wellbeing up 24.5 per cent; no detectable effect on COVID-19 preventive practice.",
+    "id": "cash-covid-19-and-aid-cuts-a-mixed-method-impact-evaluation-among-south",
+    "access_type": "check_access",
+    "tags": [
+      "conflict-humanitarian",
+      "food-security",
+      "impact-evaluation"
+    ],
+    "doi": "10.1136/bmjgh-2021-007747",
+    "journal": "BMJ Global Health",
+    "license": "cc-by-nc",
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   }
 ]
