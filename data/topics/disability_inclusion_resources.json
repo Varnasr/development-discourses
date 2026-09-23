@@ -15,7 +15,8 @@
       "education",
       "employment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disability Inclusion and Accountability Framework",
@@ -31,7 +32,8 @@
       "disability",
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Report on Assistive Technology",
@@ -46,7 +48,8 @@
     "tags": [
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disability and Poverty in Developing Countries: A Multidimensional Study",
@@ -65,7 +68,8 @@
       "employment",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Convention on the Rights of Persons with Disabilities (CRPD)",
@@ -81,7 +85,8 @@
       "disability",
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Inclusive Education for Students with Disabilities: A Review of the Best Evidence",
@@ -97,7 +102,8 @@
       "disability-inclusion",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "WHO Global Disability Action Plan 2014-2021: Better Health for All People with Disability",
@@ -113,7 +119,8 @@
       "disability",
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disability and Development: An Overview",
@@ -130,7 +137,8 @@
       "disability-inclusion",
       "employment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Community-Based Rehabilitation: CBR Guidelines",
@@ -146,7 +154,8 @@
       "disability-inclusion",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Relationship Between Disability and Poverty: What Is Known and What Does It Mean for Policy?",
@@ -165,7 +174,8 @@
       "nutrition",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Status Report on Road Safety 2018",
@@ -181,7 +191,8 @@
       "disability",
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disability, Poverty, and Schooling in Developing Countries: Results from 14 Household Surveys",
@@ -200,7 +211,8 @@
       "poverty",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "UN Flagship Report on Disability and Development 2018",
@@ -216,7 +228,8 @@
       "disability",
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "unknown",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Mental Health and Development: Targeting People with Mental Health Conditions as a Vulnerable Group",
@@ -234,7 +247,8 @@
       "poverty",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disability Measurement and Monitoring Using the Washington Group Questions",
@@ -251,7 +265,8 @@
       "disability-inclusion",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Burden of Disease Study: Disability Prevalence and Trends",
@@ -267,7 +282,8 @@
       "disability",
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Rehabilitation 2030: A Call for Action",
@@ -282,7 +298,8 @@
     "tags": [
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disability-Inclusive Development Toolkit",
@@ -298,7 +315,8 @@
       "disability",
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Extra Costs of Living with a Disability: A Systematic Review and Meta-Analysis",
@@ -316,7 +334,8 @@
       "meta-analysis",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Leaving No One Behind: The Role of Disability Data in Tracking Progress",
@@ -333,7 +352,8 @@
       "disability-inclusion",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Report on Health Equity for Persons with Disabilities",
@@ -348,7 +368,8 @@
     "tags": [
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disability, Poverty and Development",
@@ -365,7 +386,8 @@
       "disability-inclusion",
       "poverty"
     ],
-    "verified": false
+    "link_status": "broken",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Assistive Technology: Global Report",
@@ -380,7 +402,8 @@
     "tags": [
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Nothing About Us Without Us: Disability and Development",
@@ -396,7 +419,8 @@
       "disability",
       "disability-inclusion"
     ],
-    "verified": false
+    "link_status": "unknown",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Inclusive Education for Children with Disabilities",
@@ -412,7 +436,8 @@
       "disability-inclusion",
       "education"
     ],
-    "verified": false
+    "link_status": "broken",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disability Data in Household Surveys: The Washington Group Approach",
@@ -429,6 +454,7 @@
       "disability-inclusion",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

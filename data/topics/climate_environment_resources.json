@@ -16,7 +16,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Climate Change 2022: Mitigation of Climate Change",
@@ -32,7 +33,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Climate Change 2023: Synthesis Report",
@@ -49,7 +51,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Warming of 1.5°C: An IPCC Special Report",
@@ -65,7 +68,8 @@
       "climate-environment",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Economics of Climate Change: The Stern Review",
@@ -81,7 +85,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Economics of Biodiversity: The Dasgupta Review",
@@ -97,7 +102,8 @@
       "biodiversity",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Temperature Shocks and Economic Growth: Evidence from the Last Half Century",
@@ -112,7 +118,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Non-linear Effect of Temperature on Economic Production",
@@ -127,7 +134,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Warming Has Increased Global Economic Inequality",
@@ -144,7 +152,8 @@
       "climate-environment",
       "inequality"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social and Economic Impacts of Climate",
@@ -160,7 +169,8 @@
       "climate-environment",
       "migration"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Long-Term Macroeconomic Effects of Climate Change: A Cross-Country Analysis",
@@ -176,7 +186,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Climate Change Economics over Time and Space",
@@ -193,7 +204,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Shock Waves: Managing the Impacts of Climate Change on Poverty",
@@ -210,7 +222,8 @@
       "climate-environment",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Turn Down the Heat: Why a 4°C Warmer World Must Be Avoided",
@@ -226,7 +239,8 @@
       "biodiversity",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "South Asia's Hotspots: The Impact of Temperature and Precipitation Changes on Living Standards",
@@ -242,7 +256,8 @@
       "South-Asia",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Groundswell Part 2: Acting on Internal Climate Migration",
@@ -260,7 +275,8 @@
       "climate-environment",
       "migration"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Country Climate and Development Reports (CCDRs)",
@@ -280,7 +296,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Adapt Now: A Global Call for Leadership on Climate Resilience",
@@ -296,7 +313,8 @@
       "climate-adaptation",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Adaptation Gap Report 2023: Underfinanced. Underprepared.",
@@ -312,7 +330,8 @@
       "climate-adaptation",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Emissions Gap Report 2023: Broken Record",
@@ -327,7 +346,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Environment Outlook – GEO-6: Healthy Planet, Healthy People",
@@ -342,7 +362,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "State and Trends of Carbon Pricing 2023",
@@ -358,7 +379,8 @@
       "carbon-emissions",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Human Development Report 2021/2022: Uncertain Times, Unsettled Lives: Shaping our Future in a Transforming World",
@@ -374,7 +396,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Assessment Report on Biodiversity and Ecosystem Services",
@@ -391,7 +414,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Value of the World's Ecosystem Services and Natural Capital",
@@ -406,7 +430,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Assessment Report on Disaster Risk Reduction 2022: Our World at Risk",
@@ -422,7 +447,8 @@
       "climate-environment",
       "governance"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "GAR Special Report 2023: Mapping Resilience for the Sustainable Development Goals",
@@ -437,7 +463,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "A Global Just Transition: Background Note for COP27",
@@ -453,7 +480,8 @@
       "carbon-emissions",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Climate Finance Provided and Mobilised by Developed Countries in 2013-2022",
@@ -468,7 +496,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "State and Trends in Climate Adaptation Finance 2023",
@@ -484,7 +513,8 @@
       "climate-adaptation",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Aggregate Trends of Climate Finance Provided and Mobilised by Developed Countries in 2013-2020",
@@ -499,7 +529,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Policies and Practices of Climate Change Education in South Asia: Towards a Support Framework",
@@ -521,7 +552,8 @@
       "climate-environment",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Climate Change and Food Security in South Asia: The Importance of Renewable Energy and Agricultural Credit",
@@ -540,7 +572,8 @@
       "food-security",
       "renewable-energy"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Bank Group Climate Change Action Plan 2021-2025: South Asia Roadmap",
@@ -558,7 +591,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Firm Adaptation to Climate Change: Evidence from Establishment-Level Data",
@@ -576,7 +610,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Macroeconomic Impact of Climate Change: Global vs. Local Temperature",
@@ -592,7 +627,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Adaptation to Climate Change",
@@ -609,7 +645,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "South Asia Disaster Risk Management Programme: Synthesis Report",
@@ -625,7 +662,8 @@
       "South-Asia",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Climate Change 2023: Synthesis Report (AR6)",
@@ -642,7 +680,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Emissions Gap Report 2024",
@@ -657,7 +696,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Adaptation Gap Report 2024",
@@ -673,7 +713,8 @@
       "climate-adaptation",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Groundswell: Preparing for Internal Climate Migration",
@@ -690,7 +731,8 @@
       "climate-environment",
       "migration"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "State of the Global Climate 2023",
@@ -705,7 +747,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2010: Development and Climate Change",
@@ -721,7 +764,8 @@
       "climate-change",
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Warming of 1.5°C (SR15)",
@@ -736,7 +780,8 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Financing Climate Action in Developing Countries",
@@ -751,6 +796,7 @@
     "tags": [
       "climate-environment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   }
 ]

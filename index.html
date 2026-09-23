@@ -137,16 +137,16 @@
 
                 <div class="filter-bar">
                     <div class="filter-group">
-                        <label class="filter-label">Topic</label>
-                        <div class="filter-pills" id="topicFilters">
+                        <span class="filter-label" id="topicFiltersLabel">Topic</span>
+                        <div class="filter-pills" id="topicFilters" role="group" aria-labelledby="topicFiltersLabel">
                             <button class="pill active" data-filter="all">All Topics</button>
                         </div>
                     </div>
 
                     <div class="filter-row">
                         <div class="filter-group">
-                            <label class="filter-label">Type</label>
-                            <div class="filter-pills" id="typeFilters">
+                            <span class="filter-label" id="typeFiltersLabel">Type</span>
+                            <div class="filter-pills" id="typeFilters" role="group" aria-labelledby="typeFiltersLabel">
                                 <button class="pill active" data-filter="all">All</button>
                                 <button class="pill" data-filter="paper">Papers</button>
                                 <button class="pill" data-filter="book">Books</button>
@@ -155,7 +155,7 @@
                         </div>
 
                         <div class="filter-group">
-                            <label class="filter-label">Sort</label>
+                            <label class="filter-label" for="sortSelect">Sort</label>
                             <select id="sortSelect" class="sort-select">
                                 <option value="relevance">Best Match</option>
                                 <option value="title">Title (A-Z)</option>
@@ -169,8 +169,8 @@
 
                     <div class="filter-row">
                         <div class="filter-group">
-                            <label class="filter-label">Access</label>
-                            <div class="filter-pills" id="accessFilters">
+                            <span class="filter-label" id="accessFiltersLabel">Access</span>
+                            <div class="filter-pills" id="accessFilters" role="group" aria-labelledby="accessFiltersLabel">
                                 <button class="pill active" data-filter="all">All</button>
                                 <button class="pill" data-filter="open_access">Open Access</button>
                                 <button class="pill" data-filter="free_to_read">Free to Read</button>
@@ -179,8 +179,8 @@
                         </div>
 
                         <div class="filter-group">
-                            <label class="filter-label">Decade</label>
-                            <div class="filter-pills" id="decadeFilters">
+                            <span class="filter-label" id="decadeFiltersLabel">Decade</span>
+                            <div class="filter-pills" id="decadeFilters" role="group" aria-labelledby="decadeFiltersLabel">
                                 <button class="pill active" data-filter="all">Any Year</button>
                             </div>
                         </div>
@@ -222,14 +222,14 @@
                             </div>
                         </div>
                         <div class="view-toggle">
-                            <button class="view-btn active" data-view="list" title="List view">
+                            <button class="view-btn active" data-view="list" title="List view" aria-label="List view" aria-pressed="true">
                                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                     <line x1="3" y1="6" x2="21" y2="6"></line>
                                     <line x1="3" y1="12" x2="21" y2="12"></line>
                                     <line x1="3" y1="18" x2="21" y2="18"></line>
                                 </svg>
                             </button>
-                            <button class="view-btn" data-view="grid" title="Grid view">
+                            <button class="view-btn" data-view="grid" title="Grid view" aria-label="Grid view" aria-pressed="false">
                                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                                     <rect x="3" y="3" width="7" height="7"></rect>
                                     <rect x="14" y="3" width="7" height="7"></rect>

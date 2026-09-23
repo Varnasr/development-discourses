@@ -89,19 +89,35 @@
         accessBadge.textContent = accessInfo.label;
         accessBadge.className = 'access-badge access-' + r.access_type;
 
-        // Verified
-        if (r.verified) {
-            document.getElementById('verifiedBadge').style.display = 'inline-block';
-        }
+        // Link health.
+        //
+        // This used to be a "Verified" badge driven by `r.verified`, and it
+        // could never appear: enrich_data.py set that field to false on every
+        // resource on every build, so the branch was unreachable. Worse, the
+        // word promised an editorial judgement the pipeline never made.
+        //
+        // What the checker actually knows is narrower and more useful: whether
+        // the link answered. It also distinguishes a publisher refusing a robot
+        // (403, which a reader never sees) from a document that is gone (404),
+        // which the previous checker did not, and that distinction is the whole
+        // reason a reader can trust the line.
+        renderLinkStatus(r);
 
         document.getElementById('detailTitle').textContent = r.title;
         document.getElementById('detailAuthors').textContent = r.authors || 'Unknown';
         document.getElementById('detailYear').textContent = r.year || '';
-        document.getElementById('detailTopic').textContent = r.topic;
+        document.getElementById('detailTopic').innerHTML = topicsOf(r)
+            .map(t => `<a class="detail-topic-tag" href="index.html?topic=${encodeURIComponent(t)}">${escapeHtml(t)}</a>`)
+            .join('');
         document.getElementById('detailDescription').textContent = r.description || 'No description available.';
 
         // Source link
         document.getElementById('readSourceBtn').href = r.url;
+
+        // Some records carry a second link, usually a working paper beside the
+        // published version. The build used to keep only one of the two, and
+        // dropped the other entry entirely.
+        renderAltUrls(r);
 
         // Community notes link
         const noteUrl = 'https://github.com/Varnasr/development-discourses/issues/new?title=' +
@@ -109,6 +125,82 @@
             '&labels=community-note&body=' +
             encodeURIComponent('## Community Note\n\n**Resource:** ' + r.title + '\n**ID:** ' + r.id + '\n\n### Note\n\n(Write your note here — reading tips, practitioner context, critiques, related resources...)\n');
         document.getElementById('contributeNote').href = noteUrl;
+    }
+
+
+    // A resource can be filed under more than one topic. `topic` is the first
+    // and stays for anything reading a scalar; `topics` is the full list.
+    function topicsOf(r) {
+        return (r.topics && r.topics.length) ? r.topics : (r.topic ? [r.topic] : []);
+    }
+
+    const LINK_COPY = {
+        ok: { cls: 'link-ok', text: 'Link checked' },
+        paywalled: { cls: 'link-warn', text: 'Publisher landing page' },
+        blocked: { cls: 'link-warn', text: 'Not confirmed from here' },
+        unknown: { cls: 'link-warn', text: 'Did not answer' },
+        broken: { cls: 'link-bad', text: 'Link was unreachable' },
+    };
+
+    const LINK_DETAIL = {
+        ok: 'The library reached this document on {date}.',
+        paywalled: 'This host answers with a publisher landing page. The text may be ' +
+                   'open access behind it, but the library cannot confirm that from here. ' +
+                   'Last checked {date}.',
+        blocked: 'This publisher refuses automated requests, so the library could not ' +
+                 'check the link on {date}. That is not a sign the document is gone: ' +
+                 'it will almost certainly open in your browser.',
+        unknown: 'The host did not answer when the library checked on {date}. ' +
+                 'Usually temporary. Worth trying.',
+        broken: 'This link returned "not found" when the library checked on {date}. ' +
+                'The document has probably moved. The search links below may find it.',
+    };
+
+    function renderLinkStatus(r) {
+        const el = document.getElementById('linkBadge');
+        if (!el) { return; }
+        const copy = LINK_COPY[r.link_status];
+        if (!copy) { el.hidden = true; return; }
+        const when = r.link_checked || 'an earlier run';
+        el.hidden = false;
+        el.className = 'link-badge ' + copy.cls;
+        el.textContent = copy.text;
+        el.title = LINK_DETAIL[r.link_status].replace('{date}', when);
+
+        const note = document.getElementById('linkNote');
+        if (!note) { return; }
+        if (r.link_status === 'ok') { note.hidden = true; return; }
+        note.hidden = false;
+        note.className = 'link-note ' + copy.cls;
+        let html = '<p>' + escapeHtml(LINK_DETAIL[r.link_status].replace('{date}', when)) + '</p>';
+        if (r.link_status === 'broken') {
+            const q = encodeURIComponent(r.title);
+            html += '<p class="link-note-actions">' +
+                (r.doi ? `<a href="https://doi.org/${encodeURIComponent(r.doi)}" rel="noopener">Resolve the DOI</a>` : '') +
+                `<a href="https://scholar.google.com/scholar?q=${q}" rel="noopener" target="_blank">Search Google Scholar</a>` +
+                `<a href="https://www.google.com/search?q=${q}" rel="noopener" target="_blank">Search the web</a>` +
+                `<a href="https://web.archive.org/web/2024/${encodeURIComponent(r.url)}" rel="noopener" target="_blank">Try the Wayback Machine</a>` +
+                '</p>';
+        }
+        note.innerHTML = html;
+    }
+
+    function renderAltUrls(r) {
+        const el = document.getElementById('altUrls');
+        if (!el) { return; }
+        const alts = r.alt_urls || [];
+        if (!alts.length) { el.hidden = true; return; }
+        el.hidden = false;
+        el.innerHTML = '<h3 class="alt-urls-title">Also available at</h3><ul>' +
+            alts.map(u => `<li><a href="${escapeHtml(u)}" target="_blank" rel="noopener">${escapeHtml(prettyUrl(u))}</a></li>`).join('') +
+            '</ul>';
+    }
+
+    function prettyUrl(u) {
+        try {
+            const p = new URL(u);
+            return p.hostname.replace(/^www\./, '') + (p.pathname.length > 1 ? p.pathname : '');
+        } catch (e) { return u; }
     }
 
     // ---- Dynamic SEO / structured data ----
@@ -177,7 +269,7 @@
             case 'check_access':
                 return { label: 'Check Access', color: '#d97706' };
             default:
-                return { label: 'Unknown', color: '#8a8a8a' };
+                return { label: 'Unknown', color: '#6b6b6b' };
         }
     }
 
@@ -424,7 +516,7 @@
     function showError(msg) {
         document.querySelector('.detail-section').innerHTML =
             '<div class="container" style="padding:64px 24px;text-align:center;">' +
-            '<p style="color:#8a8a8a;margin-bottom:16px;">' + escapeHtml(msg) + '</p>' +
+            '<p style="color:var(--color-text-muted);margin-bottom:16px;">' + escapeHtml(msg) + '</p>' +
             '<a href="index.html" class="action-btn action-primary" style="display:inline-flex;">&larr; Back to Library</a>' +
             '</div>';
     }

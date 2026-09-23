@@ -33,14 +33,8 @@ jobs:
       - name: Run tests
         run: python -m pytest -q
 
-  check-links:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
-
-      - name: Link Checker
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: --accept 200,204,301,302,403,429 --exclude-mail --exclude "localhost|127.0.0.1|example.com|twitter.com|x.com|linkedin.com|facebook.com|instagram.com|t.me|wa.me|play.google.com|apps.apple.com" --timeout 30 --max-retries 2 "**/*.html" "**/*.md"
-          fail: false
-
+      # Reads the two token blocks out of css/style.css and measures every ink
+      # against every surface it can land on. No browser and no network, so it
+      # belongs in front of a pull request rather than on a schedule.
+      - name: Colour contrast
+        run: python check_contrast.py

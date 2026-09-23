@@ -7,15 +7,26 @@
     --color-border-light: #f0ede8;
     --color-text: #1a1a1a;
     --color-text-secondary: #5c5c5c;
-    --color-text-muted: #8a8a8a;
+    --color-text-muted: #6b6b6b;
     --color-accent: #2563eb;
     --color-accent-hover: #1d4ed8;
     --color-accent-light: #eff6ff;
     --color-paper: #7c3aed;
-    --color-book: #059669;
-    --color-grey: #d97706;
+    --color-book: #047857;
+    --color-grey: #9a5405;
     --color-tag-bg: #f3f4f6;
     --color-tag-text: #374151;
+    /* Badge fills. These were literals in four rules and had no dark value,
+       so in dark mode a pale mint chip carried #34d399 text at 1.7:1. A
+       literal is invisible to any check that reads the token block, which is
+       why they are tokens now. */
+    --badge-paper-bg: #f3f0ff;
+    --badge-book-bg:  #ecfdf5;
+    --badge-grey-bg:  #fffbeb;
+    --badge-free-bg:  #eff6ff;
+    --color-on-accent: #ffffff; /* see FILLS in check_contrast.py */
+    --badge-bad-bg:   #fef2f2;
+    --color-bad:      #b42318;
     --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
     --radius-sm: 6px;
@@ -297,7 +308,7 @@ a:hover {
 .pill.active {
     background: var(--color-accent);
     border-color: var(--color-accent);
-    color: white;
+    color: var(--color-on-accent);
 }
 
 .filter-row {
@@ -326,8 +337,8 @@ a:hover {
 }
 
 .pill.active .pill-count {
-    color: white;
-    background: rgba(255, 255, 255, 0.22);
+    color: var(--color-on-accent);
+    background: color-mix(in srgb, var(--color-on-accent) 22%, transparent);
 }
 
 /* Active filter chips */
@@ -357,7 +368,7 @@ a:hover {
 
 .filter-chip:hover {
     background: var(--color-accent);
-    color: white;
+    color: var(--color-on-accent);
 }
 
 .filter-chip span {
@@ -624,17 +635,17 @@ mark {
 }
 
 .resource-type-badge.paper {
-    background: #f3f0ff;
+    background: var(--badge-paper-bg);
     color: var(--color-paper);
 }
 
 .resource-type-badge.book {
-    background: #ecfdf5;
+    background: var(--badge-book-bg);
     color: var(--color-book);
 }
 
 .resource-type-badge.grey_literature {
-    background: #fffbeb;
+    background: var(--badge-grey-bg);
     color: var(--color-grey);
 }
 
@@ -677,6 +688,18 @@ mark {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 10px;
+}
+
+/* A resource can carry more than one topic, so the left side of the footer
+   wraps rather than pushing the card sideways. min-width:0 is load-bearing:
+   without it a flex item's min-content keeps the row at its natural width and
+   the card overflows on a phone instead of wrapping. */
+.resource-topics {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    min-width: 0;
 }
 
 .resource-topic-tag {
@@ -692,6 +715,7 @@ mark {
     display: flex;
     align-items: center;
     gap: 10px;
+    flex: none;
 }
 
 .resource-tag-count {
@@ -1014,18 +1038,18 @@ mark {
 }
 
 .access-badge.access-open_access {
-    background: #ecfdf5;
-    color: #059669;
+    background: var(--badge-book-bg);
+    color: var(--color-book);
 }
 
 .access-badge.access-free_to_read {
-    background: #eff6ff;
-    color: #2563eb;
+    background: var(--badge-free-bg);
+    color: var(--color-accent);
 }
 
 .access-badge.access-check_access {
-    background: #fffbeb;
-    color: #d97706;
+    background: var(--badge-grey-bg);
+    color: var(--color-grey);
 }
 
 .verified-badge {
@@ -1035,8 +1059,8 @@ mark {
     letter-spacing: 0.05em;
     padding: 3px 10px;
     border-radius: 4px;
-    background: #ecfdf5;
-    color: #059669;
+    background: var(--badge-book-bg);
+    color: var(--color-book);
 }
 
 .detail-title {
@@ -1112,7 +1136,7 @@ mark {
 .action-btn.action-primary {
     background: var(--color-accent);
     border-color: var(--color-accent);
-    color: white;
+    color: var(--color-on-accent);
 }
 
 .action-btn.action-primary:hover {
@@ -1150,7 +1174,7 @@ mark {
 .citation-tab.active {
     background: var(--color-accent);
     border-color: var(--color-accent);
-    color: white;
+    color: var(--color-on-accent);
 }
 
 .citation-content {
@@ -1572,7 +1596,7 @@ mark {
   --color-border-light:    #21262d;
   --color-text:            #e6edf3;
   --color-text-secondary:  #b0b8c1;
-  --color-text-muted:      #7d8590;
+  --color-text-muted:      #909aa4;
   --color-accent:          #58a6ff;
   --color-accent-hover:    #79b8ff;
   --color-accent-light:    #1c2a3a;
@@ -1581,6 +1605,16 @@ mark {
   --color-grey:            #fbbf24;
   --color-tag-bg:          #1c2128;
   --color-tag-text:        #c9d1d9;
+  --badge-paper-bg:        #2a2140;
+  --badge-book-bg:         #0d2f24;
+  --badge-grey-bg:         #33260a;
+  --badge-free-bg:         #12283f;
+  --color-on-accent:       #0f1419;
+  --badge-bad-bg:          #3a1512;
+  --color-bad:             #fca5a5;
+  --color-book:            #6ee7b7;
+  --color-grey:            #fcd34d;
+  --color-paper:           #c4b5fd;
   --shadow-sm:             0 1px 2px rgba(0,0,0,0.4);
   --shadow-md:             0 2px 8px rgba(0,0,0,0.5);
   --shadow-lg:             0 4px 16px rgba(0,0,0,0.6);
@@ -1695,13 +1729,13 @@ mark {
 .rc-bookmark svg { width: 15px; height: 15px; }
 
 /* Saved toggle in the results tools */
-.tool-btn.active { background: var(--color-accent); border-color: var(--color-accent); color: #fff; }
+.tool-btn.active { background: var(--color-accent); border-color: var(--color-accent); color: var(--color-on-accent); }
 .tool-btn .saved-count {
   display: none; margin-left: 6px; font-size: 0.66rem; font-weight: 700; line-height: 15px;
   min-width: 15px; text-align: center; padding: 0 4px; border-radius: 8px;
-  background: var(--color-accent); color: #fff;
+  background: var(--color-accent); color: var(--color-on-accent);
 }
-.tool-btn.active .saved-count { background: rgba(255,255,255,0.25); }
+.tool-btn.active .saved-count { background: color-mix(in srgb, var(--color-on-accent) 25%, transparent); }
 .tool-btn .saved-count.visible { display: inline-block; }
 
 /* Footer: brand gradient top edge (matches Dev Case Studies) */
@@ -1747,3 +1781,102 @@ a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible
 .insight-bar-fill { display: block; height: 100%; border-radius: 4px; background: var(--brand-grad); transition: width 0.6s cubic-bezier(0.2,0.8,0.2,1); }
 .insight-bar-value { font-size: 0.74rem; font-weight: 700; color: var(--color-text-secondary); text-align: right; font-variant-numeric: tabular-nums; }
 .insight-note { margin-top: 20px; font-size: 0.73rem; color: var(--color-text-muted); font-style: italic; }
+
+/* ===== Link health =====
+   Added 2026-09-23 with the rewritten verify_urls.py. It replaces a "Verified"
+   badge that could never appear, because enrich_data.py reset `verified` to
+   false on every resource on every build. The wording is deliberately narrow:
+   the checker knows whether a URL answered, not whether the work is any good,
+   and a badge reading "Verified" claimed the second. */
+.link-badge {
+    font-size: 0.7rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 3px 10px;
+    border-radius: 4px;
+    cursor: help;
+}
+.link-badge.link-ok   { background: var(--badge-book-bg); color: var(--color-book); }
+.link-badge.link-warn { background: var(--badge-grey-bg); color: var(--color-grey); }
+.link-badge.link-bad  { background: var(--badge-bad-bg);  color: var(--color-bad); }
+
+.link-note {
+    margin: 16px 0;
+    padding: 14px 16px;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+    background: var(--color-surface-hover);
+    font-size: 0.9rem;
+    line-height: 1.55;
+}
+.link-note.link-bad { border-color: var(--color-bad); background: var(--badge-bad-bg); }
+.link-note-actions {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+}
+.link-note-actions a { font-weight: 600; }
+
+.alt-urls {
+    margin: 16px 0;
+    padding: 14px 16px;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--color-border);
+    background: var(--color-surface);
+    font-size: 0.9rem;
+}
+.alt-urls-title {
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+    margin-bottom: 8px;
+}
+.alt-urls ul { list-style: none; display: flex; flex-direction: column; gap: 6px; }
+.alt-urls a { word-break: break-word; }
+
+/* More than one topic per resource, so these wrap instead of widening the row. */
+.detail-topics {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    min-width: 0;
+}
+
+/* ===== Header on a phone =====
+   `.header-nav` was a flex row with no wrap, holding the library links, the
+   theme selector and the reading-font button. Measured at 390x844 it was
+   545px wide inside a 390px viewport, so the whole page scrolled sideways by
+   179px. It looks perfect on a desktop, which is why it survived. */
+.site-header .container {
+    flex-wrap: wrap;
+}
+
+.header-nav {
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    row-gap: 8px;
+    min-width: 0;
+}
+
+.eco-nav {
+    flex-wrap: wrap;
+    row-gap: 6px;
+}
+
+/* ===== Links inside prose =====
+   `a { text-decoration: none }` is right for nav and cards and wrong inside a
+   paragraph: a link with no underline is distinguished from the text around it
+   by colour alone, which WCAG 1.4.1 does not accept and which nobody with a
+   colour vision deficiency can use. axe flagged three, all in the About panel
+   and the footer line. Underlined only where the link sits in running text. */
+.about-content p a,
+.imx-footer-tagline a,
+.link-note a,
+.alt-urls a {
+    text-decoration: underline;
+    text-underline-offset: 0.18em;
+}

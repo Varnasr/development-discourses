@@ -12,7 +12,8 @@
     "tags": [
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Effect of Girls' Education on Health Outcomes: Fact Sheet",
@@ -30,7 +31,8 @@
       "education",
       "girls-education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Making Schools Work: New Evidence on Accountability Reforms",
@@ -45,7 +47,8 @@
     "tags": [
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Expanding Opportunities for the Next Generation: Early Childhood Development in the Middle East and North Africa",
@@ -61,7 +64,8 @@
       "education",
       "inequality"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Case for Investing in Girls' Education",
@@ -77,7 +81,8 @@
       "education",
       "girls-education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Student Learning in South Asia: Challenges, Opportunities, and Policy Priorities",
@@ -94,7 +99,8 @@
       "education",
       "governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "COVID-19 and Education: The Lingering Effects of Unfinished Learning",
@@ -110,7 +116,8 @@
       "education",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Education in Sub-Saharan Africa: Comparing Faith-Inspired, Private Secular, and Public Schools",
@@ -126,7 +133,8 @@
       "Sub-Saharan-Africa",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Learning Generation: Investing in Education for a Changing World",
@@ -141,7 +149,8 @@
     "tags": [
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Learning Adjusted Years of Schooling: Defining a New Macro Measure of Education",
@@ -156,7 +165,8 @@
     "tags": [
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "What Matters Most for School Autonomy and Accountability: A Framework Paper",
@@ -172,7 +182,8 @@
       "decentralization",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Loud and Clear: Effective Language of Instruction Policies for Learning",
@@ -187,7 +198,8 @@
     "tags": [
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Education Monitoring Report 2023: Technology in Education",
@@ -202,7 +214,8 @@
     "tags": [
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The State of Global Learning Poverty: 2022 Update",
@@ -218,7 +231,8 @@
       "education",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Education Monitoring Report 2021/2: Non-State Actors",
@@ -233,7 +247,8 @@
     "tags": [
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Learning Losses from COVID-19 School Closures",
@@ -248,7 +263,8 @@
     "tags": [
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Teaching at the Right Level: Evidence Review",
@@ -264,7 +280,8 @@
       "RCT",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Cost-Effective Approaches to Improve Global Learning",
@@ -280,7 +297,8 @@
       "cost-effectiveness",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Girls' Education and Women's Empowerment",
@@ -297,7 +315,8 @@
       "girls-education",
       "womens-empowerment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Foundational Learning and the SDG 4 Agenda",
@@ -312,6 +331,7 @@
     "tags": [
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

@@ -13,7 +13,8 @@
       "development-economics",
       "nutrition"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
@@ -30,7 +31,8 @@
       "development-economics",
       "institutions"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Institutions as a Fundamental Cause of Long-Run Growth",
@@ -46,7 +48,8 @@
       "development-economics",
       "institutions"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Economic Lives of the Poor",
@@ -62,7 +65,8 @@
       "development-economics",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Miracle of Microfinance? Evidence from a Randomized Evaluation",
@@ -82,7 +86,8 @@
       "microfinance",
       "womens-empowerment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Long-term Effects of the Targeting the Ultra Poor Program",
@@ -99,7 +104,8 @@
       "development-economics",
       "food-security"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Women as Policy Makers: Evidence from a Randomized Policy Experiment in India",
@@ -116,7 +122,8 @@
       "RCT",
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment",
@@ -133,7 +140,8 @@
       "education",
       "labor-markets"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Monitoring Works: Getting Teachers to Come to School",
@@ -150,7 +158,8 @@
       "development-economics",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Remedying Education: Evidence from Two Randomized Experiments in India",
@@ -168,7 +177,8 @@
       "development-economics",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Analysis of Household Surveys: A Microeconometric Approach to Development Policy",
@@ -185,7 +195,8 @@
       "poverty",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Food and Nutrition in India: Facts and Interpretations",
@@ -202,7 +213,8 @@
       "development-economics",
       "nutrition"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Counting and Multidimensional Poverty Measurement",
@@ -218,7 +230,8 @@
       "development-economics",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Acute Multidimensional Poverty: A New Index for Developing Countries",
@@ -235,7 +248,8 @@
       "education",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Idea of Antipoverty Policy",
@@ -251,7 +265,8 @@
       "development-economics",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Goodbye Washington Consensus, Hello Washington Confusion? A Review of the World Bank's Economic Growth in the 1990s",
@@ -266,7 +281,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Globalization, Structural Change and Productivity Growth",
@@ -282,7 +298,8 @@
       "Latin-America",
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities",
@@ -299,7 +316,8 @@
       "development-economics",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Illusion of Sustainability",
@@ -315,7 +333,8 @@
       "development-economics",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Creating Markets for New Vaccines Part I: Rationale",
@@ -330,7 +349,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Experimental Approach to Development Economics",
@@ -348,7 +368,8 @@
       "education",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Long-Term Effects of Africa's Slave Trades",
@@ -363,7 +384,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Economic Reform and the Process of Global Integration",
@@ -378,7 +400,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Microfinance Promise",
@@ -395,7 +418,8 @@
       "microfinance",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Do Rural Banks Matter? Evidence from the Indian Social Banking Experiment",
@@ -412,7 +436,8 @@
       "development-economics",
       "poverty"
     ],
-    "verified": false
+    "link_status": "unknown",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Land Reform, Poverty Reduction, and Growth: Evidence from India",
@@ -430,7 +455,8 @@
       "panel-data",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Institutions and Development: A View from Below",
@@ -446,7 +472,8 @@
       "development-economics",
       "institutions"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Why Are Indian Children So Short? The Role of Birth Order and Son Preference",
@@ -464,7 +491,8 @@
       "gender",
       "nutrition"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector",
@@ -482,7 +510,8 @@
       "digital",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Misallocation and Manufacturing TFP in China and India",
@@ -498,7 +527,8 @@
       "India",
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Entitled to Work: Urban Property Rights and Labor Supply in Peru",
@@ -513,7 +543,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Risk and Insurance in Village India",
@@ -529,7 +560,8 @@
       "India",
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Top Incomes in the Long Run of History",
@@ -545,7 +577,8 @@
       "development-economics",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Income Distribution and Macroeconomics",
@@ -560,7 +593,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Poverty, Inequality, and Growth: Trends, Policies, and Controversies",
@@ -577,7 +611,8 @@
       "inequality",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Growth, Inequality, and Poverty Reduction in Developing Countries",
@@ -594,7 +629,8 @@
       "inequality",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Inequality and Growth: A Review on a Great Open Debate in Economics",
@@ -610,7 +646,8 @@
       "development-economics",
       "inequality"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2004: Making Services Work for Poor People",
@@ -627,7 +664,8 @@
       "development-economics",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Poverty Revisited Using 2021 PPPs",
@@ -645,7 +683,8 @@
       "development-economics",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Halving Global Poverty",
@@ -661,7 +700,8 @@
       "development-economics",
       "poverty"
     ],
-    "verified": false
+    "link_status": "unknown",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Universal Basic Income in the Developing World",
@@ -678,7 +718,8 @@
       "cash-transfers",
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Influence of Randomized Controlled Trials on Development Economics Research and on Development Policy",
@@ -694,7 +735,8 @@
       "RCT",
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2023: Migrants, Refugees, and Societies",
@@ -710,7 +752,8 @@
       "development-economics",
       "migration"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2024: The Middle-Income Trap",
@@ -725,7 +768,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2013: Jobs",
@@ -740,7 +784,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty",
@@ -758,7 +803,8 @@
       "education",
       "poverty"
     ],
-    "verified": false
+    "link_status": "unknown",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Good Economics for Hard Times",
@@ -776,7 +822,8 @@
       "migration",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Human Development Report 2023/24",
@@ -791,7 +838,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Trade and Development Report 2023",
@@ -806,7 +854,8 @@
     "tags": [
       "development-economics"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The World Inequality Report 2022",
@@ -822,7 +871,8 @@
       "development-economics",
       "inequality"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Why Nations Fail: The Origins of Power, Prosperity, and Poverty",
@@ -839,7 +889,8 @@
       "institutions",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Great Indian Poverty Debate",
@@ -856,6 +907,7 @@
       "development-economics",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

@@ -12,7 +12,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "mhGAP Intervention Guide, Version 2.0",
@@ -27,7 +28,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Out of the Shadows: Making Mental Health a Global Priority",
@@ -42,7 +44,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Depression and Other Common Mental Disorders: Global Estimates",
@@ -58,7 +61,8 @@
       "disability",
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Lancet Commission on Global Mental Health and Sustainable Development",
@@ -73,7 +77,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Mental Health and Psychosocial Support in Emergencies (IASC Guidelines)",
@@ -88,7 +93,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Task-Sharing for Mental Health Care in Low-Resource Settings",
@@ -103,7 +109,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Adolescent Mental Health and Wellbeing",
@@ -118,7 +125,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Economic Case for Investing in Mental Health",
@@ -133,7 +141,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "broken",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Comprehensive Mental Health Action Plan 2013-2030",
@@ -148,7 +157,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Suicide Worldwide in 2019: Global Health Estimates",
@@ -163,7 +173,8 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Wellbeing and Happiness: The World Happiness Report 2024",
@@ -178,6 +189,7 @@
     "tags": [
       "mental-health-wellbeing"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

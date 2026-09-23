@@ -6,7 +6,7 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Varnasr/development-discourses)](https://github.com/Varnasr/development-discourses/commits/main)
 [![Part of ImpactMojo](https://img.shields.io/badge/Part%20of-ImpactMojo-orange)](https://www.impactmojo.in)
 
-**A curated open-access library of 640+ research papers, books, and grey literature for development practitioners in South Asia.**
+**A curated open-access library of 645 research papers, books, and grey literature for development practitioners in South Asia.**
 
 Searchable, filterable, and fully free — part of the [ImpactMojo](https://www.impactmojo.in) learning platform.
 
@@ -49,13 +49,15 @@ Plus Agriculture & Food Systems, Conflict & Humanitarian, Disability & Inclusion
 | **Shareable state** | Every search and filter combination is encoded in the URL, so any view can be bookmarked or shared |
 | **Export** | Download the current filtered list as **BibTeX**, **CSV**, or **JSON** |
 | **Connection Map** | An interactive, force-directed graph of related resources on every detail page (pure SVG, no dependencies) |
+| **Alternate links** | Where a record carries a second URL, usually a working paper beside the published version, the detail page lists it |
 | **Citations** | One-click APA, BibTeX, and Chicago citations per resource |
 | **Recently viewed** | Your last-viewed resources are remembered locally and surfaced on detail pages |
 | **Surprise me** | Jump to a random resource from the current selection |
 | **Light / dark / system theme** | Respects your OS preference and remembers your choice |
 | **Installable & offline** | A Progressive Web App with a service worker — install it and browse offline |
 | **Open access first** | Every resource is tagged *Open Access*, *Free to Read*, or *Check Access* |
-| **Verified URLs** | All links validated by `verify_urls.py` — broken links flagged automatically |
+| **Link health** | Every URL is checked by `verify_urls.py`, and a resource page says what came back. A publisher that refuses robots is reported as *not confirmed from here*, not as broken; a document that is actually gone gets DOI, Scholar, web and Wayback links to find it again |
+| **More than one topic** | A resource curated into two topics appears under both, with every topic on the card and both filters counting it |
 | **Zero runtime dependencies** | Vanilla HTML/CSS/JS on the front end; standard-library Python for the build |
 
 ---
@@ -122,15 +124,56 @@ Run `make help` to see all available tasks (`build`, `enrich`, `assets`, `stats`
 ## URL Verification
 
 ```bash
-# Check all resource URLs
-python verify_urls.py
-
-# Results saved to url_verification_report.json
+make verify      # check every resource URL, write the report and link_status
+make recheck     # re-check only what was not ok last time (much faster)
 ```
 
-Broken links are flagged for manual review. Run periodically to maintain library quality.
+The checker sorts every URL into one of five states, and the distinction
+between the middle two is the point of it:
 
----
+| state | meaning |
+|---|---|
+| `ok` | 2xx after redirects. The document is there. |
+| `paywalled` | A publisher landing page. The text may be open access behind it. |
+| `blocked` | 401 / 403 / 406 / 429. The server refuses a robot. A reader is fine. |
+| `unknown` | Timeout or 5xx. Server trouble, usually transient. Retried once. |
+| `broken` | 404 / 410, DNS failure, TLS failure. The document is gone. |
+
+**Why that matters here.** The previous checker had one bucket for "not
+accessible" and offered `--remove-broken` against it. Its report of 2026-02-28
+put 162 of 516 URLs in that bucket, and **102 of the 162 were HTTP 403** — 35
+from documents1.worldbank.org, 26 from thelancet.com, the rest from
+ResearchGate, Science, SAGE and other publishers that refuse robots by policy.
+Every one opens in a browser. Running `--remove-broken` would have deleted a
+fifth of the library, most of it live, and the diff would have looked like
+maintenance.
+
+Re-run with the current checker on 2026-09-23: 644 unique URLs, **25 genuinely
+broken**. Seventeen were traced to their current home and replaced, each probed
+with a browser user-agent before it went in, leaving 551 `ok`, 77 `blocked`,
+1 `paywalled`, 7 `unknown` and 8 broken.
+
+One of the eight was never right. The entry for WHO's economic case for
+investing in mental health pointed at
+`who.int/publications/i/item/9789241511810`, and that ISBN belongs to a
+standard operating procedure for measuring nicotine in cigarette smoke. That is
+a cataloguing error rather than rot, and no amount of re-checking would have
+found it. The other seven are documents whose publisher reorganised and whose
+new home could not be established with confidence; rather than substitute a
+plausible-looking replacement, the record keeps its URL and the resource page
+says the link was unreachable and offers DOI, Scholar, web and Wayback
+searches.
+
+Only `broken` is ever removable, and `--remove-broken` prints every entry
+before it touches anything. `blocked` and `unknown` are never removable at any
+flag.
+
+```bash
+python3 verify_urls.py --fail-on-new-broken   # the gate link-check.yml runs
+```
+
+That compares against the committed report, so a link that was already gone
+does not keep failing the run while one that broke last night does.
 
 ## Local Development
 
@@ -157,7 +200,7 @@ python3 -m http.server 8000
 | Data | JSON (one file per topic) | Resource metadata, merged and deduplicated at build time |
 | Build | Python stdlib (`enrich_data.py`, `build.py`, `generate_assets.py`) | Enrich, merge, and generate derived assets |
 | Testing | pytest | Data-integrity and asset-generation checks |
-| CI | GitHub Actions | Build validation, drift check, tests, and link checking |
+| CI | GitHub Actions | `ci.yml` on every push and pull request: build, drift check, tests, colour contrast. `link-check.yml` daily: the 644 resource URLs and the pages' own links |
 | Verification | Python (`verify_urls.py`) | URL health checks |
 
 No runtime dependencies: the front end ships as static files, and the entire

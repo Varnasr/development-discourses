@@ -13,7 +13,8 @@
       "data-technology",
       "governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2016: Digital Dividends",
@@ -30,7 +31,8 @@
       "digital",
       "institutions"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Digital Economy Report 2021: Cross-Border Data Flows and Development",
@@ -47,7 +49,8 @@
       "digital",
       "governance"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Measuring Digital Development: Facts and Figures 2023",
@@ -64,7 +67,8 @@
       "digital",
       "gender"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The State of Mobile Internet Connectivity 2023",
@@ -81,7 +85,8 @@
       "digital",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "United Nations E-Government Survey 2022: The Future of Digital Government",
@@ -98,7 +103,8 @@
       "digital",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Open Government Data Report: Enhancing Policy Maturity for Sustainable Impact",
@@ -114,7 +120,8 @@
       "data-technology",
       "digital"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Open Government for Stronger Democracies: A Global Assessment",
@@ -129,7 +136,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Navigating Algorithm Bias in AI: Ensuring Fairness and Trust in Africa",
@@ -144,7 +152,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Ethics and Diversity in Artificial Intelligence Policies, Strategies and Initiatives",
@@ -162,7 +171,8 @@
       "data-technology",
       "digital"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Recommendation on the Ethics of Artificial Intelligence",
@@ -179,7 +189,8 @@
       "data-technology",
       "governance"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "AI and Education: Guidance for Policy-Makers",
@@ -195,7 +206,8 @@
       "data-technology",
       "education"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Identity Verification Standards in Welfare Programs: Experimental Evidence from India",
@@ -213,7 +225,8 @@
       "data-technology",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Building State Capacity: Evidence from Biometric Smartcards in India",
@@ -229,7 +242,8 @@
       "India",
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Identification for Development: The Biometrics Revolution",
@@ -244,7 +258,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Mobile Phones and Economic Development in Africa",
@@ -262,7 +277,8 @@
       "data-technology",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Impact of Mobile Money on Poor Rural Households: Experimental Evidence from Uganda",
@@ -278,7 +294,8 @@
       "data-technology",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Using Publicly Available Satellite Imagery and Deep Learning to Understand Economic Well-Being in Africa",
@@ -293,7 +310,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Technology as Amplifier in International Development",
@@ -308,7 +326,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Sustainable Development Goals Report 2024",
@@ -323,7 +342,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Data for Development: A Needs Assessment for SDG Monitoring and Statistical Capacity Development",
@@ -338,7 +358,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "A World That Counts: Mobilising the Data Revolution for Sustainable Development",
@@ -353,7 +374,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Africa Data Revolution Report 2018: Status and Emerging Impact",
@@ -369,7 +391,8 @@
       "data-technology",
       "qualitative"
     ],
-    "verified": false
+    "link_status": "unknown",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Open Data Barometer (Fourth Edition)",
@@ -384,7 +407,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Bridging the Digital Gender Divide: Include, Upskill, Innovate",
@@ -402,7 +426,8 @@
       "education",
       "gender"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Digital Gender Divide or Technologically Empowered Women in Developing Countries? A Typical Case of Lies, Damned Lies, and Statistics",
@@ -423,7 +448,8 @@
       "gender",
       "inequality"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Bridging Digital Divides: A Literature Review and Research Agenda for Information Systems Research",
@@ -439,7 +465,8 @@
       "data-technology",
       "digital"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "E-Participation: A Quick Overview of Recent Qualitative Trends",
@@ -456,7 +483,8 @@
       "digital",
       "qualitative"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Intersections between Civic Technology (Civic Tech) and Governance in Nigeria and South Africa",
@@ -472,7 +500,8 @@
       "data-technology",
       "governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Blockchain and Economic Development: Hype vs. Reality",
@@ -488,7 +517,8 @@
       "data-technology",
       "digital"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Taming the Beast: Harnessing Blockchains in Developing Country Governments",
@@ -503,7 +533,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Blockchain Technology for Human Development: Not So Fast?",
@@ -519,7 +550,8 @@
       "data-technology",
       "digital"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Experimental Approach to Development Economics",
@@ -535,7 +567,8 @@
       "RCT",
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Artificial Intelligence and Its Implications for Income Distribution and Unemployment",
@@ -552,7 +585,8 @@
       "data-technology",
       "employment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Governance of Data and Data-driven Technology",
@@ -568,7 +602,8 @@
       "data-technology",
       "governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Poverty Mapping: Innovative Approaches to Creating Poverty Maps with New Data Sources",
@@ -585,7 +620,8 @@
       "machine-learning",
       "poverty"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Costing a Data Revolution",
@@ -600,7 +636,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2016: Digital Dividends (Overview)",
@@ -617,7 +654,8 @@
       "digital",
       "institutions"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Digital Public Infrastructure and Development",
@@ -633,7 +671,8 @@
       "data-technology",
       "digital"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Government Analytics Handbook",
@@ -649,7 +688,8 @@
       "data-technology",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Data for Better Lives (WDR 2021 Overview)",
@@ -664,7 +704,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Artificial Intelligence in the Global South",
@@ -680,7 +721,8 @@
       "AI",
       "data-technology"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Digital Financial Services Landscape",
@@ -697,7 +739,8 @@
       "digital",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Identification for Development (ID4D) Global Dataset",
@@ -712,7 +755,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Open Data for Development",
@@ -727,7 +771,8 @@
     "tags": [
       "data-technology"
     ],
-    "verified": false
+    "link_status": "unknown",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "AI Ethics and Governance in Practice",
@@ -744,6 +789,7 @@
       "data-technology",
       "governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

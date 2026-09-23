@@ -14,7 +14,8 @@
       "governance",
       "institutions"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Trends: Forced Displacement in 2022",
@@ -30,7 +31,8 @@
       "Afghanistan",
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Pathways for Peace: Inclusive Approaches to Preventing Violent Conflict",
@@ -46,7 +48,8 @@
       "conflict-humanitarian",
       "institutions"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Forcibly Displaced: Toward a Development Approach Supporting Refugees, the Internally Displaced, and Their Hosts",
@@ -62,7 +65,8 @@
       "conflict-humanitarian",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Conflict and Development: World Bank Strategy for Fragile and Conflict-Affected Situations",
@@ -77,7 +81,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Civil War and Development Policy",
@@ -92,7 +97,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Grand Bargain: A Shared Commitment to Better Serve People in Need",
@@ -107,7 +113,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disaster Risk Reduction Including Climate Change Adaptation Over South Asia: Challenges and Ways Forward",
@@ -125,7 +132,8 @@
       "climate-change",
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Breaking the Conflict Trap: Civil War and Development Policy",
@@ -141,7 +149,8 @@
       "conflict-humanitarian",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Sendai Framework for Disaster Risk Reduction 2015-2030",
@@ -157,7 +166,8 @@
       "conflict-humanitarian",
       "governance"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Conflict, Fragility, and Forced Displacement in the Middle East and North Africa",
@@ -172,7 +182,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Education in Emergencies: Including Everyone",
@@ -188,7 +199,8 @@
       "conflict-humanitarian",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Post-Conflict Transitions Working Paper Series: Post-Conflict Economic Recovery",
@@ -203,7 +215,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Building Resilience to Conflict Through Food-Security Policies and Programs",
@@ -219,7 +232,8 @@
       "conflict-humanitarian",
       "food-security"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Securing Development: Public Finance and the Security Sector",
@@ -235,7 +249,8 @@
       "conflict-humanitarian",
       "governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Humanitarian Response Index 2011: Focus on Addressing Displacement",
@@ -250,7 +265,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "broken",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Economics of the Syrian Civil War",
@@ -266,7 +282,8 @@
       "conflict-humanitarian",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Report on Internal Displacement 2024",
@@ -281,7 +298,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Humanitarian Overview 2024",
@@ -296,7 +314,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Sphere Handbook: Humanitarian Charter and Minimum Standards",
@@ -311,7 +330,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The State of the World's Refugees",
@@ -326,7 +346,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Humanitarian Response in Fragile Settings",
@@ -341,7 +362,8 @@
     "tags": [
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Cash Transfers in Humanitarian Contexts",
@@ -357,7 +379,8 @@
       "cash-transfers",
       "conflict-humanitarian"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Grievances, Governance and Violent Extremism",
@@ -373,6 +396,7 @@
       "conflict-humanitarian",
       "governance"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   }
 ]

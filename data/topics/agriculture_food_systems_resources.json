@@ -15,7 +15,8 @@
       "nutrition",
       "urbanization"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2008: Agriculture for Development",
@@ -32,7 +33,8 @@
       "agriculture-food-systems",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Food Policy Report 2023: Rethinking Food Crisis Responses",
@@ -48,7 +50,8 @@
       "agriculture-food-systems",
       "climate-change"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Climate-Smart Agriculture Sourcebook",
@@ -56,7 +59,7 @@
     "year": 2013,
     "type": "grey_literature",
     "topic": "Agriculture & Food Systems",
-    "url": "https://www.fao.org/climate-smart-agriculture-sourcebook/en/",
+    "url": "https://www.fao.org/climate-smart-agriculture-sourcebook",
     "description": "Comprehensive reference on climate-smart agriculture providing technical guidance on sustainably increasing productivity, building resilience to climate change, and reducing greenhouse gas emissions across crop, livestock, fishery, and forestry systems.",
     "id": "climate-smart-agriculture-sourcebook",
     "access_type": "open_access",
@@ -65,7 +68,8 @@
       "agriculture-food-systems",
       "climate-change"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Harvesting Prosperity: Technology and Productivity Growth in Agriculture",
@@ -81,7 +85,8 @@
       "agriculture",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The State of Food and Agriculture 2019: Moving Forward on Food Loss and Waste Reduction",
@@ -98,7 +103,8 @@
       "agriculture-food-systems",
       "supply-chains"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Enabling the Business of Agriculture 2019",
@@ -114,7 +120,8 @@
       "agriculture",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Agricultural Extension in Developing Countries",
@@ -130,7 +137,8 @@
       "agriculture-food-systems",
       "education"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Impact of Agricultural Index Insurance on Smallholder Farmers: A Systematic Review",
@@ -146,7 +154,8 @@
       "agriculture-food-systems",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Growing Africa: Unlocking the Potential of Agribusiness",
@@ -163,7 +172,8 @@
       "agriculture-food-systems",
       "value-chains"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "From Agriculture to Nutrition: Pathways, Synergies, and Outcomes",
@@ -180,7 +190,8 @@
       "agriculture-food-systems",
       "nutrition"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Gender in Agriculture Sourcebook",
@@ -197,7 +208,8 @@
       "agriculture-food-systems",
       "gender"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Food Systems for Better Nutrition",
@@ -214,7 +226,8 @@
       "agriculture-food-systems",
       "nutrition"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Smallholder Agriculture and Market Participation: Evidence from Eastern and Southern Africa",
@@ -230,7 +243,8 @@
       "agriculture",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Report on Food Crises 2023",
@@ -245,7 +259,8 @@
     "tags": [
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Soil Fertility Management in Sub-Saharan Africa",
@@ -261,7 +276,8 @@
       "Sub-Saharan-Africa",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Land Governance Assessment Framework: Implementation Manual for Assessing Governance in the Land Sector",
@@ -277,7 +293,8 @@
       "agriculture-food-systems",
       "governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Digital Agriculture: Feeding the Future",
@@ -296,7 +313,8 @@
       "digital",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Resilience of Smallholder Farming Systems in Sub-Saharan Africa",
@@ -312,7 +330,8 @@
       "Sub-Saharan-Africa",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "ICT in Agriculture: Connecting Smallholders to Knowledge, Networks, and Institutions",
@@ -331,7 +350,8 @@
       "institutions",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "High and Dry: Climate Change, Water, and the Economy",
@@ -347,7 +367,8 @@
       "agriculture-food-systems",
       "climate-change"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Missing Food: The Case of Postharvest Grain Losses in Sub-Saharan Africa",
@@ -363,7 +384,8 @@
       "Sub-Saharan-Africa",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The State of Food Security and Nutrition in the World 2024",
@@ -380,7 +402,8 @@
       "food-security",
       "nutrition"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The State of Food and Agriculture 2023",
@@ -396,7 +419,8 @@
       "agriculture",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Report on Food Crises 2024",
@@ -411,7 +435,8 @@
     "tags": [
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Repurposing Agricultural Policies and Support",
@@ -426,7 +451,8 @@
     "tags": [
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Agricultural Innovation for Family Farming",
@@ -441,7 +467,8 @@
     "tags": [
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Water for Sustainable Food and Agriculture",
@@ -457,7 +484,8 @@
       "agriculture",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Ending Hunger: What Would It Cost?",
@@ -472,7 +500,8 @@
     "tags": [
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Crop Production and Natural Resource Use",
@@ -489,7 +518,8 @@
       "agriculture-food-systems",
       "biodiversity"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Future of Food and Agriculture: Trends and Challenges",
@@ -505,7 +535,8 @@
       "agriculture",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Agriculture for Development in India",
@@ -522,6 +553,7 @@
       "agriculture",
       "agriculture-food-systems"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]
