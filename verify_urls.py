@@ -153,7 +153,10 @@ def main():
     ap.add_argument("--recheck", action="store_true",
                     help="only re-check URLs the last report did not call ok")
     ap.add_argument("--limit", type=int, default=0, help="check only the first N unique URLs")
-    ap.add_argument("--no-write", action="store_true", help="do not touch the topic files")
+    ap.add_argument("--no-write", action="store_true",
+                    help="touch nothing on disk: no report, no topic files. What the "
+                         "scheduled gate runs, since it has no business rewriting a "
+                         "committed file.")
     ap.add_argument("--remove-broken", action="store_true",
                     help="delete entries whose link is 404/410/DNS-dead. Never touches blocked.")
     ap.add_argument("--fail-on-new-broken", action="store_true",
@@ -228,8 +231,12 @@ def main():
         if u in results:
             details.append(results[u])
         elif u in previous and previous[u].get("state"):
+            # Carried forward from the last run rather than checked now. The
+            # marker stays in memory: it decides whether link_checked is
+            # refreshed below, and writing it into the report would add churn
+            # to every --recheck diff for no reader's benefit.
             d = dict(previous[u])
-            d["stale"] = True
+            d["_stale"] = True
             details.append(d)
         else:
             details.append({"url": u, "status": None, "state": "unchecked", "error": None})
@@ -264,12 +271,16 @@ def main():
         "counts": counts,
         "broken_urls": [d["url"] for d in broken],
         "blocked_urls": [d["url"] for d in blocked],
-        "details": sorted(details, key=lambda d: d["url"]),
+        "details": [{k: v for k, v in d.items() if not k.startswith("_")}
+                    for d in sorted(details, key=lambda d: d["url"])],
     }
-    with open(REPORT_FILE, "w", encoding="utf-8") as f:
-        json.dump(report, f, indent=2, ensure_ascii=False)
-        f.write("\n")
-    print(f"\nReport written to {os.path.basename(REPORT_FILE)}")
+    if args.no_write:
+        print(f"\n--no-write: {os.path.basename(REPORT_FILE)} left as it is.")
+    else:
+        with open(REPORT_FILE, "w", encoding="utf-8") as f:
+            json.dump(report, f, indent=2, ensure_ascii=False)
+            f.write("\n")
+        print(f"\nReport written to {os.path.basename(REPORT_FILE)}")
 
     # Write the state back onto each entry so the site can say something
     # honest about a link before a reader clicks it. The previous pipeline had
@@ -287,7 +298,7 @@ def main():
                 if e.get("link_status") != d["state"]:
                     e["link_status"] = d["state"]
                     changed = True
-                stamp = report["checked_at"][:10] if not d.get("stale") else e.get("link_checked")
+                stamp = report["checked_at"][:10] if not d.get("_stale") else e.get("link_checked")
                 if stamp and e.get("link_checked") != stamp:
                     e["link_checked"] = stamp
                     changed = True
