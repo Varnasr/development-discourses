@@ -269,7 +269,7 @@
             case 'check_access':
                 return { label: 'Check Access', color: '#d97706' };
             default:
-                return { label: 'Unknown', color: '#8a8a8a' };
+                return { label: 'Unknown', color: '#6b6b6b' };
         }
     }
 
@@ -516,7 +516,7 @@
     function showError(msg) {
         document.querySelector('.detail-section').innerHTML =
             '<div class="container" style="padding:64px 24px;text-align:center;">' +
-            '<p style="color:#8a8a8a;margin-bottom:16px;">' + escapeHtml(msg) + '</p>' +
+            '<p style="color:var(--color-text-muted);margin-bottom:16px;">' + escapeHtml(msg) + '</p>' +
             '<a href="index.html" class="action-btn action-primary" style="display:inline-flex;">&larr; Back to Library</a>' +
             '</div>';
     }

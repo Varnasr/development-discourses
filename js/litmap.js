@@ -75,7 +75,7 @@
             .slice(0, 20);
 
         if (connections.length === 0) {
-            svgEl.innerHTML = `<text x="${W/2}" y="${H/2}" text-anchor="middle" fill="#8a8a8a" font-size="14" font-family="Inter, sans-serif">No strong connections found in the library.</text>`;
+            svgEl.innerHTML = `<text x="${W/2}" y="${H/2}" text-anchor="middle" fill="#6b6b6b" font-size="14" font-family="Inter, sans-serif">No strong connections found in the library.</text>`;
             return;
         }
 

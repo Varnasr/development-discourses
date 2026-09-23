@@ -108,6 +108,12 @@ Two things it caught and two it could not.
   mode an Open Access badge painted `#059669` on `#ecfdf5`, a pale mint chip on
   a near-black card, at about 1.7:1. The fills are `--badge-*-bg` tokens now,
   which is what makes them checkable at all.
+- **Three `#8a8a8a` literals in JavaScript survived the token pass**, because
+  `make contrast` reads CSS. Two in `js/resource.js` (the "no resource
+  specified" line and the Unknown access badge) and one in `js/litmap.js` (the
+  "no strong connections" message drawn into the SVG). That is the same colour
+  the CSS pass replaced at 3.28:1, still being written at runtime. Grep the
+  JavaScript too when you move a colour.
 - **What it could not see**: `color: white` on `background: var(--color-accent)`
   in seven rules. The accent is a *fill* there, not a surface, and `white` is a
   literal. Light theme 7.51:1, dark theme **2.22:1**, because the kit re-aliases
