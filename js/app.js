@@ -58,6 +58,8 @@
     const accessFilters = document.getElementById('accessFilters');
     const decadeFilters = document.getElementById('decadeFilters');
     const activeFilters = document.getElementById('activeFilters');
+    const filterToggle = document.getElementById('filterToggle');
+    const filterToggleCount = document.getElementById('filterToggleCount');
     const sortSelect = document.getElementById('sortSelect');
     const resourcesList = document.getElementById('resourcesList');
     const resultsCount = document.getElementById('resultsCount');
@@ -536,6 +538,22 @@
         });
     }
 
+    // Below 1024px the filter rail is behind a disclosure, so the button has
+    // to say whether anything is on. A collapsed panel silently holding three
+    // filters is a reader convinced the library is smaller than it is.
+    if (filterToggle) {
+        filterToggle.addEventListener('click', function () {
+            const open = this.getAttribute('aria-expanded') === 'true';
+            this.setAttribute('aria-expanded', open ? 'false' : 'true');
+        });
+    }
+
+    function updateFilterToggleCount(n) {
+        if (!filterToggleCount) return;
+        filterToggleCount.hidden = n === 0;
+        filterToggleCount.textContent = String(n);
+    }
+
     function renderActiveFilters() {
         const chips = [];
         if (currentTopic !== 'all') chips.push({ k: 'topic', label: currentTopic });
@@ -543,6 +561,8 @@
         if (currentAccess !== 'all') chips.push({ k: 'access', label: accessLabelOf(currentAccess) });
         if (currentDecade !== 'all') chips.push({ k: 'decade', label: currentDecade < 2000 ? 'Pre-2000' : currentDecade + 's' });
         if (currentSearch) chips.push({ k: 'search', label: '"' + searchInput.value.trim() + '"' });
+
+        updateFilterToggleCount(chips.filter(c => c.k !== 'search').length);
 
         if (!chips.length) {
             activeFilters.style.display = 'none';

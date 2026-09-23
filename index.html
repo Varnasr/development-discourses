@@ -123,9 +123,11 @@
             </div>
         </section>
 
-        <!-- Search & Filters -->
-        <section class="search-section">
-            <div class="container">
+        <!-- Search, filters and results share one two-column grid above
+             1024px so the first screen carries results rather than controls -->
+        <div class="library container">
+        <section class="search-section" aria-label="Search and filters">
+            <div class="rail">
                 <div class="search-box">
                     <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <circle cx="11" cy="11" r="8"></circle>
@@ -135,7 +137,14 @@
                     <button id="clearSearch" class="clear-btn" title="Clear search">&times;</button>
                 </div>
 
-                <div class="filter-bar">
+                <button class="filter-toggle" id="filterToggle" aria-expanded="false"
+                        aria-controls="filterBar">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="4" y1="6" x2="20" y2="6"></line><line x1="7" y1="12" x2="17" y2="12"></line><line x1="10" y1="18" x2="14" y2="18"></line></svg>
+                    <span>Filters</span>
+                    <span class="filter-toggle-count" id="filterToggleCount" hidden></span>
+                </button>
+
+                <div class="filter-bar" id="filterBar">
                     <div class="filter-group">
                         <span class="filter-label" id="topicFiltersLabel">Topic</span>
                         <div class="filter-pills" id="topicFilters" role="group" aria-labelledby="topicFiltersLabel">
@@ -193,7 +202,7 @@
 
         <!-- Results -->
         <section class="results-section">
-            <div class="container">
+            <div class="results-col">
                 <div class="results-header">
                     <p class="results-count" id="resultsCount">Loading resources...</p>
                     <div class="results-tools">
@@ -262,6 +271,7 @@
                 </div>
             </div>
         </section>
+        </div>
 
         <!-- About Section -->
         <section class="about-section" id="about">
@@ -343,5 +353,5 @@
       })();
     </script>
 <script src="js/dyslexia-font.js" data-accent="var(--color-accent)" data-radius="var(--radius-sm)" defer></script>
-</body>
+<script>window.addEventListener("load",()=>setTimeout(()=>{document.title="SW="+document.documentElement.scrollWidth+"/"+document.documentElement.clientWidth;},1200));</script></body>
 </html>

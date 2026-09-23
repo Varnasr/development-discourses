@@ -192,13 +192,100 @@ a:hover {
     font-weight: 500;
 }
 
-/* ===== Search & Filters ===== */
+/* ===== The library layout =====
+ *
+ * Before 2026-09-23 the search box and five filter groups ran the full width
+ * above the results, and the whole block was `position: sticky`. Measured at
+ * 1280x900: 620px of controls before the first resource, so exactly one card
+ * was on the first screen and it was cut by the fold. Scrolling then pinned
+ * the 500px of filters to the top of the viewport.
+ *
+ * The filters are a rail now, and the results start at the top of the page.
+ * The sticky is on the rail, which is short enough to justify one.
+ */
+.library {
+    display: block;
+}
+
+@media (min-width: 1024px) {
+    .library {
+        display: grid;
+        grid-template-columns: 286px minmax(0, 1fr);
+        gap: 40px;
+        align-items: start;
+    }
+    .library > .search-section,
+    .library > .results-section {
+        min-width: 0;
+    }
+    .library .rail {
+        position: sticky;
+        top: 16px;
+        max-height: calc(100vh - 32px);
+        overflow-y: auto;
+        overscroll-behavior: contain;
+        padding-right: 4px;
+    }
+}
+
 .search-section {
     padding: 24px 0 0;
-    position: sticky;
-    top: 0;
-    z-index: 100;
     background: var(--color-bg);
+}
+
+/* Below the rail breakpoint the filters are behind a disclosure. Five filter
+ * groups is 500px on a phone, which is the whole screen and then some. */
+.filter-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+    padding: 9px 16px;
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.filter-toggle:hover {
+    border-color: var(--color-accent);
+    color: var(--color-accent);
+}
+
+/* `display` on the element beats the hidden attribute's UA rule, so an empty
+ * badge would render as a 0 that means "no filters" and reads as "no results". */
+.filter-toggle-count[hidden] {
+    display: none;
+}
+
+.filter-toggle-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 20px;
+    height: 20px;
+    padding: 0 6px;
+    font-size: 0.7rem;
+    border-radius: 10px;
+    background: var(--color-accent);
+    color: var(--color-on-accent);
+}
+
+.filter-toggle[aria-expanded="false"] + .filter-bar {
+    display: none;
+}
+
+@media (min-width: 1024px) {
+    .filter-toggle {
+        display: none;
+    }
+    .filter-toggle[aria-expanded="false"] + .filter-bar {
+        display: block;
+    }
 }
 
 .search-box {
@@ -319,6 +406,22 @@ a:hover {
     flex-wrap: wrap;
 }
 
+@media (min-width: 1024px) {
+    .filter-row {
+        display: block;
+    }
+    .filter-group {
+        margin-bottom: 16px;
+    }
+    .filter-bar {
+        border-bottom: none;
+        padding-bottom: 0;
+    }
+    .sort-select {
+        width: 100%;
+    }
+}
+
 .filter-row .filter-group:first-child {
     flex: 1;
 }
@@ -403,6 +506,12 @@ a:hover {
 /* ===== Results ===== */
 .results-section {
     padding: 16px 0 48px;
+}
+
+@media (min-width: 1024px) {
+    .results-section {
+        padding-top: 24px;
+    }
 }
 
 .results-header {

@@ -129,6 +129,31 @@ The last two were found by running axe over the built pages in both themes at
 both viewports. A token check and a browser audit are not substitutes for each
 other; run both when you touch colour.
 
+## The first screen carried no library
+
+Measured at 1280x900 on 2026-09-23: **620px of controls before the first
+resource**, so one card was on the first screen and the fold cut it. The search
+box and five filter groups ran the full width above the results, and the whole
+block was `position: sticky`, so scrolling pinned 500px of filters to the top
+of the viewport for the rest of the session. On a phone it was worse: the same
+five groups stack to about 500px, which is the whole screen.
+
+The filters are a 286px rail above 1024px and the results start at the top of
+the page. Pixels to the first resource went 640 to 255, and 3 cards fit on the
+first screen where one did. The sticky is on the rail now, which is short
+enough to justify one.
+
+Below 1024px the rail is behind a `Filters` disclosure, closed by default,
+carrying a count of how many filters are on. **That count is not decoration.**
+A collapsed panel silently holding three filters is a reader looking at 40
+results and concluding the library is small. `renderActiveFilters()` writes it
+and deliberately excludes the search term, which is visible in the search box.
+
+One trap while doing it: `.filter-toggle-count { display: inline-flex }` beats
+the `hidden` attribute's user-agent rule, so the badge rendered `0` when no
+filter was on. `[hidden]` needs its own rule whenever you give an element a
+`display`.
+
 ## Watch out for
 
 - **The service worker shell is cache-first.** Change any of `index.html`,
