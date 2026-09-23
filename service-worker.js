@@ -15,7 +15,7 @@
  * appear, and only a first-time visitor would ever see the feature. Hence v4.
  */
 
-const CACHE_VERSION = 'dd-v4';
+const CACHE_VERSION = 'dd-v5';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 
