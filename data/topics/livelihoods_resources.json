@@ -13,7 +13,8 @@
       "livelihoods",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Voices of the Poor: Crying Out for Change",
@@ -28,7 +29,8 @@
     "tags": [
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2013: Jobs",
@@ -44,7 +46,8 @@
       "livelihoods",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2008: Agriculture for Development",
@@ -62,7 +65,8 @@
       "poverty",
       "value-chains"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Human Development Report 2015: Work for Human Development",
@@ -79,7 +83,8 @@
       "livelihoods",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Women Empowerment and Economic Development",
@@ -96,7 +101,8 @@
       "livelihoods",
       "womens-empowerment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Microfinance Promise",
@@ -113,7 +119,8 @@
       "microfinance",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Six Randomized Evaluations of Microcredit: Introduction and Further Steps",
@@ -130,7 +137,8 @@
       "livelihoods",
       "microfinance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Miracle of Microfinance? Evidence from a Randomized Evaluation",
@@ -150,7 +158,8 @@
       "microfinance",
       "womens-empowerment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Microcredit Impacts: Evidence from a Randomized Microcredit Program Placement Experiment by Compartamos Banco",
@@ -167,7 +176,8 @@
       "livelihoods",
       "microfinance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Impacts of Microfinance: Evidence from Joint-Liability Lending in Mongolia",
@@ -185,7 +195,8 @@
       "microfinance",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Impacts of Microcredit: Evidence from Bosnia and Herzegovina",
@@ -204,7 +215,8 @@
       "livelihoods",
       "microfinance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Repayment Frequency and Default in Microfinance: Evidence from India",
@@ -221,7 +233,8 @@
       "livelihoods",
       "microfinance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Repayment Flexibility Can Reduce Financial Stress: A Randomized Control Trial with Microfinance Clients in India",
@@ -240,7 +253,8 @@
       "livelihoods",
       "microfinance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Participation in Microfinance-Based Self Help Groups in India: Who Becomes a Member and for How Long?",
@@ -258,7 +272,8 @@
       "livelihoods",
       "microfinance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Rural Credit Programs and Women's Empowerment in Bangladesh",
@@ -275,7 +290,8 @@
       "livelihoods",
       "womens-empowerment"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Savings Constraints and Microenterprise Development: Evidence from a Field Experiment in Kenya",
@@ -290,7 +306,8 @@
     "tags": [
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Microentrepreneurship in Developing Countries",
@@ -306,7 +323,8 @@
       "livelihoods",
       "microfinance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Why Do People Stay Poor?",
@@ -323,7 +341,8 @@
       "livelihoods",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "From Extreme Poverty to Sustainable Livelihoods: A Technical Guide to the Graduation Approach",
@@ -341,7 +360,8 @@
       "poverty",
       "ultra-poor"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Graduation Pathways: Increasing Income and Resilience for the Extreme Poor",
@@ -359,7 +379,8 @@
       "livelihoods",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Crafting a Graduation Pathway for the Ultra Poor: Lessons and Evidence from a BRAC Programme",
@@ -376,7 +397,8 @@
       "graduation-approach",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Vocational and Skills Training Programs to Improve Labor Market Outcomes",
@@ -393,7 +415,8 @@
       "labor-markets",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda",
@@ -410,7 +433,8 @@
       "employment",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Safe Spaces with Vocational and Life Skills Training for Young Women's Economic and Social Empowerment in Uganda",
@@ -425,7 +449,8 @@
     "tags": [
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Youth Aspirations and the Reality of Jobs in Developing Countries: Mind the Gap",
@@ -443,7 +468,8 @@
       "livelihoods",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Economics and Emigration: Trillion-Dollar Bills on the Sidewalk?",
@@ -459,7 +485,8 @@
       "livelihoods",
       "migration"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "International Migration, Remittances, and Household Investment: Evidence from Philippine Migrants' Exchange Rate Shocks",
@@ -476,7 +503,8 @@
       "livelihoods",
       "migration"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Remittances and Poverty in Migrants' Home Areas: Evidence from the Philippines",
@@ -492,7 +520,8 @@
       "livelihoods",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Investing in Smallholder Agriculture for Food Security",
@@ -509,7 +538,8 @@
       "food-security",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Smallholders, Food Security, and the Environment",
@@ -527,7 +557,8 @@
       "food-security",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Rural Development Report 2021: Transforming Food Systems for Rural Prosperity",
@@ -542,7 +573,8 @@
     "tags": [
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Rural Development Report 2019: Creating Opportunities for Rural Youth",
@@ -558,7 +590,8 @@
       "livelihoods",
       "migration"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Linking African Smallholders to High-Value Markets",
@@ -574,7 +607,8 @@
       "livelihoods",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Working with Smallholders: A Handbook for Firms Building Sustainable Supply Chains",
@@ -591,7 +625,8 @@
       "supply-chains",
       "value-chains"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Value Chain Microfinance",
@@ -608,7 +643,8 @@
       "microfinance",
       "value-chains"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Impact of Ethiopia's Productive Safety Net Programme and its Linkages",
@@ -626,7 +662,8 @@
       "livelihoods",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Enhancing Productivity in the Urban Informal Economy",
@@ -641,7 +678,8 @@
     "tags": [
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Informal Economy and Decent Work: A Policy Resource Guide",
@@ -658,7 +696,8 @@
       "livelihoods",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Urban Informal Economy: Achieving Prospering and Territorial Equality",
@@ -675,7 +714,8 @@
       "governance",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Informal Economy and the World Bank",
@@ -692,7 +732,8 @@
       "labor-markets",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Employment and Social Outlook: Trends 2024",
@@ -710,7 +751,8 @@
       "labor-markets",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Counting and Multidimensional Poverty Measurement",
@@ -727,7 +769,8 @@
       "livelihoods",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Can Social Enterprises Aid Sustainable Development? Evidence from Multi-Stage Investigations",
@@ -746,7 +789,8 @@
       "education",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Rural Non-Farm Economy, Livelihoods and Their Diversification: Issues and Options",
@@ -762,7 +806,8 @@
       "Latin-America",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Growing the Rural Non-Farm Economy to Alleviate Poverty: An IEG Evaluation of World Bank Group Support 2004-2014",
@@ -778,7 +823,8 @@
       "livelihoods",
       "poverty"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Sustainable Livelihoods Framework",
@@ -786,14 +832,15 @@
     "year": 1999,
     "type": "grey_literature",
     "topic": "Livelihoods",
-    "url": "https://www.ennonline.net/dfidsustainableliving",
+    "url": "https://www.livelihoodscentre.org/documents/114097690/114438878/Sustainable+livelihoods+guidance+sheets.pdf",
     "description": "The foundational DFID guidance sheets that made 'sustainable livelihoods' a central lens in development practice.",
     "id": "sustainable-livelihoods-framework",
     "access_type": "check_access",
     "tags": [
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Ultra-Poor Graduation Approach: Evidence",
@@ -801,17 +848,19 @@
     "year": 2015,
     "type": "grey_literature",
     "topic": "Livelihoods",
-    "url": "https://www.povertyactionlab.org/evaluation/impact-ultra-poor-graduation-programs-six-countries",
+    "url": "https://www.science.org/doi/10.1126/science.1260799",
     "description": "Six-country RCT evidence that the BRAC-pioneered graduation model produces lasting gains for the poorest households.",
     "id": "the-ultra-poor-graduation-approach-evidence",
-    "access_type": "open_access",
+    "access_type": "free_to_read",
     "tags": [
       "RCT",
       "graduation-approach",
       "livelihoods",
       "ultra-poor"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23",
+    "doi": "10.1126/science.1260799"
   },
   {
     "title": "Women and Men in the Informal Economy: A Statistical Picture",
@@ -826,7 +875,8 @@
     "tags": [
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Future of Work in the Global South",
@@ -841,7 +891,8 @@
     "tags": [
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "broken",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Skills Development and the Informal Sector",
@@ -857,7 +908,8 @@
       "informal-economy",
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Self-Help Groups and Women's Empowerment in India",
@@ -875,7 +927,8 @@
       "livelihoods",
       "womens-empowerment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Rural Non-Farm Economy and Livelihood Diversification",
@@ -890,7 +943,8 @@
     "tags": [
       "livelihoods"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Decent Work and the Sustainable Development Goals",
@@ -898,7 +952,7 @@
     "year": 2019,
     "type": "grey_literature",
     "topic": "Livelihoods",
-    "url": "https://www.ilo.org/global/topics/dw4sd",
+    "url": "https://www.ilo.org/topics/decent-work-and-2030-agenda-sustainable-development",
     "description": "ILO framework linking decent work, social protection, and the 2030 Agenda.",
     "id": "decent-work-and-the-sustainable-development-goals",
     "access_type": "open_access",
@@ -906,6 +960,7 @@
       "livelihoods",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

@@ -16,7 +16,8 @@
       "gender",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Miracle of Microfinance? Evidence from a Randomized Evaluation",
@@ -35,7 +36,8 @@
       "microfinance",
       "womens-empowerment"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "State of the Industry Report on Mobile Money 2023",
@@ -51,7 +53,8 @@
       "financial-inclusion",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Financial Inclusion: Overview",
@@ -66,7 +69,8 @@
     "tags": [
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Microfinance and Poverty: Evidence Using Panel Data from Bangladesh",
@@ -85,7 +89,8 @@
       "panel-data",
       "poverty"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Expanding Access to Finance: Good Practices and Policies for Micro, Small, and Medium Enterprises",
@@ -100,7 +105,8 @@
     "tags": [
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Financial Inclusion and Development: A Cross Country Analysis",
@@ -117,7 +123,8 @@
       "financial-inclusion",
       "gender"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Financial Education Programs and Interventions: A Systematic Review and Meta-analysis",
@@ -136,7 +143,8 @@
       "meta-analysis",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Achieving Universal Financial Access by 2020",
@@ -151,7 +159,8 @@
     "tags": [
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "FinTech and Financial Inclusion in the New Normal",
@@ -167,7 +176,8 @@
       "digital",
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Remittances and Financial Inclusion: Evidence from El Salvador",
@@ -183,7 +193,8 @@
       "digital",
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Little Data Book on Financial Inclusion 2022",
@@ -199,7 +210,8 @@
       "digital",
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "National Financial Inclusion Strategies: Current State of Practice",
@@ -214,7 +226,8 @@
     "tags": [
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Global Findex Database 2021",
@@ -229,7 +242,8 @@
     "tags": [
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Financial Inclusion and Digital Financial Services",
@@ -245,7 +259,8 @@
       "digital",
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The State of Economic Inclusion Report 2021",
@@ -261,7 +276,8 @@
       "financial-inclusion",
       "graduation-approach"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Banking the World: Empirical Foundations of Financial Inclusion",
@@ -276,7 +292,8 @@
     "tags": [
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Portfolios of the Poor: How the World's Poor Live on $2 a Day",
@@ -293,7 +310,8 @@
       "India",
       "financial-inclusion"
     ],
-    "verified": false
+    "link_status": "unknown",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Six Randomized Evaluations of Microcredit",
@@ -301,16 +319,18 @@
     "year": 2015,
     "type": "grey_literature",
     "topic": "Financial Inclusion",
-    "url": "https://www.povertyactionlab.org/evaluation/measuring-impact-microcredit-hyderabad-india",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/app.20140287",
     "description": "The synthesis showing that microcredit expands business activity but has modest average effects on income and well-being.",
     "id": "six-randomized-evaluations-of-microcredit",
-    "access_type": "open_access",
+    "access_type": "check_access",
     "tags": [
       "RCT",
       "financial-inclusion",
       "microfinance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23",
+    "doi": "10.1257/app.20140287"
   },
   {
     "title": "Digital Financial Services and Inclusion",
@@ -327,7 +347,8 @@
       "financial-inclusion",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Advancing Women's Financial Inclusion",
@@ -345,6 +366,7 @@
       "gender",
       "mobile-technology"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   }
 ]

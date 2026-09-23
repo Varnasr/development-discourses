@@ -13,7 +13,8 @@
       "RCT",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Impact Evaluation in Practice, Second Edition",
@@ -33,7 +34,8 @@
       "meal-evaluation",
       "regression-discontinuity"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Handbook on Impact Evaluation: Quantitative Methods and Practices",
@@ -52,7 +54,8 @@
       "meal-evaluation",
       "regression-discontinuity"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Understanding and Misunderstanding Randomized Controlled Trials",
@@ -68,7 +71,8 @@
       "RCT",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Instruments, Randomization, and Learning about Development",
@@ -85,7 +89,8 @@
       "instrumental-variables",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Randomized Control Trials in the Field of Development: A Critical Perspective",
@@ -101,7 +106,8 @@
       "RCT",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Influence of Randomized Controlled Trials on Development Economics Research and on Development Policy",
@@ -117,7 +123,8 @@
       "RCT",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Theory-Based Impact Evaluation: Principles and Practice",
@@ -133,7 +140,8 @@
       "impact-evaluation",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Broadening the Range of Designs and Methods for Impact Evaluations",
@@ -149,7 +157,8 @@
       "impact-evaluation",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Models of Causality and Causal Inference",
@@ -165,7 +174,8 @@
       "impact-evaluation",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Quasi-Experimental Design and Methods",
@@ -183,7 +193,8 @@
       "quasi-experimental",
       "regression-discontinuity"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Theory of Change (Methodological Briefs: Impact Evaluation No. 2)",
@@ -191,7 +202,7 @@
     "year": 2014,
     "type": "grey_literature",
     "topic": "MEAL & Evaluation",
-    "url": "https://www.entwicklung.at/fileadmin/user_upload/Dokumente/Evaluierung/Theory_of_Change/UNICEF_Theory_of_change.pdf",
+    "url": "https://www.unicef-irc.org/publications/747-theory-of-change-methodological-briefs-impact-evaluation-no-2.html",
     "description": "UNICEF methodological brief explaining how to develop and use theories of change in impact evaluation, covering situation analysis, causal pathways, assumptions testing, and the role of theory in evaluation design.",
     "id": "theory-of-change-methodological-briefs-impact-evaluation-no-2",
     "access_type": "check_access",
@@ -200,7 +211,8 @@
       "meal-evaluation",
       "theory-of-change"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Applying a Theory of Change Approach to the Evaluation of Comprehensive Community Initiatives",
@@ -216,7 +228,8 @@
       "meal-evaluation",
       "theory-of-change"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Outcome Mapping: Building Learning and Reflection into Development Programs",
@@ -231,7 +244,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Contribution Analysis: An Approach to Exploring Cause and Effect",
@@ -246,7 +260,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Contribution Analysis: Coming of Age?",
@@ -261,7 +276,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Realist Evaluation",
@@ -276,7 +292,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Realistic Evaluation: An Overview",
@@ -291,7 +308,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "OECD DAC Evaluation Criteria: Adapted Definitions and Principles for Use",
@@ -306,7 +324,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Results Based Management in the Development Co-operation Agencies: A Review of Experience",
@@ -321,7 +340,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Measuring and Managing Results in Development Co-operation: A Review of Challenges and Practices among DAC Members and Observers",
@@ -336,7 +356,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "UNDP Evaluation Guidelines",
@@ -351,7 +372,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "USAID Agency Learning Agenda FY 2022-2026",
@@ -366,7 +388,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "DFID Evaluation Strategy",
@@ -381,7 +404,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "DFID's Approach to Value for Money in Programme and Portfolio Management",
@@ -396,7 +420,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Introduction to Mixed Methods in Impact Evaluation",
@@ -413,7 +438,8 @@
       "meal-evaluation",
       "qualitative"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Monitoring and Evaluation for Adaptive Management Working Paper 2: What Is Adaptive Management and How Does It Work?",
@@ -429,7 +455,8 @@
       "M&E",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Complexity-Aware Methods (Fact Sheet)",
@@ -444,7 +471,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "3ie Evidence Gap Maps: A Starting Point for Strategic Evidence Production and Use",
@@ -461,7 +489,8 @@
       "meal-evaluation",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Evidence and Gap Maps: A Comparison of Different Approaches",
@@ -477,7 +506,8 @@
       "meal-evaluation",
       "scoping-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Integrating Gender Equality in Monitoring and Evaluation",
@@ -494,7 +524,8 @@
       "gender",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Government Monitoring and Evaluation System in India: A Work in Progress",
@@ -511,7 +542,8 @@
       "M&E",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Improving Beneficiary Feedback Mechanisms for Refugees",
@@ -527,7 +559,8 @@
       "digital",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Data Quality for Monitoring and Evaluation Systems (Fact Sheet)",
@@ -543,7 +576,8 @@
       "M&E",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Introduction to Cost-Effectiveness Analysis",
@@ -561,7 +595,8 @@
       "cost-effectiveness",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Impact Evaluability Toolkit",
@@ -579,7 +614,8 @@
       "impact-evaluation",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Outcome Mapping (Knowledge Solutions)",
@@ -594,7 +630,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Running Randomized Evaluations: A Practical Guide",
@@ -602,7 +639,7 @@
     "year": 2013,
     "type": "book",
     "topic": "MEAL & Evaluation",
-    "url": "https://runningres.com/",
+    "url": "https://press.princeton.edu/books/paperback/9780691159270/running-randomized-evaluations",
     "description": "A step-by-step field manual for designing and implementing randomised controlled trials in development.",
     "id": "running-randomized-evaluations-a-practical-guide",
     "access_type": "check_access",
@@ -610,7 +647,8 @@
       "RCT",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Rethinking Impact to Improve Effectiveness",
@@ -625,7 +663,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The DAC Evaluation Criteria: Adapted Definitions",
@@ -640,7 +679,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Developmental Evaluation",
@@ -655,7 +695,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "A Guide to Monitoring and Evaluation for Programmes",
@@ -671,7 +712,8 @@
       "M&E",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Outcome Mapping: Building Learning and Reflection into Development",
@@ -686,7 +728,8 @@
     "tags": [
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Using Administrative Data for Monitoring and Evaluation",
@@ -702,6 +745,7 @@
       "M&E",
       "meal-evaluation"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

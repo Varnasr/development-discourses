@@ -188,17 +188,26 @@
         paperCount.textContent = allResources.filter(r => r.type === 'paper').length;
         bookCount.textContent = allResources.filter(r => r.type === 'book').length;
         greyCount.textContent = allResources.filter(r => r.type === 'grey_literature').length;
-        const topics = new Set(allResources.map(r => r.topic));
+        const topics = new Set(allResources.flatMap(topicsOf));
         topicCount.textContent = topics.size;
+    }
+
+    // A resource curated into two topics belongs in both filters. The build
+    // used to drop the second copy outright, so 24 assignments simply were not
+    // there; `topics` carries all of them and `topic` remains the first.
+    function topicsOf(r) {
+        return (r.topics && r.topics.length) ? r.topics : (r.topic ? [r.topic] : []);
     }
 
     function buildTopicFilters() {
         const counts = {};
-        allResources.forEach(r => { counts[r.topic] = (counts[r.topic] || 0) + 1; });
+        allResources.forEach(r => topicsOf(r).forEach(t => { counts[t] = (counts[t] || 0) + 1; }));
         const topics = Object.keys(counts).sort();
         topics.forEach(topic => {
             const btn = document.createElement('button');
             btn.className = 'pill';
+            btn.type = 'button';
+            btn.setAttribute('aria-pressed', 'false');
             btn.dataset.filter = topic;
             btn.innerHTML = `${escapeHtml(topic)} <span class="pill-count">${counts[topic]}</span>`;
             topicFilters.appendChild(btn);
@@ -227,7 +236,7 @@
     }
 
     function buildAboutTopics() {
-        const topics = [...new Set(allResources.map(r => r.topic))].sort();
+        const topics = [...new Set(allResources.flatMap(topicsOf))].sort();
         aboutTopics.innerHTML = topics.map(t =>
             `<a class="topic-tag" href="?topic=${encodeURIComponent(t)}">${escapeHtml(t)}</a>`
         ).join('');
@@ -259,9 +268,17 @@
         setActivePill(accessFilters, currentAccess);
         setActivePill(decadeFilters, currentDecade);
         if (currentView === 'grid') {
-            document.querySelectorAll('.view-btn').forEach(b => b.classList.toggle('active', b.dataset.view === 'grid'));
+            setActiveView('grid');
             resourcesList.classList.add('grid-view');
         }
+    }
+
+    function setActiveView(view) {
+        document.querySelectorAll('.view-btn').forEach(b => {
+            const on = b.dataset.view === view;
+            b.classList.toggle('active', on);
+            b.setAttribute('aria-pressed', on ? 'true' : 'false');
+        });
     }
 
     function setActivePill(container, value) {
@@ -270,6 +287,11 @@
         container.querySelectorAll('.pill').forEach(p => {
             const on = p.dataset.filter === value;
             p.classList.toggle('active', on);
+            // The selected filter was carried by a class alone, which is a
+            // purely visual signal: a screen reader in one of these groups
+            // heard five identically-named buttons with nothing to say which
+            // one was in force.
+            p.setAttribute('aria-pressed', on ? 'true' : 'false');
             if (on) matched = true;
         });
         if (!matched) {
@@ -329,9 +351,8 @@
         // View toggle
         document.querySelectorAll('.view-btn').forEach(btn => {
             btn.addEventListener('click', function () {
-                document.querySelectorAll('.view-btn').forEach(b => b.classList.remove('active'));
-                this.classList.add('active');
                 currentView = this.dataset.view;
+                setActiveView(currentView);
                 resourcesList.classList.toggle('grid-view', currentView === 'grid');
                 writeStateToURL();
             });
@@ -457,13 +478,13 @@
 
         filteredResources = allResources.filter(r => {
             if (savedOnly && !isBookmarked(resKey(r))) return false;
-            if (currentTopic !== 'all' && r.topic !== currentTopic) return false;
+            if (currentTopic !== 'all' && !topicsOf(r).includes(currentTopic)) return false;
             if (currentType !== 'all' && r.type !== currentType) return false;
             if (currentAccess !== 'all' && (r.access_type || 'check_access') !== currentAccess) return false;
             if (currentDecade !== 'all' && r.year && String(decadeOf(r.year)) !== currentDecade) return false;
             if (currentDecade !== 'all' && !r.year) return false;
             if (terms.length) {
-                const haystack = `${r.title} ${r.authors} ${r.description} ${r.topic} ${(r.tags || []).join(' ')}`.toLowerCase();
+                const haystack = `${r.title} ${r.authors} ${r.description} ${topicsOf(r).join(' ')} ${(r.tags || []).join(' ')}`.toLowerCase();
                 if (!terms.every(term => haystack.includes(term))) return false;
             }
             return true;
@@ -594,7 +615,7 @@
                 </div>
                 ${r.description ? `<p class="resource-description">${highlight(truncate(r.description, 220), terms)}</p>` : ''}
                 <div class="resource-footer">
-                    <span class="resource-topic-tag">${escapeHtml(r.topic)}</span>
+                    <span class="resource-topics">${topicsOf(r).map(t => `<span class="resource-topic-tag">${escapeHtml(t)}</span>`).join('')}</span>
                     <div class="resource-footer-right">
                         ${(r.tags && r.tags.length > 0) ? `<span class="resource-tag-count">${r.tags.length} tags</span>` : ''}
                         <span class="resource-link-icon">View &rarr;</span>
@@ -638,7 +659,7 @@
   author = {${r.authors || 'Unknown'}},
   title = {${r.title}},
   year = {${r.year || ''}},
-  howpublished = {${escapeBib(r.topic)}},
+  howpublished = {${escapeBib(topicsOf(r).join('; '))}},
   url = {${r.url}}${r.doi ? `,\n  doi = {${r.doi}}` : ''}
 }`;
     }
@@ -646,13 +667,15 @@
     function escapeBib(s) { return (s || '').replace(/[{}]/g, ''); }
 
     function toCSV(rows) {
-        const headers = ['title', 'authors', 'year', 'type', 'topic', 'access_type', 'url', 'description'];
+        const headers = ['title', 'authors', 'year', 'type', 'topics', 'access_type', 'url', 'alt_urls', 'description'];
         const esc = v => {
-            const s = String(v === undefined || v === null ? '' : v);
+            const s = Array.isArray(v) ? v.join('; ')
+                : String(v === undefined || v === null ? '' : v);
             return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
         };
         const lines = [headers.join(',')];
-        rows.forEach(r => lines.push(headers.map(h => esc(r[h])).join(',')));
+        rows.forEach(r => lines.push(headers.map(
+            h => esc(h === 'topics' ? topicsOf(r) : r[h])).join(',')));
         return lines.join('\n');
     }
 

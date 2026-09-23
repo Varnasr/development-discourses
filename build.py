@@ -74,19 +74,66 @@ def validate_resources(resources):
     return warnings
 
 
-def deduplicate(resources):
-    """Remove duplicates by normalized title. Returns (unique, duplicates_removed)."""
-    seen = {}
-    unique = []
-    dupes = 0
+def merge_duplicates(resources):
+    """Fold entries that share a title into one record, keeping what differs.
+
+    This used to be `deduplicate()`, which kept the first entry under a given
+    normalised title and dropped the rest without a word. On 2026-09-23 that
+    was 24 of 669 entries, and **every one of the 21 affected titles spanned
+    more than one topic**, so what it was actually discarding was a topic
+    assignment a curator had made on purpose. "Conditional Cash Transfers:
+    Reducing Present and Future Poverty" is filed under both Public Policy &
+    Governance and Social Protection; after deduplication it existed only
+    under the first, because that file sorts earlier, and a reader filtering
+    to Social Protection could not find it. Nothing errored and the count in
+    stats.json agreed with itself.
+
+    Eleven of the 21 also carried **different URLs** under the same title,
+    usually a working paper and the published version: the NBER PDF of "The
+    Miracle of Microfinance?" and J-PAL's evaluation page for it. Dropping one
+    lost a real, different link.
+
+    So: one record per title, `topics` carrying every topic it was filed
+    under, `alt_urls` carrying the other links. `topic` stays as the first one
+    so every consumer that reads a scalar keeps working.
+    """
+    order = []
+    merged = {}
     for r in resources:
         key = r.get("title", "").strip().lower()
-        if key in seen:
-            dupes += 1
-        else:
-            seen[key] = True
-            unique.append(r)
-    return unique, dupes
+        if key not in merged:
+            r["topics"] = [r["topic"]] if r.get("topic") else []
+            merged[key] = r
+            order.append(key)
+            continue
+        first = merged[key]
+        topic = r.get("topic")
+        if topic and topic not in first["topics"]:
+            first["topics"].append(topic)
+        url = r.get("url")
+        if url and url != first.get("url"):
+            first.setdefault("alt_urls", [])
+            if url not in first["alt_urls"]:
+                first["alt_urls"].append(url)
+        # Prefer the longer description and any DOI the other copy carried.
+        if len(r.get("description", "")) > len(first.get("description", "")):
+            first["description"] = r["description"]
+        if r.get("doi") and not first.get("doi"):
+            first["doi"] = r["doi"]
+        for tag in r.get("tags", []):
+            if tag not in first.setdefault("tags", []):
+                first["tags"].append(tag)
+        # A link the checker could reach beats one it could not.
+        rank = {"ok": 0, "paywalled": 1, "blocked": 2, "unknown": 3, "broken": 4}
+        if rank.get(r.get("link_status"), 9) < rank.get(first.get("link_status"), 9):
+            first["link_status"] = r["link_status"]
+            first["link_checked"] = r.get("link_checked")
+
+    unique = [merged[k] for k in order]
+    for r in unique:
+        r["topics"] = sorted(r.get("topics") or ([r["topic"]] if r.get("topic") else []))
+    folded = len(resources) - len(unique)
+    return unique, folded
 
 
 def clean_resources(resources):
@@ -103,10 +150,10 @@ def print_stats(resources):
     topics = {}
     types = {}
     for r in resources:
-        topic = r.get("topic", "Unknown")
         rtype = r.get("type", "unknown")
-        topics[topic] = topics.get(topic, 0) + 1
         types[rtype] = types.get(rtype, 0) + 1
+        for topic in (r.get("topics") or [r.get("topic", "Unknown")]):
+            topics[topic] = topics.get(topic, 0) + 1
 
     print(f"\n{'='*50}")
     print(f"  Development Discourses - Library Stats")
@@ -150,9 +197,10 @@ def main():
         else:
             print("All entries valid.")
 
-    resources, dupes = deduplicate(resources)
-    if dupes:
-        print(f"Removed {dupes} duplicate(s).")
+    resources, folded = merge_duplicates(resources)
+    if folded:
+        print(f"Folded {folded} repeated title(s) into their first entry, "
+              f"keeping every topic and any differing URL.")
 
     resources = clean_resources(resources)
 

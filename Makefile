@@ -6,7 +6,7 @@ PORT   ?= 8000
 
 .DEFAULT_GOAL := help
 
-.PHONY: help build enrich assets stats validate verify serve test clean
+.PHONY: help build enrich assets stats validate verify recheck contrast serve test clean
 
 help: ## Show this help
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | \
@@ -28,8 +28,14 @@ stats: ## Print library statistics
 validate: ## Validate topic files without writing
 	$(PYTHON) build.py --validate --dry-run
 
-verify: ## Check that all resource URLs are reachable
+verify: ## Check every resource URL and record what came back
 	$(PYTHON) verify_urls.py
+
+recheck: ## Re-check only the URLs that were not ok last time
+	$(PYTHON) verify_urls.py --recheck
+
+contrast: ## Measure every ink token against every surface, both themes
+	$(PYTHON) check_contrast.py
 
 serve: ## Serve the site locally at http://localhost:$(PORT)
 	$(PYTHON) -m http.server $(PORT)

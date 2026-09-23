@@ -6,7 +6,7 @@ Produces:
   - feed.json              JSON Feed 1.1 of the most recently added resources
   - opensearch.xml         OpenSearch descriptor for browser search integration
   - data/stats.json        aggregate counts consumed by the frontend / badges
-  - data/search-index.json trimmed index (id, title, authors, year, topic, type)
+  - data/search-index.json trimmed index (id, title, authors, year, topic(s), type)
 
 Usage:
     python3 generate_assets.py
@@ -109,7 +109,11 @@ def build_opensearch(base_url: str) -> str:
 
 def build_stats(resources: list[dict]) -> dict:
     types = Counter(r.get("type", "unknown") for r in resources)
-    topics = Counter(r.get("topic", "Unknown") for r in resources)
+    # Counted across `topics`, not the scalar `topic`. A resource filed under
+    # two topics is in both filters, so it has to be in both counts or the
+    # pill beside the filter disagrees with the list the filter returns.
+    topics = Counter(t for r in resources
+                     for t in (r.get("topics") or [r.get("topic", "Unknown")]))
     access = Counter(r.get("access_type", "check_access") for r in resources)
     years = [r.get("year") for r in resources if r.get("year")]
     return {
@@ -126,8 +130,9 @@ def build_stats(resources: list[dict]) -> dict:
 # ---- search-index.json ----
 
 def build_search_index(resources: list[dict]) -> list[dict]:
-    keep = ("id", "title", "authors", "year", "topic", "type", "access_type")
-    return [{k: r.get(k) for k in keep} for r in resources]
+    keep = ("id", "title", "authors", "year", "topic", "topics", "type",
+            "access_type", "link_status")
+    return [{k: r.get(k) for k in keep if r.get(k) is not None} for r in resources]
 
 
 def write(path: str, content: str, dry_run: bool) -> None:

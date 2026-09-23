@@ -7,7 +7,7 @@ Adds the following fields to each resource:
   - access_type: "open_access" | "free_to_read" | "check_access"
   - doi: extracted from URL where possible
   - tags: auto-generated keyword tags from title/description
-  - verified: false (placeholder for manual verification)
+  - drops the legacy `verified` flag (see the note in enrich_entry)
 
 Usage:
     python3 enrich_data.py              # enrich all topic files in-place
@@ -348,8 +348,13 @@ def enrich_file(filepath, dry_run=False):
             r.get("topic", ""),
         )
 
-        # Mark as unverified
-        r["verified"] = False
+        # `verified` used to be reset to False here on every resource on
+        # every build, which made resource.html's "Verified" badge unreachable
+        # code: nothing could ever set it, because this line ran after anything
+        # that might have. The field is gone, and what the pipeline actually
+        # knows about a link now lives in `link_status` / `link_checked`,
+        # written by verify_urls.py and deliberately not touched here.
+        r.pop("verified", None)
 
         changes += 1
 

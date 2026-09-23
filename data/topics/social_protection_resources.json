@@ -13,7 +13,8 @@
       "poverty",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The State of Social Safety Nets 2018",
@@ -28,7 +29,8 @@
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Cash Transfers: What Does the Evidence Say? A Rigorous Review of Programme Impact and the Role of Design and Implementation Features",
@@ -46,7 +48,8 @@
       "food-security",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Conditional Cash Transfers: Reducing Present and Future Poverty",
@@ -64,7 +67,8 @@
       "poverty",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Protection and Labor at the World Bank, 2000-2008",
@@ -80,7 +84,8 @@
       "labor-markets",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Public Works Programs in Developing Countries: Beyond Safety Net Programs",
@@ -95,7 +100,8 @@
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Productive Safety Net Programme in Ethiopia: Impacts on Children's Schooling and Labour",
@@ -111,7 +117,8 @@
       "education",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Targeting of Social Programs in Africa",
@@ -126,7 +133,8 @@
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Safety Nets and Gender: Learning from Impact Evaluations and World Bank Projects",
@@ -145,7 +153,8 @@
       "nutrition",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Adaptive Social Protection: Building Resilience to Shocks",
@@ -162,7 +171,8 @@
       "climate-change",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Universal Basic Income: A Primer",
@@ -178,7 +188,8 @@
       "UBI",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Registries for Social Assistance and Beyond: A Guidance Note and Assessment Tool",
@@ -193,7 +204,8 @@
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Closing the Coverage Gap: The Role of Social Pensions and Other Retirement Income Transfers",
@@ -209,7 +221,8 @@
       "poverty",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Protecting the Poor: A Microinsurance Compendium",
@@ -224,7 +237,8 @@
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Safety Nets in Latin America: Responding to Crises and Building Resilience",
@@ -241,7 +255,8 @@
       "cash-transfers",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "India's National Rural Employment Guarantee Act (NREGA): An Assessment",
@@ -260,7 +275,8 @@
       "poverty",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Protection in a Changing Climate: Linking Social Protection and Climate Change Adaptation",
@@ -277,7 +293,8 @@
       "climate-change",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Sourcebook on the Foundations of Social Protection Delivery Systems",
@@ -292,7 +309,8 @@
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Long-Term Impacts of Conditional Cash Transfers: Review of the Evidence",
@@ -310,7 +328,8 @@
       "poverty",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Protection and Economic Growth in Low-Income Countries",
@@ -325,7 +344,8 @@
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Government Spending on Social Protection in Sub-Saharan Africa",
@@ -341,7 +361,8 @@
       "Sub-Saharan-Africa",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Role of Digital Technology in Social Protection During and After COVID-19",
@@ -358,7 +379,8 @@
       "mobile-technology",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "School Feeding Programs: Addressing Malnutrition and Improving Education",
@@ -375,7 +397,8 @@
       "nutrition",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Reaching the Last Mile: Social Protection for Persons with Disabilities in Low- and Middle-Income Countries",
@@ -391,7 +414,8 @@
       "disability",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Social Protection Report 2020-22",
@@ -399,14 +423,15 @@
     "year": 2021,
     "type": "grey_literature",
     "topic": "Social Protection",
-    "url": "https://www.ilo.org/publications/flagship-reports/world-social-protection-report-2020-22-social-protection-crossroads",
+    "url": "https://www.ilo.org/publications/flagship-reports/world-social-protection-report-2020-22-social-protection-crossroads-%E2%80%93",
     "description": "The ILO's flagship documenting that over half the world's population lacks any social protection coverage.",
     "id": "world-social-protection-report-2020-22",
     "access_type": "open_access",
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Cash Transfers: What Does the Evidence Say?",
@@ -424,7 +449,8 @@
       "poverty",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Realizing the Full Potential of Social Safety Nets in Africa",
@@ -439,7 +465,8 @@
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Just Give Money to the Poor",
@@ -455,7 +482,8 @@
       "cash-transfers",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "broken",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Protection and Jobs Responses to COVID-19",
@@ -470,7 +498,8 @@
     "tags": [
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Universal Basic Income: Debate and Evidence",
@@ -486,6 +515,7 @@
       "UBI",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

@@ -15,7 +15,8 @@
       "public-health",
       "scoping-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Extending Universal Health Coverage to Informal Workers: A Systematic Review of Health Financing Schemes in Low- and Middle-Income Countries in Southeast Asia",
@@ -35,7 +36,8 @@
       "public-health",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Moving toward Universal Health Coverage with a National Health Insurance Program: A Scoping Review of Experiences in Eleven Low- and Lower-Middle-Income Countries",
@@ -54,7 +56,8 @@
       "public-health",
       "scoping-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Achieving Universal Health Coverage in Low- and Middle-Income Countries: Challenges for Policy Post-Pandemic and Beyond",
@@ -70,7 +73,8 @@
       "UHC",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Tracking Universal Health Coverage: 2023 Global Monitoring Report",
@@ -86,7 +90,8 @@
       "UHC",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Workload and Emerging Challenges of Community Health Workers in Low- and Middle-Income Countries: A Mixed-Methods Systematic Review",
@@ -105,7 +110,8 @@
       "public-health",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Community Health Workers and COVID-19: Cross-Country Evidence on Their Roles, Experiences, Challenges and Adaptive Strategies",
@@ -125,7 +131,8 @@
       "Pakistan",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Task Shifting Healthcare Services in the Post-COVID World: A Scoping Review",
@@ -142,7 +149,8 @@
       "public-health",
       "scoping-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Regional Overview of Food Security and Nutrition 2020: Asia and the Pacific",
@@ -159,7 +167,8 @@
       "nutrition",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Factors Associated with Wasting Among Children Under Five Years Old in South Asia: Implications for Action",
@@ -181,7 +190,8 @@
       "maternal-health",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Contribution of Malnutrition to Infant and Child Deaths in Sub-Saharan Africa and South Asia",
@@ -199,7 +209,8 @@
       "nutrition",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Socioeconomic Inequalities in Access to Maternal Healthcare in South-Asian Countries: A Systematic Review",
@@ -223,7 +234,8 @@
       "public-health",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "COVID-19 and Mental Health in 8 Low- and Middle-Income Countries: A Prospective Cohort Study",
@@ -239,7 +251,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Mental Health Policy Implementation in Low- and Middle-Income Countries: A Realist Review Protocol",
@@ -255,7 +268,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Measures to Strengthen Primary Health-Care Systems in Low- and Middle-Income Countries",
@@ -270,7 +284,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Primary Health Care on the Road to Universal Health Coverage: 2019 Global Monitoring Report",
@@ -286,7 +301,8 @@
       "UHC",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Self-Management of Chronic, Non-Communicable Diseases in South Asian Settings: A Systematic Mixed-Studies Review",
@@ -305,7 +321,8 @@
       "public-health",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Determinants of Health: The Role of Effective Communication in the COVID-19 Pandemic in Developing Countries",
@@ -320,7 +337,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Determinants of Infectious Diseases in South Asia",
@@ -336,7 +354,8 @@
       "South-Asia",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Determinants of Health, Report of a Regional Consultation, Colombo, Sri Lanka",
@@ -352,7 +371,8 @@
       "Sri-Lanka",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Demographic, Socioeconomic and Regional Disparities in the Coverage of Water, Sanitation and Hygiene Facilities in Four South Asian Countries",
@@ -373,7 +393,8 @@
       "WASH",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Water, Sanitation, and Hygiene (WASH) Factors and the Incidence of Communicable Diseases in Urban Bangladesh: Evidence from Municipal Areas",
@@ -391,7 +412,8 @@
       "WASH",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Water, Sanitation and Hygiene (WASH): The Evolution of a Global Health and Development Sector",
@@ -407,7 +429,8 @@
       "WASH",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Progress on Household Drinking Water, Sanitation and Hygiene 2000-2020: Five Years into the SDGs",
@@ -423,7 +446,8 @@
       "WASH",
       "public-health"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Essential Childhood Immunization in 43 Low- and Middle-Income Countries: Analysis of Spatial Trends and Socioeconomic Inequalities in Vaccine Coverage",
@@ -439,7 +463,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Vaccine Equity in Low and Middle Income Countries: A Systematic Review and Meta-Analysis",
@@ -458,7 +483,8 @@
       "public-health",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Digital Health Interventions for Improving Access to Primary Care in India: A Scoping Review",
@@ -478,7 +504,8 @@
       "public-health",
       "scoping-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2004: Making Services Work for Poor People",
@@ -493,7 +520,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Monitoring Progress towards Universal Health Coverage at Country and Global Levels",
@@ -510,7 +538,8 @@
       "UHC",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Health Statistics 2024",
@@ -525,7 +554,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The World Health Report 2000: Health Systems",
@@ -540,7 +570,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Disease Control Priorities, Third Edition",
@@ -555,7 +586,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "State of the World's Nursing 2020",
@@ -570,7 +602,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Global Nutrition Report 2021",
@@ -586,7 +619,8 @@
       "nutrition",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Closing the Gap in a Generation: Social Determinants of Health",
@@ -601,7 +635,8 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Trends in Maternal Mortality 2000 to 2020",
@@ -617,7 +652,8 @@
       "maternal-health",
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Mental Health Atlas 2020",
@@ -632,6 +668,7 @@
     "tags": [
       "public-health"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

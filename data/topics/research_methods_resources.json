@@ -13,7 +13,8 @@
       "RCT",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Impact Evaluation in Practice, Second Edition",
@@ -33,7 +34,8 @@
       "regression-discontinuity",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Handbook on Impact Evaluation: Quantitative Methods and Practices",
@@ -50,7 +52,8 @@
       "instrumental-variables",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Experimentation at Scale",
@@ -58,7 +61,7 @@
     "year": 2017,
     "type": "paper",
     "topic": "Research Methods",
-    "url": "https://econweb.ucsd.edu/~pniehaus/papers/experimentation_at_scale.pdf",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/jep.31.4.103",
     "description": "Makes the case for larger-scale randomized experiments in development economics, addressing concerns about spillovers, political economy effects, and heterogeneity that arise from small-scale RCTs.",
     "id": "experimentation-at-scale",
     "access_type": "check_access",
@@ -66,7 +69,9 @@
       "RCT",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23",
+    "doi": "10.1257/jep.31.4.103"
   },
   {
     "title": "Radical Decentralization: Does Community-Driven Development Work?",
@@ -84,7 +89,8 @@
       "institutions",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Reshaping Institutions: Evidence on Aid Impacts Using a Preanalysis Plan",
@@ -102,7 +108,8 @@
       "institutions",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Randomization and Social Policy Evaluation Revisited",
@@ -118,7 +125,8 @@
       "RCT",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Scaling Up What Works: Experimental Evidence on External Validity in Kenyan Education",
@@ -135,7 +143,8 @@
       "education",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "How Much Can We Generalize from Impact Evaluations?",
@@ -151,7 +160,8 @@
       "impact-evaluation",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Learning from Experiments When Context Matters",
@@ -167,7 +177,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Decision Theoretic Approaches to Experiment Design and External Validity",
@@ -182,7 +193,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya",
@@ -200,7 +212,8 @@
       "gender",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Regression Discontinuity Designs: A Guide to Practice",
@@ -216,7 +229,8 @@
       "regression-discontinuity",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Regression Discontinuity Designs in Economics",
@@ -233,7 +247,8 @@
       "regression-discontinuity",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "What's Trending in Difference-in-Differences? A Synthesis of the Recent Econometrics Literature",
@@ -249,7 +264,8 @@
       "diff-in-diff",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Difference-in-Differences with Variation in Treatment Timing",
@@ -265,7 +281,8 @@
       "diff-in-diff",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Design-based Analysis in Difference-In-Differences Settings with Staggered Adoption",
@@ -281,7 +298,8 @@
       "diff-in-diff",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Instrumental Variables: An Econometrician's Perspective",
@@ -298,7 +316,8 @@
       "instrumental-variables",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program",
@@ -313,7 +332,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Causal Inference: The Mixtape",
@@ -331,7 +351,8 @@
       "regression-discontinuity",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Beyond Baseline and Follow-Up: The Case for More T in Experiments",
@@ -347,7 +368,8 @@
       "research-methods",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Theory-Based Impact Evaluation: Principles and Practice",
@@ -363,7 +385,8 @@
       "impact-evaluation",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Broadening the Range of Designs and Methods for Impact Evaluations",
@@ -379,7 +402,8 @@
       "impact-evaluation",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Introduction to Mixed Methods in Impact Evaluation",
@@ -396,7 +420,8 @@
       "qualitative",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Using Case Studies to Explore the External Validity of 'Complex' Development Interventions",
@@ -411,7 +436,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Integrating Quantitative and Qualitative Research: How Is It Done?",
@@ -427,7 +453,8 @@
       "qualitative",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Integrating Reflexivity into Livelihoods Research",
@@ -442,7 +469,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Whose Reality Counts? Putting the First Last",
@@ -457,7 +485,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Applying Participatory Action Research Methods in Community-Based Adaptation With Smallholders in Myanmar",
@@ -473,7 +502,8 @@
       "climate-adaptation",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Participatory Action Research: New Uses, New Contexts, New Challenges",
@@ -488,7 +518,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Implementing Qualitative Methods in the Field",
@@ -505,7 +536,8 @@
       "qualitative",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Qualitative Approaches in Poverty Studies: A Structured Literature Review",
@@ -522,7 +554,8 @@
       "qualitative",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Designing Household Survey Questionnaires for Developing Countries: Lessons from 15 Years of the Living Standards Measurement Study",
@@ -538,7 +571,8 @@
       "research-methods",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Development Research in Practice: The DIME Analytics Data Handbook",
@@ -554,7 +588,8 @@
       "research-methods",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Power Calculations",
@@ -570,7 +605,8 @@
       "RCT",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Introduction to Randomized Evaluations",
@@ -586,7 +622,8 @@
       "RCT",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Transparency, Reproducibility, and the Credibility of Economics Research",
@@ -602,7 +639,8 @@
       "research-methods",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Research Transparency and Reproducibility",
@@ -617,7 +655,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Reflections on the Ethics of Social Experimentation",
@@ -632,7 +671,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Fostering Research Integrity in Sub-Saharan Africa: Challenges, Opportunities, and Recommendations",
@@ -648,7 +688,8 @@
       "Sub-Saharan-Africa",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Field Experiments and the Political Economy of Development",
@@ -663,7 +704,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "How to Build M&E Systems to Support Better Government",
@@ -679,7 +721,8 @@
       "M&E",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The PRISMA Statement for Reporting Systematic Reviews and Meta-Analyses of Studies That Evaluate Health Care Interventions: Explanation and Elaboration",
@@ -696,7 +739,8 @@
       "research-methods",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "3ie Impact Evaluation Practice: A Guide for Grantees",
@@ -714,7 +758,8 @@
       "research-methods",
       "theory-of-change"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Running Randomized Evaluations: A Practical Guide",
@@ -731,7 +776,8 @@
       "research-methods",
       "survey-data"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Pre-Analysis Plans",
@@ -747,7 +793,8 @@
       "RCT",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Mostly Harmless Econometrics: An Empiricist's Companion",
@@ -765,7 +812,8 @@
       "regression-discontinuity",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Effect: An Introduction to Research Design and Causality",
@@ -780,7 +828,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Qualitative Data Analysis: A Methods Sourcebook",
@@ -796,7 +845,8 @@
       "qualitative",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches",
@@ -812,7 +862,8 @@
       "qualitative",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "A Practical Guide to Sampling",
@@ -827,7 +878,8 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Ethnography and the Development Encounter",
@@ -843,7 +895,8 @@
       "ethnography",
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Pre-Analysis Plans and Research Transparency",
@@ -858,6 +911,7 @@
     "tags": [
       "research-methods"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

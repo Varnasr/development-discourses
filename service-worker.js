@@ -5,9 +5,17 @@
  *   - App shell (HTML/CSS/JS/icons): cache-first, updated in the background.
  *   - Data (data/*.json): network-first, falling back to cache when offline.
  * Bump CACHE_VERSION to invalidate old caches on the next visit.
+ *
+ * The shell is cache-first, so this is not optional housekeeping: a returning
+ * visitor keeps the cached HTML, CSS and JS until a bump evicts them. The
+ * 2026-09-23 change added markup (#linkNote, #altUrls, .detail-topics) that
+ * only the new JS fills and only the new CSS styles, so leaving the version
+ * alone would have paired new markup with old script on every device that had
+ * already visited. Nothing would error; the link-health line would simply not
+ * appear, and only a first-time visitor would ever see the feature. Hence v4.
  */
 
-const CACHE_VERSION = 'dd-v3';
+const CACHE_VERSION = 'dd-v4';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 

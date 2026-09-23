@@ -15,7 +15,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Decentralization in Developing Economies",
@@ -32,7 +33,8 @@
       "decentralization",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Decentralization, Governance, and Localizing SDGs in Asia and the Pacific",
@@ -49,7 +51,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Local Public Financial Management",
@@ -64,7 +67,8 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2017: Governance and the Law",
@@ -80,7 +84,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Development Report 2004: Making Services Work for Poor People",
@@ -95,7 +100,8 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Monitoring Corruption: Evidence from a Field Experiment in Indonesia",
@@ -112,7 +118,8 @@
       "corruption",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Corruption",
@@ -128,7 +135,8 @@
       "corruption",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Corruption and Growth",
@@ -144,7 +152,8 @@
       "corruption",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Exposing Corrupt Politicians: The Effects of Brazil's Publicly Released Audits on Electoral Outcomes",
@@ -160,7 +169,8 @@
       "corruption",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Do Government Audits Reduce Corruption? Estimating the Impacts of Exposing Corrupt Politicians",
@@ -176,7 +186,8 @@
       "corruption",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Corruption in India: Bridging Research Evidence and Policy Options",
@@ -193,7 +204,8 @@
       "corruption",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Corruption Dynamics: The Golden Goose Effect",
@@ -201,7 +213,7 @@
     "year": 2013,
     "type": "paper",
     "topic": "Public Policy & Governance",
-    "url": "https://econweb.ucsd.edu/~pniehaus/papers/nrega.pdf",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/pol.5.4.230",
     "description": "Studies the effect of a statutory wage increase in India's NREGA employment guarantee scheme on corruption, finding large 'golden goose effects' where the prospect of future illicit rents reduced the total impact of the wage increase on theft by roughly 64 percent.",
     "id": "corruption-dynamics-the-golden-goose-effect",
     "access_type": "check_access",
@@ -211,7 +223,9 @@
       "employment",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23",
+    "doi": "10.1257/pol.5.4.230"
   },
   {
     "title": "Enhancing Government Effectiveness and Transparency: The Fight Against Corruption",
@@ -227,7 +241,8 @@
       "corruption",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Local Capture: Evidence from a Central Government Transfer Program in Uganda",
@@ -244,7 +259,8 @@
       "panel-data",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Bureaucracy and Development",
@@ -259,7 +275,8 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "State Capacity and Economic Development: A Network Approach",
@@ -275,7 +292,8 @@
       "colonial-legacy",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Origins of State Capacity: Property Rights, Taxation, and Politics",
@@ -291,7 +309,8 @@
       "institutions",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Building State Capacity: Evidence from Biometric Smartcards in India",
@@ -307,7 +326,8 @@
       "India",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Social Proximity and Bureaucrat Performance: Evidence from India",
@@ -323,7 +343,8 @@
       "India",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Is India a Flailing State?: Detours on the Four Lane Highway to Modernization",
@@ -341,7 +362,8 @@
       "institutions",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Building State Capability: Evidence, Analysis, Action",
@@ -357,7 +379,8 @@
       "climate-adaptation",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Traveling Agents: Political Change and Bureaucratic Turnover in India",
@@ -373,7 +396,8 @@
       "India",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Monitoring Works: Getting Teachers to Come to School",
@@ -390,7 +414,8 @@
       "education",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Quality and Accountability in Healthcare Delivery: Audit-Study Evidence from Primary Care in India",
@@ -406,7 +431,8 @@
       "India",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Women as Policy Makers: Evidence from a Randomized Policy Experiment in India",
@@ -423,7 +449,8 @@
       "RCT",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Can Mandated Political Representation Increase Policy Influence for Disadvantaged Minorities? Theory and Evidence from India",
@@ -441,7 +468,8 @@
       "caste",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Pitfalls of Participatory Programs: Evidence from a Randomized Evaluation in Education in India",
@@ -459,7 +487,8 @@
       "education",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Political Economy of Public Expenditures",
@@ -476,7 +505,8 @@
       "institutions",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Making Politics Work for Development: Harnessing Transparency and Citizen Engagement",
@@ -492,7 +522,8 @@
       "corruption",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Development Strategies: Integrating Governance and Growth",
@@ -508,7 +539,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Strengthening Public Financial Management: Exploring Drivers and Effects",
@@ -523,7 +555,8 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Public Financial Management Reforms in Post-Conflict Countries: Synthesis Report",
@@ -539,7 +572,8 @@
       "institutions",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Conditional Cash Transfers: Reducing Present and Future Poverty",
@@ -557,7 +591,8 @@
       "poverty",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Rethinking Social Protection in South Asia: Toward Progressive Universalism",
@@ -574,7 +609,8 @@
       "public-policy-governance",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Responsive by Design: Building Adaptive Social Protection Systems in South Asia",
@@ -591,7 +627,8 @@
       "public-policy-governance",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Exploring Universal Basic Income: A Guide to Navigating Concepts, Evidence, and Practices",
@@ -608,7 +645,8 @@
       "poverty",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "State of Social Protection Report 2025: The 2-Billion-Person Challenge",
@@ -624,7 +662,8 @@
       "public-policy-governance",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Improving Last-Mile Service Delivery using Phone-Based Monitoring",
@@ -640,7 +679,8 @@
       "India",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Do Lenders Favor Politically Connected Firms? Rent Provision in an Emerging Financial Market",
@@ -656,7 +696,8 @@
       "Pakistan",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Grappling with Aadhaar: Biometrics, Social Identity and the Indian State",
@@ -674,7 +715,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "From Delay to Payday: Using a Digital Platform to Improve State Capacity for Welfare Payment Processing",
@@ -691,7 +733,8 @@
       "digital",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "An Uncertain Glory: India and Its Contradictions",
@@ -709,7 +752,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "blocked",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Evaluating the Impact of Conditional Cash Transfer Programs",
@@ -725,7 +769,8 @@
       "cash-transfers",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Open Government for Stronger Democracies: A Global Assessment",
@@ -740,7 +785,8 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Quality of Bureaucracy and Open-Economy Macro Policies",
@@ -755,7 +801,8 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "A Systematic Review of the Effects of Cash Transfer Programs on Schooling Outcomes",
@@ -773,7 +820,8 @@
       "public-policy-governance",
       "systematic-review"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "World Social Protection Report 2024-26: Asia and the Pacific",
@@ -790,7 +838,8 @@
       "public-policy-governance",
       "social-protection"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Governance and Development",
@@ -806,7 +855,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Worldwide Governance Indicators",
@@ -823,7 +873,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Seeing Like a State",
@@ -838,7 +889,8 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Logic of Collective Action",
@@ -853,7 +905,8 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Governing the Commons",
@@ -868,7 +921,8 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "paywalled",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "Building State Capability",
@@ -876,7 +930,7 @@
     "year": 2017,
     "type": "book",
     "topic": "Public Policy & Governance",
-    "url": "https://buildingstatecapability.com/the-book/",
+    "url": "https://bsc.cid.harvard.edu/building-state-capability",
     "description": "Introduces Problem-Driven Iterative Adaptation (PDIA) as an alternative to isomorphic mimicry in public-sector reform.",
     "id": "building-state-capability",
     "access_type": "check_access",
@@ -884,7 +938,8 @@
       "climate-adaptation",
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   },
   {
     "title": "The Right to Information and Social Accountability",
@@ -899,6 +954,7 @@
     "tags": [
       "public-policy-governance"
     ],
-    "verified": false
+    "link_status": "ok",
+    "link_checked": "2026-09-23"
   }
 ]

@@ -1,0 +1,66 @@
+# Link health, on a clock rather than on a pull request.
+#
+# Two reasons it is not in ci.yml.
+#
+# A link rots with no commit behind it, so a gate that only runs on a pull
+# request cannot see the failure it exists for. And a job that talks to six
+# hundred third-party hosts is long: a job cancelled by its own timeout-minutes
+# cancels the whole workflow run, taking the build and the tests down with it
+# and reporting the run as cancelled rather than failed.
+#
+# The lychee step used to live in ci.yml on pull requests with `fail: false`,
+# so a contributor got a result they could neither act on nor be blocked by.
+# It also crawled `**/*.html` and `**/*.md`, which is the site chrome: the 644
+# links this library exists to hold are in data/topics/*.json and were outside
+# the crawl entirely.
+
+name: Link health
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  resource-urls:
+    name: The library's own 644 links
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # --fail-on-new-broken compares against the committed report, so a link
+      # that was already gone does not keep failing the run while one that
+      # broke last night does. --no-write because a scheduled run should not
+      # try to commit; a maintainer runs `make verify` and commits the result.
+      - name: Check every resource URL
+        run: python verify_urls.py --no-write --fail-on-new-broken --workers 8
+
+  site-chrome:
+    name: Links in the pages themselves
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # 403 and 429 are accepted here because this crawl has no way to tell
+          # a publisher refusing a robot from a document that is gone. The job
+          # above does have that distinction, which is why it is the one that
+          # covers the resources.
+          args: >-
+            --accept 200,204,301,302,403,429
+            --exclude-mail
+            --exclude "localhost|127.0.0.1|example.com|twitter.com|x.com|linkedin.com|facebook.com|instagram.com|t.me|wa.me|play.google.com|apps.apple.com"
+            --timeout 30 --max-retries 2
+            "**/*.html" "**/*.md"
+          fail: true
