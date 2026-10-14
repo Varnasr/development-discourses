@@ -26,7 +26,7 @@ from typing import Any
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(SCRIPT_DIR, "data", "resources.json")
-DEFAULT_BASE_URL = "https://varnasr.github.io/development-discourses"
+DEFAULT_BASE_URL = "https://devdiscourses.impactmojo.in"
 FEED_ITEMS = 50
 
 
@@ -45,7 +45,7 @@ def resolve_base_url(cli_value: str | None) -> str:
 def build_sitemap(resources: list[dict], base_url: str) -> str:
     lines = ['<?xml version="1.0" encoding="UTF-8"?>',
              '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    lines.append(f"  <url><loc>{escape(base_url)}/index.html</loc><priority>1.0</priority></url>")
+    lines.append(f"  <url><loc>{escape(base_url)}/</loc><priority>1.0</priority></url>")
     for r in resources:
         rid = r.get("id")
         if not rid:
@@ -83,7 +83,7 @@ def build_feed(resources: list[dict], base_url: str) -> dict:
     return {
         "version": "https://jsonfeed.org/version/1.1",
         "title": "Development Discourses",
-        "home_page_url": f"{base_url}/index.html",
+        "home_page_url": f"{base_url}/",
         "feed_url": f"{base_url}/feed.json",
         "description": "A curated open-access library of research papers, books, and grey literature for development practitioners in South Asia.",
         "language": "en",

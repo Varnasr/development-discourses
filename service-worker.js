@@ -13,9 +13,11 @@
  * alone would have paired new markup with old script on every device that had
  * already visited. Nothing would error; the link-health line would simply not
  * appear, and only a first-time visitor would ever see the feature. Hence v4.
+ * v6 (2026-10-14): the site moved to devdiscourses.impactmojo.in at the root;
+ * index.html and resource.html changed their canonical and footer links.
  */
 
-const CACHE_VERSION = 'dd-v5';
+const CACHE_VERSION = 'dd-v6';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 

@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "Development Discourses",
-  "home_page_url": "https://varnasr.github.io/development-discourses/index.html",
-  "feed_url": "https://varnasr.github.io/development-discourses/feed.json",
+  "home_page_url": "https://devdiscourses.impactmojo.in/",
+  "feed_url": "https://devdiscourses.impactmojo.in/feed.json",
   "description": "A curated open-access library of research papers, books, and grey literature for development practitioners in South Asia.",
   "language": "en",
   "items": [
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=supporting-learning-in-and-out-of-school-experimental-evidence-from-india",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=supporting-learning-in-and-out-of-school-experimental-evidence-from-india",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=supporting-learning-in-and-out-of-school-experimental-evidence-from-india",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=supporting-learning-in-and-out-of-school-experimental-evidence-from-india",
       "external_url": "https://doi.org/10.1016/j.jdeveco.2026.103906",
       "title": "Supporting learning in and out of school: Experimental evidence from India",
       "content_text": "A cross-cutting trial across 200 villages in Assam. Neither the in-school pedagogy component nor the community study groups moved learning alone; together they raised maths by 0.11 SD and language by 0.09 SD. An argument about complementarity rather than about either component.",
@@ -24,8 +24,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=mobile-money-and-the-welfare-of-women-and-youths-in-fragile-states-evidence",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=mobile-money-and-the-welfare-of-women-and-youths-in-fragile-states-evidence",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=mobile-money-and-the-welfare-of-women-and-youths-in-fragile-states-evidence",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=mobile-money-and-the-welfare-of-women-and-youths-in-fragile-states-evidence",
       "external_url": "https://doi.org/10.1371/journal.pone.0343349",
       "title": "Mobile money, and the welfare of women and youths in fragile states: Evidence from Mozambique",
       "content_text": "900 households from the 2019 FinScope survey in a post-conflict, climate-exposed setting. Welfare gains run through active usage, not account ownership. The authors state plainly that their instrument cannot be fully tested, which is worth more than the point estimate.",
@@ -42,8 +42,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=impact-of-cash-transfers-on-child-poverty-among-school-aged-refugee-children",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=impact-of-cash-transfers-on-child-poverty-among-school-aged-refugee-children",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=impact-of-cash-transfers-on-child-poverty-among-school-aged-refugee-children",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=impact-of-cash-transfers-on-child-poverty-among-school-aged-refugee-children",
       "external_url": "https://doi.org/10.1007/s12187-026-10430-2",
       "title": "Impact of Cash Transfers on Child Poverty Among School-aged Refugee Children: Evidence from Uganda",
       "content_text": "Alkire-Foster multidimensional poverty combined with propensity score matching in Kyaka II. A 7 per cent effect, which the authors read as cash alone being insufficient against child multidimensional poverty rather than as a success.",
@@ -61,8 +61,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=fintech-and-savings-in-african-countries-the-case-of-mobile-money",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=fintech-and-savings-in-african-countries-the-case-of-mobile-money",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=fintech-and-savings-in-african-countries-the-case-of-mobile-money",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=fintech-and-savings-in-african-countries-the-case-of-mobile-money",
       "external_url": "https://doi.org/10.1057/s41302-026-00339-7",
       "title": "Fintech and Savings in African Countries: The Case of Mobile Money",
       "content_text": "Harmonised FinScope surveys from Malawi, Tanzania and Uganda across 2013, 2017 and 2021, instrumented on distance to the nearest agent. The contribution is the decomposition: mobile money moves saving onto digital platforms and away from banks and ROSCAs rather than simply raising the amount saved.",
@@ -80,8 +80,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=digital-personalised-learning-to-improve-literacy-and-numeracy-outcomes-a",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=digital-personalised-learning-to-improve-literacy-and-numeracy-outcomes-a",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=digital-personalised-learning-to-improve-literacy-and-numeracy-outcomes-a",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=digital-personalised-learning-to-improve-literacy-and-numeracy-outcomes-a",
       "external_url": "https://doi.org/10.1080/02671522.2025.2605645",
       "title": "Digital personalised learning to improve literacy and numeracy outcomes: a randomised controlled trial in Kenyan pre-primary classrooms",
       "content_text": "1,955 pre-primary learners across 291 Kenyan government schools over 13 months, 0.53 SD from baseline. Worth reading for the decay after midline, which the authors attribute to running out of suitable content rather than to the method failing.",
@@ -98,8 +98,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=beyond-access-clean-energy-use-in-low-income-and-middle-income-countries",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=beyond-access-clean-energy-use-in-low-income-and-middle-income-countries",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=beyond-access-clean-energy-use-in-low-income-and-middle-income-countries",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=beyond-access-clean-energy-use-in-low-income-and-middle-income-countries",
       "external_url": "https://doi.org/10.1016/s2214-109x(25)00532-7",
       "title": "Beyond access: clean energy use in low-income and middle-income countries",
       "content_text": "Makes the measurement argument plainly: SDG 7's binary indicators overstate health and equity gains because they cannot see fuel stacking, dynamic consumption or the gendered burden of polluting fuels.",
@@ -115,8 +115,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=association-between-water-sanitation-and-hygiene-wash-practices-and-childhood",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=association-between-water-sanitation-and-hygiene-wash-practices-and-childhood",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=association-between-water-sanitation-and-hygiene-wash-practices-and-childhood",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=association-between-water-sanitation-and-hygiene-wash-practices-and-childhood",
       "external_url": "https://doi.org/10.1186/s12889-026-27639-z",
       "title": "Association between water, sanitation, and hygiene (WASH) practices and childhood stunting in low- and middle-income countries: a systematic review and meta-analysis",
       "content_text": "16 studies, 36,574 children. Water quality, water accessibility and sanitation facility type are associated with lower stunting odds; drinking water source, household treatment, toilet access and safe disposal of child faeces are not. Observational, and the authors say so.",
@@ -135,8 +135,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable",
       "external_url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
       "title": "Water, Sanitation, and Hygiene (WASH) Factors and the Incidence of Communicable Diseases in Urban Bangladesh: Evidence from Municipal Areas",
       "content_text": "PLOS NTDs study finding that nearly one in four participants in urban Bangladesh reported communicable diseases, with diarrhoea most common and poor hand hygiene showing the strongest disease association.",
@@ -153,8 +153,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-impact-of-a-participatory-intervention-to-improve-learning-outcomes-and",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-impact-of-a-participatory-intervention-to-improve-learning-outcomes-and",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-impact-of-a-participatory-intervention-to-improve-learning-outcomes-and",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=the-impact-of-a-participatory-intervention-to-improve-learning-outcomes-and",
       "external_url": "https://doi.org/10.1016/j.ijedudev.2025.103409",
       "title": "The impact of a participatory intervention to improve learning outcomes and reduce school-based discrimination and community stigma in primary rural schools of Afghanistan: A cluster control randomized trial",
       "content_text": "83 schools across three Afghan provinces, 2,519 children. Life skills, self-efficacy and reading literacy all improve, effects rise with dose, and girls gain more than boys. One of the few learning trials run in an active crisis setting.",
@@ -171,8 +171,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-false-optimism-of-electrification-why-universal-electricity-access-has-not",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-false-optimism-of-electrification-why-universal-electricity-access-has-not",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-false-optimism-of-electrification-why-universal-electricity-access-has-not",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=the-false-optimism-of-electrification-why-universal-electricity-access-has-not",
       "external_url": "https://doi.org/10.1016/j.enpol.2025.114506",
       "title": "The false optimism of electrification: why universal electricity access has not delivered urban energy transformation in South Africa",
       "content_text": "Argues that counting grid connections measures proximity to a wire, not access to energy services, and that households in un-serviceable settlements are permanently excluded by design. Directly relevant to anyone reading SDG 7 progress figures.",
@@ -187,8 +187,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-impact-of-shock-responsive-social-cash-transfers-evidence-from-an-aggregate",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-impact-of-shock-responsive-social-cash-transfers-evidence-from-an-aggregate",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-impact-of-shock-responsive-social-cash-transfers-evidence-from-an-aggregate",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=the-impact-of-shock-responsive-social-cash-transfers-evidence-from-an-aggregate",
       "external_url": "https://doi.org/10.1080/00220388.2025.2504425",
       "title": "The Impact of Shock-Responsive Social Cash Transfers: Evidence from an Aggregate Shock in Kenya",
       "content_text": "Kenya's shock-responsive scheme during the pandemic, on informal-economy households. Less income loss, less food scarcity, and fewer distress sales of productive assets — but only where payment cycles were pooled and transfers vertically scaled.",
@@ -204,8 +204,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=state-of-social-protection-report-2025-the-2-billion-person-challenge",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=state-of-social-protection-report-2025-the-2-billion-person-challenge",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=state-of-social-protection-report-2025-the-2-billion-person-challenge",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=state-of-social-protection-report-2025-the-2-billion-person-challenge",
       "external_url": "https://www.worldbank.org/en/topic/socialprotection/publication/state-of-social-protection-2025-2-billion-person-challenge",
       "title": "State of Social Protection Report 2025: The 2-Billion-Person Challenge",
       "content_text": "Documents that 2 billion people in low- and middle-income countries remain uncovered by social protection, with three out of four people in low-income countries receiving no support and current growth rates requiring 18 years to achieve full coverage.",
@@ -221,8 +221,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=socioeconomic-inequalities-in-access-to-maternal-healthcare-in-south-asian",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=socioeconomic-inequalities-in-access-to-maternal-healthcare-in-south-asian",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=socioeconomic-inequalities-in-access-to-maternal-healthcare-in-south-asian",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=socioeconomic-inequalities-in-access-to-maternal-healthcare-in-south-asian",
       "external_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326130",
       "title": "Socioeconomic Inequalities in Access to Maternal Healthcare in South-Asian Countries: A Systematic Review",
       "content_text": "Systematic review of 55 studies from India, Nepal, Bangladesh, Afghanistan, and Pakistan showing that maternal healthcare access is linked to economic status, education, and women's autonomy in patriarchal family structures.",
@@ -245,8 +245,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=moving-toward-universal-health-coverage-with-a-national-health-insurance",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=moving-toward-universal-health-coverage-with-a-national-health-insurance",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=moving-toward-universal-health-coverage-with-a-national-health-insurance",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=moving-toward-universal-health-coverage-with-a-national-health-insurance",
       "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003651",
       "title": "Moving toward Universal Health Coverage with a National Health Insurance Program: A Scoping Review of Experiences in Eleven Low- and Lower-Middle-Income Countries",
       "content_text": "Assesses strategies adopted by low- and lower-middle-income countries with a national health insurance scheme to expand UHC, examining variations in progress across eleven countries.",
@@ -264,8 +264,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=mental-health-policy-implementation-in-low-and-middle-income-countries-a",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=mental-health-policy-implementation-in-low-and-middle-income-countries-a",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=mental-health-policy-implementation-in-low-and-middle-income-countries-a",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=mental-health-policy-implementation-in-low-and-middle-income-countries-a",
       "external_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320420",
       "title": "Mental Health Policy Implementation in Low- and Middle-Income Countries: A Realist Review Protocol",
       "content_text": "Protocol for a realist synthesis explaining how, why, for whom, and under what health system conditions certain mental health policy implementation strategies work or fail in LMICs.",
@@ -280,8 +280,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=improving-energy-access-climate-and-socio-economic-outcomes-through-off-grid",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=improving-energy-access-climate-and-socio-economic-outcomes-through-off-grid",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=improving-energy-access-climate-and-socio-economic-outcomes-through-off-grid",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=improving-energy-access-climate-and-socio-economic-outcomes-through-off-grid",
       "external_url": "https://doi.org/10.1002/cl2.70060",
       "title": "Improving Energy Access, Climate and Socio-Economic Outcomes Through Off-Grid Electrification Technologies: A Systematic Review",
       "content_text": "47 impact evaluations of off-grid solar, from 18 databases and 29 grey sources. Kerosene use falls and uptake rises; reliability, affordability and energy expenditure do not move, and the effect on time spent studying shows publication bias. The most honest evidence map in this field.",
@@ -298,8 +298,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for",
       "external_url": "https://www.nber.org/system/files/working_papers/w33756/w33756.pdf",
       "title": "From Delay to Payday: Using a Digital Platform to Improve State Capacity for Welfare Payment Processing",
       "content_text": "Studies a digital dashboard platform for real-time tracking of NREGS payment processing in two Indian states, finding that access to the platform expedited bureaucrat payment processing by 17% and increased available worksites by 23%.",
@@ -316,8 +316,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=evaluating-implementation-research-outcomes-for-a-task-sharing-mental-health",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=evaluating-implementation-research-outcomes-for-a-task-sharing-mental-health",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=evaluating-implementation-research-outcomes-for-a-task-sharing-mental-health",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=evaluating-implementation-research-outcomes-for-a-task-sharing-mental-health",
       "external_url": "https://doi.org/10.1017/gmh.2025.10025",
       "title": "Evaluating implementation research outcomes for a task-sharing mental health intervention: A systematic review of the Friendship Bench",
       "content_text": "Seven studies on Zimbabwe's Friendship Bench, the most-cited lay-worker mental health model in Africa. Acceptable and feasible; the limits are an unreliable referral system behind it and no answer for severe illness.",
@@ -333,8 +333,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=energy-justice-and-gender-bridging-equity-access-and-policy-for-sustainable",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=energy-justice-and-gender-bridging-equity-access-and-policy-for-sustainable",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=energy-justice-and-gender-bridging-equity-access-and-policy-for-sustainable",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=energy-justice-and-gender-bridging-equity-access-and-policy-for-sustainable",
       "external_url": "https://doi.org/10.1007/s43621-025-01375-7",
       "title": "Energy justice and gender: bridging equity, access, and policy for sustainable development",
       "content_text": "616 publications mapped against SDG 5 and SDG 7. Finds clean energy adoption reduces unpaid domestic work and strengthens women's economic opportunities, and that policies written without a gender lens tend to entrench the inequalities they meant to relieve.",
@@ -350,8 +350,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=effects-of-a-community-driven-water-sanitation-and-hygiene-intervention-on",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=effects-of-a-community-driven-water-sanitation-and-hygiene-intervention-on",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=effects-of-a-community-driven-water-sanitation-and-hygiene-intervention-on",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=effects-of-a-community-driven-water-sanitation-and-hygiene-intervention-on",
       "external_url": "https://hdl.handle.net/10986/42845",
       "title": "Effects of a Community-Driven Water, Sanitation, and Hygiene Intervention on Diarrhea, Child Growth, and Local Institutions: A Cluster-Randomized Controlled Trial in Rural Democratic Republic of Congo",
       "content_text": "332 villages, measured 3.6 years after the programme. Improved water access up 24 points, sanitation up 18, WASH committees established and still running — and no effect whatever on diarrhoea or on length-for-age. The clearest published example of infrastructure and institutions moving without health following.",
@@ -369,8 +369,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=distributional-justice-and-rapid-green-energy-transitions-citizen-experiences",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=distributional-justice-and-rapid-green-energy-transitions-citizen-experiences",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=distributional-justice-and-rapid-green-energy-transitions-citizen-experiences",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=distributional-justice-and-rapid-green-energy-transitions-citizen-experiences",
       "external_url": "https://doi.org/10.1088/1748-9326/add27d",
       "title": "Distributional justice and rapid green energy transitions: citizen experiences in Kenya",
       "content_text": "Kenya is on track for SDG 7 and is held up as the African success case. Focus groups and survey data show the poor carrying the cost of the transition, and a gap between the national narrative and what citizens report.",
@@ -386,8 +386,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=demographic-socioeconomic-and-regional-disparities-in-the-coverage-of-water",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=demographic-socioeconomic-and-regional-disparities-in-the-coverage-of-water",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=demographic-socioeconomic-and-regional-disparities-in-the-coverage-of-water",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=demographic-socioeconomic-and-regional-disparities-in-the-coverage-of-water",
       "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11913270/",
       "title": "Demographic, Socioeconomic and Regional Disparities in the Coverage of Water, Sanitation and Hygiene Facilities in Four South Asian Countries",
       "content_text": "PLOS ONE study using MICS data from Afghanistan, Bangladesh, Nepal, and Pakistan to examine WASH facility coverage disparities and identify significant socioeconomic and demographic factors.",
@@ -408,8 +408,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=challenges-and-opportunities-for-universal-health-coverage-in-south-asia-a",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=challenges-and-opportunities-for-universal-health-coverage-in-south-asia-a",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=challenges-and-opportunities-for-universal-health-coverage-in-south-asia-a",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=challenges-and-opportunities-for-universal-health-coverage-in-south-asia-a",
       "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11800725/",
       "title": "Challenges and Opportunities for Universal Health Coverage in South Asia: A Scoping Review",
       "content_text": "Scoping review examining challenges and opportunities for UHC across South Asian countries, identifying underfunding, fragmented health systems, and inadequate insurance coverage as key barriers.",
@@ -427,8 +427,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in",
       "external_url": "https://doi.org/10.1017/s1474746425101267",
       "title": "Assessing the Impact of Cash Transfer Programmes on Socioeconomic Outcomes in the MENA Region: A Systematic Review",
       "content_text": "270 studies, 2000 to 2024. Finds a threshold: transfers of 5 to 10 per cent of household income change behaviour, but poverty reduction needs 15 to 20 per cent or more, and humanitarian effects dissipate in four to ten months without a livelihood pathway behind them.",
@@ -446,8 +446,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=assessing-household-confidence-in-saving-with-banks-and-mno-led-mobile-money",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=assessing-household-confidence-in-saving-with-banks-and-mno-led-mobile-money",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=assessing-household-confidence-in-saving-with-banks-and-mno-led-mobile-money",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=assessing-household-confidence-in-saving-with-banks-and-mno-led-mobile-money",
       "external_url": "https://doi.org/10.1080/23322039.2025.2535488",
       "title": "Assessing household confidence in saving with banks and MNO-led mobile money: evidence from the household survey in Tanzania",
       "content_text": "9,915 FinScope respondents. Households trust banks with savings more than mobile network operators, and education and location both shift that. A corrective to the assumption that an account is an account.",
@@ -465,8 +465,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=a-global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=a-global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=a-global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=a-global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve",
       "external_url": "https://doi.org/10.1017/gmh.2025.10013",
       "title": "A global scoping review of task shifting and sharing interventions to improve the mental health of people living with HIV/AIDS",
       "content_text": "Scopes a decade of lay-worker psychosocial support for people living with HIV. Notes what is consistently under-reported in this literature: how lay health workers were selected, paid and supervised.",
@@ -482,8 +482,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-water-development-report-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-water-development-report-2024",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-water-development-report-2024",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=world-water-development-report-2024",
       "external_url": "https://www.unesco.org/reports/wwdr/en/2024/s",
       "title": "World Water Development Report 2024",
       "content_text": "'Water for Prosperity and Peace'—the UN's flagship on water's role in livelihoods, cooperation, and conflict.",
@@ -498,8 +498,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-social-protection-report-2024-26-asia-and-the-pacific",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-social-protection-report-2024-26-asia-and-the-pacific",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-social-protection-report-2024-26-asia-and-the-pacific",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=world-social-protection-report-2024-26-asia-and-the-pacific",
       "external_url": "https://www.ilo.org/sites/default/files/2024-09/WSPR_2024_Asia_and_Pacific_EN_WEB.pdf",
       "title": "World Social Protection Report 2024-26: Asia and the Pacific",
       "content_text": "ILO report highlighting key challenges for social protection in Asia-Pacific from a life-cycle perspective, addressing COVID-19 aftermath, climate change threats, persistent informality, and demographic shifts across the region.",
@@ -516,8 +516,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-migration-report-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-migration-report-2024",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-migration-report-2024",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=world-migration-report-2024",
       "external_url": "https://www.iom.int/world-migration-report-2024",
       "title": "World Migration Report 2024",
       "content_text": "IOM's flagship providing global data and analysis on migration patterns, remittances, and displacement.",
@@ -533,8 +533,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-health-statistics-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-health-statistics-2024",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-health-statistics-2024",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=world-health-statistics-2024",
       "external_url": "https://www.who.int/data/gho/publications/world-health-statistics",
       "title": "World Health Statistics 2024",
       "content_text": "WHO's annual snapshot of health and health-system indicators across all Member States and the SDGs.",
@@ -549,8 +549,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-employment-and-social-outlook-trends-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-employment-and-social-outlook-trends-2024",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-employment-and-social-outlook-trends-2024",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=world-employment-and-social-outlook-trends-2024",
       "external_url": "https://www.ilo.org/publications/world-employment-and-social-outlook-trends-2024",
       "title": "World Employment and Social Outlook: Trends 2024",
       "content_text": "ILO flagship report analyzing global labor market trends, finding that the jobs gap reached 402 million people in 2024, with persistent gender gaps, high youth unemployment at 12.6%, and informal work returning to pre-pandemic levels.",
@@ -568,8 +568,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=world-development-report-2024-the-middle-income-trap",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=world-development-report-2024-the-middle-income-trap",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-development-report-2024-the-middle-income-trap",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=world-development-report-2024-the-middle-income-trap",
       "external_url": "https://openknowledge.worldbank.org/handle/10986/41919",
       "title": "World Development Report 2024: The Middle-Income Trap",
       "content_text": "Proposes an '3i' strategy—investment, infusion, innovation—for how middle-income countries can escape stagnation and reach high income.",
@@ -584,8 +584,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=women-business-and-the-law-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=women-business-and-the-law-2024",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=women-business-and-the-law-2024",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=women-business-and-the-law-2024",
       "external_url": "https://openknowledge.worldbank.org/entities/publication/853a55af-f1ba-4979-949c-61979af2fbb9",
       "title": "Women, Business and the Law 2024",
       "content_text": "Tenth annual study measuring the legal enabling environment for women's economic opportunity across 190 economies, introducing new indicators on safety and childcare and a framework for measuring the implementation gap.",
@@ -600,8 +600,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=wellbeing-and-happiness-the-world-happiness-report-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=wellbeing-and-happiness-the-world-happiness-report-2024",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=wellbeing-and-happiness-the-world-happiness-report-2024",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=wellbeing-and-happiness-the-world-happiness-report-2024",
       "external_url": "https://worldhappiness.report/ed/2024/",
       "title": "Wellbeing and Happiness: The World Happiness Report 2024",
       "content_text": "The annual ranking and analysis of subjective wellbeing across countries and the life circumstances that shape it.",
@@ -616,8 +616,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-the-evolution-of-a-global-health-and",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=water-sanitation-and-hygiene-wash-the-evolution-of-a-global-health-and",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=water-sanitation-and-hygiene-wash-the-evolution-of-a-global-health-and",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=water-sanitation-and-hygiene-wash-the-evolution-of-a-global-health-and",
       "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11459319/",
       "title": "Water, Sanitation and Hygiene (WASH): The Evolution of a Global Health and Development Sector",
       "content_text": "BMJ Global Health open access article examining the evolution of the global WASH sector, noting that universal WASH access by 2030 under SDG 6 remains a distant prospect in many countries.",
@@ -633,8 +633,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=wash-interventions-and-child-diarrhea-at-the-interface-of-climate-and",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=wash-interventions-and-child-diarrhea-at-the-interface-of-climate-and",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=wash-interventions-and-child-diarrhea-at-the-interface-of-climate-and",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=wash-interventions-and-child-diarrhea-at-the-interface-of-climate-and",
       "external_url": "https://doi.org/10.1038/s41467-024-45624-1",
       "title": "WASH interventions and child diarrhea at the interface of climate and socioeconomic position in Bangladesh",
       "content_text": "360 clusters and 8,440 measurements, then extrapolated across rural Bangladesh with geospatial layers. Benefits concentrate among the poorest children and during the monsoon, which is the argument for targeting WASH by season and position rather than uniformly.",
@@ -650,8 +650,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=value-chain-microfinance",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=value-chain-microfinance",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=value-chain-microfinance",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=value-chain-microfinance",
       "external_url": "https://www.nber.org/papers/w32085",
       "title": "Value Chain Microfinance",
       "content_text": "NBER Working Paper studying how provision of financial services within value chain relationships can overcome barriers to financial access for small firms and workers in developing countries, reviewing empirical literature at the intersection of value chains and microfinance.",
@@ -668,8 +668,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=undp-lgbti-inclusion-index-report-on-the-pilot-implementation",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=undp-lgbti-inclusion-index-report-on-the-pilot-implementation",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=undp-lgbti-inclusion-index-report-on-the-pilot-implementation",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=undp-lgbti-inclusion-index-report-on-the-pilot-implementation",
       "external_url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-04/undp-2024-lgbti-inclusion-index-report-on-the-pilot-implementation.pdf",
       "title": "UNDP LGBTI Inclusion Index: Report on the Pilot Implementation",
       "content_text": "UNDP report on the pilot LGBTI Inclusion Index with 51 indicators covering health, education, political participation, economic empowerment, and security, tested across 52 countries.",
@@ -685,8 +685,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=transdiagnostic-psychological-interventions-for-symptoms-of-common-mental",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=transdiagnostic-psychological-interventions-for-symptoms-of-common-mental",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=transdiagnostic-psychological-interventions-for-symptoms-of-common-mental",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=transdiagnostic-psychological-interventions-for-symptoms-of-common-mental",
       "external_url": "https://doi.org/10.1155/2024/5037662",
       "title": "Transdiagnostic Psychological Interventions for Symptoms of Common Mental Disorders Delivered by Non‐Specialist Providers in Low‐ and Middle‐Income Countries: A Systematic Review and Meta‐Analysis",
       "content_text": "21 transdiagnostic interventions. Moderate reductions in distress, anxiety and depression at post-treatment (g about -0.6), smaller but surviving at 13 to 26 weeks. Argues against building one programme per diagnosis in a setting that has no specialists.",
@@ -702,8 +702,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=tracking-sdg-7-the-energy-progress-report-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=tracking-sdg-7-the-energy-progress-report-2024",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=tracking-sdg-7-the-energy-progress-report-2024",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=tracking-sdg-7-the-energy-progress-report-2024",
       "external_url": "https://trackingsdg7.esmap.org/",
       "title": "Tracking SDG 7: The Energy Progress Report 2024",
       "content_text": "The custodian agencies' annual assessment of global progress toward universal access to affordable, reliable, sustainable energy.",
@@ -718,8 +718,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-sustainable-development-goals-report-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-sustainable-development-goals-report-2024",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-sustainable-development-goals-report-2024",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=the-sustainable-development-goals-report-2024",
       "external_url": "https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf",
       "title": "The Sustainable Development Goals Report 2024",
       "content_text": "Official UN report monitoring global progress on the 2030 Agenda using the latest available data and estimates. Provides a comprehensive assessment showing that the current pace of change is insufficient to fully achieve the Goals by 2030.",
@@ -734,8 +734,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-state-of-food-security-and-nutrition-in-the-world-2024",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-state-of-food-security-and-nutrition-in-the-world-2024",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-state-of-food-security-and-nutrition-in-the-world-2024",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=the-state-of-food-security-and-nutrition-in-the-world-2024",
       "external_url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
       "title": "The State of Food Security and Nutrition in the World 2024",
       "content_text": "The 2024 edition of the UN's flagship food security report, tracking progress toward ending hunger and examining financing for food security and nutrition.",
@@ -752,8 +752,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=the-macroeconomic-impact-of-climate-change-global-vs-local-temperature",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=the-macroeconomic-impact-of-climate-change-global-vs-local-temperature",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-macroeconomic-impact-of-climate-change-global-vs-local-temperature",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=the-macroeconomic-impact-of-climate-change-global-vs-local-temperature",
       "external_url": "https://www.nber.org/system/files/working_papers/w32450/w32450.pdf",
       "title": "The Macroeconomic Impact of Climate Change: Global vs. Local Temperature",
       "content_text": "NBER working paper using 173 countries from 1960 to 2019, finding that global temperature rises lead to GDP per capita declines of 12-16% after six years, with effects persisting 8-10 years, comparable in magnitude to severe financial crises.",
@@ -769,8 +769,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=state-of-the-global-climate-2023",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=state-of-the-global-climate-2023",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=state-of-the-global-climate-2023",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=state-of-the-global-climate-2023",
       "external_url": "https://library.wmo.int/records/item/68835-state-of-the-global-climate-2023",
       "title": "State of the Global Climate 2023",
       "content_text": "WMO's annual report confirming record temperatures, ocean heat, sea-level rise, and glacier retreat.",
@@ -785,8 +785,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=self-management-of-chronic-non-communicable-diseases-in-south-asian-settings-a",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=self-management-of-chronic-non-communicable-diseases-in-south-asian-settings-a",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=self-management-of-chronic-non-communicable-diseases-in-south-asian-settings-a",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=self-management-of-chronic-non-communicable-diseases-in-south-asian-settings-a",
       "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001668",
       "title": "Self-Management of Chronic, Non-Communicable Diseases in South Asian Settings: A Systematic Mixed-Studies Review",
       "content_text": "Systematic review finding that age, education, income, knowledge, social support, self-efficacy, and affordability of medicine are key determinants of chronic NCD self-management in South Asia.",
@@ -804,8 +804,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=rethinking-social-protection-in-south-asia-toward-progressive-universalism",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=rethinking-social-protection-in-south-asia-toward-progressive-universalism",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=rethinking-social-protection-in-south-asia-toward-progressive-universalism",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=rethinking-social-protection-in-south-asia-toward-progressive-universalism",
       "external_url": "https://www.worldbank.org/en/region/sar/publication/rethinking-social-protection-in-south-asia-toward-progressive-universalism",
       "title": "Rethinking Social Protection in South Asia: Toward Progressive Universalism",
       "content_text": "World Bank report arguing that South Asia has made significant progress in social protection delivery but still has far to go, advocating for progressive universalism as a framework for expanding coverage and improving adequacy.",
@@ -822,8 +822,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=navigating-algorithm-bias-in-ai-ensuring-fairness-and-trust-in-africa",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=navigating-algorithm-bias-in-ai-ensuring-fairness-and-trust-in-africa",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=navigating-algorithm-bias-in-ai-ensuring-fairness-and-trust-in-africa",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=navigating-algorithm-bias-in-ai-ensuring-fairness-and-trust-in-africa",
       "external_url": "https://www.frontiersin.org/journals/research-metrics-and-analytics/articles/10.3389/frma.2024.1486600/full",
       "title": "Navigating Algorithm Bias in AI: Ensuring Fairness and Trust in Africa",
       "content_text": "Documents how algorithmic bias exacerbates existing inequalities in developing countries. Argues that African values and ethical principles are currently lacking in global AI ethics discussions and advocates for culturally sensitive AI development.",
@@ -838,8 +838,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=improving-learning-outcomes-for-out-of-school-children-evidence-from-a",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=improving-learning-outcomes-for-out-of-school-children-evidence-from-a",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=improving-learning-outcomes-for-out-of-school-children-evidence-from-a",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=improving-learning-outcomes-for-out-of-school-children-evidence-from-a",
       "external_url": "https://doi.org/10.1080/09645292.2024.2410773",
       "title": "Improving learning outcomes for out-of-school children: evidence from a randomized evaluation of an accelerated learning program in Liberia",
       "content_text": "Liberia records 2.2 learning-adjusted years of schooling, among the lowest measured anywhere. A ten-month accelerated programme across 100 communities brings out-of-school children up to the learning level of children in government schools.",
@@ -855,8 +855,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=improving-childrens-foundational-learning-through-community-school",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=improving-childrens-foundational-learning-through-community-school",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=improving-childrens-foundational-learning-through-community-school",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=improving-childrens-foundational-learning-through-community-school",
       "external_url": "https://doi.org/10.1016/j.labeco.2024.102615",
       "title": "Improving children's foundational learning through community-school participation: Experimental evidence from rural India",
       "content_text": "A trial in 400 Indian villages comparing community-only accountability against school-community collaboration. Both raise foundational literacy and numeracy; the collaborative arm pulls ahead only where parents actually visited the school.",
@@ -872,8 +872,8 @@
       ]
     },
     {
-      "id": "https://varnasr.github.io/development-discourses/resource.html?id=human-development-report-202324",
-      "url": "https://varnasr.github.io/development-discourses/resource.html?id=human-development-report-202324",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=human-development-report-202324",
+      "url": "https://devdiscourses.impactmojo.in/resource.html?id=human-development-report-202324",
       "external_url": "https://hdr.undp.org/content/human-development-report-2023-24",
       "title": "Human Development Report 2023/24",
       "content_text": "'Breaking the Gridlock'—the HDR examining rising global polarisation and the reimagined cooperation needed for human development.",
