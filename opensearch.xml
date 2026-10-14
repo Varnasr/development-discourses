@@ -3,6 +3,6 @@
   <ShortName>Dev Discourses</ShortName>
   <Description>Search the Development Discourses open-access library</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Url type="text/html" method="get" template="https://varnasr.github.io/development-discourses/index.html?q={searchTerms}"/>
-  <moreurl>https://varnasr.github.io/development-discourses/index.html</moreurl>
+  <Url type="text/html" method="get" template="https://devdiscourses.impactmojo.in/index.html?q={searchTerms}"/>
+  <moreurl>https://devdiscourses.impactmojo.in/index.html</moreurl>
 </OpenSearchDescription>
