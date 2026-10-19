@@ -1,5 +1,7 @@
 # development-discourses
 
+Shared engineering standard: @.claude/engineering-standards.md. It applies to all work in this repository. This file adds what is specific to the project, and wins where the two disagree.
+
 A curated open-access library: 645 research papers, books and grey literature
 for development practitioners in South Asia, across 19 topics. Static HTML, no
 build step for the part that runs, a standard-library Python pipeline for the
