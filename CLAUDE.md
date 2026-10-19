@@ -1,5 +1,7 @@
 # development-discourses
 
+Shared engineering standard: @.claude/engineering-standards.md. It applies to all work in this repository. This file adds what is specific to the project, and wins where the two disagree.
+
 A curated open-access library: 645 research papers, books and grey literature
 for development practitioners in South Asia, across 19 topics. Static HTML, no
 build step for the part that runs, a standard-library Python pipeline for the
@@ -173,6 +175,13 @@ filter was on. `[hidden]` needs its own rule whenever you give an element a
   Underlined in `.about-content p`, the footer tagline and the link notes.
 - **`title` is not an accessible name.** It shows on no touch device and is
   announced unreliably. Icon-only buttons carry `aria-label`.
+- **A 202 is not a document.** opendocs.ids.ac.uk, escholarship.org and a few
+  UN hosts answer a robot with 202 and an empty bot-challenge page, and
+  `verify_urls.py` counts any 2xx as `ok`. Nine entries in the committed report
+  rest on a 202. One of them, IDS's social protection report (Figshare article
+  26201478), was gone: the runner got 404 on 2026-10-18 and Figshare's API
+  answers 404 for the id. It is recorded as broken now. Whether 202 should read
+  as `unknown` is a classification decision for the owner, not made here.
 - **Link rot needs no commit**, which is why `link-check.yml` is on a daily
   schedule and not on pull requests. It also runs in its own workflow: a job
   cancelled by its own `timeout-minutes` cancels the whole run, so a long
