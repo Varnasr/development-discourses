@@ -17,7 +17,7 @@
  * index.html and resource.html changed their canonical and footer links.
  */
 
-const CACHE_VERSION = 'dd-v6';
+const CACHE_VERSION = 'dd-v7';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 
