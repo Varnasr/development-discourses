@@ -15,9 +15,10 @@
  * appear, and only a first-time visitor would ever see the feature. Hence v4.
  * v6 (2026-10-14): the site moved to devdiscourses.impactmojo.in at the root;
  * index.html and resource.html changed their canonical and footer links.
+ * v8 (2026-10-31): both pages gained a contact line in the footer.
  */
 
-const CACHE_VERSION = 'dd-v7';
+const CACHE_VERSION = 'dd-v8';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 
