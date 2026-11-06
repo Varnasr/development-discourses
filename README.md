@@ -6,7 +6,7 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Varnasr/development-discourses)](https://github.com/Varnasr/development-discourses/commits/main)
 [![Part of ImpactMojo](https://img.shields.io/badge/Part%20of-ImpactMojo-orange)](https://www.impactmojo.in)
 
-**A curated open-access library of 645 research papers, books, and grey literature for development practitioners in South Asia.**
+**A curated library of 687 research papers, books, and grey literature for development practitioners in South Asia, open access first.**
 
 Searchable, filterable, and fully free — part of the [ImpactMojo](https://www.impactmojo.in) learning platform.
 
@@ -14,9 +14,9 @@ Searchable, filterable, and fully free — part of the [ImpactMojo](https://www.
 
 ## About
 
-Development Discourses is a curated reference library for development professionals, researchers, and students. It aggregates open-access materials across the full breadth of development practice — from academic papers to practitioner guides to grey literature that rarely makes it into university syllabi.
+Development Discourses is a curated reference library for development professionals, researchers, and students. It aggregates materials, open access first, across the full breadth of development practice — from academic papers to practitioner guides to grey literature that rarely makes it into university syllabi.
 
-Every resource is open-access, verified, and contextualised for South Asian development work.
+Every resource is tagged Open Access, Free to Read or Check Access, has its link checked daily, and is placed in context for South Asian development work.
 
 ---
 
@@ -200,7 +200,7 @@ python3 -m http.server 8000
 | Data | JSON (one file per topic) | Resource metadata, merged and deduplicated at build time |
 | Build | Python stdlib (`enrich_data.py`, `build.py`, `generate_assets.py`) | Enrich, merge, and generate derived assets |
 | Testing | pytest | Data-integrity and asset-generation checks |
-| CI | GitHub Actions | `ci.yml` on every push and pull request: build, drift check, tests, colour contrast. `link-check.yml` daily: the 644 resource URLs and the pages' own links |
+| CI | GitHub Actions | `ci.yml` on every push and pull request: build, drift check, tests, colour contrast. `link-check.yml` daily: every resource URL and the pages' own links |
 | Verification | Python (`verify_urls.py`) | URL health checks |
 
 No runtime dependencies: the front end ships as static files, and the entire
@@ -226,7 +226,7 @@ asset generators produce well-formed output.
 
 **Related repositories:**
 - [ImpactMojo](https://github.com/Varnasr/ImpactMojo) — Main platform
-- [dev-case-studies](https://github.com/Varnasr/dev-case-studies) — 200 real development case studies
+- [dev-case-studies](https://github.com/Varnasr/dev-case-studies) — 208 real development case studies
 - [ImpactLex](https://github.com/Varnasr/ImpactLex) — Development sector terminology dictionary
 - [PolicyDhara](https://github.com/Varnasr/PolicyDhara) — Indian policy tracker
 

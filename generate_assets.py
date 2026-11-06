@@ -85,7 +85,7 @@ def build_feed(resources: list[dict], base_url: str) -> dict:
         "title": "Development Discourses",
         "home_page_url": f"{base_url}/",
         "feed_url": f"{base_url}/feed.json",
-        "description": "A curated open-access library of research papers, books, and grey literature for development practitioners in South Asia.",
+        "description": "A curated library of research papers, books, and grey literature for development practitioners in South Asia.",
         "language": "en",
         "items": items,
     }
@@ -97,7 +97,7 @@ def build_opensearch(base_url: str) -> str:
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
   <ShortName>Dev Discourses</ShortName>
-  <Description>Search the Development Discourses open-access library</Description>
+  <Description>Search the Development Discourses library</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Url type="text/html" method="get" template="{escape(base_url)}/index.html?q={{searchTerms}}"/>
   <moreurl>{escape(base_url)}/index.html</moreurl>

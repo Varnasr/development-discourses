@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
   <ShortName>Dev Discourses</ShortName>
-  <Description>Search the Development Discourses open-access library</Description>
+  <Description>Search the Development Discourses library</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Url type="text/html" method="get" template="https://devdiscourses.impactmojo.in/index.html?q={searchTerms}"/>
   <moreurl>https://devdiscourses.impactmojo.in/index.html</moreurl>
