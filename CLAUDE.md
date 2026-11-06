@@ -2,8 +2,9 @@
 
 Shared engineering standard: @.claude/engineering-standards.md. It applies to all work in this repository. This file adds what is specific to the project, and wins where the two disagree.
 
-A curated open-access library: 687 research papers, books and grey literature
-for development practitioners in South Asia, across 19 topics. Static HTML, no
+A curated library, open access first: 687 research papers, books and grey
+literature for development practitioners in South Asia, across 19 topics. Of the
+687, 338 are tagged open access, 104 free to read and 245 check access. Static HTML, no
 build step for the part that runs, a standard-library Python pipeline for the
 part that generates. Deployed to GitHub Pages at
 https://devdiscourses.impactmojo.in/ (the `CNAME` file), served at the root.

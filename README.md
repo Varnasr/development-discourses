@@ -6,7 +6,7 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Varnasr/development-discourses)](https://github.com/Varnasr/development-discourses/commits/main)
 [![Part of ImpactMojo](https://img.shields.io/badge/Part%20of-ImpactMojo-orange)](https://www.impactmojo.in)
 
-**A curated open-access library of 687 research papers, books, and grey literature for development practitioners in South Asia.**
+**A curated library of 687 research papers, books, and grey literature for development practitioners in South Asia, open access first.**
 
 Searchable, filterable, and fully free — part of the [ImpactMojo](https://www.impactmojo.in) learning platform.
 
@@ -14,9 +14,9 @@ Searchable, filterable, and fully free — part of the [ImpactMojo](https://www.
 
 ## About
 
-Development Discourses is a curated reference library for development professionals, researchers, and students. It aggregates open-access materials across the full breadth of development practice — from academic papers to practitioner guides to grey literature that rarely makes it into university syllabi.
+Development Discourses is a curated reference library for development professionals, researchers, and students. It aggregates materials, open access first, across the full breadth of development practice — from academic papers to practitioner guides to grey literature that rarely makes it into university syllabi.
 
-Every resource is open-access, verified, and contextualised for South Asian development work.
+Every resource is tagged Open Access, Free to Read or Check Access, has its link checked daily, and is placed in context for South Asian development work.
 
 ---
 

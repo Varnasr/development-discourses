@@ -18,7 +18,7 @@
  * v8 (2026-10-31): both pages gained a contact line in the footer.
  */
 
-const CACHE_VERSION = 'dd-v8';
+const CACHE_VERSION = 'dd-v9';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 
