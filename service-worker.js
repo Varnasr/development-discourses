@@ -16,9 +16,13 @@
  * v6 (2026-10-14): the site moved to devdiscourses.impactmojo.in at the root;
  * index.html and resource.html changed their canonical and footer links.
  * v8 (2026-10-31): both pages gained a contact line in the footer.
+ * v10 (2026-11-08): every resource has its own static page, resource/<id>.html,
+ * and js/resource.js, js/app.js, js/litmap.js and resource.html changed to match.
+ * A cached script that still linked to resource.html?id= would pair old links
+ * with new pages.
  */
 
-const CACHE_VERSION = 'dd-v9';
+const CACHE_VERSION = 'dd-v10';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 

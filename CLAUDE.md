@@ -158,6 +158,20 @@ the `hidden` attribute's user-agent rule, so the badge rendered `0` when no
 filter was on. `[hidden]` needs its own rule whenever you give an element a
 `display`.
 
+## One static page per resource
+
+`resource/<id>.html` is written for every resource by `resource_pages.py`, called
+from `generate_assets.py` and `build.py`. It is `resource.html` with the head and
+the visible content filled in, so the title, canonical, share tags, JSON-LD,
+summary, topics and the link out are in the HTML and need no script. The
+sitemap and feed point at these addresses. `js/resource.js` runs on the same
+markup (`body[data-static]`) and adds citations, related resources and the
+connection map; it leaves the head alone there. `resource.html?id=<id>` still
+works and its script sets the canonical to the static page. Titles are cut to
+65 characters, and titles that only differ late are cut from the middle so all
+687 stay distinct. Edit `resource.html`, never `resource/`; CI fails on drift,
+and the lychee crawl skips `resource/` because `verify_urls.py` covers those links.
+
 ## Watch out for
 
 - **The service worker shell is cache-first.** Change any of `index.html`,

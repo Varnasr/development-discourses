@@ -31,8 +31,9 @@ jobs:
 
       - name: Verify build output is committed (no drift)
         run: |
-          git diff --exit-code data/resources.json data/stats.json data/search-index.json sitemap.xml feed.json opensearch.xml \
-            || (echo "::error::Generated files are stale. Run 'make build' and commit the result." && exit 1)
+          # status, not diff: a missing or extra file in resource/ is untracked
+          test -z "$(git status --porcelain data/resources.json data/stats.json data/search-index.json sitemap.xml feed.json opensearch.xml resource)" \
+            || (git status --short resource data sitemap.xml feed.json opensearch.xml | head -20; echo "::error::Generated files are stale. Run 'make build' and commit the result." && exit 1)
 
       - name: Run tests
         run: python -m pytest -q

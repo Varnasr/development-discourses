@@ -67,7 +67,8 @@ Plus Agriculture & Food Systems, Conflict & Humanitarian, Disability & Inclusion
 ```
 development-discourses/
 ├── index.html              # Main library interface (search + faceted filters)
-├── resource.html           # Individual resource view + connection map
+├── resource.html           # Template for resource pages, and the older ?id= address
+├── resource/               # One static page per resource, written by resource_pages.py
 ├── manifest.webmanifest    # PWA manifest
 ├── service-worker.js       # Offline caching (app shell + data)
 ├── icon.svg                # App / favicon icon

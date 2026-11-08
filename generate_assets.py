@@ -6,6 +6,7 @@ Produces:
   - feed.json              JSON Feed 1.1 of the most recently added resources
   - opensearch.xml         OpenSearch descriptor for browser search integration
   - data/stats.json        aggregate counts consumed by the frontend / badges
+  - resource/<id>.html     one static page per resource (see resource_pages.py)
   - data/search-index.json trimmed index (id, title, authors, year, topic(s), type)
 
 Usage:
@@ -23,6 +24,8 @@ import os
 from collections import Counter
 from html import escape
 from typing import Any
+
+from resource_pages import page_url, write_pages
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(SCRIPT_DIR, "data", "resources.json")
@@ -50,7 +53,7 @@ def build_sitemap(resources: list[dict], base_url: str) -> str:
         rid = r.get("id")
         if not rid:
             continue
-        loc = f"{base_url}/resource.html?id={escape(rid)}"
+        loc = escape(page_url(base_url, rid))
         lines.append(f"  <url><loc>{loc}</loc><priority>0.6</priority></url>")
     lines.append("</urlset>")
     return "\n".join(lines) + "\n"
@@ -69,9 +72,11 @@ def build_feed(resources: list[dict], base_url: str) -> dict:
     items = []
     for r in ordered:
         rid = r.get("id")
-        url = f"{base_url}/resource.html?id={rid}" if rid else r.get("url", "")
+        url = page_url(base_url, rid) if rid else r.get("url", "")
         items.append({
-            "id": url,
+            # Feed readers key on `id`, so it stays the address it has always
+            # had. Changing it would show all 50 items as new.
+            "id": f"{base_url}/resource.html?id={rid}" if rid else url,
             "url": url,
             "external_url": r.get("url", ""),
             "title": r.get("title", "Untitled"),
@@ -168,6 +173,8 @@ def main() -> None:
     write(os.path.join(SCRIPT_DIR, "data", "search-index.json"),
           json.dumps(build_search_index(resources), ensure_ascii=False) + "\n",
           args.dry_run)
+
+    write_pages(resources, base_url, args.dry_run)
 
     print("Done." if not args.dry_run else "Dry run complete.")
 
