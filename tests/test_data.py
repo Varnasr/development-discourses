@@ -70,7 +70,7 @@ def test_asset_generation_functions():
 
     sitemap = ga.build_sitemap(data, base)
     assert sitemap.startswith("<?xml")
-    assert "resource.html?id=" in sitemap
+    assert "/resource/" in sitemap and "resource.html?id=" not in sitemap
 
     feed = ga.build_feed(data, base)
     assert feed["version"].startswith("https://jsonfeed.org")

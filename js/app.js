@@ -374,7 +374,7 @@
             const pool = filteredResources.length ? filteredResources : allResources;
             if (!pool.length) return;
             const r = pool[Math.floor(Math.random() * pool.length)];
-            window.location.href = r.id ? 'resource.html?id=' + encodeURIComponent(r.id) : r.url;
+            window.location.href = r.id ? 'resource/' + encodeURIComponent(r.id) + '.html' : r.url;
         });
 
         // Bookmark toggle on cards (card is a link, so stop navigation)
@@ -609,7 +609,7 @@
         toShow.forEach(r => {
             const card = document.createElement('a');
             card.className = 'resource-card';
-            card.href = r.id ? 'resource.html?id=' + encodeURIComponent(r.id) : r.url;
+            card.href = r.id ? 'resource/' + encodeURIComponent(r.id) + '.html' : r.url;
             if (!r.id) {
                 card.target = '_blank';
                 card.rel = 'noopener';

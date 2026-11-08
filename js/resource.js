@@ -10,10 +10,23 @@
     let currentResource = null;
     let currentCiteFormat = 'apa';
 
+    // The same script runs on two kinds of page. resource/<id>.html is written
+    // by resource_pages.py, one level down, with the resource already in the
+    // markup (body[data-static]). resource.html?id=<id> is the older address:
+    // empty markup, filled here. ROOT is the path back to the site root.
+    const BODY = document.body.dataset;
+    const ROOT = BODY.root || '';
+    const IS_STATIC = BODY.static === '1';
+    const SITE = 'https://devdiscourses.impactmojo.in';
+
+    function pageHref(id) {
+        return ROOT + 'resource/' + encodeURIComponent(id) + '.html';
+    }
+
     // ---- Init ----
     async function init() {
         const params = new URLSearchParams(window.location.search);
-        const resourceId = params.get('id');
+        const resourceId = BODY.resourceId || params.get('id');
 
         if (!resourceId) {
             showError('No resource specified.');
@@ -21,7 +34,7 @@
         }
 
         try {
-            const response = await fetch('data/resources.json');
+            const response = await fetch(ROOT + 'data/resources.json');
             allResources = await response.json();
         } catch (e) {
             showError('Could not load resources.');
@@ -72,7 +85,8 @@
     function renderResource() {
         const r = currentResource;
 
-        document.title = r.title + ' | Development Discourses';
+        // A static page already carries its own title, cut to fit a results page.
+        if (!IS_STATIC) document.title = r.title + ' | Development Discourses';
 
         // Breadcrumb
         document.getElementById('breadcrumbTopic').textContent = r.topic;
@@ -107,7 +121,7 @@
         document.getElementById('detailAuthors').textContent = r.authors || 'Unknown';
         document.getElementById('detailYear').textContent = r.year || '';
         document.getElementById('detailTopic').innerHTML = topicsOf(r)
-            .map(t => `<a class="detail-topic-tag" href="index.html?topic=${encodeURIComponent(t)}">${escapeHtml(t)}</a>`)
+            .map(t => `<a class="detail-topic-tag" href="${ROOT}index.html?topic=${encodeURIComponent(t)}">${escapeHtml(t)}</a>`)
             .join('');
         document.getElementById('detailDescription').textContent = r.description || 'No description available.';
 
@@ -205,9 +219,14 @@
 
     // ---- Dynamic SEO / structured data ----
     function injectSEO() {
+        // A static page ships its description, canonical, share tags and
+        // JSON-LD in the HTML. Rewriting them here would only make the
+        // rendered page disagree with the source a crawler reads.
+        if (IS_STATIC) return;
         const r = currentResource;
         const desc = (r.description || r.title).substring(0, 300);
-        const pageUrl = window.location.href;
+        // The old address stays working, but its canonical is the static page.
+        const pageUrl = SITE + '/resource/' + encodeURIComponent(r.id) + '.html';
 
         setMeta('name', 'description', desc);
         setMeta('property', 'og:title', r.title);
@@ -317,7 +336,7 @@
         }
 
         tagList.innerHTML = tags.map(tag =>
-            `<a href="index.html?search=${encodeURIComponent(tag.replace(/-/g, ' '))}" class="detail-tag">${escapeHtml(tag)}</a>`
+            `<a href="${ROOT}index.html?search=${encodeURIComponent(tag.replace(/-/g, ' '))}" class="detail-tag">${escapeHtml(tag)}</a>`
         ).join('');
     }
 
@@ -414,7 +433,7 @@
         container.innerHTML = scored.map(s => {
             const other = s.resource;
             return `
-                <a href="resource.html?id=${encodeURIComponent(other.id)}" class="related-item">
+                <a href="${pageHref(other.id)}" class="related-item">
                     <span class="related-title">${escapeHtml(truncate(other.title, 80))}</span>
                     <span class="related-meta">${escapeHtml(other.authors ? other.authors.split(',')[0] : '')}${other.year ? ', ' + other.year : ''}</span>
                 </a>
@@ -456,7 +475,7 @@
 
         card.style.display = 'block';
         list.innerHTML = items.map(r => `
-            <a href="resource.html?id=${encodeURIComponent(r.id)}" class="related-item">
+            <a href="${pageHref(r.id)}" class="related-item">
                 <span class="related-title">${escapeHtml(truncate(r.title, 80))}</span>
                 <span class="related-meta">${escapeHtml(r.authors ? r.authors.split(',')[0] : '')}${r.year ? ', ' + r.year : ''}</span>
             </a>
@@ -498,7 +517,8 @@
 
         // Share
         document.getElementById('shareBtn').addEventListener('click', function () {
-            const url = window.location.href;
+            const url = IS_STATIC ? window.location.href.split('#')[0]
+                : SITE + '/resource/' + encodeURIComponent(currentResource.id) + '.html';
             if (navigator.share) {
                 navigator.share({ title: currentResource.title, url: url });
             } else {
@@ -517,7 +537,7 @@
         document.querySelector('.detail-section').innerHTML =
             '<div class="container" style="padding:64px 24px;text-align:center;">' +
             '<p style="color:var(--color-text-muted);margin-bottom:16px;">' + escapeHtml(msg) + '</p>' +
-            '<a href="index.html" class="action-btn action-primary" style="display:inline-flex;">&larr; Back to Library</a>' +
+            '<a href="' + ROOT + 'index.html" class="action-btn action-primary" style="display:inline-flex;">&larr; Back to Library</a>' +
             '</div>';
     }
 

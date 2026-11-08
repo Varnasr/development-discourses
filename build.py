@@ -238,6 +238,7 @@ def generate_assets(resources):
              json.dumps(ga.build_stats(resources), indent=2, ensure_ascii=False) + "\n", False)
     ga.write(os.path.join(SCRIPT_DIR, "data", "search-index.json"),
              json.dumps(ga.build_search_index(resources), ensure_ascii=False) + "\n", False)
+    ga.write_pages(resources, base_url, False)
 
 
 if __name__ == "__main__":

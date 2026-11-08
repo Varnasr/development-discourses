@@ -346,7 +346,7 @@
             el.addEventListener('click', function (e) {
                 if (isDragging) return;
                 if (node.id === currentId) return; // already here
-                window.location.href = 'resource.html?id=' + encodeURIComponent(node.id);
+                window.location.href = (document.body.dataset.root || '') + 'resource/' + encodeURIComponent(node.id) + '.html';
             });
 
             // Hover tooltip

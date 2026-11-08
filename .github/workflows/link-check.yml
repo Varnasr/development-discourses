@@ -56,10 +56,12 @@ jobs:
           # 403 and 429 are accepted here because this crawl has no way to tell
           # a publisher refusing a robot from a document that is gone. The job
           # above does have that distinction, which is why it is the one that
-          # covers the resources.
+          # covers the resources. The 687 pages in resource/ repeat those same
+          # links, so they are left out here.
           args: >-
             --accept 200,204,301,302,403,429
             --exclude "localhost|127.0.0.1|example.com|twitter.com|x.com|linkedin.com|facebook.com|instagram.com|t.me|wa.me|play.google.com|apps.apple.com"
             --timeout 30 --max-retries 2
+            --exclude-path resource
             "**/*.html" "**/*.md"
           fail: true
