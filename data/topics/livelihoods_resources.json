@@ -291,7 +291,7 @@
       "womens-empowerment"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Savings Constraints and Microenterprise Development: Evidence from a Field Experiment in Kenya",
@@ -469,7 +469,7 @@
       "survey-data"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Economics and Emigration: Trillion-Dollar Bills on the Sidewalk?",
@@ -558,7 +558,7 @@
       "livelihoods"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Rural Development Report 2021: Transforming Food Systems for Rural Prosperity",
@@ -574,7 +574,7 @@
       "livelihoods"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Rural Development Report 2019: Creating Opportunities for Rural Youth",
@@ -591,7 +591,7 @@
       "migration"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Linking African Smallholders to High-Value Markets",
@@ -824,7 +824,7 @@
       "poverty"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Sustainable Livelihoods Framework",
@@ -840,7 +840,7 @@
       "livelihoods"
     ],
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The Ultra-Poor Graduation Approach: Evidence",
@@ -859,7 +859,7 @@
       "ultra-poor"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "doi": "10.1126/science.1260799"
   },
   {
@@ -892,7 +892,7 @@
       "livelihoods"
     ],
     "link_status": "broken",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Skills Development and the Informal Sector",
@@ -944,7 +944,7 @@
       "livelihoods"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Decent Work and the Sustainable Development Goals",
@@ -962,5 +962,113 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "South Asia Development Update, October 2025: Jobs, AI, and Trade",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43743",
+    "description": "The World Bank's October 2025 economic update for South Asia. It projects regional growth of 6.6 percent in 2025 and 5.8 percent in 2026, reports that about 15 percent of South Asian workers are in jobs where artificial intelligence strongly complements human labor, and discusses how carefully sequenced tariff cuts could encourage private investment and job creation.",
+    "doi": "10.1596/978-1-4648-2291-9",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "south-asia-development-update-october-2025-jobs-ai-and-trade",
+    "access_type": "open_access",
+    "tags": [
+      "AI",
+      "South-Asia",
+      "livelihoods"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Survival or Growth? Nepal’s Microenterprise Landscape and the Case for a Differentiated Policy Approach",
+    "authors": "Jumana Alaref, Laurine Martinoty, Aishwarya Patil, Mohamed Ihsan Ajwad, Jasmine Rajbhandary",
+    "year": 2026,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/45086",
+    "description": "Uses two new enterprise surveys from 2024-25 and 2025 to compare informal and formal microenterprises in urban Nepal for the first time. It finds deep structural differences between the two groups and that only a small share of informal firms could benefit from formalizing, and it recommends livelihood and social protection support for most informal firms with targeted productivity support for the few with growth potential.",
+    "doi": "10.1596/45086",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "survival-or-growth-nepals-microenterprise-landscape-and-the-case-for-a",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "livelihoods",
+      "social-protection",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Women in the Platform Economy: Descriptive Evidence from Drivers in India and Indonesia",
+    "authors": "Achyuta Adhvaryu, Levina Adiputri, Valentina Brailovskaya, Priyanka Dua, Jenny Susan John, Pratibha Joshi, Terry Muthahhari, Rivandra Royono, Jack Thunde",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/papers/w35467",
+    "description": "Uses survey and administrative data from two-wheeler driving and delivery platforms in India and Indonesia. Women are 0.8 percent of drivers in India and 1.5 percent in Indonesia, work fewer hours than men, earn 6 to 8 percent less per hour in India and report more harassment.",
+    "doi": "10.3386/w35467",
+    "journal": "NBER Working Paper No. 35467",
+    "access_observed": "free_to_read",
+    "id": "women-in-the-platform-economy-descriptive-evidence-from-drivers-in-india-and",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "livelihoods",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs",
+    "authors": "Samantha Carter, Edward Jee, Dean Karlan, Patrick Premand",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/papers/w35991",
+    "description": "A Bayesian hierarchical meta-analysis of 49 studies of poverty graduation programs. Monthly consumption rises by 38 USD PPP (11 percent) and income by 28 USD PPP (15 percent). Lower-cost programs tend to be more cost-effective, and programs implemented from 2016 onward have higher benefit-cost ratios than earlier ones.",
+    "doi": "10.3386/w35991",
+    "journal": "NBER Working Paper No. 35991",
+    "access_observed": "free_to_read",
+    "id": "doing-better-at-doing-good-lessons-from-a-bayesian-meta-analysis-after-20-years",
+    "access_type": "free_to_read",
+    "tags": [
+      "graduation-approach",
+      "livelihoods",
+      "meta-analysis",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "India Employment Report 2024: Youth employment, education and skills",
+    "authors": "International Labour Organization, Institute for Human Development",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/publications/india-employment-report-2024-youth-employment-education-and-skills",
+    "description": "Examines youth employment in India against changes in the economy, the labour market, education and skills over two decades, mainly from National Sample Survey and Periodic Labour Force Survey data for 2000 to 2022. It reports that labour force participation, workforce participation and unemployment rates deteriorated between 2000 and 2019 and improved afterwards.",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "india-employment-report-2024-youth-employment-education-and-skills",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "education",
+      "employment",
+      "livelihoods",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

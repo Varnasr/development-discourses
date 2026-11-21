@@ -2,9 +2,10 @@
 
 Shared engineering standard: @.claude/engineering-standards.md. It applies to all work in this repository. This file adds what is specific to the project, and wins where the two disagree.
 
-A curated library, open access first: 687 research papers, books and grey
+A curated library, open access first: 751 research papers, books and grey
 literature for development practitioners in South Asia, across 19 topics. Of the
-687, 338 are tagged open access, 104 free to read and 245 check access. Static HTML, no
+751, 382 are tagged open access, 124 free to read and 245 check access (counted
+on 21 November 2026; `data/stats.json` holds the current figures). Static HTML, no
 build step for the part that runs, a standard-library Python pipeline for the
 part that generates. Deployed to GitHub Pages at
 https://devdiscourses.impactmojo.in/ (the `CNAME` file), served at the root.
@@ -13,7 +14,7 @@ https://devdiscourses.impactmojo.in/ (the `CNAME` file), served at the root.
 
 ```bash
 make build       # enrich topic files, merge, regenerate every derived asset
-make test        # 44 checks
+make test        # 46 checks
 make contrast    # every ink token against every surface, both themes
 make verify      # check every resource URL, write the report and link_status
 make recheck     # re-check only what was not ok last time (much faster)
@@ -86,6 +87,23 @@ Livelihoods from 49 to 54.
 
 **If you add a consumer of topic, read `topics`.** `topicsOf()` in `js/app.js`
 and `js/resource.js` is the accessor; `build_stats` counts across the list.
+
+## The access label is a guess unless someone looked
+
+`enrich_data.py` sets `access_type` from the URL's domain on every build, so
+writing it by hand in a topic file does nothing. The guess is wrong in both
+directions: every `doi.org` link reads "check access" whatever licence the
+article carries, and everything on `www.who.int` or `hdr.undp.org` reads "open
+access" whether or not the page states a licence.
+
+An entry may carry `access_observed`, set when it was added from what the
+landing page itself showed: `open_access` only where the page states an open
+licence or the publisher marks it open, `free_to_read` where the text opens
+without payment and no open licence is stated, `check_access` otherwise. It
+wins over the guess, an unknown value fails the build, and two tests hold both.
+The 64 entries added on 21 November 2026 carry it. About 40 older entries have a
+Creative Commons `license` recorded and still read "check access" because their
+URL is a DOI; nobody has opened those pages to confirm, so they were left.
 
 ## The badge that could never appear
 
@@ -234,7 +252,7 @@ markup (`body[data-static]`) and adds citations, related resources and the
 connection map; it leaves the head alone there. `resource.html?id=<id>` still
 works and its script sets the canonical to the static page. Titles are cut to
 65 characters, and titles that only differ late are cut from the middle so all
-687 stay distinct. Edit `resource.html`, never `resource/`; CI fails on drift,
+751 stay distinct. Edit `resource.html`, never `resource/`; CI fails on drift,
 and the lychee crawl skips `resource/` because `verify_urls.py` covers those links.
 
 ## Watch out for
@@ -257,11 +275,17 @@ and the lychee crawl skips `resource/` because `verify_urls.py` covers those lin
   announced unreliably. Icon-only buttons carry `aria-label`.
 - **A 202 is not a document.** opendocs.ids.ac.uk, escholarship.org and a few
   UN hosts answer a robot with 202 and an empty bot-challenge page, and
-  `verify_urls.py` counts any 2xx as `ok`. Nine entries in the committed report
+  `verify_urls.py` counts any 2xx as `ok`. 8 entries in the committed report
   rest on a 202. One of them, IDS's social protection report (Figshare article
-  26201478), was gone: the runner got 404 on 2026-10-18 and Figshare's API
-  answers 404 for the id. It is recorded as broken now. Whether 202 should read
-  as `unknown` is a classification decision for the owner, not made here.
+  26201478), is gone: the runner got 404 on 2026-10-18 and Figshare's API
+  answers 404 for the id, and it was recorded as broken. **The recheck of
+  2026-11-21 was answered 202 and the checker wrote `ok` over that record.**
+  Figshare's API still answered 404 the same day, so the `ok` on that entry is
+  wrong and the page no longer flags it. A possible successor is Figshare
+  article 26459881 (Béné 2011, *IDS Bulletin* 42(6)), which was not confirmed
+  to be the same document. Whether 202 should read as `unknown` is a
+  classification decision for the owner, not made here; until it is made, a
+  recheck can undo a `broken` verdict on any of these hosts.
 - **Link rot needs no commit**, which is why `link-check.yml` is on a daily
   schedule and not on pull requests. It also runs in its own workflow: a job
   cancelled by its own `timeout-minutes` cancels the whole run, so a long
@@ -273,7 +297,7 @@ and the lychee crawl skips `resource/` because `verify_urls.py` covers those lin
 
 ## Testing
 
-`.github/workflows/ci.yml` runs the build, the drift check, 44 tests and the
+`.github/workflows/ci.yml` runs the build, the drift check, 46 tests and the
 contrast check on every push and pull request. `.github/workflows/link-check.yml`
 runs the resource-URL check and the page crawl daily at 05:17 UTC, plus on
 demand.

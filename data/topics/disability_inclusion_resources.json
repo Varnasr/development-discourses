@@ -229,7 +229,7 @@
       "disability-inclusion"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Mental Health and Development: Targeting People with Mental Health Conditions as a Vulnerable Group",
@@ -377,17 +377,18 @@
     "year": 2000,
     "type": "grey_literature",
     "topic": "Disability & Inclusion",
-    "url": "https://www.gov.uk/government/publications/disability-poverty-and-development",
+    "url": "https://hpod.law.harvard.edu/pdf/Disability-poverty-and-development.pdf",
     "description": "An early and influential policy paper establishing the two-way links between disability and poverty in development.",
     "id": "disability-poverty-and-development",
-    "access_type": "open_access",
+    "access_type": "free_to_read",
     "tags": [
       "disability",
       "disability-inclusion",
       "poverty"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "access_observed": "free_to_read"
   },
   {
     "title": "Assistive Technology: Global Report",
@@ -420,7 +421,7 @@
       "disability-inclusion"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Inclusive Education for Children with Disabilities",
@@ -437,7 +438,7 @@
       "education"
     ],
     "link_status": "broken",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Disability Data in Household Surveys: The Washington Group Approach",
@@ -456,5 +457,124 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Methodological Guidelines on Assessing Household Disability: Related Costs and Their Implication for Participation",
+    "authors": "World Bank, UNICEF",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43800",
+    "description": "Guidelines from the World Bank and UNICEF on how to assess the costs that households face because of disability. They distinguish direct costs, such as assistive products and higher spending on everyday goods and services, from indirect costs, such as reduced education or employment for persons with disabilities and their caregivers.",
+    "doi": "10.1596/43800",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "methodological-guidelines-on-assessing-household-disability-related-costs-and",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "education",
+      "employment"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Exploring access to social protection by persons with disabilities in Bangladesh",
+    "authors": "Mizanur Rahman, Md Shohel Rana, Md Mostafizur Rahman, Md Nuruzzaman Khan",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321887",
+    "description": "Analyses the 2021 National Household Survey on Persons with Disabilities in Bangladesh to measure how far persons with disabilities are included in social protection programs. A multilevel multinomial logistic regression relates inclusion, and its timing, to individual, household and community factors.",
+    "doi": "10.1371/journal.pone.0321887",
+    "journal": "PLOS ONE",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "exploring-access-to-social-protection-by-persons-with-disabilities-in-bangladesh",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "disability-inclusion",
+      "social-protection",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Factors affecting school enrolment and attendance for children with disabilities in Bangladesh: Evidence from a cross-sectional survey",
+    "authors": "Shilpi Rani Saha, Soumik Saha",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309402",
+    "description": "Uses the 2019 Multiple Indicator Cluster Survey in Bangladesh to study 5,024 children with disabilities aged 6 to 17. It finds that the child's age and gender, the sex and education of the household head, urban or rural residence and the type of disability are associated with missing school.",
+    "doi": "10.1371/journal.pone.0309402",
+    "journal": "PLOS ONE",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "factors-affecting-school-enrolment-and-attendance-for-children-with",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "disability",
+      "disability-inclusion",
+      "education",
+      "gender",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Disability and educational outcomes in Nepal: Evidence from the 2019 Multiple Indicator Cluster Survey",
+    "authors": "Prashant Acharya",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006579",
+    "description": "Uses a nationally representative sample of 7,824 children aged 5 to 17 from the 2019 Nepal Multiple Indicator Cluster Survey. It relates functional disability to whether a child ever attended school, current grade level and being in the appropriate grade for age, controlling for age, gender, location, mother's education and household wealth.",
+    "doi": "10.1371/journal.pgph.0006579",
+    "journal": "PLOS Global Public Health",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "disability-and-educational-outcomes-in-nepal-evidence-from-the-2019-multiple",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "disability",
+      "disability-inclusion",
+      "education",
+      "gender",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Bringing legislation to life: Navigating intersectional barriers in implementing the Sindh Empowerment of Persons with Disabilities Act (2018) for the healthcare of children with disabilities",
+    "authors": "Muhammad Asim, Waqas Hameed, Sara Rotenberg, Dalia Chowdhury, Abid Lashari, Munazza Gillani, Abdul Ghaffar, Hannah Kuper",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006562",
+    "description": "A qualitative study in four districts of Sindh, Pakistan, based on 40 key informant interviews, on how the health provisions of Sindh's 2018 disability Act are implemented for children with disabilities. It identifies weak governance, limited coordination between sectors and the absence of a sanctioned budget for inclusive health as gaps.",
+    "doi": "10.1371/journal.pgph.0006562",
+    "journal": "PLOS Global Public Health",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "bringing-legislation-to-life-navigating-intersectional-barriers-in-implementing",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "disability",
+      "disability-inclusion",
+      "governance",
+      "qualitative"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

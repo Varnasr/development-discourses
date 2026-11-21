@@ -49,8 +49,8 @@
       "digital",
       "governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Measuring Digital Development: Facts and Figures 2023",
@@ -76,17 +76,17 @@
     "year": 2023,
     "type": "grey_literature",
     "topic": "Data & Technology",
-    "url": "https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf",
+    "url": "https://www.gsmaintelligence.com/research/the-state-of-mobile-internet-connectivity-2023",
     "description": "Reports that 4.6 billion people use mobile internet (57% of global population), but growth has slowed and significant digital divides persist. Rural populations remain 28% less likely to use mobile internet than urban counterparts.",
     "id": "the-state-of-mobile-internet-connectivity-2023",
-    "access_type": "free_to_read",
+    "access_type": "check_access",
     "tags": [
       "data-technology",
       "digital",
       "mobile-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "United Nations E-Government Survey 2022: The Future of Digital Government",
@@ -121,7 +121,7 @@
       "digital"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Open Government for Stronger Democracies: A Global Assessment",
@@ -189,8 +189,8 @@
       "data-technology",
       "governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "AI and Education: Guidance for Policy-Makers",
@@ -206,8 +206,8 @@
       "data-technology",
       "education"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Identity Verification Standards in Welfare Programs: Experimental Evidence from India",
@@ -259,7 +259,7 @@
       "data-technology"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Mobile Phones and Economic Development in Africa",
@@ -392,7 +392,7 @@
       "qualitative"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Open Data Barometer (Fourth Edition)",
@@ -621,7 +621,7 @@
       "poverty"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Costing a Data Revolution",
@@ -637,7 +637,7 @@
       "data-technology"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "World Development Report 2016: Digital Dividends (Overview)",
@@ -672,7 +672,7 @@
       "digital"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The Government Analytics Handbook",
@@ -721,8 +721,8 @@
       "AI",
       "data-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The Digital Financial Services Landscape",
@@ -730,7 +730,7 @@
     "year": 2023,
     "type": "grey_literature",
     "topic": "Data & Technology",
-    "url": "https://www.gsma.com/r/state-of-the-industry-report/",
+    "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma_resources/state-of-the-industry-report-on-mobile-money-2023-2/",
     "description": "GSMA's State of the Industry Report on mobile money, tracking accounts, transaction values, and financial inclusion impact.",
     "id": "the-digital-financial-services-landscape",
     "access_type": "free_to_read",
@@ -739,8 +739,8 @@
       "digital",
       "mobile-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Identification for Development (ID4D) Global Dataset",
@@ -756,7 +756,7 @@
       "data-technology"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Open Data for Development",
@@ -771,8 +771,8 @@
     "tags": [
       "data-technology"
     ],
-    "link_status": "unknown",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "AI Ethics and Governance in Practice",
@@ -791,5 +791,66 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Access is Not Enough: How Smartphone Ownership Shapes Digital Services Use in Low- and Middle-Income Countries",
+    "authors": "Yuna Liang, Sylvan Rene Herskowitz, Antonio Martins-Neto, Sharada Srinivasan",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/45009",
+    "description": "Uses data from 71 countries to study how smartphone ownership affects the use of digital services in low- and middle-income countries. Ownership raises the likelihood of using services such as learning, government services and job search by 34 percentage points, but gender gaps persist because of affordability, digital skills and social norms.",
+    "doi": "10.1596/45009",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "access-is-not-enough-how-smartphone-ownership-shapes-digital-services-use-in",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology",
+      "digital",
+      "gender"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Can Facebook Ads Prevent Malaria? Two Field Experiments in India",
+    "authors": "Dante Donati, Nandan Rao, Victor Orozco-Olvera, Ana Maria Muñoz-Boudet",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42412",
+    "description": "Reports a cluster randomized controlled trial of a nationwide malaria prevention advertising campaign delivered through social media in India, with ads assigned at the district level. Among users living in solid dwellings, mosquito net usage rose by 11 percent and timely treatment seeking by 13 percent, while the campaign had no effect on households in non-solid dwellings, which face higher malaria risk.",
+    "doi": "10.1596/1813-9450-10967",
+    "journal": "Policy Research Working Paper No. 10967",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "can-facebook-ads-prevent-malaria-two-field-experiments-in-india",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "RCT",
+      "data-technology"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Human Development Report 2025: A matter of choice: People and possibilities in the age of AI",
+    "authors": "United Nations Development Programme",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://hdr.undp.org/content/human-development-report-2025",
+    "description": "UNDP's 2025 Human Development Report. It explores the implications of artificial intelligence for human development and the choices that could make AI enhance human capabilities.",
+    "access_observed": "free_to_read",
+    "id": "human-development-report-2025-a-matter-of-choice-people-and-possibilities-in",
+    "access_type": "free_to_read",
+    "tags": [
+      "AI",
+      "data-technology"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

@@ -403,7 +403,7 @@
       "research-methods"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Introduction to Mixed Methods in Impact Evaluation",
@@ -519,7 +519,7 @@
       "research-methods"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Implementing Qualitative Methods in the Field",
@@ -913,5 +913,87 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Evaluating Alternative Approaches to Small Area Estimation of Poverty with Survey and Census Data",
+    "authors": "Hai-Anh H. Dang, Minh Do, Partha Lahiri, Melany Gualavisi, David Newhouse, Talip Kilic, Peter Lanjouw, Roy Van der Weide",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Research Methods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44941",
+    "description": "Uses five rounds of Mexican and Brazilian census extracts to test how accurately different models and estimation methods produce small area estimates of poverty from survey and census data. Models with household-level or village-level predictors tend to be more accurate than models with area-level predictors only, and no single approach dominates across all contexts.",
+    "doi": "10.1596/1813-9450-11396",
+    "journal": "Policy Research Working Paper No. 11396",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "evaluating-alternative-approaches-to-small-area-estimation-of-poverty-with",
+    "access_type": "open_access",
+    "tags": [
+      "poverty",
+      "research-methods",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Frontiers in Small Area Estimation Research",
+    "authors": "Isabel Molina",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Research Methods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/41801",
+    "description": "Reviews the main methods for small area estimation of welfare indicators. It covers direct estimators from area-specific survey data, simple indirect and composite estimators, area-level models and unit-level models.",
+    "doi": "10.1596/41801",
+    "journal": "Policy Research Working Paper No. 10828",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "frontiers-in-small-area-estimation-research",
+    "access_type": "open_access",
+    "tags": [
+      "research-methods",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Difference-in-Differences Designs: A Practitioner's Guide",
+    "authors": "Andrew Baker, Brantly Callaway, Scott Cunningham, Andrew Goodman-Bacon, Pedro H. C. Sant'Anna",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Research Methods",
+    "url": "https://arxiv.org/abs/2503.13323",
+    "description": "Sets out an organizing framework for difference-in-differences designs and their estimators beyond the case of two groups and two periods. It discusses covariates, weights, multiple periods and staggered treatments.",
+    "journal": "arXiv:2503.13323",
+    "license": "cc-by-nc-nd",
+    "access_observed": "open_access",
+    "id": "difference-in-differences-designs-a-practitioners-guide",
+    "access_type": "open_access",
+    "tags": [
+      "diff-in-diff",
+      "research-methods"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Applied Causal Inference Powered by ML and AI",
+    "authors": "Victor Chernozhukov, Christian Hansen, Nathan Kallus, Martin Spindler, Vasilis Syrgkanis",
+    "year": 2024,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://arxiv.org/abs/2403.02467",
+    "description": "An introductory book on combining machine learning with causal inference. It covers structural equation models, directed acyclic graphs and structural causal models, and Double/Debiased Machine Learning methods for inference in such models.",
+    "journal": "arXiv:2403.02467",
+    "access_observed": "free_to_read",
+    "id": "applied-causal-inference-powered-by-ml-and-ai",
+    "access_type": "free_to_read",
+    "tags": [
+      "machine-learning",
+      "research-methods"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

@@ -153,7 +153,7 @@
       "inequality"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Social and Economic Impacts of Climate",
@@ -330,8 +330,8 @@
       "climate-adaptation",
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Emissions Gap Report 2023: Broken Record",
@@ -346,8 +346,8 @@
     "tags": [
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Global Environment Outlook – GEO-6: Healthy Planet, Healthy People",
@@ -362,8 +362,8 @@
     "tags": [
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "State and Trends of Carbon Pricing 2023",
@@ -447,8 +447,8 @@
       "climate-environment",
       "governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "GAR Special Report 2023: Mapping Resilience for the Sustainable Development Goals",
@@ -463,8 +463,8 @@
     "tags": [
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "A Global Just Transition: Background Note for COP27",
@@ -480,8 +480,8 @@
       "carbon-emissions",
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Climate Finance Provided and Mobilised by Developed Countries in 2013-2022",
@@ -497,7 +497,7 @@
       "climate-environment"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "State and Trends in Climate Adaptation Finance 2023",
@@ -662,8 +662,8 @@
       "South-Asia",
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Climate Change 2023: Synthesis Report (AR6)",
@@ -696,8 +696,8 @@
     "tags": [
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Adaptation Gap Report 2024",
@@ -713,8 +713,8 @@
       "climate-adaptation",
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Groundswell: Preparing for Internal Climate Migration",
@@ -797,6 +797,45 @@
       "climate-environment"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "A Breath of Change: Solutions for Cleaner Air in the Indo-Gangetic Plains and Himalayan Foothills",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44067",
+    "description": "A World Bank report on air pollution in the Indo-Gangetic Plains and Himalayan Foothills, home to nearly one billion people. It states that around one million people there die prematurely each year from polluted air and puts the economic damage at about 10 percent of regional GDP annually. It sets out a roadmap to bring annual average PM2.5 concentrations below 35 micrograms per cubic metre by 2035.",
+    "doi": "10.1596/44067",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "a-breath-of-change-solutions-for-cleaner-air-in-the-indo-gangetic-plains-and",
+    "access_type": "open_access",
+    "tags": [
+      "climate-environment"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Sri Lanka Country Climate and Development Report",
+    "authors": "World Bank Group",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43995",
+    "description": "The World Bank Group's Country Climate and Development Report for Sri Lanka. It estimates potential economic losses of 3.3 to 3.5 percent of GDP by mid-century from heat stress on labor productivity, lower agricultural yields and more intense flooding in urban and rural areas.",
+    "doi": "10.1596/43995",
+    "license": "cc-by-nc-nd",
+    "access_observed": "open_access",
+    "id": "sri-lanka-country-climate-and-development-report",
+    "access_type": "open_access",
+    "tags": [
+      "Sri-Lanka",
+      "climate-environment"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

@@ -13,7 +13,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "World Energy Outlook 2023",
@@ -29,7 +29,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "World Energy Transitions Outlook 2023",
@@ -45,7 +45,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Energy Access and the Sustainable Development Goals",
@@ -61,7 +61,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The Geopolitics of the Energy Transition",
@@ -77,7 +77,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Just Transition of the Workforce",
@@ -110,7 +110,7 @@
       "renewable-energy"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Cooking with Clean Energy: Access and Health",
@@ -142,7 +142,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Solar Power and Rural Electrification in South Asia",
@@ -175,7 +175,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Powering Jobs: The Employment Footprint of Renewable Energy",
@@ -193,7 +193,7 @@
       "renewable-energy"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Improving Energy Access, Climate and Socio-Economic Outcomes Through Off-Grid Electrification Technologies: A Systematic Review",
@@ -214,7 +214,7 @@
     "journal": "Campbell Systematic Reviews: Better Evidence for a Better World",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The false optimism of electrification: why universal electricity access has not delivered urban energy transformation in South Africa",
@@ -233,7 +233,7 @@
     "journal": "Energy Policy",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Distributional justice and rapid green energy transitions: citizen experiences in Kenya",
@@ -253,7 +253,7 @@
     "journal": "Environmental Research Letters",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Beyond access: clean energy use in low-income and middle-income countries",
@@ -273,7 +273,7 @@
     "journal": "The Lancet Global Health",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "An Ecohealth approach to energy justice: Evidence from Malawi’s energy transition from biomass to electrification",
@@ -293,7 +293,7 @@
     "journal": "Energy Research &amp; Social Science",
     "license": "other-oa",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Energy justice and gender: bridging equity, access, and policy for sustainable development",
@@ -313,6 +313,51 @@
     "journal": "Discover Sustainability",
     "license": "cc-by-nc-nd",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Pakistan Energy Survey - Insights into the True Energy Access Situation in Pakistan Based on the Multi-Tier Framework",
+    "authors": "Hyun Jin Choi, Saadia Qayyum, Bryan Bonsuk Koo",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://openknowledge.worldbank.org/handle/10986/41817",
+    "description": "Reports the results of an energy survey carried out across Pakistan in 2021-2022, the first of its kind in the country. It uses the Multi-Tier Framework to analyse access to electricity for households, public institutions and microenterprises, and access to clean cooking.",
+    "doi": "10.1596/41817",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "pakistan-energy-survey-insights-into-the-true-energy-access-situation-in",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "energy-just-transition",
+      "institutions",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Reducing Emissions and Air Pollution from the Informal Sector: Evidence from Bangladesh",
+    "authors": "Nina R. Brooks, Debashish Biswas, Sameer Maithel, Grant Miller, Aprajit Mahajan, M. Rofi Uddin, Shoeb Ahmed, Moogdho Mahzab, Mahbubur Rahman, Stephen P. Luby",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.nber.org/papers/w32794",
+    "description": "Reports a randomized controlled trial that introduced improved operating practices in 276 zigzag brick kilns in Bangladesh. Assignment to treatment reduced energy use by 10.5 percent and lowered carbon dioxide and fine particulate emissions, without new capital investment, while fuel costs fell and brick quality rose.",
+    "doi": "10.3386/w32794",
+    "journal": "NBER Working Paper No. 32794",
+    "access_observed": "free_to_read",
+    "id": "reducing-emissions-and-air-pollution-from-the-informal-sector-evidence-from",
+    "access_type": "free_to_read",
+    "tags": [
+      "Bangladesh",
+      "RCT",
+      "carbon-emissions",
+      "energy-just-transition",
+      "informal-economy"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

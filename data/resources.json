@@ -656,6 +656,105 @@
     ]
   },
   {
+    "title": "Fishing and Climate Change in Coastal Bangladesh",
+    "authors": "Brian Blankespoor, Susmita Dasgupta, Mainul Huq, Zahirul Huque Khan, Md. Golam Mustafa, David Wheeler",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42735",
+    "description": "Combines river salinity monitoring data with fish sales records from wholesale markets in southwest coastal Bangladesh to measure how salinity changes affected fishing during 2023. It reports significant effects on fish quantities and finds that salinity-related child health problems persist despite steady poverty reduction.",
+    "doi": "10.1596/1813-9450-11048",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "fishing-and-climate-change-in-coastal-bangladesh",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "agriculture-food-systems",
+      "climate-change",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Agriculture & Food Systems"
+    ]
+  },
+  {
+    "title": "Yield Gains from Balancing Fertilizer Use",
+    "authors": "Julian Arteaga, Klaus Deininger",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43259",
+    "description": "Uses data on a large sample of rice fields in three states of eastern India to test whether a more balanced use of fertilizer, measured as the ratio of potash to nitrogen, raises yields and revenues. Fertilizer balance is instrumented with the relative distances from villages to the nearest urea plant and the nearest international port.",
+    "doi": "10.1596/1813-9450-11134",
+    "journal": "Policy Research Working Paper No. 11134",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "yield-gains-from-balancing-fertilizer-use",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "agriculture-food-systems"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Agriculture & Food Systems"
+    ]
+  },
+  {
+    "title": "When Water Runs Out: Adaptation to Gradual Environmental Change in Indian Agriculture",
+    "authors": "Ram Fishman, Meha Jain, Avinash Kishore",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44298",
+    "description": "Uses differences in geology that affect the rate of groundwater depletion across 40 villages in Gujarat, India, as a natural experiment. Greater water scarcity leads to declines in irrigated agriculture and more migration to cities among dominant socio-economic groups only, with no evidence of substantial investment in water-efficient technologies or in human capital.",
+    "doi": "10.1093/wber/lhaf012",
+    "journal": "World Bank Economic Review",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "when-water-runs-out-adaptation-to-gradual-environmental-change-in-indian",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "agriculture",
+      "agriculture-food-systems",
+      "climate-adaptation",
+      "migration"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Agriculture & Food Systems"
+    ]
+  },
+  {
+    "title": "Targeting, Personalization, and Engagement in an Agricultural Advisory Service",
+    "authors": "Susan Athey, Shawn Cole, Shanjukta Nath, Jessica Zhu",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.nber.org/papers/w34951",
+    "description": "Reports a series of experiments on how to target calls from an agricultural advisory service that serves over one million farmers in rural India. Targeted policies raised engagement by up to 8 percent when evaluated on data from the design period, but realized gains were substantially smaller when the policies were implemented in later weeks.",
+    "doi": "10.3386/w34951",
+    "journal": "NBER Working Paper No. 34951",
+    "access_observed": "free_to_read",
+    "id": "targeting-personalization-and-engagement-in-an-agricultural-advisory-service",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "agriculture-food-systems"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Agriculture & Food Systems"
+    ]
+  },
+  {
     "title": "Climate Change 2022: Impacts, Adaptation and Vulnerability",
     "authors": "Hans-Otto Pörtner, Debra C. Roberts, Melinda Tignor, Elvira S. Poloczanska, et al. (eds.)",
     "year": 2022,
@@ -833,7 +932,7 @@
       "inequality"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1040,8 +1139,8 @@
       "climate-adaptation",
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1059,8 +1158,8 @@
     "tags": [
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1078,8 +1177,8 @@
     "tags": [
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1178,8 +1277,8 @@
       "climate-environment",
       "governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1197,8 +1296,8 @@
     "tags": [
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1217,8 +1316,8 @@
       "carbon-emissions",
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1237,7 +1336,7 @@
       "climate-environment"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1429,8 +1528,8 @@
       "South-Asia",
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1469,8 +1568,8 @@
     "tags": [
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1489,8 +1588,8 @@
       "climate-adaptation",
       "climate-environment"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1596,7 +1695,52 @@
       "climate-environment"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Climate & Environment"
+    ]
+  },
+  {
+    "title": "A Breath of Change: Solutions for Cleaner Air in the Indo-Gangetic Plains and Himalayan Foothills",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44067",
+    "description": "A World Bank report on air pollution in the Indo-Gangetic Plains and Himalayan Foothills, home to nearly one billion people. It states that around one million people there die prematurely each year from polluted air and puts the economic damage at about 10 percent of regional GDP annually. It sets out a roadmap to bring annual average PM2.5 concentrations below 35 micrograms per cubic metre by 2035.",
+    "doi": "10.1596/44067",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "a-breath-of-change-solutions-for-cleaner-air-in-the-indo-gangetic-plains-and",
+    "access_type": "open_access",
+    "tags": [
+      "climate-environment"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Climate & Environment"
+    ]
+  },
+  {
+    "title": "Sri Lanka Country Climate and Development Report",
+    "authors": "World Bank Group",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Climate & Environment",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43995",
+    "description": "The World Bank Group's Country Climate and Development Report for Sri Lanka. It estimates potential economic losses of 3.3 to 3.5 percent of GDP by mid-century from heat stress on labor productivity, lower agricultural yields and more intense flooding in urban and rural areas.",
+    "doi": "10.1596/43995",
+    "license": "cc-by-nc-nd",
+    "access_observed": "open_access",
+    "id": "sri-lanka-country-climate-and-development-report",
+    "access_type": "open_access",
+    "tags": [
+      "Sri-Lanka",
+      "climate-environment"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Climate & Environment"
     ]
@@ -1637,7 +1781,7 @@
       "conflict-humanitarian"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -1795,8 +1939,8 @@
       "conflict-humanitarian",
       "governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -1900,20 +2044,21 @@
     ]
   },
   {
-    "title": "Humanitarian Response Index 2011: Focus on Addressing Displacement",
+    "title": "Humanitarian Response Index 2011: Addressing the Gender Challenge",
     "authors": "DARA",
     "year": 2011,
     "type": "grey_literature",
     "topic": "Conflict & Humanitarian",
-    "url": "https://daraint.org/humanitarian-response-index/",
+    "url": "https://reliefweb.int/report/world/humanitarian-response-index-2011-addressing-gender-challenge",
     "description": "Assessment of donor governments' humanitarian response performance, evaluating how well major donors adhere to Good Humanitarian Donorship principles including needs-based allocation, timeliness, and support for accountability and learning.",
-    "id": "humanitarian-response-index-2011-focus-on-addressing-displacement",
+    "id": "humanitarian-response-index-2011-addressing-the-gender-challenge",
     "access_type": "check_access",
     "tags": [
-      "conflict-humanitarian"
+      "conflict-humanitarian",
+      "gender"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -1990,7 +2135,7 @@
       "conflict-humanitarian"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -2009,7 +2154,7 @@
       "conflict-humanitarian"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -2028,7 +2173,7 @@
       "conflict-humanitarian"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -2068,7 +2213,7 @@
       "governance"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -2093,7 +2238,7 @@
     "journal": "BMJ Global Health",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -2117,7 +2262,7 @@
     "journal": "Policy Research Working Papers",
     "license": "cc-by-nc",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -2142,7 +2287,7 @@
     "journal": "World Development",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -2166,7 +2311,77 @@
     "journal": "BMJ Global Health",
     "license": "cc-by-nc",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Conflict & Humanitarian"
+    ]
+  },
+  {
+    "title": "Beyond Camps and Communities: The Economics of Refugee Relocation in Bangladesh",
+    "authors": "Sandra V. Rozo, María José Urbina, Christina Wieser",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43681",
+    "description": "Evaluates the relocation of Rohingya refugees from the camps of Cox's Bazar to the island settlement of Bhasan Char, using panel survey data and propensity score matching. Relocation is associated with lower food consumption, higher illness and depression rates and lower wages, while per capita service delivery on Bhasan Char costs about three times as much as in Cox's Bazar.",
+    "doi": "10.1596/1813-9450-11204",
+    "journal": "Policy Research Working Paper No. 11204",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "beyond-camps-and-communities-the-economics-of-refugee-relocation-in-bangladesh",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "conflict-humanitarian",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Conflict & Humanitarian"
+    ]
+  },
+  {
+    "title": "Two Settlements, Two Diverging Paths: Jobs and Labor Market Outcomes for the Displaced Rohingya Population",
+    "authors": "World Bank, UNHCR",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43707",
+    "description": "Compares labor market outcomes for displaced Rohingya in the Cox's Bazar camps and on Bhasan Char, using harmonized survey data from 2022 and 2023. It reports that informal economic activity has grown in both settlements despite legal prohibitions on formal employment, and that only about one-third of working-age people were employed in the year before the survey.",
+    "doi": "10.1596/43707",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "two-settlements-two-diverging-paths-jobs-and-labor-market-outcomes-for-the",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "employment",
+      "labor-markets",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Conflict & Humanitarian"
+    ]
+  },
+  {
+    "title": "Global Trends: Forced Displacement in 2024",
+    "authors": "UNHCR",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.unhcr.org/global-trends-report-2024",
+    "description": "UNHCR's annual statistical report on forced displacement, covering 2024. It reports that 123.2 million people were forcibly displaced.",
+    "access_observed": "free_to_read",
+    "id": "global-trends-forced-displacement-in-2024",
+    "access_type": "free_to_read",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "link_status": "blocked",
+    "link_checked": "2026-11-21",
     "topics": [
       "Conflict & Humanitarian"
     ]
@@ -2227,8 +2442,8 @@
       "digital",
       "governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -2260,17 +2475,17 @@
     "year": 2023,
     "type": "grey_literature",
     "topic": "Data & Technology",
-    "url": "https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf",
+    "url": "https://www.gsmaintelligence.com/research/the-state-of-mobile-internet-connectivity-2023",
     "description": "Reports that 4.6 billion people use mobile internet (57% of global population), but growth has slowed and significant digital divides persist. Rural populations remain 28% less likely to use mobile internet than urban counterparts.",
     "id": "the-state-of-mobile-internet-connectivity-2023",
-    "access_type": "free_to_read",
+    "access_type": "check_access",
     "tags": [
       "data-technology",
       "digital",
       "mobile-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -2311,7 +2526,7 @@
       "digital"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -2393,8 +2608,8 @@
       "data-technology",
       "governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -2413,8 +2628,8 @@
       "data-technology",
       "education"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -2477,7 +2692,7 @@
       "data-technology"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -2634,7 +2849,7 @@
       "qualitative"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -2909,7 +3124,7 @@
       "poverty"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -2928,7 +3143,7 @@
       "data-technology"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -2969,7 +3184,7 @@
       "digital"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -3027,8 +3242,8 @@
       "AI",
       "data-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -3039,7 +3254,7 @@
     "year": 2023,
     "type": "grey_literature",
     "topic": "Data & Technology",
-    "url": "https://www.gsma.com/r/state-of-the-industry-report/",
+    "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma_resources/state-of-the-industry-report-on-mobile-money-2023-2/",
     "description": "GSMA's State of the Industry Report on mobile money, tracking accounts, transaction values, and financial inclusion impact.",
     "id": "the-digital-financial-services-landscape",
     "access_type": "free_to_read",
@@ -3048,8 +3263,8 @@
       "digital",
       "mobile-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -3068,7 +3283,7 @@
       "data-technology"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -3086,8 +3301,8 @@
     "tags": [
       "data-technology"
     ],
-    "link_status": "unknown",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Data & Technology"
     ]
@@ -3114,6 +3329,76 @@
     ]
   },
   {
+    "title": "Access is Not Enough: How Smartphone Ownership Shapes Digital Services Use in Low- and Middle-Income Countries",
+    "authors": "Yuna Liang, Sylvan Rene Herskowitz, Antonio Martins-Neto, Sharada Srinivasan",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/45009",
+    "description": "Uses data from 71 countries to study how smartphone ownership affects the use of digital services in low- and middle-income countries. Ownership raises the likelihood of using services such as learning, government services and job search by 34 percentage points, but gender gaps persist because of affordability, digital skills and social norms.",
+    "doi": "10.1596/45009",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "access-is-not-enough-how-smartphone-ownership-shapes-digital-services-use-in",
+    "access_type": "open_access",
+    "tags": [
+      "data-technology",
+      "digital",
+      "gender"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Data & Technology"
+    ]
+  },
+  {
+    "title": "Can Facebook Ads Prevent Malaria? Two Field Experiments in India",
+    "authors": "Dante Donati, Nandan Rao, Victor Orozco-Olvera, Ana Maria Muñoz-Boudet",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Data & Technology",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42412",
+    "description": "Reports a cluster randomized controlled trial of a nationwide malaria prevention advertising campaign delivered through social media in India, with ads assigned at the district level. Among users living in solid dwellings, mosquito net usage rose by 11 percent and timely treatment seeking by 13 percent, while the campaign had no effect on households in non-solid dwellings, which face higher malaria risk.",
+    "doi": "10.1596/1813-9450-10967",
+    "journal": "Policy Research Working Paper No. 10967",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "can-facebook-ads-prevent-malaria-two-field-experiments-in-india",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "RCT",
+      "data-technology"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Data & Technology"
+    ]
+  },
+  {
+    "title": "Human Development Report 2025: A matter of choice: People and possibilities in the age of AI",
+    "authors": "United Nations Development Programme",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Data & Technology",
+    "url": "https://hdr.undp.org/content/human-development-report-2025",
+    "description": "UNDP's 2025 Human Development Report. It explores the implications of artificial intelligence for human development and the choices that could make AI enhance human capabilities.",
+    "access_observed": "free_to_read",
+    "id": "human-development-report-2025-a-matter-of-choice-people-and-possibilities-in",
+    "access_type": "free_to_read",
+    "tags": [
+      "AI",
+      "data-technology"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Data & Technology"
+    ]
+  },
+  {
     "title": "Hunger and Public Action",
     "authors": "Jean Dreze, Amartya Sen",
     "year": 1989,
@@ -3128,7 +3413,7 @@
       "nutrition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Development Economics"
     ]
@@ -3460,7 +3745,7 @@
       "development-economics"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Development Economics"
     ]
@@ -3622,7 +3907,7 @@
       "poverty"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Development Economics"
     ]
@@ -3938,7 +4223,7 @@
       "poverty"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Development Economics"
     ]
@@ -4063,8 +4348,8 @@
       "education",
       "poverty"
     ],
-    "link_status": "unknown",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Development Economics"
     ]
@@ -4123,8 +4408,8 @@
     "tags": [
       "development-economics"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Development Economics"
     ]
@@ -4187,6 +4472,76 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23",
+    "topics": [
+      "Development Economics"
+    ]
+  },
+  {
+    "title": "Bangladesh Poverty and Equity Assessment: Navigating the Road to Prosperity",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44419",
+    "description": "A World Bank assessment of poverty reduction in Bangladesh between 2010 and 2022. It reports that poverty declined over the period but more slowly after 2016, that over one-third of the population remained vulnerable to falling back into poverty, and that weak targeting and misdirected subsidies limit the effect of social spending.",
+    "doi": "10.1596/44419",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "bangladesh-poverty-and-equity-assessment-navigating-the-road-to-prosperity",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "development-economics",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Development Economics"
+    ]
+  },
+  {
+    "title": "Reclaiming Momentum Towards Prosperity: Pakistan's Poverty, Equity, and Resilience Assessment",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43722",
+    "description": "A World Bank poverty assessment for Pakistan. It reports that poverty fell from 64.3 percent in 2001 to 21.9 percent in 2018 and is projected to have risen to 25.3 percent by 2023/24 after COVID-19, economic instability, floods and high inflation. It calls for policy reforms to address structural imbalances.",
+    "doi": "10.1596/43722",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "reclaiming-momentum-towards-prosperity-pakistans-poverty-equity-and-resilience",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "development-economics",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Development Economics"
+    ]
+  },
+  {
+    "title": "World Development Report 2025: Standards for Development",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43949",
+    "description": "The World Bank's World Development Report for 2025. It describes standards as the hidden infrastructure of modern economies and examines how developing countries can deal with increasingly stringent international standards produced by globalization and rapid technological change.",
+    "doi": "10.1596/978-1-4648-2275-9",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "world-development-report-2025-standards-for-development",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Development Economics"
     ]
@@ -4457,7 +4812,7 @@
       "disability-inclusion"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Disability & Inclusion"
     ]
@@ -4632,17 +4987,18 @@
     "year": 2000,
     "type": "grey_literature",
     "topic": "Disability & Inclusion",
-    "url": "https://www.gov.uk/government/publications/disability-poverty-and-development",
+    "url": "https://hpod.law.harvard.edu/pdf/Disability-poverty-and-development.pdf",
     "description": "An early and influential policy paper establishing the two-way links between disability and poverty in development.",
     "id": "disability-poverty-and-development",
-    "access_type": "open_access",
+    "access_type": "free_to_read",
     "tags": [
       "disability",
       "disability-inclusion",
       "poverty"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "access_observed": "free_to_read",
     "topics": [
       "Disability & Inclusion"
     ]
@@ -4681,7 +5037,7 @@
       "disability-inclusion"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Disability & Inclusion"
     ]
@@ -4701,7 +5057,7 @@
       "education"
     ],
     "link_status": "broken",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Disability & Inclusion"
     ]
@@ -4723,6 +5079,140 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23",
+    "topics": [
+      "Disability & Inclusion"
+    ]
+  },
+  {
+    "title": "Methodological Guidelines on Assessing Household Disability: Related Costs and Their Implication for Participation",
+    "authors": "World Bank, UNICEF",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Disability & Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43800",
+    "description": "Guidelines from the World Bank and UNICEF on how to assess the costs that households face because of disability. They distinguish direct costs, such as assistive products and higher spending on everyday goods and services, from indirect costs, such as reduced education or employment for persons with disabilities and their caregivers.",
+    "doi": "10.1596/43800",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "methodological-guidelines-on-assessing-household-disability-related-costs-and",
+    "access_type": "open_access",
+    "tags": [
+      "disability",
+      "disability-inclusion",
+      "education",
+      "employment"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Disability & Inclusion"
+    ]
+  },
+  {
+    "title": "Exploring access to social protection by persons with disabilities in Bangladesh",
+    "authors": "Mizanur Rahman, Md Shohel Rana, Md Mostafizur Rahman, Md Nuruzzaman Khan",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321887",
+    "description": "Analyses the 2021 National Household Survey on Persons with Disabilities in Bangladesh to measure how far persons with disabilities are included in social protection programs. A multilevel multinomial logistic regression relates inclusion, and its timing, to individual, household and community factors.",
+    "doi": "10.1371/journal.pone.0321887",
+    "journal": "PLOS ONE",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "exploring-access-to-social-protection-by-persons-with-disabilities-in-bangladesh",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "disability-inclusion",
+      "social-protection",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Disability & Inclusion"
+    ]
+  },
+  {
+    "title": "Factors affecting school enrolment and attendance for children with disabilities in Bangladesh: Evidence from a cross-sectional survey",
+    "authors": "Shilpi Rani Saha, Soumik Saha",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309402",
+    "description": "Uses the 2019 Multiple Indicator Cluster Survey in Bangladesh to study 5,024 children with disabilities aged 6 to 17. It finds that the child's age and gender, the sex and education of the household head, urban or rural residence and the type of disability are associated with missing school.",
+    "doi": "10.1371/journal.pone.0309402",
+    "journal": "PLOS ONE",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "factors-affecting-school-enrolment-and-attendance-for-children-with",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "disability",
+      "disability-inclusion",
+      "education",
+      "gender",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Disability & Inclusion"
+    ]
+  },
+  {
+    "title": "Disability and educational outcomes in Nepal: Evidence from the 2019 Multiple Indicator Cluster Survey",
+    "authors": "Prashant Acharya",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006579",
+    "description": "Uses a nationally representative sample of 7,824 children aged 5 to 17 from the 2019 Nepal Multiple Indicator Cluster Survey. It relates functional disability to whether a child ever attended school, current grade level and being in the appropriate grade for age, controlling for age, gender, location, mother's education and household wealth.",
+    "doi": "10.1371/journal.pgph.0006579",
+    "journal": "PLOS Global Public Health",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "disability-and-educational-outcomes-in-nepal-evidence-from-the-2019-multiple",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "disability",
+      "disability-inclusion",
+      "education",
+      "gender",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Disability & Inclusion"
+    ]
+  },
+  {
+    "title": "Bringing legislation to life: Navigating intersectional barriers in implementing the Sindh Empowerment of Persons with Disabilities Act (2018) for the healthcare of children with disabilities",
+    "authors": "Muhammad Asim, Waqas Hameed, Sara Rotenberg, Dalia Chowdhury, Abid Lashari, Munazza Gillani, Abdul Ghaffar, Hannah Kuper",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Disability & Inclusion",
+    "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006562",
+    "description": "A qualitative study in four districts of Sindh, Pakistan, based on 40 key informant interviews, on how the health provisions of Sindh's 2018 disability Act are implemented for children with disabilities. It identifies weak governance, limited coordination between sectors and the absence of a sanctioned budget for inclusive health as gaps.",
+    "doi": "10.1371/journal.pgph.0006562",
+    "journal": "PLOS Global Public Health",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "bringing-legislation-to-life-navigating-intersectional-barriers-in-implementing",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "disability",
+      "disability-inclusion",
+      "governance",
+      "qualitative"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Disability & Inclusion"
     ]
@@ -5139,7 +5629,7 @@
     "journal": "Journal of Benefit-Cost Analysis",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Education"
     ]
@@ -5162,7 +5652,7 @@
     "journal": "Labour Economics",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Education"
     ]
@@ -5174,18 +5664,19 @@
     "type": "paper",
     "topic": "Education",
     "url": "https://doi.org/10.1016/j.jdeveco.2026.103906",
-    "description": "A cross-cutting trial across 200 villages in Assam. Neither the in-school pedagogy component nor the community study groups moved learning alone; together they raised maths by 0.11 SD and language by 0.09 SD. An argument about complementarity rather than about either component.",
+    "description": "A cross-cutting trial across 200 villages in Assam. Neither the in-school pedagogy component nor the community study groups moved learning alone; together they raised maths by 0.11 SD and language by 0.09 SD. An argument about complementarity rather than about either component. Published online on 21 August 2026; the publisher assigns it to the January 2027 issue (volume 184), which is why the year reads 2027.",
     "id": "supporting-learning-in-and-out-of-school-experimental-evidence-from-india",
-    "access_type": "check_access",
+    "access_type": "open_access",
     "tags": [
       "India",
       "education"
     ],
     "doi": "10.1016/j.jdeveco.2026.103906",
-    "journal": "Journal of Development Economics",
+    "journal": "Journal of Development Economics, Volume 184, January 2027",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
+    "access_observed": "open_access",
     "topics": [
       "Education"
     ]
@@ -5207,7 +5698,7 @@
     "journal": "British Journal of Educational Technology",
     "license": "cc-by-nc-nd",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Education"
     ]
@@ -5230,7 +5721,7 @@
     "journal": "Education Economics",
     "license": "cc-by-nc-nd",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Education"
     ]
@@ -5254,7 +5745,7 @@
     "journal": "Research Papers in Education",
     "license": "other-oa",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Education"
     ]
@@ -5276,7 +5767,7 @@
     "journal": "British Journal of Educational Technology",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Education"
     ]
@@ -5300,7 +5791,148 @@
     "journal": "International Journal of Educational Development",
     "license": "cc-by-nc",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "title": "Where Are Pakistan’s Out-of-School Children? Mapping Accessibility of Schooling Using Satellite Data and Machine Learning Methods with an Application to the 2022 Floods",
+    "authors": "Umar Saif, Amer Hasan, Ayesha Tahir, Koen Geven, Mohsen Ali, Aliza Masood, Muhammad Abdul Rahman, Sheena Fazili",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44537",
+    "description": "Combines satellite imagery, the population census, government school censuses and public location data on private schools to map where Pakistan's out-of-school children are in relation to schools. It documents more than 72,700 private schools alongside more than 137,000 public schools and applies the method to the 2022 floods.",
+    "doi": "10.1596/1813-9450-11341",
+    "journal": "Policy Research Working Paper No. 11341",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "where-are-pakistans-out-of-school-children-mapping-accessibility-of-schooling",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "education",
+      "machine-learning"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "title": "Air Pollution and Student Learning in Pakistan",
+    "authors": "Saher Asad, A. Patrick Behrer, Martin Philipp Heger, Monica Yanez Pagans",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/45629",
+    "description": "Estimates the effect of sustained exposure to fine particulate matter on primary-school learning in rural Punjab, Pakistan, using longitudinal test score data and satellite pollution estimates. Using upwind crop-residue fires as an instrument, it finds that higher pollution during the school year significantly slows learning, with larger effects in mathematics than in language subjects.",
+    "doi": "10.1596/1813-9450-11463",
+    "journal": "Policy Research Working Paper No. 11463",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "air-pollution-and-student-learning-in-pakistan",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "education",
+      "longitudinal"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "title": "The Mis-Education of Women in Afghanistan",
+    "authors": "Rafiuddin Najam, Harry Anthony Patrinos, Raja Bentaouet Kattan",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42117",
+    "description": "Uses labor force and household survey microdata from Afghanistan to show that the wage premium for education is significantly larger for women than for men, and uses the compulsory schooling law to argue that the difference is causal. It projects that recent bans on women's education and employment will reduce women's future schooling, wage growth and national income growth.",
+    "doi": "10.1596/1813-9450-10888",
+    "journal": "Policy Research Working Paper No. 10888",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "the-mis-education-of-women-in-afghanistan",
+    "access_type": "open_access",
+    "tags": [
+      "Afghanistan",
+      "education",
+      "employment",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "title": "Helping Schools Survive: Experimental Evidence on the Impact of Financial and Educational Support to Private Schools",
+    "authors": "Tahir Andrabi, Jishnu Das, Asim Ijaz Khwaja, Selcuk Ozyurt",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://www.nber.org/papers/w34042",
+    "description": "Reports an experiment with low-cost private schools in Pakistan. Both school loans and educational products and services were commercially viable and improved school survival rates by similar amounts, and loans reduced closures more for schools with larger initial enrollments and lower baseline test scores.",
+    "doi": "10.3386/w34042",
+    "journal": "NBER Working Paper No. 34042",
+    "access_observed": "free_to_read",
+    "id": "helping-schools-survive-experimental-evidence-on-the-impact-of-financial-and",
+    "access_type": "free_to_read",
+    "tags": [
+      "Pakistan",
+      "education"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "title": "Global Education Monitoring Report 2024/5: Leadership in education: Lead for learning",
+    "authors": "Global Education Monitoring Report Team",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.unesco.org/gem-report/en/publication/leadership",
+    "description": "The 2024/5 Global Education Monitoring Report. It examines what good leadership in education requires and how this varies between countries and over time, how far leadership contributes to better education outcomes, and which policy levers can develop leadership skills in different contexts.",
+    "access_observed": "free_to_read",
+    "id": "global-education-monitoring-report-20245-leadership-in-education-lead-for",
+    "access_type": "free_to_read",
+    "tags": [
+      "education"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Education"
+    ]
+  },
+  {
+    "title": "Annual Status of Education Report (ASER) 2024: National findings",
+    "authors": "ASER Centre, Pratham",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://asercentre.org/aser-2024/",
+    "description": "Reports the 2024 round of a nationwide rural household survey that reached 649,491 children in 17,997 villages across 605 rural districts of India. It presents findings on enrollment and learning for children aged 3 to 5, 6 to 14 and 15 to 16, and reports that pre-primary enrollment among 3-year-olds rose from 68.1 percent in 2018 to 77.4 percent in 2024.",
+    "access_observed": "free_to_read",
+    "id": "annual-status-of-education-report-aser-2024-national-findings",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "education",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Education"
     ]
@@ -5319,7 +5951,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5338,7 +5970,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5357,7 +5989,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5376,7 +6008,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5395,7 +6027,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5434,7 +6066,7 @@
       "renewable-energy"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5472,7 +6104,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5511,7 +6143,7 @@
       "energy-just-transition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5532,7 +6164,7 @@
       "renewable-energy"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5556,7 +6188,7 @@
     "journal": "Campbell Systematic Reviews: Better Evidence for a Better World",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5578,7 +6210,7 @@
     "journal": "Energy Policy",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5601,7 +6233,7 @@
     "journal": "Environmental Research Letters",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5624,7 +6256,7 @@
     "journal": "The Lancet Global Health",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5647,7 +6279,7 @@
     "journal": "Energy Research &amp; Social Science",
     "license": "other-oa",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5670,7 +6302,58 @@
     "journal": "Discover Sustainability",
     "license": "cc-by-nc-nd",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Energy & Just Transition"
+    ]
+  },
+  {
+    "title": "Pakistan Energy Survey - Insights into the True Energy Access Situation in Pakistan Based on the Multi-Tier Framework",
+    "authors": "Hyun Jin Choi, Saadia Qayyum, Bryan Bonsuk Koo",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Energy & Just Transition",
+    "url": "https://openknowledge.worldbank.org/handle/10986/41817",
+    "description": "Reports the results of an energy survey carried out across Pakistan in 2021-2022, the first of its kind in the country. It uses the Multi-Tier Framework to analyse access to electricity for households, public institutions and microenterprises, and access to clean cooking.",
+    "doi": "10.1596/41817",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "pakistan-energy-survey-insights-into-the-true-energy-access-situation-in",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "energy-just-transition",
+      "institutions",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Energy & Just Transition"
+    ]
+  },
+  {
+    "title": "Reducing Emissions and Air Pollution from the Informal Sector: Evidence from Bangladesh",
+    "authors": "Nina R. Brooks, Debashish Biswas, Sameer Maithel, Grant Miller, Aprajit Mahajan, M. Rofi Uddin, Shoeb Ahmed, Moogdho Mahzab, Mahbubur Rahman, Stephen P. Luby",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Energy & Just Transition",
+    "url": "https://www.nber.org/papers/w32794",
+    "description": "Reports a randomized controlled trial that introduced improved operating practices in 276 zigzag brick kilns in Bangladesh. Assignment to treatment reduced energy use by 10.5 percent and lowered carbon dioxide and fine particulate emissions, without new capital investment, while fuel costs fell and brick quality rose.",
+    "doi": "10.3386/w32794",
+    "journal": "NBER Working Paper No. 32794",
+    "access_observed": "free_to_read",
+    "id": "reducing-emissions-and-air-pollution-from-the-informal-sector-evidence-from",
+    "access_type": "free_to_read",
+    "tags": [
+      "Bangladesh",
+      "RCT",
+      "carbon-emissions",
+      "energy-just-transition",
+      "informal-economy"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Energy & Just Transition"
     ]
@@ -5712,8 +6395,8 @@
       "financial-inclusion",
       "mobile-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -5994,7 +6677,7 @@
       "financial-inclusion"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6015,7 +6698,7 @@
       "financial-inclusion"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6079,8 +6762,8 @@
       "gender",
       "mobile-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6105,7 +6788,7 @@
     "journal": "SSRN Electronic Journal",
     "license": "",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6129,7 +6812,7 @@
     "journal": "The Journal of Development Studies",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6154,7 +6837,7 @@
     "journal": "Eastern Economic Journal",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6177,7 +6860,7 @@
     "journal": "Technological Forecasting and Social Change",
     "license": "",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6201,7 +6884,7 @@
     "journal": "Journal of International Development",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6225,7 +6908,7 @@
     "journal": "PLOS One",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6250,7 +6933,58 @@
     "journal": "Cogent Economics &amp; Finance",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Financial Inclusion"
+    ]
+  },
+  {
+    "title": "Digital Land Rights and Rural Credit Access: Lessons from Village Habitation (Abadi) Land Titling in India",
+    "authors": "Klaus W. Deininger, Daniel Ayalew Ali, Hari K. Nagarajan, Abhiman Das, Parth Hirpara",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/45873",
+    "description": "Studies India's SVAMITVA program, which issued property cards for rural residential homesteads. Difference-in-differences estimates across 42,000 villages in Madhya Pradesh show that issuing property cards created sustained land and credit market activity where there had been none, in remote communities as much as in those near bank branches.",
+    "doi": "10.1596/1813-9450-11502",
+    "journal": "Policy Research Working Paper No. 11502",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "digital-land-rights-and-rural-credit-access-lessons-from-village-habitation",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "diff-in-diff",
+      "digital",
+      "financial-inclusion"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Financial Inclusion"
+    ]
+  },
+  {
+    "title": "The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy",
+    "authors": "Leora Klapper, Dorothe Singer, Laura Starita, Alexandra Norris",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43438",
+    "description": "The fifth edition of the Global Findex, based on nationally representative surveys of about 145,000 adults in 141 economies. It adds new series on mobile phone ownership, internet use, digital safety and the frequency of financial transactions, and reports on how adults use phones, the internet and financial accounts to save, borrow and make payments.",
+    "doi": "10.1596/978-1-4648-2204-9",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "the-global-findex-database-2025-connectivity-and-financial-inclusion-in-the",
+    "access_type": "open_access",
+    "tags": [
+      "digital",
+      "financial-inclusion",
+      "mobile-technology",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Financial Inclusion"
     ]
@@ -6542,7 +7276,7 @@
       "social-protection"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Gender & Social Inclusion"
     ]
@@ -6768,7 +7502,7 @@
       "institutions"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Gender & Social Inclusion"
     ]
@@ -7177,6 +7911,106 @@
     ]
   },
   {
+    "title": "South Asia Development Update, October 2024: Women, Jobs, and Growth",
+    "authors": "World Bank",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42002",
+    "description": "The World Bank's October 2024 economic update for South Asia. It reports that about two-thirds of the region's working-age women are out of the labor force and estimates that raising female employment rates to those of men could increase per capita income by as much as one-half.",
+    "doi": "10.1596/978-1-4648-2170-7",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "south-asia-development-update-october-2024-women-jobs-and-growth",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "employment",
+      "gender-social-inclusion"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Gender & Social Inclusion"
+    ]
+  },
+  {
+    "title": "Women’s Labor Force Participation in Nepal",
+    "authors": "Jumana Alaref, Aishwarya Patil, Tasmia Rahman, Ana Maria Munoz Boudet, Jasmine Rajbhandary",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/41743",
+    "description": "Uses a survey of 2,000 married women and men in four provinces of Nepal to measure personal beliefs, social expectations and expected social consequences around women's work. It finds that beliefs and expectations are generally not very restrictive and are only weakly linked to women's work outcomes, but that norms matter for some subgroups in circumstances tied to a woman's role as a mother and to job characteristics.",
+    "doi": "10.1596/1813-9450-10810",
+    "journal": "Policy Research Working Paper No. 10810",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "womens-labor-force-participation-in-nepal",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "gender-social-inclusion",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Gender & Social Inclusion"
+    ]
+  },
+  {
+    "title": "Education, Social Norms, and the Marriage Penalty",
+    "authors": "Maurizio Bussolo, Jonah Rexer, Margaret Triyana",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42252",
+    "description": "Separates the effect of marriage from the effect of childbirth on women's employment in South Asia with a split-sample, pseudo-panel approach. It estimates that marriage reduces women's labor force participation by 12 percentage points, that the additional penalty of childbearing is small, and that the marriage penalty is smaller among cohorts with more education and less conservative gender attitudes.",
+    "doi": "10.1596/1813-9450-10946",
+    "journal": "Policy Research Working Paper No. 10946",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "education-social-norms-and-the-marriage-penalty",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "education",
+      "employment",
+      "gender",
+      "gender-social-inclusion"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Gender & Social Inclusion"
+    ]
+  },
+  {
+    "title": "Household Preferences for Women’s Employment: A Field Experiment in Bangladesh",
+    "authors": "Yueh-ya Hsu, Reshmaan N. Hussam, Erin M. Kelley, Gregory Lane",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.nber.org/papers/w34969",
+    "description": "Randomly assigns a six-week job to either the husband or the wife in households in Bangladesh. Women's work improves their own wellbeing but not their husbands', while men's work improves both partners' wellbeing. One year later, households in which the woman had worked are more likely to prefer that she take a new job.",
+    "doi": "10.3386/w34969",
+    "journal": "NBER Working Paper No. 34969",
+    "access_observed": "free_to_read",
+    "id": "household-preferences-for-womens-employment-a-field-experiment-in-bangladesh",
+    "access_type": "free_to_read",
+    "tags": [
+      "Bangladesh",
+      "employment",
+      "gender-social-inclusion"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Gender & Social Inclusion"
+    ]
+  },
+  {
     "title": "Sustainable Rural Livelihoods: Practical Concepts for the 21st Century",
     "authors": "Robert Chambers, Gordon R. Conway",
     "year": 1992,
@@ -7426,7 +8260,7 @@
       "womens-empowerment"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -7634,7 +8468,7 @@
       "survey-data"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -7738,7 +8572,7 @@
       "livelihoods"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -7757,7 +8591,7 @@
       "livelihoods"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -7777,7 +8611,7 @@
       "migration"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -8028,7 +8862,7 @@
       "poverty"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -8047,7 +8881,7 @@
       "livelihoods"
     ],
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -8069,7 +8903,7 @@
       "ultra-poor"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "doi": "10.1126/science.1260799",
     "topics": [
       "Livelihoods"
@@ -8108,7 +8942,7 @@
       "livelihoods"
     ],
     "link_status": "broken",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -8169,7 +9003,7 @@
       "livelihoods"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -8190,6 +9024,129 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23",
+    "topics": [
+      "Livelihoods"
+    ]
+  },
+  {
+    "title": "South Asia Development Update, October 2025: Jobs, AI, and Trade",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43743",
+    "description": "The World Bank's October 2025 economic update for South Asia. It projects regional growth of 6.6 percent in 2025 and 5.8 percent in 2026, reports that about 15 percent of South Asian workers are in jobs where artificial intelligence strongly complements human labor, and discusses how carefully sequenced tariff cuts could encourage private investment and job creation.",
+    "doi": "10.1596/978-1-4648-2291-9",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "south-asia-development-update-october-2025-jobs-ai-and-trade",
+    "access_type": "open_access",
+    "tags": [
+      "AI",
+      "South-Asia",
+      "livelihoods"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Livelihoods"
+    ]
+  },
+  {
+    "title": "Survival or Growth? Nepal’s Microenterprise Landscape and the Case for a Differentiated Policy Approach",
+    "authors": "Jumana Alaref, Laurine Martinoty, Aishwarya Patil, Mohamed Ihsan Ajwad, Jasmine Rajbhandary",
+    "year": 2026,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/45086",
+    "description": "Uses two new enterprise surveys from 2024-25 and 2025 to compare informal and formal microenterprises in urban Nepal for the first time. It finds deep structural differences between the two groups and that only a small share of informal firms could benefit from formalizing, and it recommends livelihood and social protection support for most informal firms with targeted productivity support for the few with growth potential.",
+    "doi": "10.1596/45086",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "survival-or-growth-nepals-microenterprise-landscape-and-the-case-for-a",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "livelihoods",
+      "social-protection",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Livelihoods"
+    ]
+  },
+  {
+    "title": "Women in the Platform Economy: Descriptive Evidence from Drivers in India and Indonesia",
+    "authors": "Achyuta Adhvaryu, Levina Adiputri, Valentina Brailovskaya, Priyanka Dua, Jenny Susan John, Pratibha Joshi, Terry Muthahhari, Rivandra Royono, Jack Thunde",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/papers/w35467",
+    "description": "Uses survey and administrative data from two-wheeler driving and delivery platforms in India and Indonesia. Women are 0.8 percent of drivers in India and 1.5 percent in Indonesia, work fewer hours than men, earn 6 to 8 percent less per hour in India and report more harassment.",
+    "doi": "10.3386/w35467",
+    "journal": "NBER Working Paper No. 35467",
+    "access_observed": "free_to_read",
+    "id": "women-in-the-platform-economy-descriptive-evidence-from-drivers-in-india-and",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "livelihoods",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Livelihoods"
+    ]
+  },
+  {
+    "title": "Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs",
+    "authors": "Samantha Carter, Edward Jee, Dean Karlan, Patrick Premand",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Livelihoods",
+    "url": "https://www.nber.org/papers/w35991",
+    "description": "A Bayesian hierarchical meta-analysis of 49 studies of poverty graduation programs. Monthly consumption rises by 38 USD PPP (11 percent) and income by 28 USD PPP (15 percent). Lower-cost programs tend to be more cost-effective, and programs implemented from 2016 onward have higher benefit-cost ratios than earlier ones.",
+    "doi": "10.3386/w35991",
+    "journal": "NBER Working Paper No. 35991",
+    "access_observed": "free_to_read",
+    "id": "doing-better-at-doing-good-lessons-from-a-bayesian-meta-analysis-after-20-years",
+    "access_type": "free_to_read",
+    "tags": [
+      "graduation-approach",
+      "livelihoods",
+      "meta-analysis",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Livelihoods"
+    ]
+  },
+  {
+    "title": "India Employment Report 2024: Youth employment, education and skills",
+    "authors": "International Labour Organization, Institute for Human Development",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Livelihoods",
+    "url": "https://www.ilo.org/publications/india-employment-report-2024-youth-employment-education-and-skills",
+    "description": "Examines youth employment in India against changes in the economy, the labour market, education and skills over two decades, mainly from National Sample Survey and Periodic Labour Force Survey data for 2000 to 2022. It reports that labour force participation, workforce participation and unemployment rates deteriorated between 2000 and 2019 and improved afterwards.",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "india-employment-report-2024-youth-employment-education-and-skills",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "education",
+      "employment",
+      "livelihoods",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Livelihoods"
     ]
@@ -8332,7 +9289,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -8402,7 +9359,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -8424,7 +9381,7 @@
       "regression-discontinuity"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -8484,7 +9441,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -8579,7 +9536,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -8598,7 +9555,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -8736,7 +9693,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -8838,7 +9795,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -9005,7 +9962,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -9024,7 +9981,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -9084,6 +10041,54 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23",
+    "topics": [
+      "MEAL & Evaluation"
+    ]
+  },
+  {
+    "title": "An Evaluation of World Bank and International Finance Corporation Engagement of Gender Equality over the Past 10 Years",
+    "authors": "Independent Evaluation Group, World Bank",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42382",
+    "description": "An evaluation by the Independent Evaluation Group of how the World Bank and the International Finance Corporation worked on gender equality over ten years. It makes three recommendations, including a stronger country-driven engagement model with greater selectivity, prioritization and coordination and an increased focus on implementation.",
+    "doi": "10.1596/IEG193623",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "an-evaluation-of-world-bank-and-international-finance-corporation-engagement-of",
+    "access_type": "open_access",
+    "tags": [
+      "gender",
+      "meal-evaluation"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "MEAL & Evaluation"
+    ]
+  },
+  {
+    "title": "Measuring the Impact of Impact Measurement",
+    "authors": "Emanuele Colonnelli, Timothy McQuade, Natalia Rigol, Benjamin N. Roth",
+    "year": 2026,
+    "type": "paper",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.nber.org/papers/w36009",
+    "description": "Reports a randomized controlled trial of an impact measurement intervention among high-growth social enterprises in India. Treated firms show nearly twice the revenue growth of control firms and raise nearly twice as much capital. In a companion experiment, early-stage investors respond to quantified impact metrics but not to generic qualitative impact statements.",
+    "doi": "10.3386/w36009",
+    "journal": "NBER Working Paper No. 36009",
+    "access_observed": "free_to_read",
+    "id": "measuring-the-impact-of-impact-measurement",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "RCT",
+      "meal-evaluation",
+      "qualitative"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "MEAL & Evaluation"
     ]
@@ -9179,7 +10184,7 @@
       "mental-health-wellbeing"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -9255,7 +10260,7 @@
       "mental-health-wellbeing"
     ],
     "link_status": "broken",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -9335,7 +10340,7 @@
     "journal": "Implementation Science",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -9359,7 +10364,7 @@
     "journal": "International Journal of Social Psychiatry",
     "license": "other-oa",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -9382,7 +10387,7 @@
     "journal": "Cambridge Prisms: Global Mental Health",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -9405,7 +10410,7 @@
     "journal": "Cambridge Prisms: Global Mental Health",
     "license": "cc-by-nc-nd",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -9428,7 +10433,7 @@
     "journal": "Depression and Anxiety",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -9451,7 +10456,102 @@
     "journal": "Cambridge Prisms: Global Mental Health",
     "license": "cc-by-nc-nd",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "title": "Maternal Mental Health and Its Influence on Children’s Early Development",
+    "authors": "Mahreen Tahir-Chowdhry, Elizabeth Hentschel, Heather Tomlinson, Amna Ansari, Amer Hasan, Aisha Yousafzai, Naveed Hussain",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42445",
+    "description": "Reports the prevalence of depression, anxiety and parenting stress among mothers of children aged 0 to 6 in Khyber Pakhtunkhwa, Pakistan. Mental health concerns are more common among refugee, less-educated and rural mothers, and are significantly associated with lower levels of early childhood development.",
+    "doi": "10.1596/1813-9450-10975",
+    "journal": "Policy Research Working Paper No. 10975",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "maternal-mental-health-and-its-influence-on-childrens-early-development",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "maternal-health",
+      "mental-health-wellbeing"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "title": "Talk Therapy and Human Capital in Adolescence: Evidence from Nepal",
+    "authors": "Eric V. Edmonds, Priya Mukherjee, Nikhilesh Prakash, Nishith Prakash, Shwetlena Sabarwal",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.nber.org/papers/w33677",
+    "description": "Reports a randomized therapy intervention for 1,707 Nepali adolescents at risk of dropping out of school. Among those who took part, therapy reduced psychological distress and improved emotional regulation, but these gains did not raise school attendance or cognitive performance.",
+    "doi": "10.3386/w33677",
+    "journal": "NBER Working Paper No. 33677",
+    "access_observed": "free_to_read",
+    "id": "talk-therapy-and-human-capital-in-adolescence-evidence-from-nepal",
+    "access_type": "free_to_read",
+    "tags": [
+      "Nepal",
+      "RCT",
+      "education",
+      "mental-health-wellbeing"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "title": "The Emergence of the Poverty–Mental Health Gradient and the Great Pakistan Earthquake of 2005",
+    "authors": "Tahir Andrabi, Benjamin Daniels, Jishnu Das",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.nber.org/papers/w35060",
+    "description": "Uses data from 126 villages collected four years after the 2005 Pakistan earthquake. Among people nearest the fault line, mental health improves by 0.12 standard deviations per log unit of consumption, while beyond 20 km there is no relationship between consumption poverty and mental health.",
+    "doi": "10.3386/w35060",
+    "journal": "NBER Working Paper No. 35060",
+    "access_observed": "free_to_read",
+    "id": "the-emergence-of-the-povertymental-health-gradient-and-the-great-pakistan",
+    "access_type": "free_to_read",
+    "tags": [
+      "Pakistan",
+      "mental-health-wellbeing",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Mental Health & Wellbeing"
+    ]
+  },
+  {
+    "title": "World mental health today: latest data",
+    "authors": "World Health Organization",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789240113817",
+    "description": "A 64-page WHO report that updates the evidence on mental health epidemiology, economic consequences and gaps in public mental health. It states that over one billion people live with a mental disorder and that most remain underserved.",
+    "license": "other-oa",
+    "access_observed": "open_access",
+    "id": "world-mental-health-today-latest-data",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Mental Health & Wellbeing"
     ]
@@ -9945,7 +11045,7 @@
       "migration-urbanization"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Migration & Urbanization"
     ]
@@ -10037,7 +11137,7 @@
     "year": 2013,
     "type": "grey_literature",
     "topic": "Migration & Urbanization",
-    "url": "https://www.unesco.org/en/articles/internal-migration-india-initiative",
+    "url": "https://unesdoc.unesco.org/ark:/48223/pf0000223702",
     "description": "A social inclusion agenda addressing the exclusion of India's vast internal migrant workforce.",
     "id": "internal-migration-in-india",
     "access_type": "check_access",
@@ -10046,8 +11146,8 @@
       "migration",
       "migration-urbanization"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Migration & Urbanization"
     ]
@@ -10066,8 +11166,105 @@
       "migration",
       "migration-urbanization"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "broken",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Migration & Urbanization"
+    ]
+  },
+  {
+    "title": "Nepal Country Economic Memorandum",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42978",
+    "description": "A World Bank report on Nepal's growth opportunities. It analyses growth trends across three periods, policies to increase the economic benefits of migration, the effect of exchange rate dynamics and trade policies on merchandise exports, and the potential of hydropower and digitalization.",
+    "doi": "10.1596/42978",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "nepal-country-economic-memorandum",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "digital",
+      "migration",
+      "migration-urbanization"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Migration & Urbanization"
+    ]
+  },
+  {
+    "title": "Towards Resilient and Prosperous Cities in India",
+    "authors": "World Bank Group",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43242",
+    "description": "Makes the case for investment in climate-resilient cities in India. The report states that the urban population is expected to double from 480 million in 2020 to 951 million by 2050 and that more than half of the urban infrastructure, buildings and services needed are still to be built, which gives cities a chance to plan for resilience.",
+    "doi": "10.1596/43242",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "towards-resilient-and-prosperous-cities-in-india",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "migration-urbanization"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Migration & Urbanization"
+    ]
+  },
+  {
+    "title": "Prioritizing Heat Mitigation Actions in Indian Cities",
+    "authors": "Nicholas Jones, Asmita Tiwari, Natsuko Kikutake, Sacha Takacs, Niels Souverijns",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42350",
+    "description": "Develops heat risk maps for Lucknow, Chennai and Surat, models future health and economic losses without intervention, and estimates the costs and benefits of heat mitigation actions. The modelling suggests that heat-related deaths in the three cities could rise by one-third by 2050 and that labor productivity losses could affect 2 to 4 percent of their economic output.",
+    "doi": "10.1596/1813-9450-10960",
+    "journal": "Policy Research Working Paper No. 10960",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "prioritizing-heat-mitigation-actions-in-indian-cities",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "migration-urbanization"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Migration & Urbanization"
+    ]
+  },
+  {
+    "title": "The City Through Her Eyes: Gender-Based Harassment in Public Spaces in Urban India",
+    "authors": "Lori A. Beaman, Seema Jayachandran, Anisha Sharma",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.nber.org/papers/w35738",
+    "description": "Surveys over 4,000 women recruited in public spaces in New Delhi and Bengaluru about harassment. It reports that 65 percent of women in New Delhi and 29 percent in Bengaluru experienced harassment in public spaces in the past year, and that measured prevalence is sensitive to questionnaire design.",
+    "doi": "10.3386/w35738",
+    "journal": "NBER Working Paper No. 35738",
+    "access_observed": "free_to_read",
+    "id": "the-city-through-her-eyes-gender-based-harassment-in-public-spaces-in-urban",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "gender",
+      "migration-urbanization",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Migration & Urbanization"
     ]
@@ -10589,7 +11786,7 @@
       "public-health"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Public Health"
     ]
@@ -10837,6 +12034,56 @@
     ]
   },
   {
+    "title": "An Overview of the Indian Health Labor Markets",
+    "authors": "Edson C. Araujo, Bernardo D. P. Coelho, Gumilang Aryo Sahadewo, Navneet Kaur Manchanda, Barbara McPake, Ajay Mahal, Lakshmi Murthy Sripada, Deepak Santhanakrishnan, Aarushi Bhatnagar",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Public Health",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43787",
+    "description": "Analyses India's health labor markets using the Periodic Labour Force Survey. It reports a 60 percent increase in the number of health workers since 2017, workforce density that is still below global and regional benchmarks, persistent shortages in key medical specialties and widespread informality.",
+    "doi": "10.1596/43787",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "an-overview-of-the-indian-health-labor-markets",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "labor-markets",
+      "public-health",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Public Health"
+    ]
+  },
+  {
+    "title": "Improving Childhood Immunization through Maternal Support: Evidence from a Randomized Intervention in Pakistan",
+    "authors": "Adeline L. Delavande, Areeba Shahab, Javed Younas, Basit Zafar",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Public Health",
+    "url": "https://www.nber.org/papers/w33559",
+    "description": "Evaluates randomized interventions for 2,145 mothers of infants in Pakistan. A phone-delivered intervention offering psychological support and visualization techniques raised the number of vaccines received by young children by 0.3, or 7 percent of the control mean, one year after baseline, with larger effects for lower-income households.",
+    "doi": "10.3386/w33559",
+    "journal": "NBER Working Paper No. 33559",
+    "access_observed": "free_to_read",
+    "id": "improving-childhood-immunization-through-maternal-support-evidence-from-a",
+    "access_type": "free_to_read",
+    "tags": [
+      "Pakistan",
+      "RCT",
+      "maternal-health",
+      "public-health"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Public Health"
+    ]
+  },
+  {
     "title": "Decentralization of Governance and Development",
     "authors": "Pranab Bardhan",
     "year": 2002,
@@ -11056,7 +12303,7 @@
       "public-policy-governance"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Public Policy & Governance"
     ]
@@ -11241,7 +12488,7 @@
       "public-policy-governance"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Public Policy & Governance"
     ]
@@ -11614,8 +12861,8 @@
       "digital",
       "public-policy-governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Public Policy & Governance"
     ]
@@ -11636,8 +12883,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Public Policy & Governance"
     ]
@@ -11817,7 +13064,7 @@
       "public-policy-governance"
     ],
     "link_status": "paywalled",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Public Policy & Governance"
     ]
@@ -11857,6 +13104,103 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23",
+    "topics": [
+      "Public Policy & Governance"
+    ]
+  },
+  {
+    "title": "South Asia Development Update, April 2025: Taxing Times",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42891",
+    "description": "The World Bank's April 2025 economic update for South Asia. It argues that higher revenue mobilization is a prerequisite for stronger fiscal positions in most South Asian countries and reports that the region's economies face larger tax gaps than the average emerging market and developing economy.",
+    "doi": "10.1596/978-1-4648-2230-8",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "south-asia-development-update-april-2025-taxing-times",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "public-policy-governance"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Public Policy & Governance"
+    ]
+  },
+  {
+    "title": "The Evolution of Local Participatory Democracy in Nepal",
+    "authors": "Thaneshwar Bhusal, Michael G Breen, Vijayendra Rao",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43939",
+    "description": "Traces the development of Nepal's participatory institutions over about 50 years in three phases, ending with the 2015 federal constitution, which granted local autonomy. It examines how far these institutions were induced by external interventions and how far they grew from indigenous practices, and reports five findings on how reforms widened citizens' influence over local decisions.",
+    "doi": "10.1596/1813-9450-11252",
+    "journal": "Policy Research Working Paper No. 11252",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "the-evolution-of-local-participatory-democracy-in-nepal",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "indigenous-peoples",
+      "institutions",
+      "public-policy-governance"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Public Policy & Governance"
+    ]
+  },
+  {
+    "title": "The Effects of Taxes and Transfers on Inequality and Poverty in Pakistan",
+    "authors": "Beenish Amjad, Haydeeliz Carassco, Moritz Meyer",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43125",
+    "description": "Applies the Commitment to Equity methodology to taxes, social spending and subsidies in Pakistan for fiscal year 2019. It finds that the fiscal system raised the national poverty headcount by about two percentage points, had a muted effect on inequality, and left only the poorest decile as net recipients in cash terms.",
+    "doi": "10.1596/43125",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "the-effects-of-taxes-and-transfers-on-inequality-and-poverty-in-pakistan",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "inequality",
+      "poverty",
+      "public-policy-governance"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Public Policy & Governance"
+    ]
+  },
+  {
+    "title": "The Limits of Government Outsourcing: Property Tax Re-Assessments in India",
+    "authors": "Esther Duflo, Rema Hanna, Benjamin A. Olken, Shreya Tandon",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/papers/w35610",
+    "description": "Reports an experiment in Chennai, India, in which neighborhoods were randomly selected to have property tax assessments done by contracted private firms in place of government tax inspectors. Government inspectors produced almost double the increase in tax revenue and more accurate assessments.",
+    "doi": "10.3386/w35610",
+    "journal": "NBER Working Paper No. 35610",
+    "access_observed": "free_to_read",
+    "id": "the-limits-of-government-outsourcing-property-tax-re-assessments-in-india",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "public-policy-governance"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Public Policy & Governance"
     ]
@@ -12342,7 +13686,7 @@
       "research-methods"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Research Methods"
     ]
@@ -12789,6 +14133,100 @@
     ]
   },
   {
+    "title": "Evaluating Alternative Approaches to Small Area Estimation of Poverty with Survey and Census Data",
+    "authors": "Hai-Anh H. Dang, Minh Do, Partha Lahiri, Melany Gualavisi, David Newhouse, Talip Kilic, Peter Lanjouw, Roy Van der Weide",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Research Methods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44941",
+    "description": "Uses five rounds of Mexican and Brazilian census extracts to test how accurately different models and estimation methods produce small area estimates of poverty from survey and census data. Models with household-level or village-level predictors tend to be more accurate than models with area-level predictors only, and no single approach dominates across all contexts.",
+    "doi": "10.1596/1813-9450-11396",
+    "journal": "Policy Research Working Paper No. 11396",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "evaluating-alternative-approaches-to-small-area-estimation-of-poverty-with",
+    "access_type": "open_access",
+    "tags": [
+      "poverty",
+      "research-methods",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Research Methods"
+    ]
+  },
+  {
+    "title": "Frontiers in Small Area Estimation Research",
+    "authors": "Isabel Molina",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Research Methods",
+    "url": "https://openknowledge.worldbank.org/handle/10986/41801",
+    "description": "Reviews the main methods for small area estimation of welfare indicators. It covers direct estimators from area-specific survey data, simple indirect and composite estimators, area-level models and unit-level models.",
+    "doi": "10.1596/41801",
+    "journal": "Policy Research Working Paper No. 10828",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "frontiers-in-small-area-estimation-research",
+    "access_type": "open_access",
+    "tags": [
+      "research-methods",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Research Methods"
+    ]
+  },
+  {
+    "title": "Difference-in-Differences Designs: A Practitioner's Guide",
+    "authors": "Andrew Baker, Brantly Callaway, Scott Cunningham, Andrew Goodman-Bacon, Pedro H. C. Sant'Anna",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Research Methods",
+    "url": "https://arxiv.org/abs/2503.13323",
+    "description": "Sets out an organizing framework for difference-in-differences designs and their estimators beyond the case of two groups and two periods. It discusses covariates, weights, multiple periods and staggered treatments.",
+    "journal": "arXiv:2503.13323",
+    "license": "cc-by-nc-nd",
+    "access_observed": "open_access",
+    "id": "difference-in-differences-designs-a-practitioners-guide",
+    "access_type": "open_access",
+    "tags": [
+      "diff-in-diff",
+      "research-methods"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Research Methods"
+    ]
+  },
+  {
+    "title": "Applied Causal Inference Powered by ML and AI",
+    "authors": "Victor Chernozhukov, Christian Hansen, Nathan Kallus, Martin Spindler, Vasilis Syrgkanis",
+    "year": 2024,
+    "type": "book",
+    "topic": "Research Methods",
+    "url": "https://arxiv.org/abs/2403.02467",
+    "description": "An introductory book on combining machine learning with causal inference. It covers structural equation models, directed acyclic graphs and structural causal models, and Double/Debiased Machine Learning methods for inference in such models.",
+    "journal": "arXiv:2403.02467",
+    "access_observed": "free_to_read",
+    "id": "applied-causal-inference-powered-by-ml-and-ai",
+    "access_type": "free_to_read",
+    "tags": [
+      "machine-learning",
+      "research-methods"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Research Methods"
+    ]
+  },
+  {
     "title": "World Development Report 2014: Risk and Opportunity - Managing Risk for Development",
     "authors": "World Bank",
     "year": 2013,
@@ -12843,8 +14281,8 @@
       "food-security",
       "social-protection"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Social Protection"
     ]
@@ -13108,8 +14546,8 @@
       "climate-change",
       "social-protection"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Social Protection"
     ]
@@ -13291,8 +14729,8 @@
       "poverty",
       "social-protection"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Social Protection"
     ]
@@ -13322,7 +14760,7 @@
     "year": 2010,
     "type": "book",
     "topic": "Social Protection",
-    "url": "https://www.routledge.com/Just-Give-Money-to-the-Poor-The-Development-Revolution-from-the-Global-South/Hanlon-Barrientos-Hulme/p/book/9781565493339",
+    "url": "https://www.rienner.com/title/Just_Give_Money_to_the_Poor_The_Development_Revolution_from_the_Global_South",
     "description": "The influential argument for unconditional cash transfers as a development revolution from the Global South.",
     "id": "just-give-money-to-the-poor",
     "access_type": "check_access",
@@ -13330,8 +14768,8 @@
       "cash-transfers",
       "social-protection"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23",
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Social Protection"
     ]
@@ -13394,7 +14832,7 @@
     "journal": "World Development",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Social Protection"
     ]
@@ -13419,7 +14857,7 @@
     "journal": "Social Policy and Society",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Social Protection"
     ]
@@ -13442,7 +14880,7 @@
     "journal": "The Journal of Development Studies",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "Social Protection"
     ]
@@ -13467,7 +14905,83 @@
     "journal": "Child Indicators Research",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Social Protection"
+    ]
+  },
+  {
+    "title": "Responding to Floods in Pakistan with Adaptive Social Protection: How to Keep an Inundated Country Afloat",
+    "authors": "Zaineb Majoka, Yash Dhuldhoya",
+    "year": 2026,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44628",
+    "description": "Reviews the response to the 2022 floods in Pakistan, which affected about 33 million people. It finds that the government used several instruments but that coverage of relief support remained limited, and it identifies ways to build an adaptive social protection system on the existing social protection system.",
+    "doi": "10.1596/44628",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "responding-to-floods-in-pakistan-with-adaptive-social-protection-how-to-keep-an",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "social-protection"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Social Protection"
+    ]
+  },
+  {
+    "title": "Fast Action for Floods: RCT Evidence on Forecast-based Cash Transfers from Bangladesh and Nepal",
+    "authors": "Paul J. Christian, Felipe A. Dunsch, Jonas Heirman, Erin M. Kelley, Florence Kondylis, Gregory Lane, Jennifer Waidler, Nidhila Adusumalli, Odbayar Batmunkh, Kriti Malhotra",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://www.nber.org/papers/w34414",
+    "description": "Reports a randomized controlled trial in Bangladesh and Nepal that tests whether cash delivered within days of a flood does more good than the same assistance delivered months later. Timely cash assistance leads to overall gains in food security and psychosocial well-being.",
+    "doi": "10.3386/w34414",
+    "journal": "NBER Working Paper No. 34414",
+    "access_observed": "free_to_read",
+    "id": "fast-action-for-floods-rct-evidence-on-forecast-based-cash-transfers-from",
+    "access_type": "free_to_read",
+    "tags": [
+      "Bangladesh",
+      "Nepal",
+      "RCT",
+      "cash-transfers",
+      "food-security",
+      "social-protection"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "Social Protection"
+    ]
+  },
+  {
+    "title": "Scalable Targeting of Social Protection: When Do Algorithms Out-Perform Surveys and Community Knowledge?",
+    "authors": "Emily Aiken, Anik Ashraf, Joshua Blumenstock, Raymond Guiteras, Ahmed Mushfiq Mobarak",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://www.nber.org/papers/w33919",
+    "description": "Compares proxy means-testing, community nominations and a machine learning approach based on mobile phone records as ways to identify poor households for transfers in Bangladesh. Proxy means-testing is the most accurate, but algorithmic targeting becomes more cost-effective for national-scale programs in which large numbers of households must be screened.",
+    "doi": "10.3386/w33919",
+    "journal": "NBER Working Paper No. 33919",
+    "access_observed": "free_to_read",
+    "id": "scalable-targeting-of-social-protection-when-do-algorithms-out-perform-surveys",
+    "access_type": "free_to_read",
+    "tags": [
+      "Bangladesh",
+      "machine-learning",
+      "mobile-technology",
+      "social-protection",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "Social Protection"
     ]
@@ -13697,7 +15211,7 @@
       "wash"
     ],
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]
@@ -14042,7 +15556,7 @@
       "wash"
     ],
     "link_status": "broken",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]
@@ -14063,7 +15577,7 @@
       "wash"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]
@@ -14088,7 +15602,7 @@
     "journal": "The Lancet",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]
@@ -14114,7 +15628,7 @@
     "journal": "PLOS Medicine",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]
@@ -14139,7 +15653,7 @@
     "journal": "",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]
@@ -14165,7 +15679,7 @@
     "journal": "Campbell Systematic Reviews: Better Evidence for a Better World",
     "license": "public-domain",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]
@@ -14188,7 +15702,7 @@
     "journal": "Nature Communications",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]
@@ -14214,7 +15728,7 @@
     "journal": "BMC Public Health",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]
@@ -14238,7 +15752,52 @@
     "journal": "Maternal &amp; Child Nutrition",
     "license": "cc-by-nc",
     "link_status": "blocked",
-    "link_checked": "2026-09-23",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "WASH"
+    ]
+  },
+  {
+    "title": "Water and Sanitation in Indian Cities: Knowledge Framework for Promoting Sustainable and Bankable Water Supply, Sanitation, and Solid Waste Management",
+    "authors": "World Bank, Asian Development Bank (ADB)",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44073",
+    "description": "A World Bank and Asian Development Bank framework for modernizing water supply, sanitation and solid waste management in 100 large Indian cities. It draws on assessments of infrastructure and service performance across these cities and on detailed diagnostics of 10 of them, and reports progress in infrastructure coverage alongside remaining gaps in service quality, efficiency and sustainability.",
+    "doi": "10.1596/44073",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "water-and-sanitation-in-indian-cities-knowledge-framework-for-promoting",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "WASH",
+      "wash"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
+    "topics": [
+      "WASH"
+    ]
+  },
+  {
+    "title": "Progress on household drinking-water, sanitation and hygiene 2000-2024: Special focus on inequalities",
+    "authors": "World Health Organization, UNICEF",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.who.int/publications/m/item/progress-on-household-drinking-water--sanitation-and-hygiene-2000-2024--special-focus-on-inequalities",
+    "description": "The 2025 report of the WHO/UNICEF Joint Monitoring Programme. Between 2000 and 2024, 2.2 billion people gained access to safely managed drinking water and 2.8 billion gained safely managed sanitation, but progress has been uneven, and the number of people without safely managed drinking water has increased in urban areas and in low-income countries.",
+    "access_observed": "free_to_read",
+    "id": "progress-on-household-drinking-water-sanitation-and-hygiene-2000-2024-special",
+    "access_type": "free_to_read",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21",
     "topics": [
       "WASH"
     ]

@@ -48,8 +48,8 @@
       "food-security",
       "social-protection"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Conditional Cash Transfers: Reducing Present and Future Poverty",
@@ -293,8 +293,8 @@
       "climate-change",
       "social-protection"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Sourcebook on the Foundations of Social Protection Delivery Systems",
@@ -449,8 +449,8 @@
       "poverty",
       "social-protection"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Realizing the Full Potential of Social Safety Nets in Africa",
@@ -474,7 +474,7 @@
     "year": 2010,
     "type": "book",
     "topic": "Social Protection",
-    "url": "https://www.routledge.com/Just-Give-Money-to-the-Poor-The-Development-Revolution-from-the-Global-South/Hanlon-Barrientos-Hulme/p/book/9781565493339",
+    "url": "https://www.rienner.com/title/Just_Give_Money_to_the_Poor_The_Development_Revolution_from_the_Global_South",
     "description": "The influential argument for unconditional cash transfers as a development revolution from the Global South.",
     "id": "just-give-money-to-the-poor",
     "access_type": "check_access",
@@ -482,8 +482,8 @@
       "cash-transfers",
       "social-protection"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Social Protection and Jobs Responses to COVID-19",
@@ -537,7 +537,7 @@
     "journal": "World Development",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Assessing the Impact of Cash Transfer Programmes on Socioeconomic Outcomes in the MENA Region: A Systematic Review",
@@ -559,7 +559,7 @@
     "journal": "Social Policy and Society",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The Impact of Shock-Responsive Social Cash Transfers: Evidence from an Aggregate Shock in Kenya",
@@ -579,7 +579,7 @@
     "journal": "The Journal of Development Studies",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Impact of Cash Transfers on Child Poverty Among School-aged Refugee Children: Evidence from Uganda",
@@ -601,6 +601,73 @@
     "journal": "Child Indicators Research",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Responding to Floods in Pakistan with Adaptive Social Protection: How to Keep an Inundated Country Afloat",
+    "authors": "Zaineb Majoka, Yash Dhuldhoya",
+    "year": 2026,
+    "type": "grey_literature",
+    "topic": "Social Protection",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44628",
+    "description": "Reviews the response to the 2022 floods in Pakistan, which affected about 33 million people. It finds that the government used several instruments but that coverage of relief support remained limited, and it identifies ways to build an adaptive social protection system on the existing social protection system.",
+    "doi": "10.1596/44628",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "responding-to-floods-in-pakistan-with-adaptive-social-protection-how-to-keep-an",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "social-protection"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Fast Action for Floods: RCT Evidence on Forecast-based Cash Transfers from Bangladesh and Nepal",
+    "authors": "Paul J. Christian, Felipe A. Dunsch, Jonas Heirman, Erin M. Kelley, Florence Kondylis, Gregory Lane, Jennifer Waidler, Nidhila Adusumalli, Odbayar Batmunkh, Kriti Malhotra",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://www.nber.org/papers/w34414",
+    "description": "Reports a randomized controlled trial in Bangladesh and Nepal that tests whether cash delivered within days of a flood does more good than the same assistance delivered months later. Timely cash assistance leads to overall gains in food security and psychosocial well-being.",
+    "doi": "10.3386/w34414",
+    "journal": "NBER Working Paper No. 34414",
+    "access_observed": "free_to_read",
+    "id": "fast-action-for-floods-rct-evidence-on-forecast-based-cash-transfers-from",
+    "access_type": "free_to_read",
+    "tags": [
+      "Bangladesh",
+      "Nepal",
+      "RCT",
+      "cash-transfers",
+      "food-security",
+      "social-protection"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Scalable Targeting of Social Protection: When Do Algorithms Out-Perform Surveys and Community Knowledge?",
+    "authors": "Emily Aiken, Anik Ashraf, Joshua Blumenstock, Raymond Guiteras, Ahmed Mushfiq Mobarak",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Social Protection",
+    "url": "https://www.nber.org/papers/w33919",
+    "description": "Compares proxy means-testing, community nominations and a machine learning approach based on mobile phone records as ways to identify poor households for transfers in Bangladesh. Proxy means-testing is the most accurate, but algorithmic targeting becomes more cost-effective for national-scale programs in which large numbers of households must be screened.",
+    "doi": "10.3386/w33919",
+    "journal": "NBER Working Paper No. 33919",
+    "access_observed": "free_to_read",
+    "id": "scalable-targeting-of-social-protection-when-do-algorithms-out-perform-surveys",
+    "access_type": "free_to_read",
+    "tags": [
+      "Bangladesh",
+      "machine-learning",
+      "mobile-technology",
+      "social-protection",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

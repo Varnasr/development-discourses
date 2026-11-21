@@ -351,7 +351,7 @@
     "journal": "Journal of Benefit-Cost Analysis",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Improving children's foundational learning through community-school participation: Experimental evidence from rural India",
@@ -371,7 +371,7 @@
     "journal": "Labour Economics",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Supporting learning in and out of school: Experimental evidence from India",
@@ -380,18 +380,19 @@
     "type": "paper",
     "topic": "Education",
     "url": "https://doi.org/10.1016/j.jdeveco.2026.103906",
-    "description": "A cross-cutting trial across 200 villages in Assam. Neither the in-school pedagogy component nor the community study groups moved learning alone; together they raised maths by 0.11 SD and language by 0.09 SD. An argument about complementarity rather than about either component.",
+    "description": "A cross-cutting trial across 200 villages in Assam. Neither the in-school pedagogy component nor the community study groups moved learning alone; together they raised maths by 0.11 SD and language by 0.09 SD. An argument about complementarity rather than about either component. Published online on 21 August 2026; the publisher assigns it to the January 2027 issue (volume 184), which is why the year reads 2027.",
     "id": "supporting-learning-in-and-out-of-school-experimental-evidence-from-india",
-    "access_type": "check_access",
+    "access_type": "open_access",
     "tags": [
       "India",
       "education"
     ],
     "doi": "10.1016/j.jdeveco.2026.103906",
-    "journal": "Journal of Development Economics",
+    "journal": "Journal of Development Economics, Volume 184, January 2027",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21",
+    "access_observed": "open_access"
   },
   {
     "title": "The effectiveness of technology‐supported personalised learning in low‐ and middle‐income countries: A meta‐analysis",
@@ -410,7 +411,7 @@
     "journal": "British Journal of Educational Technology",
     "license": "cc-by-nc-nd",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Improving learning outcomes for out-of-school children: evidence from a randomized evaluation of an accelerated learning program in Liberia",
@@ -430,7 +431,7 @@
     "journal": "Education Economics",
     "license": "cc-by-nc-nd",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Digital personalised learning to improve literacy and numeracy outcomes: a randomised controlled trial in Kenyan pre-primary classrooms",
@@ -451,7 +452,7 @@
     "journal": "Research Papers in Education",
     "license": "other-oa",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Pedagogical features of interactive apps for effective learning of foundational skills",
@@ -470,7 +471,7 @@
     "journal": "British Journal of Educational Technology",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The impact of a participatory intervention to improve learning outcomes and reduce school-based discrimination and community stigma in primary rural schools of Afghanistan: A cluster control randomized trial",
@@ -491,6 +492,129 @@
     "journal": "International Journal of Educational Development",
     "license": "cc-by-nc",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Where Are Pakistan’s Out-of-School Children? Mapping Accessibility of Schooling Using Satellite Data and Machine Learning Methods with an Application to the 2022 Floods",
+    "authors": "Umar Saif, Amer Hasan, Ayesha Tahir, Koen Geven, Mohsen Ali, Aliza Masood, Muhammad Abdul Rahman, Sheena Fazili",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44537",
+    "description": "Combines satellite imagery, the population census, government school censuses and public location data on private schools to map where Pakistan's out-of-school children are in relation to schools. It documents more than 72,700 private schools alongside more than 137,000 public schools and applies the method to the 2022 floods.",
+    "doi": "10.1596/1813-9450-11341",
+    "journal": "Policy Research Working Paper No. 11341",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "where-are-pakistans-out-of-school-children-mapping-accessibility-of-schooling",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "education",
+      "machine-learning"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Air Pollution and Student Learning in Pakistan",
+    "authors": "Saher Asad, A. Patrick Behrer, Martin Philipp Heger, Monica Yanez Pagans",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/45629",
+    "description": "Estimates the effect of sustained exposure to fine particulate matter on primary-school learning in rural Punjab, Pakistan, using longitudinal test score data and satellite pollution estimates. Using upwind crop-residue fires as an instrument, it finds that higher pollution during the school year significantly slows learning, with larger effects in mathematics than in language subjects.",
+    "doi": "10.1596/1813-9450-11463",
+    "journal": "Policy Research Working Paper No. 11463",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "air-pollution-and-student-learning-in-pakistan",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "education",
+      "longitudinal"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "The Mis-Education of Women in Afghanistan",
+    "authors": "Rafiuddin Najam, Harry Anthony Patrinos, Raja Bentaouet Kattan",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42117",
+    "description": "Uses labor force and household survey microdata from Afghanistan to show that the wage premium for education is significantly larger for women than for men, and uses the compulsory schooling law to argue that the difference is causal. It projects that recent bans on women's education and employment will reduce women's future schooling, wage growth and national income growth.",
+    "doi": "10.1596/1813-9450-10888",
+    "journal": "Policy Research Working Paper No. 10888",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "the-mis-education-of-women-in-afghanistan",
+    "access_type": "open_access",
+    "tags": [
+      "Afghanistan",
+      "education",
+      "employment",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Helping Schools Survive: Experimental Evidence on the Impact of Financial and Educational Support to Private Schools",
+    "authors": "Tahir Andrabi, Jishnu Das, Asim Ijaz Khwaja, Selcuk Ozyurt",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Education",
+    "url": "https://www.nber.org/papers/w34042",
+    "description": "Reports an experiment with low-cost private schools in Pakistan. Both school loans and educational products and services were commercially viable and improved school survival rates by similar amounts, and loans reduced closures more for schools with larger initial enrollments and lower baseline test scores.",
+    "doi": "10.3386/w34042",
+    "journal": "NBER Working Paper No. 34042",
+    "access_observed": "free_to_read",
+    "id": "helping-schools-survive-experimental-evidence-on-the-impact-of-financial-and",
+    "access_type": "free_to_read",
+    "tags": [
+      "Pakistan",
+      "education"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Global Education Monitoring Report 2024/5: Leadership in education: Lead for learning",
+    "authors": "Global Education Monitoring Report Team",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://www.unesco.org/gem-report/en/publication/leadership",
+    "description": "The 2024/5 Global Education Monitoring Report. It examines what good leadership in education requires and how this varies between countries and over time, how far leadership contributes to better education outcomes, and which policy levers can develop leadership skills in different contexts.",
+    "access_observed": "free_to_read",
+    "id": "global-education-monitoring-report-20245-leadership-in-education-lead-for",
+    "access_type": "free_to_read",
+    "tags": [
+      "education"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Annual Status of Education Report (ASER) 2024: National findings",
+    "authors": "ASER Centre, Pratham",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Education",
+    "url": "https://asercentre.org/aser-2024/",
+    "description": "Reports the 2024 round of a nationwide rural household survey that reached 649,491 children in 17,997 villages across 605 rural districts of India. It presents findings on enrollment and learning for children aged 3 to 5, 6 to 14 and 15 to 16, and reports that pre-primary enrollment among 3-year-olds rose from 68.1 percent in 2018 to 77.4 percent in 2024.",
+    "access_observed": "free_to_read",
+    "id": "annual-status-of-education-report-aser-2024-national-findings",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "education",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

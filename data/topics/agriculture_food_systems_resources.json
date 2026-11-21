@@ -555,5 +555,92 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Fishing and Climate Change in Coastal Bangladesh",
+    "authors": "Brian Blankespoor, Susmita Dasgupta, Mainul Huq, Zahirul Huque Khan, Md. Golam Mustafa, David Wheeler",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42735",
+    "description": "Combines river salinity monitoring data with fish sales records from wholesale markets in southwest coastal Bangladesh to measure how salinity changes affected fishing during 2023. It reports significant effects on fish quantities and finds that salinity-related child health problems persist despite steady poverty reduction.",
+    "doi": "10.1596/1813-9450-11048",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "fishing-and-climate-change-in-coastal-bangladesh",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "agriculture-food-systems",
+      "climate-change",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Yield Gains from Balancing Fertilizer Use",
+    "authors": "Julian Arteaga, Klaus Deininger",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43259",
+    "description": "Uses data on a large sample of rice fields in three states of eastern India to test whether a more balanced use of fertilizer, measured as the ratio of potash to nitrogen, raises yields and revenues. Fertilizer balance is instrumented with the relative distances from villages to the nearest urea plant and the nearest international port.",
+    "doi": "10.1596/1813-9450-11134",
+    "journal": "Policy Research Working Paper No. 11134",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "yield-gains-from-balancing-fertilizer-use",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "agriculture-food-systems"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "When Water Runs Out: Adaptation to Gradual Environmental Change in Indian Agriculture",
+    "authors": "Ram Fishman, Meha Jain, Avinash Kishore",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44298",
+    "description": "Uses differences in geology that affect the rate of groundwater depletion across 40 villages in Gujarat, India, as a natural experiment. Greater water scarcity leads to declines in irrigated agriculture and more migration to cities among dominant socio-economic groups only, with no evidence of substantial investment in water-efficient technologies or in human capital.",
+    "doi": "10.1093/wber/lhaf012",
+    "journal": "World Bank Economic Review",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "when-water-runs-out-adaptation-to-gradual-environmental-change-in-indian",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "agriculture",
+      "agriculture-food-systems",
+      "climate-adaptation",
+      "migration"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Targeting, Personalization, and Engagement in an Agricultural Advisory Service",
+    "authors": "Susan Athey, Shawn Cole, Shanjukta Nath, Jessica Zhu",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Agriculture & Food Systems",
+    "url": "https://www.nber.org/papers/w34951",
+    "description": "Reports a series of experiments on how to target calls from an agricultural advisory service that serves over one million farmers in rural India. Targeted policies raised engagement by up to 8 percent when evaluated on data from the design period, but realized gains were substantially smaller when the policies were implemented in later weeks.",
+    "doi": "10.3386/w34951",
+    "journal": "NBER Working Paper No. 34951",
+    "access_observed": "free_to_read",
+    "id": "targeting-personalization-and-engagement-in-an-agricultural-advisory-service",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "agriculture-food-systems"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

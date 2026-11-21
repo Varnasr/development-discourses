@@ -14,7 +14,7 @@
       "nutrition"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The Colonial Origins of Comparative Development: An Empirical Investigation",
@@ -282,7 +282,7 @@
       "development-economics"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Globalization, Structural Change and Productivity Growth",
@@ -437,7 +437,7 @@
       "poverty"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Land Reform, Poverty Reduction, and Growth: Evidence from India",
@@ -701,7 +701,7 @@
       "poverty"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Universal Basic Income in the Developing World",
@@ -803,8 +803,8 @@
       "education",
       "poverty"
     ],
-    "link_status": "unknown",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Good Economics for Hard Times",
@@ -854,8 +854,8 @@
     "tags": [
       "development-economics"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The World Inequality Report 2022",
@@ -909,5 +909,66 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "Bangladesh Poverty and Equity Assessment: Navigating the Road to Prosperity",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44419",
+    "description": "A World Bank assessment of poverty reduction in Bangladesh between 2010 and 2022. It reports that poverty declined over the period but more slowly after 2016, that over one-third of the population remained vulnerable to falling back into poverty, and that weak targeting and misdirected subsidies limit the effect of social spending.",
+    "doi": "10.1596/44419",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "bangladesh-poverty-and-equity-assessment-navigating-the-road-to-prosperity",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "development-economics",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Reclaiming Momentum Towards Prosperity: Pakistan's Poverty, Equity, and Resilience Assessment",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43722",
+    "description": "A World Bank poverty assessment for Pakistan. It reports that poverty fell from 64.3 percent in 2001 to 21.9 percent in 2018 and is projected to have risen to 25.3 percent by 2023/24 after COVID-19, economic instability, floods and high inflation. It calls for policy reforms to address structural imbalances.",
+    "doi": "10.1596/43722",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "reclaiming-momentum-towards-prosperity-pakistans-poverty-equity-and-resilience",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "development-economics",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "World Development Report 2025: Standards for Development",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Development Economics",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43949",
+    "description": "The World Bank's World Development Report for 2025. It describes standards as the hidden infrastructure of modern economies and examines how developing countries can deal with increasingly stringent international standards produced by globalization and rapid technological change.",
+    "doi": "10.1596/978-1-4648-2275-9",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "world-development-report-2025-standards-for-development",
+    "access_type": "open_access",
+    "tags": [
+      "development-economics"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]
