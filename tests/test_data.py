@@ -188,3 +188,38 @@ def test_a_blocked_link_is_not_recorded_as_broken():
     assert 403 in verify_urls.BLOCKED_CODES
     assert 403 not in verify_urls.BROKEN_CODES
     assert 404 in verify_urls.BROKEN_CODES
+
+
+# ---------------------------------------------------------------------------
+# An observed access label wins over the domain guess
+#
+# enrich_data.py guesses access from the URL's domain, which calls every
+# doi.org link "check access" whatever licence the article carries. An entry
+# added after someone opened the page records what they saw in
+# `access_observed`, and the guess must not overwrite it.
+# ---------------------------------------------------------------------------
+
+def test_access_observed_wins_over_the_domain_guess(tmp_path):
+    import enrich_data as ed
+    path = tmp_path / "t.json"
+    path.write_text(json.dumps([
+        {"title": "Observed", "url": "https://doi.org/10.1/x", "topic": "Education",
+         "description": "", "access_observed": "open_access"},
+        {"title": "Guessed", "url": "https://doi.org/10.1/y", "topic": "Education",
+         "description": ""},
+    ]), encoding="utf-8")
+    ed.enrich_file(str(path))
+    out = json.loads(path.read_text(encoding="utf-8"))
+    assert out[0]["access_type"] == "open_access"
+    assert out[1]["access_type"] == "check_access"
+
+
+def test_access_observed_rejects_an_unknown_value(tmp_path):
+    import enrich_data as ed
+    path = tmp_path / "t.json"
+    path.write_text(json.dumps([
+        {"title": "Typo", "url": "https://doi.org/10.1/z", "topic": "Education",
+         "description": "", "access_observed": "open"},
+    ]), encoding="utf-8")
+    with pytest.raises(ValueError):
+        ed.enrich_file(str(path))

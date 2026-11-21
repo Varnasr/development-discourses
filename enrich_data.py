@@ -5,6 +5,8 @@ enrich_data.py - Enrich resource data with IDs, access classification, DOIs, and
 Adds the following fields to each resource:
   - id: URL-safe slug derived from title
   - access_type: "open_access" | "free_to_read" | "check_access"
+    (guessed from the URL's domain, unless the entry carries `access_observed`,
+    which records what a person saw on the page and always wins)
   - doi: extracted from URL where possible
   - tags: auto-generated keyword tags from title/description
   - drops the legacy `verified` flag (see the note in enrich_entry)
@@ -122,6 +124,9 @@ LIKELY_PAYWALLED_DOMAINS = {
     "www.cambridge.org",
     "journals.sagepub.com",
 }
+
+
+ACCESS_TYPES = {"open_access", "free_to_read", "check_access"}
 
 
 def classify_access(url):
@@ -333,8 +338,15 @@ def enrich_file(filepath, dry_run=False):
             id_counts[base_id] = 0
             r["id"] = base_id
 
-        # Classify access
-        r["access_type"] = classify_access(r.get("url", ""))
+        # Classify access. The domain table is a guess: doi.org says nothing
+        # about the licence behind it, and an agency's site can host a report
+        # with no stated licence. `access_observed` is set by hand when the
+        # entry was added, from the landing page itself, and wins over the guess.
+        observed = r.get("access_observed")
+        if observed is not None and observed not in ACCESS_TYPES:
+            raise ValueError(f"{r.get('title')!r}: access_observed must be one of "
+                             f"{sorted(ACCESS_TYPES)}, got {observed!r}")
+        r["access_type"] = observed or classify_access(r.get("url", ""))
 
         # Extract DOI
         doi = extract_doi(r.get("url", ""))
