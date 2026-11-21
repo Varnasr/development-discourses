@@ -20,9 +20,12 @@
  * and js/resource.js, js/app.js, js/litmap.js and resource.html changed to match.
  * A cached script that still linked to resource.html?id= would pair old links
  * with new pages.
+ * v11 (2026-11-21): the redesign. index.html, resource.html, css/style.css and
+ * all three scripts changed together, and js/theme.js is new. Old CSS under
+ * the new markup would render an unstyled page.
  */
 
-const CACHE_VERSION = 'dd-v10';
+const CACHE_VERSION = 'dd-v11';
 const SHELL_CACHE = CACHE_VERSION + '-shell';
 const DATA_CACHE = CACHE_VERSION + '-data';
 
@@ -35,6 +38,8 @@ const SHELL_ASSETS = [
   './js/app.js',
   './js/resource.js',
   './js/litmap.js',
+  './js/theme.js',
+  './js/dyslexia-font.js',
   './icon.svg',
   './manifest.webmanifest',
 ];

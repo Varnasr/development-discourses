@@ -13,7 +13,7 @@ https://devdiscourses.impactmojo.in/ (the `CNAME` file), served at the root.
 
 ```bash
 make build       # enrich topic files, merge, regenerate every derived asset
-make test        # 31 checks
+make test        # 44 checks
 make contrast    # every ink token against every surface, both themes
 make verify      # check every resource URL, write the report and link_status
 make recheck     # re-check only what was not ok last time (much faster)
@@ -133,6 +133,71 @@ The last two were found by running axe over the built pages in both themes at
 both viewports. A token check and a browser audit are not substitutes for each
 other; run both when you touch colour.
 
+## The redesign of 21 November 2026
+
+The owner called the site ugly and boring, so the whole front end was redrawn
+as a typography-led library, in step with Dev Case Studies. Data, ids, URLs,
+canonicals, the sitemap and the feed did not change.
+
+- **Look.** Source Serif 4 for titles and reading text, Inter for labels and
+  controls, a type scale in `--step-*`, hairline rules and one 2px ink rule per
+  section, 2px corners, no shadows and no boxed cards. `css/style.css` was
+  rewritten; the token names are the ones `check_contrast.py` already reads.
+- **Index.** A masthead sentence (the `h1`) and five figures filled from
+  `data/stats.json` by `updateStats()`; nothing is typed. The three access
+  figures are links that set the access filter. Search is the first control.
+  Results are `article.resource-card` entries: title link, authors and year,
+  a clamped summary, then a fixed row of type, access badge and topics. An
+  entry used to be an `<a>` with a `<button>` inside it, which is invalid; the
+  save button is now a sibling of the title link.
+- **Access badge.** `.access-badge.access-<type>` is the only filled, coloured
+  mark in an entry, on the `--badge-*-bg` tokens. The dot in front is full,
+  half or hollow, so the meaning does not rest on colour. The type is a plain
+  uppercase label, so `--color-paper` and `--badge-paper-bg` are unused today.
+- **Resource page.** Entry header (type, access, link status, title, citation
+  line, topics), Read at source, summary, the citation always on the page with
+  APA, Chicago and BibTeX and a copy button (Cite is a jump link to it),
+  keywords, the map, and Details, Related and Recently viewed as ruled
+  sections. Details shows Journal and Licence where the record has them;
+  `LICENCE_LABEL` is written in both `resource_pages.py` and `js/resource.js`.
+- **Theme.** One cycling button, `#themeToggle`, run by `js/theme.js` on every
+  page: device setting, light, dark. Same key as before, `imx_theme` (no entry
+  means device setting). The inline script in each `<head>` sets `data-theme`
+  and `data-theme-pref` before first paint, and the button's icon is chosen in
+  CSS from `data-theme-pref`, so neither flashes. The reading-font button sits
+  beside it through `data-dyslexia-slot`, at the same 40px.
+- **Footer.** The kit paints a dark band with literal colours. `style.css`
+  overrides it into the page's own inks, which the contrast check can measure.
+
+Measured at 390x844: the first resource starts at 535px (603px before). At
+1440x900 it starts at 422px (256px before), because the masthead is new; an
+entry is shorter than a card was, so about three entries show on the first
+screen. Do not add height above the list without measuring both.
+
+Traps met on the way:
+
+- **`escapeHtml()` in `js/app.js` does not escape quotes.** It is right for
+  text and wrong inside an attribute. Use `escapeAttr()` for `href`,
+  `aria-label` and `data-*` values.
+- **A script that names a layout class breaks when the layout changes.** The
+  Insights topic bars called `document.querySelector('.results-section')`,
+  which no longer exists, and threw on click. Only driving the feature in a
+  browser found it. Scripts now use ids (`#library`).
+- **The filter bar and the sort control each exist once.** `.library-grid`
+  places `.controls-bar`, `.rail`, `.results-header` and `.results-col` by grid
+  area above 1024px and in source order below. The bar opens through
+  `.library-grid:has(.filter-toggle[aria-expanded="true"])`.
+- **Colours in the map came from JavaScript literals.** Labels and node
+  outlines are now CSS classes (`.litmap-label`, `.litmap-year`), and link
+  lines read `--color-accent` at draw time. The nineteen topic dot colours are
+  still literals in `js/litmap.js`; they carry no text.
+- **The map is still mouse only.** A keyboard reader gets the same resources
+  from the Related list, and the SVG's label says so.
+- **`[hidden]` now has a global `display: none !important` rule**, so the trap
+  recorded below cannot recur.
+- **Separators are text to a contrast audit.** The `/` in the breadcrumb was
+  set in the border colour at 1.58:1. It is `--color-text-muted` now.
+
 ## The first screen carried no library
 
 Measured at 1280x900 on 2026-09-23: **620px of controls before the first
@@ -208,7 +273,7 @@ and the lychee crawl skips `resource/` because `verify_urls.py` covers those lin
 
 ## Testing
 
-`.github/workflows/ci.yml` runs the build, the drift check, 31 tests and the
+`.github/workflows/ci.yml` runs the build, the drift check, 44 tests and the
 contrast check on every push and pull request. `.github/workflows/link-check.yml`
 runs the resource-URL check and the page crawl daily at 05:17 UTC, plus on
 demand.

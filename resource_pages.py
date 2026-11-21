@@ -27,11 +27,11 @@ SITE_NAME = "Development Discourses"
 TITLE_MAX = 65
 DESC_MAX = 160
 
-TYPE_LABEL = {"grey_literature": "Grey Lit"}
+TYPE_LABEL = {"grey_literature": "Grey literature"}
 ACCESS_LABEL = {
-    "open_access": "Open Access",
-    "free_to_read": "Free to Read",
-    "check_access": "Check Access",
+    "open_access": "Open access",
+    "free_to_read": "Free to read",
+    "check_access": "Check access",
 }
 LINK_COPY = {
     "ok": ("link-ok", "Link checked"),
@@ -284,6 +284,7 @@ def render_page(r: dict, base_url: str, template: str | None = None,
     html = set_inner(html, "detailTitle", esc(r["title"]))
     html = set_inner(html, "detailAuthors", esc(r.get("authors") or "Unknown"))
     html = set_inner(html, "detailYear", esc(r.get("year") or ""))
+    html = set_inner(html, "detailVenue", esc(r.get("journal") or ""))
     html = set_inner(html, "detailTopic", "".join(
         f'<a class="detail-topic-tag" href="index.html?topic={esc(quote(t))}">{esc(t)}</a>'
         for t in topics))
@@ -296,7 +297,7 @@ def render_page(r: dict, base_url: str, template: str | None = None,
             f'<li><a href="{esc(u)}" target="_blank" rel="noopener">{esc(_pretty_url(u))}</a></li>'
             for u in alts)
         html = set_inner(html, "altUrls",
-                         f'<h3 class="alt-urls-title">Also available at</h3><ul>{items}</ul>', unhide=True)
+                         f'<h2 class="alt-urls-title">Also available at</h2><ul>{items}</ul>', unhide=True)
 
     tags = r.get("tags") or []
     if tags:
@@ -307,18 +308,36 @@ def render_page(r: dict, base_url: str, template: str | None = None,
         html = set_attr(html, "detailTags", "style", "display:none")
 
     meta = [("Authors", r.get("authors") or "Unknown"), ("Year", r.get("year") or "N/A"),
-            ("Type", "Grey Literature" if r.get("type") == "grey_literature" else (r.get("type") or "paper").capitalize()),
+            ("Type", type_label(r)),
             ("Topic", r.get("topic") or "")]
+    if r.get("journal"):
+        meta.append(("Journal", r["journal"]))
     rows = "".join(f'<div class="meta-item"><dt>{esc(k)}</dt><dd>{esc(v)}</dd></div>' for k, v in meta)
     if r.get("doi"):
         rows += (f'<div class="meta-item"><dt>DOI</dt><dd><a href="https://doi.org/{esc(r["doi"])}" '
                  f'target="_blank" rel="noopener">{esc(r["doi"])}</a></dd></div>')
     rows += f'<div class="meta-item"><dt>Access</dt><dd>{esc(ACCESS_LABEL.get(access, "Unknown"))}</dd></div>'
+    if r.get("license"):
+        rows += f'<div class="meta-item"><dt>Licence</dt><dd>{esc(licence_label(r["license"]))}</dd></div>'
     rows += (f'<div class="meta-item"><dt>Source</dt><dd><a href="{esc(r["url"])}" target="_blank" '
              f'rel="noopener">{esc(_domain(r["url"]))}</a></dd></div>')
     html = set_inner(html, "metaList", rows)
 
     return _to_root_relative(html)
+
+
+# Mirrors LICENCE_LABEL in js/resource.js.
+LICENCE_LABEL = {
+    "cc-by": "CC BY",
+    "cc-by-nc": "CC BY-NC",
+    "cc-by-nc-nd": "CC BY-NC-ND",
+    "public-domain": "Public domain",
+    "other-oa": "Other open licence",
+}
+
+
+def licence_label(code: str) -> str:
+    return LICENCE_LABEL.get(code, str(code or ""))
 
 
 def quote(s: str) -> str:
