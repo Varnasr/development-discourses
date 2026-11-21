@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Development Discourses | ImpactMojo</title>
     <script>
+      // Runs before first paint, so a saved theme never flashes the other one.
       (function() {
-        var KEY = 'imx_theme';
         var saved = null;
-        try { saved = localStorage.getItem(KEY); } catch (e) {}
-        function resolve(pref) {
-          if (pref === 'light' || pref === 'dark') return pref;
-          return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
-        }
-        document.documentElement.setAttribute('data-theme', resolve(saved));
+        try { saved = localStorage.getItem('imx_theme'); } catch (e) {}
+        var pref = (saved === 'light' || saved === 'dark') ? saved : 'system';
+        var dark = pref === 'dark' || (pref === 'system' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+        var root = document.documentElement;
+        root.setAttribute('data-theme', dark ? 'dark' : 'light');
+        root.setAttribute('data-theme-pref', pref);
       })();
     </script>
     <meta name="description" content="A curated library of 680+ research papers, books, and grey literature on development, social impact, and public policy for South Asia.">
@@ -59,187 +59,156 @@
 </head>
 <body>
     <header class="site-header">
-        <div class="container">
-            <div class="header-content">
-                <div class="brand">
-                    <a href="https://www.impactmojo.in" class="brand-link" target="_blank" rel="noopener">
-                        <span class="brand-icon">&#9671;</span>
-                        <span class="brand-text">ImpactMojo</span>
-                    </a>
-                    <span class="brand-separator">/</span>
-                    <h1 class="site-title">Development Discourses</h1>
-                </div>
-                <p class="site-tagline">A curated library for development practitioners in South Asia</p>
+        <div class="container header-row">
+            <div class="brand">
+                <a href="https://www.impactmojo.in" class="brand-link" target="_blank" rel="noopener">ImpactMojo</a>
+                <span class="brand-separator" aria-hidden="true">/</span>
+                <a href="index.html" class="site-name">Development Discourses</a>
             </div>
-            <nav class="header-nav">
-                <span class="eco-nav" aria-label="ImpactMojo libraries">
-                    <a href="https://varnasr.github.io/dev-case-studies/" class="eco-link">Case Studies</a>
-                    <a href="https://devdiscourses.impactmojo.in/" class="eco-link current" aria-current="page">Discourses</a>
-                    <a href="https://www.impactmojo.in/impactlex/" class="eco-link" target="_blank" rel="noopener">ImpactLex</a>
-                </span>
+            <div class="header-tools" data-dyslexia-slot>
+                <button type="button" class="theme-toggle" id="themeToggle" aria-label="Colour theme: Device setting. Switch to light" title="Colour theme: Device setting. Switch to light">
+                    <svg class="theme-toggle-icon" data-icon="system" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+                    <svg class="theme-toggle-icon" data-icon="light" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+                    <svg class="theme-toggle-icon" data-icon="dark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+                    <span class="theme-toggle-text" aria-hidden="true">Device</span>
+                </button>
+            </div>
+            <nav class="header-nav" aria-label="Site">
+                <a href="index.html" class="nav-link" aria-current="page">Library</a>
                 <a href="#about" class="nav-link">About</a>
-                <a href="https://www.impactmojo.in" class="nav-link" target="_blank" rel="noopener">ImpactMojo &nearr;</a>
-                <div class="theme-selector" role="group" aria-label="Theme selection">
-                  <button class="theme-btn" data-theme="system" title="System theme" aria-label="Use system theme">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
-                  </button>
-                  <button class="theme-btn" data-theme="light" title="Light theme" aria-label="Use light theme">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
-                  </button>
-                  <button class="theme-btn" data-theme="dark" title="Dark theme" aria-label="Use dark theme">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
-                  </button>
-                </div>
+                <a href="https://varnasr.github.io/dev-case-studies/" class="nav-link nav-eco-first">Case Studies</a>
+                <a href="https://www.impactmojo.in/impactlex/" class="nav-link" target="_blank" rel="noopener">ImpactLex</a>
+                <a href="https://www.impactmojo.in" class="nav-link nav-eco" target="_blank" rel="noopener">ImpactMojo &nearr;</a>
             </nav>
         </div>
     </header>
 
     <main>
-        <!-- Stats Bar -->
-        <section class="stats-bar">
-            <div class="container">
-                <div class="stats-grid">
-                    <div class="stat">
-                        <span class="stat-number" id="totalCount">0</span>
-                        <span class="stat-label">Resources</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-number" id="paperCount">0</span>
-                        <span class="stat-label">Papers</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-number" id="bookCount">0</span>
-                        <span class="stat-label">Books</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-number" id="greyCount">0</span>
-                        <span class="stat-label">Grey Literature</span>
-                    </div>
-                    <div class="stat">
-                        <span class="stat-number" id="topicCount">0</span>
-                        <span class="stat-label">Topics</span>
-                    </div>
+        <section class="masthead" aria-labelledby="mastheadTitle">
+            <div class="container masthead-grid">
+                <div class="masthead-text">
+                    <h1 class="masthead-title" id="mastheadTitle">Research papers, books and grey literature for development practitioners in South Asia.</h1>
+                    <p class="masthead-lede">A curated library. Each entry is labelled open access, free to read or check access.</p>
                 </div>
+                <!-- The figures are filled from data/stats.json by js/app.js. -->
+                <ul class="figures" id="figures" role="list" aria-label="The library in figures">
+                    <li class="figure"><span class="figure-value" id="totalCount">&ndash;</span><span class="figure-label">Resources</span></li>
+                    <li class="figure"><span class="figure-value" id="topicCount">&ndash;</span><span class="figure-label">Topics</span></li>
+                    <li><a class="figure figure-open" href="?access=open_access" data-access="open_access"><span class="figure-value" id="openCount">&ndash;</span><span class="figure-label">Open access</span></a></li>
+                    <li><a class="figure figure-free" href="?access=free_to_read" data-access="free_to_read"><span class="figure-value" id="freeCount">&ndash;</span><span class="figure-label">Free to read</span></a></li>
+                    <li><a class="figure figure-check" href="?access=check_access" data-access="check_access"><span class="figure-value" id="checkCount">&ndash;</span><span class="figure-label">Check access</span></a></li>
+                </ul>
             </div>
         </section>
 
-        <!-- Search, filters and results share one two-column grid above
-             1024px so the first screen carries results rather than controls -->
-        <div class="library container">
-        <section class="search-section" aria-label="Search and filters">
-            <div class="rail">
-                <div class="search-box">
-                    <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <circle cx="11" cy="11" r="8"></circle>
-                        <path d="m21 21-4.35-4.35"></path>
-                    </svg>
-                    <input type="text" id="searchInput" placeholder="Search by title, author, keyword..." autocomplete="off">
-                    <button id="clearSearch" class="clear-btn" title="Clear search">&times;</button>
+        <div class="library container" id="library">
+            <div class="search-box" role="search">
+                <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+                <input type="search" id="searchInput" placeholder="Search titles, authors and keywords" aria-label="Search the library" autocomplete="off">
+                <button type="button" id="clearSearch" class="clear-btn" title="Clear search" aria-label="Clear search">&times;</button>
+            </div>
+
+            <!-- Above 1024px the filters are a rail beside the results. Below
+                 that they sit behind the Filters button, which carries a count
+                 of the filters in force. -->
+            <div class="library-grid">
+                <div class="controls-bar">
+                    <button type="button" class="filter-toggle" id="filterToggle" aria-expanded="false" aria-controls="filterBar">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="4" y1="6" x2="20" y2="6"></line><line x1="7" y1="12" x2="17" y2="12"></line><line x1="10" y1="18" x2="14" y2="18"></line></svg>
+                        <span>Filters</span>
+                        <span class="filter-toggle-count" id="filterToggleCount" hidden></span>
+                    </button>
+                    <div class="sort-control">
+                        <label class="filter-label" for="sortSelect">Sort</label>
+                        <select id="sortSelect" class="sort-select">
+                            <option value="relevance">Best match</option>
+                            <option value="title">Title (A to Z)</option>
+                            <option value="title-desc">Title (Z to A)</option>
+                            <option value="year-desc">Year (newest)</option>
+                            <option value="year-asc">Year (oldest)</option>
+                            <option value="author">Author (A to Z)</option>
+                        </select>
+                    </div>
                 </div>
 
-                <button class="filter-toggle" id="filterToggle" aria-expanded="false"
-                        aria-controls="filterBar">
-                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="4" y1="6" x2="20" y2="6"></line><line x1="7" y1="12" x2="17" y2="12"></line><line x1="10" y1="18" x2="14" y2="18"></line></svg>
-                    <span>Filters</span>
-                    <span class="filter-toggle-count" id="filterToggleCount" hidden></span>
-                </button>
-
-                <div class="filter-bar" id="filterBar">
-                    <div class="filter-group">
-                        <span class="filter-label" id="topicFiltersLabel">Topic</span>
-                        <div class="filter-pills" id="topicFilters" role="group" aria-labelledby="topicFiltersLabel">
-                            <button class="pill active" data-filter="all">All Topics</button>
-                        </div>
-                    </div>
-
-                    <div class="filter-row">
+                <aside class="rail" aria-label="Filters">
+                    <div class="filter-bar" id="filterBar">
                         <div class="filter-group">
-                            <span class="filter-label" id="typeFiltersLabel">Type</span>
-                            <div class="filter-pills" id="typeFilters" role="group" aria-labelledby="typeFiltersLabel">
-                                <button class="pill active" data-filter="all">All</button>
-                                <button class="pill" data-filter="paper">Papers</button>
-                                <button class="pill" data-filter="book">Books</button>
-                                <button class="pill" data-filter="grey_literature">Grey Literature</button>
+                            <span class="filter-label" id="accessFiltersLabel">Access</span>
+                            <div class="filter-pills" id="accessFilters" role="group" aria-labelledby="accessFiltersLabel">
+                                <button type="button" class="pill active" data-filter="all" aria-pressed="true">All</button>
+                                <button type="button" class="pill" data-filter="open_access" aria-pressed="false">Open access</button>
+                                <button type="button" class="pill" data-filter="free_to_read" aria-pressed="false">Free to read</button>
+                                <button type="button" class="pill" data-filter="check_access" aria-pressed="false">Check access</button>
                             </div>
                         </div>
 
                         <div class="filter-group">
-                            <label class="filter-label" for="sortSelect">Sort</label>
-                            <select id="sortSelect" class="sort-select">
-                                <option value="relevance">Best Match</option>
-                                <option value="title">Title (A-Z)</option>
-                                <option value="title-desc">Title (Z-A)</option>
-                                <option value="year-desc">Year (Newest)</option>
-                                <option value="year-asc">Year (Oldest)</option>
-                                <option value="author">Author (A-Z)</option>
-                            </select>
-                        </div>
-                    </div>
-
-                    <div class="filter-row">
-                        <div class="filter-group">
-                            <span class="filter-label" id="accessFiltersLabel">Access</span>
-                            <div class="filter-pills" id="accessFilters" role="group" aria-labelledby="accessFiltersLabel">
-                                <button class="pill active" data-filter="all">All</button>
-                                <button class="pill" data-filter="open_access">Open Access</button>
-                                <button class="pill" data-filter="free_to_read">Free to Read</button>
-                                <button class="pill" data-filter="check_access">Check Access</button>
+                            <span class="filter-label" id="typeFiltersLabel">Type</span>
+                            <div class="filter-pills" id="typeFilters" role="group" aria-labelledby="typeFiltersLabel">
+                                <button type="button" class="pill active" data-filter="all" aria-pressed="true">All</button>
+                                <button type="button" class="pill" data-filter="paper" aria-pressed="false">Papers</button>
+                                <button type="button" class="pill" data-filter="book" aria-pressed="false">Books</button>
+                                <button type="button" class="pill" data-filter="grey_literature" aria-pressed="false">Grey literature</button>
                             </div>
                         </div>
 
                         <div class="filter-group">
                             <span class="filter-label" id="decadeFiltersLabel">Decade</span>
                             <div class="filter-pills" id="decadeFilters" role="group" aria-labelledby="decadeFiltersLabel">
-                                <button class="pill active" data-filter="all">Any Year</button>
+                                <button type="button" class="pill active" data-filter="all" aria-pressed="true">Any year</button>
+                            </div>
+                        </div>
+
+                        <div class="filter-group filter-topics">
+                            <span class="filter-label" id="topicFiltersLabel">Topic</span>
+                            <div class="filter-pills" id="topicFilters" role="group" aria-labelledby="topicFiltersLabel">
+                                <button type="button" class="pill active" data-filter="all" aria-pressed="true">All topics</button>
                             </div>
                         </div>
                     </div>
+                </aside>
 
-                    <div class="active-filters" id="activeFilters" style="display:none;"></div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Results -->
-        <section class="results-section">
-            <div class="results-col">
                 <div class="results-header">
-                    <p class="results-count" id="resultsCount">Loading resources...</p>
+                    <p class="results-count" id="resultsCount" role="status">Loading resources</p>
                     <div class="results-tools">
-                        <button class="tool-btn" id="insightsBtn" aria-expanded="false" aria-controls="insightsPanel" title="Show library insights">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="20" x2="12" y2="10"></line><line x1="18" y1="20" x2="18" y2="4"></line><line x1="6" y1="20" x2="6" y2="16"></line></svg>
-                            <span>Insights</span>
+                        <button type="button" class="tool-btn" id="insightsBtn" aria-expanded="false" aria-controls="insightsPanel" aria-label="Insights" title="Show library insights">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><line x1="12" y1="20" x2="12" y2="10"></line><line x1="18" y1="20" x2="18" y2="4"></line><line x1="6" y1="20" x2="6" y2="16"></line></svg>
+                            <span class="tool-text" aria-hidden="true">Insights</span>
                         </button>
-                        <button class="tool-btn" id="randomBtn" title="Open a random resource">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 3h5v5"></path><path d="M4 20 21 3"></path><path d="M21 16v5h-5"></path><path d="m15 15 6 6"></path><path d="M4 4l5 5"></path></svg>
-                            <span>Surprise me</span>
+                        <button type="button" class="tool-btn" id="randomBtn" aria-label="Surprise me" title="Open a random resource">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M16 3h5v5"></path><path d="M4 20 21 3"></path><path d="M21 16v5h-5"></path><path d="m15 15 6 6"></path><path d="M4 4l5 5"></path></svg>
+                            <span class="tool-text" aria-hidden="true">Surprise me</span>
                         </button>
-                        <button class="tool-btn" id="savedBtn" aria-pressed="false" title="Show only saved resources">
-                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
-                            <span>Saved</span>
-                            <span class="saved-count"></span>
+                        <button type="button" class="tool-btn" id="savedBtn" aria-pressed="false" aria-label="Saved" title="Show only saved resources">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+                            <span class="tool-text" aria-hidden="true">Saved</span>
+                            <span class="saved-count" aria-hidden="true"></span>
                         </button>
                         <div class="export-menu">
-                            <button class="tool-btn" id="exportBtn" title="Export the filtered list" aria-haspopup="true" aria-expanded="false">
-                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-                                <span>Export</span>
+                            <button type="button" class="tool-btn" id="exportBtn" aria-label="Export" title="Export the filtered list" aria-haspopup="true" aria-expanded="false">
+                                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                                <span class="tool-text" aria-hidden="true">Export</span>
                             </button>
                             <div class="export-dropdown" id="exportDropdown" style="display:none;">
-                                <button data-export="bibtex">BibTeX (.bib)</button>
-                                <button data-export="csv">Spreadsheet (.csv)</button>
-                                <button data-export="json">JSON (.json)</button>
+                                <button type="button" data-export="bibtex">BibTeX (.bib)</button>
+                                <button type="button" data-export="csv">Spreadsheet (.csv)</button>
+                                <button type="button" data-export="json">JSON (.json)</button>
                             </div>
                         </div>
-                        <div class="view-toggle">
-                            <button class="view-btn active" data-view="list" title="List view" aria-label="List view" aria-pressed="true">
-                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <div class="view-toggle" role="group" aria-label="Layout">
+                            <button type="button" class="view-btn active" data-view="list" title="List view" aria-label="List view" aria-pressed="true">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                                     <line x1="3" y1="6" x2="21" y2="6"></line>
                                     <line x1="3" y1="12" x2="21" y2="12"></line>
                                     <line x1="3" y1="18" x2="21" y2="18"></line>
                                 </svg>
                             </button>
-                            <button class="view-btn" data-view="grid" title="Grid view" aria-label="Grid view" aria-pressed="false">
-                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <button type="button" class="view-btn" data-view="grid" title="Two columns" aria-label="Two columns" aria-pressed="false">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                                     <rect x="3" y="3" width="7" height="7"></rect>
                                     <rect x="14" y="3" width="7" height="7"></rect>
                                     <rect x="3" y="14" width="7" height="7"></rect>
@@ -250,46 +219,55 @@
                     </div>
                 </div>
 
-                <section id="insightsPanel" class="insights-panel" aria-label="Library insights"></section>
+                <section class="results-col" aria-labelledby="resultsHeading">
+                    <h2 class="visually-hidden" id="resultsHeading">Resources</h2>
+                    <div class="active-filters" id="activeFilters" style="display:none;"></div>
 
-                <div class="resources-list" id="resourcesList">
-                    <!-- Resources rendered by JS -->
-                </div>
+                    <section id="insightsPanel" class="insights-panel" aria-label="Library insights"></section>
 
-                <div class="load-more-container" id="loadMoreContainer" style="display:none;">
-                    <button class="load-more-btn" id="loadMoreBtn">Load More</button>
-                </div>
+                    <div class="resources-list" id="resourcesList">
+                        <!-- Resources rendered by JS -->
+                    </div>
 
-                <div class="no-results" id="noResults" style="display:none;">
-                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
-                        <circle cx="11" cy="11" r="8"></circle>
-                        <path d="m21 21-4.35-4.35"></path>
-                        <line x1="8" y1="11" x2="14" y2="11"></line>
-                    </svg>
-                    <p>No resources match your search.</p>
-                    <button class="reset-btn" id="resetFilters">Reset all filters</button>
-                </div>
+                    <div class="load-more-container" id="loadMoreContainer" style="display:none;">
+                        <button type="button" class="load-more-btn" id="loadMoreBtn">Load more</button>
+                    </div>
+
+                    <div class="no-results" id="noResults" style="display:none;">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+                            <circle cx="11" cy="11" r="8"></circle>
+                            <path d="m21 21-4.35-4.35"></path>
+                            <line x1="8" y1="11" x2="14" y2="11"></line>
+                        </svg>
+                        <p>No resources match your search.</p>
+                        <button type="button" class="reset-btn" id="resetFilters">Reset all filters</button>
+                    </div>
+                </section>
             </div>
-        </section>
         </div>
 
-        <!-- About Section -->
-        <section class="about-section" id="about">
+        <section class="about-section" id="about" aria-labelledby="aboutHeading">
             <div class="container">
-                <h2>About Development Discourses</h2>
-                <div class="about-content">
-                    <p><strong>Development Discourses</strong> is a curated library by <a href="https://www.impactmojo.in" target="_blank" rel="noopener">ImpactMojo</a> &mdash; a platform for free development economics and policy education in South Asia.</p>
-                    <p>This collection brings together research papers, books, and grey literature across the themes that matter to development practitioners: from monitoring &amp; evaluation to climate resilience, from gender justice to public health, from data governance to livelihoods.</p>
-                    <p>We prioritize <strong>open-access</strong> resources &mdash; free to read, cite, and share. Each resource is tagged with its access status: <em>Open Access</em>, <em>Free to Read</em>, or <em>Check Access</em>. We believe knowledge should not sit behind paywalls, especially knowledge about building a more equitable world.</p>
-                    <div class="about-topics">
-                        <h3>Topics Covered</h3>
-                        <div class="topic-tags" id="aboutTopics">
-                            <!-- Rendered by JS -->
+                <div class="about-inner">
+                    <h2 id="aboutHeading">About Development Discourses</h2>
+                    <div class="about-grid">
+                        <div class="about-content">
+                            <p>Development Discourses is a curated library from <a href="https://www.impactmojo.in" target="_blank" rel="noopener">ImpactMojo</a>, a platform for free development economics and policy education in South Asia.</p>
+                            <p>The collection brings together research papers, books and grey literature on the themes that matter to development practitioners, from monitoring and evaluation to climate resilience, from gender justice to public health, and from data governance to livelihoods.</p>
+                            <p>We put open access resources first, because they are free to read, cite and share. Each resource carries one of three access labels: open access, free to read or check access. We believe knowledge should not sit behind paywalls, especially knowledge about building a more equitable world.</p>
                         </div>
-                    </div>
-                    <div class="about-contribute">
-                        <h3>Suggest a Resource</h3>
-                        <p>Know an open-access paper, book, or report that belongs here? <a href="https://github.com/Varnasr/development-discourses/issues/new" target="_blank" rel="noopener">Open an issue on GitHub</a> or reach out through <a href="https://www.impactmojo.in" target="_blank" rel="noopener">ImpactMojo</a>.</p>
+                        <div class="about-aside">
+                            <section class="about-topics">
+                                <h3>Topics covered</h3>
+                                <div class="topic-tags" id="aboutTopics">
+                                    <!-- Rendered by JS -->
+                                </div>
+                            </section>
+                            <section class="about-contribute">
+                                <h3>Suggest a resource</h3>
+                                <p>Know an open access paper, book or report that belongs here? <a href="https://github.com/Varnasr/development-discourses/issues/new" target="_blank" rel="noopener">Open an issue on GitHub</a> or reach out through <a href="https://www.impactmojo.in" target="_blank" rel="noopener">ImpactMojo</a>.</p>
+                            </section>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -302,7 +280,7 @@
         <a class="imx-footer-brand" href="https://www.impactmojo.in" target="_blank" rel="noopener"><span class="imx-brand-mark"><svg viewBox="0 0 24 24" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></span><span>ImpactMojo</span></a>
         <nav class="imx-footer-nav" aria-label="ImpactMojo libraries"><a href="https://varnasr.github.io/dev-case-studies/">Case Studies</a><a href="https://devdiscourses.impactmojo.in/" class="current">Discourses</a><a href="https://impactlex.netlify.app/">ImpactLex</a><a href="https://varnasr.github.io/PolicyDhara/">PolicyDhara</a></nav>
       </div>
-      <p class="imx-footer-tagline"><strong>Development Discourses</strong> — a curated library for development practitioners in South Asia. &copy; 2026 <a href="https://www.impactmojo.in" target="_blank" rel="noopener">ImpactMojo</a> · content CC BY-NC-SA 4.0 · <a href="https://github.com/Varnasr/development-discourses" target="_blank" rel="noopener">open source</a>.</p>
+      <p class="imx-footer-tagline"><strong>Development Discourses</strong> is a curated library for development practitioners in South Asia. &copy; 2026 <a href="https://www.impactmojo.in" target="_blank" rel="noopener">ImpactMojo</a> · content CC BY-NC-SA 4.0 · <a href="https://github.com/Varnasr/development-discourses" target="_blank" rel="noopener">open source</a>.</p>
       <p class="imx-footer-tagline imx-footer-contact">Need help setting out your story, what sets your work apart, the context, the return on investment and the projections? Pinpoint Ventures can help. Write to <a href="mailto:hello@pinpointventures.in?subject=Enquiry%20from%20devdiscourses.impactmojo.in">hello@pinpointventures.in</a> or message on <a href="https://wa.me/919871777110?text=Hi%20Pinpoint%20Ventures%2C%20I%20found%20you%20through%20devdiscourses.impactmojo.in.%20I%27d%20like%20to%20discuss%20a%20research%20or%20advisory%20engagement." target="_blank" rel="noopener">WhatsApp</a>.</p>
     </div>
   </footer>
@@ -319,40 +297,7 @@
         });
       }
     </script>
-    <script>
-      (function() {
-        var KEY = 'imx_theme';
-        var html = document.documentElement;
-        function getSaved() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
-        function resolve(pref) {
-          if (pref === 'light' || pref === 'dark') return pref;
-          return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
-        }
-        function apply(pref) {
-          html.setAttribute('data-theme', resolve(pref));
-          var active = pref || 'system';
-          document.querySelectorAll('.theme-btn').forEach(function(btn) {
-            btn.classList.toggle('active', btn.getAttribute('data-theme') === active);
-          });
-        }
-        function setTheme(pref) {
-          try {
-            if (pref === 'system' || !pref) localStorage.removeItem(KEY);
-            else localStorage.setItem(KEY, pref);
-          } catch (e) {}
-          apply(pref);
-        }
-        apply(getSaved());
-        document.querySelectorAll('.theme-btn').forEach(function(btn) {
-          btn.addEventListener('click', function() { setTheme(btn.getAttribute('data-theme')); });
-        });
-        if (window.matchMedia) {
-          window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function() {
-            if (!getSaved()) apply(null);
-          });
-        }
-      })();
-    </script>
-<script src="js/dyslexia-font.js" data-accent="var(--color-accent)" data-radius="var(--radius-sm)" defer></script>
+    <script src="js/theme.js"></script>
+<script src="js/dyslexia-font.js" data-accent="var(--color-accent)" defer></script>
 </body>
 </html>

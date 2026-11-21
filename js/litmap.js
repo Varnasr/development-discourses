@@ -75,7 +75,7 @@
             .slice(0, 20);
 
         if (connections.length === 0) {
-            svgEl.innerHTML = `<text x="${W/2}" y="${H/2}" text-anchor="middle" fill="#6b6b6b" font-size="14" font-family="Inter, sans-serif">No strong connections found in the library.</text>`;
+            svgEl.innerHTML = `<text class="litmap-empty" x="${W/2}" y="${H/2}" text-anchor="middle" font-size="14" font-family="Inter, sans-serif">No strong connections found in the library.</text>`;
             return;
         }
 
@@ -256,7 +256,7 @@
             line.setAttribute('y2', b.y);
             const opacity = 0.08 + Math.min(link.strength, 15) * 0.04;
             const width = 0.5 + Math.min(link.strength, 12) * 0.25;
-            line.setAttribute('stroke', '#2563eb');
+            line.setAttribute('stroke', accentColour());
             line.setAttribute('stroke-opacity', opacity);
             line.setAttribute('stroke-width', width);
             line.dataset.origOpacity = opacity;
@@ -293,7 +293,6 @@
             circle.setAttribute('cy', node.y);
             circle.setAttribute('r', node.radius);
             circle.setAttribute('fill', color);
-            circle.setAttribute('stroke', '#fff');
             circle.setAttribute('stroke-width', node.isCenter ? 3 : 1.5);
             if (node.isCenter) circle.setAttribute('filter', 'url(#glow)');
             group.appendChild(circle);
@@ -306,7 +305,7 @@
             label.setAttribute('font-size', node.isCenter ? '12' : '10');
             label.setAttribute('font-weight', node.isCenter ? '600' : '400');
             label.setAttribute('font-family', 'Inter, sans-serif');
-            label.setAttribute('fill', '#374151');
+            label.classList.add('litmap-label');
             label.setAttribute('pointer-events', 'none');
 
             const titleText = truncateText(node.title, node.isCenter ? 35 : 25);
@@ -321,7 +320,7 @@
                 yearLabel.setAttribute('text-anchor', 'middle');
                 yearLabel.setAttribute('font-size', '9');
                 yearLabel.setAttribute('font-family', 'Inter, sans-serif');
-                yearLabel.setAttribute('fill', '#9ca3af');
+                yearLabel.classList.add('litmap-year');
                 yearLabel.setAttribute('pointer-events', 'none');
                 yearLabel.textContent = node.year;
                 group.appendChild(yearLabel);
@@ -370,7 +369,7 @@
                     if ((Math.abs(x1 - nx) < 1 && Math.abs(y1 - ny) < 1) ||
                         (Math.abs(x2 - nx) < 1 && Math.abs(y2 - ny) < 1)) {
                         linkEl.setAttribute('stroke-opacity', '0.6');
-                        linkEl.setAttribute('stroke', TOPIC_COLORS[node.topic] || '#2563eb');
+                        linkEl.setAttribute('stroke', TOPIC_COLORS[node.topic] || accentColour());
                     }
                 });
 
@@ -384,7 +383,7 @@
             el.addEventListener('mouseleave', function () {
                 hideTooltip();
                 svgEl.querySelectorAll('.litmap-link').forEach(link => {
-                    link.setAttribute('stroke', '#2563eb');
+                    link.setAttribute('stroke', accentColour());
                     link.setAttribute('stroke-opacity', link.dataset.origOpacity || '0.15');
                 });
                 nodeEls.forEach(other => { other.style.opacity = '1'; });
@@ -497,6 +496,12 @@
         svg.style.cursor = 'grab';
     }
 
+    // The link colour follows the theme: read the token, not a literal.
+    function accentColour() {
+        const v = getComputedStyle(document.documentElement).getPropertyValue('--color-accent').trim();
+        return v || 'currentColor';
+    }
+
     function updateTransform(g) {
         g.setAttribute('transform', `translate(${transform.x},${transform.y}) scale(${transform.k})`);
     }
@@ -506,7 +511,7 @@
         if (!legendEl) return;
         const topics = [...new Set(nodes.map(n => n.topic))];
         legendEl.innerHTML = topics.map(t =>
-            `<span class="litmap-legend-item"><span class="litmap-legend-dot" style="background:${TOPIC_COLORS[t] || '#6b7280'}"></span>${t}</span>`
+            `<span class="litmap-legend-item"><span class="litmap-legend-dot" style="background:${TOPIC_COLORS[t] || '#6b7280'}"></span>${escapeHtml(t)}</span>`
         ).join('');
     }
 
@@ -527,7 +532,7 @@
         tooltip.innerHTML = `
             <div class="litmap-tooltip-title">${escapeHtml(node.title)}</div>
             <div class="litmap-tooltip-meta">${escapeHtml(node.authors || '')}${node.year ? ' (' + node.year + ')' : ''}</div>
-            <div class="litmap-tooltip-topic" style="color:${color}">${escapeHtml(node.topic)}</div>
+            <div class="litmap-tooltip-topic"><span class="litmap-legend-dot" style="background:${color}"></span>${escapeHtml(node.topic)}</div>
             ${!node.isCenter ? '<div class="litmap-tooltip-action">Click to view</div>' : '<div class="litmap-tooltip-action">Current resource</div>'}
         `;
         tooltip.style.display = 'block';

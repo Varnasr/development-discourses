@@ -44,7 +44,7 @@
         currentResource = allResources.find(r => r.id === resourceId);
 
         if (!currentResource) {
-            showError('Resource not found: ' + escapeHtml(resourceId));
+            showError('Resource not found: ' + resourceId);
             return;
         }
 
@@ -94,7 +94,7 @@
 
         // Header
         const typeBadge = document.getElementById('typeBadge');
-        typeBadge.textContent = r.type === 'grey_literature' ? 'Grey Lit' : capitalize(r.type);
+        typeBadge.textContent = typeLabel(r);
         typeBadge.className = 'resource-type-badge ' + (r.type || 'paper');
 
         // Access badge
@@ -120,6 +120,7 @@
         document.getElementById('detailTitle').textContent = r.title;
         document.getElementById('detailAuthors').textContent = r.authors || 'Unknown';
         document.getElementById('detailYear').textContent = r.year || '';
+        document.getElementById('detailVenue').textContent = r.journal || '';
         document.getElementById('detailTopic').innerHTML = topicsOf(r)
             .map(t => `<a class="detail-topic-tag" href="${ROOT}index.html?topic=${encodeURIComponent(t)}">${escapeHtml(t)}</a>`)
             .join('');
@@ -137,7 +138,7 @@
         const noteUrl = 'https://github.com/Varnasr/development-discourses/issues/new?title=' +
             encodeURIComponent('Community Note: ' + r.title) +
             '&labels=community-note&body=' +
-            encodeURIComponent('## Community Note\n\n**Resource:** ' + r.title + '\n**ID:** ' + r.id + '\n\n### Note\n\n(Write your note here — reading tips, practitioner context, critiques, related resources...)\n');
+            encodeURIComponent('## Community Note\n\n**Resource:** ' + r.title + '\n**ID:** ' + r.id + '\n\n### Note\n\n(Write your note here: reading tips, practitioner context, critiques, related resources...)\n');
         document.getElementById('contributeNote').href = noteUrl;
     }
 
@@ -205,7 +206,7 @@
         const alts = r.alt_urls || [];
         if (!alts.length) { el.hidden = true; return; }
         el.hidden = false;
-        el.innerHTML = '<h3 class="alt-urls-title">Also available at</h3><ul>' +
+        el.innerHTML = '<h2 class="alt-urls-title">Also available at</h2><ul>' +
             alts.map(u => `<li><a href="${escapeHtml(u)}" target="_blank" rel="noopener">${escapeHtml(prettyUrl(u))}</a></li>`).join('') +
             '</ul>';
     }
@@ -279,17 +280,32 @@
         el.setAttribute('content', value);
     }
 
+    // Labels only. The colours live in css/style.css as tokens, where both
+    // themes and check_contrast.py can see them.
     function getAccessInfo(accessType) {
         switch (accessType) {
-            case 'open_access':
-                return { label: 'Open Access', color: '#059669' };
-            case 'free_to_read':
-                return { label: 'Free to Read', color: '#2563eb' };
-            case 'check_access':
-                return { label: 'Check Access', color: '#d97706' };
-            default:
-                return { label: 'Unknown', color: '#6b6b6b' };
+            case 'open_access': return { label: 'Open access' };
+            case 'free_to_read': return { label: 'Free to read' };
+            case 'check_access': return { label: 'Check access' };
+            default: return { label: 'Unknown' };
         }
+    }
+
+    function typeLabel(r) {
+        return r.type === 'grey_literature' ? 'Grey literature' : capitalize(r.type || 'paper');
+    }
+
+    // Mirrors LICENCE_LABEL in resource_pages.py.
+    const LICENCE_LABEL = {
+        'cc-by': 'CC BY',
+        'cc-by-nc': 'CC BY-NC',
+        'cc-by-nc-nd': 'CC BY-NC-ND',
+        'public-domain': 'Public domain',
+        'other-oa': 'Other open licence',
+    };
+
+    function licenceLabel(l) {
+        return LICENCE_LABEL[l] || String(l || '');
     }
 
     // ---- Metadata Sidebar ----
@@ -300,8 +316,9 @@
 
         items.push({ label: 'Authors', value: r.authors || 'Unknown' });
         items.push({ label: 'Year', value: r.year || 'N/A' });
-        items.push({ label: 'Type', value: r.type === 'grey_literature' ? 'Grey Literature' : capitalize(r.type) });
+        items.push({ label: 'Type', value: typeLabel(r) });
         items.push({ label: 'Topic', value: r.topic });
+        if (r.journal) items.push({ label: 'Journal', value: r.journal });
 
         if (r.doi) {
             items.push({ label: 'DOI', value: r.doi, isLink: 'https://doi.org/' + r.doi });
@@ -309,6 +326,7 @@
 
         const accessInfo = getAccessInfo(r.access_type);
         items.push({ label: 'Access', value: accessInfo.label });
+        if (r.license) items.push({ label: 'Licence', value: licenceLabel(r.license) });
 
         let domain = r.url;
         try { domain = new URL(r.url).hostname.replace('www.', ''); } catch (e) {}
@@ -363,6 +381,7 @@
         }
 
         content.textContent = text;
+        content.classList.toggle('is-code', currentCiteFormat === 'bibtex');
     }
 
     function formatAPA(r) {
@@ -484,17 +503,24 @@
 
     // ---- Events ----
     function bindEvents() {
-        // Citation toggle
-        document.getElementById('citeBtnToggle').addEventListener('click', function () {
-            const panel = document.getElementById('citationPanel');
-            panel.style.display = panel.style.display === 'none' ? 'block' : 'none';
+        // The citation is always on the page. "Cite" in the action row is a
+        // jump link to it, and moves keyboard focus there as well.
+        document.getElementById('citeBtnToggle').addEventListener('click', function (e) {
+            e.preventDefault();
+            const heading = document.getElementById('cite');
+            heading.scrollIntoView();
+            heading.focus({ preventScroll: true });
         });
 
         // Citation format tabs
         document.querySelectorAll('.citation-tab').forEach(tab => {
             tab.addEventListener('click', function () {
-                document.querySelectorAll('.citation-tab').forEach(t => t.classList.remove('active'));
+                document.querySelectorAll('.citation-tab').forEach(t => {
+                    t.classList.remove('active');
+                    t.setAttribute('aria-pressed', 'false');
+                });
                 this.classList.add('active');
+                this.setAttribute('aria-pressed', 'true');
                 currentCiteFormat = this.dataset.format;
                 updateCitationContent();
             });
@@ -504,8 +530,8 @@
         document.getElementById('citationCopy').addEventListener('click', function () {
             const text = document.getElementById('citationContent').textContent;
             navigator.clipboard.writeText(text).then(() => {
-                this.textContent = 'Copied!';
-                setTimeout(() => { this.textContent = 'Copy to clipboard'; }, 2000);
+                this.textContent = 'Copied';
+                setTimeout(() => { this.textContent = 'Copy citation'; }, 2000);
             });
         });
 
@@ -523,10 +549,8 @@
                 navigator.share({ title: currentResource.title, url: url });
             } else {
                 navigator.clipboard.writeText(url).then(() => {
-                    this.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"></polyline></svg> Link copied';
-                    setTimeout(() => {
-                        this.innerHTML = '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="18" cy="5" r="3"></circle><circle cx="6" cy="12" r="3"></circle><circle cx="18" cy="19" r="3"></circle><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line></svg> Share';
-                    }, 2000);
+                    this.textContent = 'Link copied';
+                    setTimeout(() => { this.textContent = 'Share'; }, 2000);
                 });
             }
         });
@@ -535,9 +559,9 @@
     // ---- Error ----
     function showError(msg) {
         document.querySelector('.detail-section').innerHTML =
-            '<div class="container" style="padding:64px 24px;text-align:center;">' +
-            '<p style="color:var(--color-text-muted);margin-bottom:16px;">' + escapeHtml(msg) + '</p>' +
-            '<a href="' + ROOT + 'index.html" class="action-btn action-primary" style="display:inline-flex;">&larr; Back to Library</a>' +
+            '<div class="container detail-error">' +
+            '<p>' + escapeHtml(msg) + '</p>' +
+            '<a href="' + ROOT + 'index.html" class="action-btn action-primary">Back to the library</a>' +
             '</div>';
     }
 

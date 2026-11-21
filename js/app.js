@@ -75,24 +75,28 @@
 
     // Stats
     const totalCount = document.getElementById('totalCount');
-    const paperCount = document.getElementById('paperCount');
-    const bookCount = document.getElementById('bookCount');
-    const greyCount = document.getElementById('greyCount');
     const topicCount = document.getElementById('topicCount');
+    const openCount = document.getElementById('openCount');
+    const freeCount = document.getElementById('freeCount');
+    const checkCount = document.getElementById('checkCount');
+    let statsPromise = null;
 
     // Init
     async function init() {
         showLoadingSkeleton();
         try {
+            // Both at once: the figures in the masthead come from stats.json,
+            // the list from resources.json.
+            loadStats().then(updateStats).catch(() => updateStats(null));
             const response = await fetch('data/resources.json');
             allResources = await response.json();
         } catch (e) {
             console.error('Failed to load resources:', e);
-            resourcesList.innerHTML = '<p style="padding:24px;color:var(--color-text-muted);">Could not load resources. Make sure data/resources.json exists.</p>';
+            resourcesList.innerHTML = '<p class="load-error">Could not load resources. Make sure data/resources.json exists.</p>';
+            resultsCount.textContent = 'The library could not be loaded';
             return;
         }
 
-        updateStats();
         buildTopicFilters();
         buildDecadeFilters();
         buildAboutTopics();
@@ -117,14 +121,14 @@
             const max = Math.max.apply(null, rows.map(r => r.count));
             const bars = rows.map(r => {
                 const pct = Math.round((r.count / max) * 100);
-                const attrs = clickTopic ? ` data-topic="${escapeHtml(r.label)}" role="button" tabindex="0"` : '';
+                const attrs = clickTopic ? ` data-topic="${escapeAttr(r.label)}" role="button" tabindex="0"` : '';
                 return `<div class="insight-bar${clickTopic ? ' clickable' : ''}"${attrs}>
                     <span class="insight-bar-label">${escapeHtml(prettyLabel(r.label))}</span>
                     <span class="insight-bar-track"><span class="insight-bar-fill" style="width:${pct}%"></span></span>
                     <span class="insight-bar-value">${r.count}</span>
                 </div>`;
             }).join('');
-            return `<div class="insight-group"><h4 class="insight-group-title">${escapeHtml(title)}</h4>${bars}</div>`;
+            return `<div class="insight-group"><h3 class="insight-group-title">${escapeHtml(title)}</h3>${bars}</div>`;
         }
 
         function prettyLabel(k) {
@@ -138,7 +142,7 @@
                 { v: s.topic_count, l: 'Topics' },
                 { v: (s.by_type && s.by_type.paper) || 0, l: 'Papers' },
                 { v: (s.by_access && s.by_access.open_access) || 0, l: 'Open access' },
-                { v: (s.year_min && s.year_max) ? (s.year_min + '–' + s.year_max) : '—', l: 'Year span' },
+                { v: (s.year_min && s.year_max) ? (s.year_min + ' to ' + s.year_max) : 'n/a', l: 'Year span' },
             ];
             panel.innerHTML =
                 '<div class="insight-tiles">' +
@@ -147,7 +151,7 @@
                 barChart('By topic', s.by_topic, true) +
                 barChart('By type', s.by_type, false) +
                 barChart('By access', s.by_access, false) +
-                '</div><p class="insight-note">Generated from the library index. Click a topic bar to filter.</p>';
+                '</div><p class="insight-note">Generated from the library index. Select a topic to filter by it.</p>';
 
             panel.querySelectorAll('[data-topic]').forEach(el => {
                 const apply = () => {
@@ -155,7 +159,7 @@
                     setActivePill(topicFilters, currentTopic);
                     displayCount = PAGE_SIZE;
                     applyFilters();
-                    document.querySelector('.results-section').scrollIntoView({ behavior: 'smooth' });
+                    document.getElementById('library').scrollIntoView();
                 };
                 el.addEventListener('click', apply);
                 el.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); apply(); } });
@@ -169,8 +173,7 @@
             if (open && !loaded) {
                 loaded = true;
                 panel.innerHTML = '<div class="insight-loading">Loading insights…</div>';
-                fetch('data/stats.json')
-                    .then(r => r.ok ? r.json() : Promise.reject())
+                loadStats()
                     .then(render)
                     .catch(() => { panel.innerHTML = '<div class="insight-loading">Insights unavailable.</div>'; });
             }
@@ -180,18 +183,29 @@
     function showLoadingSkeleton() {
         let html = '';
         for (let i = 0; i < 8; i++) {
-            html += '<div class="loading-skeleton" style="margin-bottom:4px;"></div>';
+            html += '<div class="loading-skeleton"></div>';
         }
         resourcesList.innerHTML = html;
     }
 
-    function updateStats() {
-        totalCount.textContent = allResources.length;
-        paperCount.textContent = allResources.filter(r => r.type === 'paper').length;
-        bookCount.textContent = allResources.filter(r => r.type === 'book').length;
-        greyCount.textContent = allResources.filter(r => r.type === 'grey_literature').length;
-        const topics = new Set(allResources.flatMap(topicsOf));
-        topicCount.textContent = topics.size;
+    // data/stats.json is written by the build from the same records, so the
+    // masthead never carries a typed number.
+    function loadStats() {
+        if (!statsPromise) {
+            statsPromise = fetch('data/stats.json').then(r => r.ok ? r.json() : Promise.reject());
+        }
+        return statsPromise;
+    }
+
+    function updateStats(s) {
+        if (!s) return;
+        const access = s.by_access || {};
+        const n = v => Number(v || 0).toLocaleString('en-IN');
+        totalCount.textContent = n(s.total);
+        topicCount.textContent = n(s.topic_count);
+        openCount.textContent = n(access.open_access);
+        freeCount.textContent = n(access.free_to_read);
+        checkCount.textContent = n(access.check_access);
     }
 
     // A resource curated into two topics belongs in both filters. The build
@@ -226,6 +240,8 @@
         sorted.forEach(d => {
             const btn = document.createElement('button');
             btn.className = 'pill';
+            btn.type = 'button';
+            btn.setAttribute('aria-pressed', 'false');
             btn.dataset.filter = String(d);
             btn.textContent = d < 2000 ? 'Pre-2000' : d + 's';
             decadeFilters.appendChild(btn);
@@ -298,7 +314,7 @@
         });
         if (!matched) {
             const fallback = container.querySelector('[data-filter="all"]');
-            if (fallback) fallback.classList.add('active');
+            if (fallback) { fallback.classList.add('active'); fallback.setAttribute('aria-pressed', 'true'); }
         }
     }
 
@@ -344,6 +360,18 @@
         bindPillGroup(accessFilters, v => { currentAccess = v; });
         bindPillGroup(decadeFilters, v => { currentDecade = v; });
 
+        // The three access figures in the masthead set the access filter.
+        document.querySelectorAll('.figure[data-access]').forEach(a => {
+            a.addEventListener('click', function (e) {
+                e.preventDefault();
+                currentAccess = this.dataset.access;
+                setActivePill(accessFilters, currentAccess);
+                displayCount = PAGE_SIZE;
+                applyFilters();
+                document.getElementById('library').scrollIntoView();
+            });
+        });
+
         // Sort
         sortSelect.addEventListener('change', function () {
             currentSort = this.value;
@@ -387,7 +415,7 @@
             const nowSaved = toggleBookmark(key);
             btn.classList.toggle('saved', nowSaved);
             btn.setAttribute('aria-pressed', String(nowSaved));
-            btn.setAttribute('title', nowSaved ? 'Saved — click to remove' : 'Save for later');
+            btn.setAttribute('title', nowSaved ? 'Saved. Click to remove' : 'Save for later');
             btn.innerHTML = bookmarkSvg(nowSaved);
             updateSavedCount();
             if (savedOnly) { displayCount = PAGE_SIZE; applyFilters(); }
@@ -452,8 +480,7 @@
         container.addEventListener('click', function (e) {
             const pill = e.target.closest('.pill');
             if (!pill) return;
-            container.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
-            pill.classList.add('active');
+            setActivePill(container, pill.dataset.filter);
             setter(pill.dataset.filter);
             displayCount = PAGE_SIZE;
             applyFilters();
@@ -571,8 +598,8 @@
         }
         activeFilters.style.display = 'flex';
         activeFilters.innerHTML =
-            chips.map(c => `<button class="filter-chip" data-clear="${c.k}">${escapeHtml(c.label)} <span aria-hidden="true">&times;</span></button>`).join('') +
-            '<button class="filter-chip filter-chip-clear" data-clear="allfilters">Clear all</button>';
+            chips.map(c => `<button type="button" class="filter-chip" data-clear="${c.k}" aria-label="Remove filter: ${escapeAttr(c.label)}">${escapeHtml(c.label)} <span aria-hidden="true">&times;</span></button>`).join('') +
+            '<button type="button" class="filter-chip filter-chip-clear" data-clear="allfilters">Clear all</button>';
 
         activeFilters.querySelectorAll('.filter-chip').forEach(chip => {
             chip.addEventListener('click', function () {
@@ -602,45 +629,38 @@
         }
 
         noResults.style.display = 'none';
-        resultsCount.textContent = `Showing ${toShow.length} of ${filteredResources.length} resources`;
+        resultsCount.innerHTML = `Showing ${toShow.length} of ${filteredResources.length}<span class="count-noun"> resources</span>`;
 
         const fragment = document.createDocumentFragment();
 
         toShow.forEach(r => {
-            const card = document.createElement('a');
+            // An entry in the list, set like a line in a bibliography: the
+            // title leads, then who and when, one or two lines of summary,
+            // and a fixed row of type, access and topics.
+            const card = document.createElement('article');
             card.className = 'resource-card';
-            card.href = r.id ? 'resource/' + encodeURIComponent(r.id) + '.html' : r.url;
-            if (!r.id) {
-                card.target = '_blank';
-                card.rel = 'noopener';
-            }
+            const href = r.id ? 'resource/' + encodeURIComponent(r.id) + '.html' : r.url;
+            const ext = r.id ? '' : ' target="_blank" rel="noopener"';
 
-            const typeClass = r.type || 'paper';
-            const typeLabel = r.type === 'grey_literature' ? 'Grey Lit' : capitalize(r.type);
             const accessClass = r.access_type || 'check_access';
             const accessLabel = accessLabelOf(accessClass);
             const bkey = resKey(r);
             const bsaved = isBookmarked(bkey);
+            const year = r.year ? String(r.year) : 'n.d.';
 
             card.innerHTML = `
-                <button class="rc-bookmark${bsaved ? ' saved' : ''}" data-key="${encodeURIComponent(bkey)}" aria-pressed="${bsaved}" title="${bsaved ? 'Saved — click to remove' : 'Save for later'}" aria-label="Save resource">${bookmarkSvg(bsaved)}</button>
-                <div class="resource-card-header">
-                    <span class="resource-type-badge ${typeClass}">${typeLabel}</span>
-                    <span class="resource-title">${highlight(r.title, terms)}</span>
-                </div>
-                <div class="resource-meta">
-                    <span class="resource-authors">${highlight(r.authors || 'Unknown', terms)}</span>
-                    ${r.year ? `<span class="resource-year">${r.year}</span>` : ''}
-                    <span class="resource-access access-dot-${accessClass}" title="${accessLabel}">${accessLabel}</span>
-                </div>
-                ${r.description ? `<p class="resource-description">${highlight(truncate(r.description, 220), terms)}</p>` : ''}
-                <div class="resource-footer">
-                    <span class="resource-topics">${topicsOf(r).map(t => `<span class="resource-topic-tag">${escapeHtml(t)}</span>`).join('')}</span>
-                    <div class="resource-footer-right">
-                        ${(r.tags && r.tags.length > 0) ? `<span class="resource-tag-count">${r.tags.length} tags</span>` : ''}
-                        <span class="resource-link-icon">View &rarr;</span>
+                <span class="resource-year">${year}</span>
+                <div class="resource-body">
+                    <h3 class="resource-title"><a href="${escapeAttr(href)}"${ext}>${highlight(r.title, terms)}</a></h3>
+                    <p class="resource-byline"><span class="resource-authors">${highlight(r.authors || 'Unknown', terms)}</span><span class="resource-year-inline">${year}</span>${r.journal ? `<span class="resource-venue">${escapeHtml(r.journal)}</span>` : ''}</p>
+                    ${r.description ? `<p class="resource-description">${highlight(truncate(r.description, 220), terms)}</p>` : ''}
+                    <div class="resource-row">
+                        <span class="resource-type">${typeLabelOf(r.type || 'paper')}</span>
+                        <span class="access-badge access-${accessClass}">${accessLabel}</span>
+                        <span class="resource-topics">${topicsOf(r).map(t => `<span class="resource-topic-tag">${escapeHtml(t)}</span>`).join('')}</span>
                     </div>
                 </div>
+                <button type="button" class="rc-bookmark${bsaved ? ' saved' : ''}" data-key="${encodeURIComponent(bkey)}" aria-pressed="${bsaved}" title="${bsaved ? 'Saved. Click to remove' : 'Save for later'}" aria-label="Save ${escapeAttr(r.title)}">${bookmarkSvg(bsaved)}</button>
             `;
 
             fragment.appendChild(card);
@@ -713,11 +733,11 @@
 
     // ---- Labels ----
     function typeLabelOf(t) {
-        return t === 'grey_literature' ? 'Grey Literature' : capitalize(t);
+        return t === 'grey_literature' ? 'Grey literature' : capitalize(t);
     }
     function accessLabelOf(a) {
-        return a === 'open_access' ? 'Open Access'
-            : a === 'free_to_read' ? 'Free to Read' : 'Check Access';
+        return a === 'open_access' ? 'Open access'
+            : a === 'free_to_read' ? 'Free to read' : 'Check access';
     }
 
     // ---- Utilities ----
@@ -725,6 +745,12 @@
         const div = document.createElement('div');
         div.textContent = str == null ? '' : str;
         return div.innerHTML;
+    }
+
+    // escapeHtml leaves quotes alone, which is right in text and wrong inside
+    // an attribute value.
+    function escapeAttr(str) {
+        return escapeHtml(str).replace(/"/g, '&quot;');
     }
 
     function highlight(str, terms) {

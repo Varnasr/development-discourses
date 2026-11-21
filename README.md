@@ -53,7 +53,7 @@ Plus Agriculture & Food Systems, Conflict & Humanitarian, Disability & Inclusion
 | **Citations** | One-click APA, BibTeX, and Chicago citations per resource |
 | **Recently viewed** | Your last-viewed resources are remembered locally and surfaced on detail pages |
 | **Surprise me** | Jump to a random resource from the current selection |
-| **Light / dark / system theme** | Respects your OS preference and remembers your choice |
+| **Device, light or dark theme** | One button cycles the three, follows the device setting by default and remembers your choice |
 | **Installable & offline** | A Progressive Web App with a service worker — install it and browse offline |
 | **Open access first** | Every resource is tagged *Open Access*, *Free to Read*, or *Check Access* |
 | **Link health** | Every URL is checked by `verify_urls.py`, and a resource page says what came back. A publisher that refuses robots is reported as *not confirmed from here*, not as broken; a document that is actually gone gets DOI, Scholar, web and Wayback links to find it again |
