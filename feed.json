@@ -11,7 +11,7 @@
       "url": "https://devdiscourses.impactmojo.in/resource/supporting-learning-in-and-out-of-school-experimental-evidence-from-india.html",
       "external_url": "https://doi.org/10.1016/j.jdeveco.2026.103906",
       "title": "Supporting learning in and out of school: Experimental evidence from India",
-      "content_text": "A cross-cutting trial across 200 villages in Assam. Neither the in-school pedagogy component nor the community study groups moved learning alone; together they raised maths by 0.11 SD and language by 0.09 SD. An argument about complementarity rather than about either component.",
+      "content_text": "A cross-cutting trial across 200 villages in Assam. Neither the in-school pedagogy component nor the community study groups moved learning alone; together they raised maths by 0.11 SD and language by 0.09 SD. An argument about complementarity rather than about either component. Published online on 21 August 2026; the publisher assigns it to the January 2027 issue (volume 184), which is why the year reads 2027.",
       "authors": [
         {
           "name": "Martina Björkman Nyqvist, Andrea Guariso"
@@ -21,6 +21,149 @@
         "Education",
         "India",
         "education"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=women-in-the-platform-economy-descriptive-evidence-from-drivers-in-india-and",
+      "url": "https://devdiscourses.impactmojo.in/resource/women-in-the-platform-economy-descriptive-evidence-from-drivers-in-india-and.html",
+      "external_url": "https://www.nber.org/papers/w35467",
+      "title": "Women in the Platform Economy: Descriptive Evidence from Drivers in India and Indonesia",
+      "content_text": "Uses survey and administrative data from two-wheeler driving and delivery platforms in India and Indonesia. Women are 0.8 percent of drivers in India and 1.5 percent in Indonesia, work fewer hours than men, earn 6 to 8 percent less per hour in India and report more harassment.",
+      "authors": [
+        {
+          "name": "Achyuta Adhvaryu, Levina Adiputri, Valentina Brailovskaya, Priyanka Dua, Jenny Susan John, Pratibha Joshi, Terry Muthahhari, Rivandra Royono, Jack Thunde"
+        }
+      ],
+      "tags": [
+        "Livelihoods",
+        "India",
+        "livelihoods",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=where-are-pakistans-out-of-school-children-mapping-accessibility-of-schooling",
+      "url": "https://devdiscourses.impactmojo.in/resource/where-are-pakistans-out-of-school-children-mapping-accessibility-of-schooling.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/44537",
+      "title": "Where Are Pakistan’s Out-of-School Children? Mapping Accessibility of Schooling Using Satellite Data and Machine Learning Methods with an Application to the 2022 Floods",
+      "content_text": "Combines satellite imagery, the population census, government school censuses and public location data on private schools to map where Pakistan's out-of-school children are in relation to schools. It documents more than 72,700 private schools alongside more than 137,000 public schools and applies the method to the 2022 floods.",
+      "authors": [
+        {
+          "name": "Umar Saif, Amer Hasan, Ayesha Tahir, Koen Geven, Mohsen Ali, Aliza Masood, Muhammad Abdul Rahman, Sheena Fazili"
+        }
+      ],
+      "tags": [
+        "Education",
+        "Pakistan",
+        "education",
+        "machine-learning"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-limits-of-government-outsourcing-property-tax-re-assessments-in-india",
+      "url": "https://devdiscourses.impactmojo.in/resource/the-limits-of-government-outsourcing-property-tax-re-assessments-in-india.html",
+      "external_url": "https://www.nber.org/papers/w35610",
+      "title": "The Limits of Government Outsourcing: Property Tax Re-Assessments in India",
+      "content_text": "Reports an experiment in Chennai, India, in which neighborhoods were randomly selected to have property tax assessments done by contracted private firms in place of government tax inspectors. Government inspectors produced almost double the increase in tax revenue and more accurate assessments.",
+      "authors": [
+        {
+          "name": "Esther Duflo, Rema Hanna, Benjamin A. Olken, Shreya Tandon"
+        }
+      ],
+      "tags": [
+        "Public Policy & Governance",
+        "India",
+        "public-policy-governance"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-emergence-of-the-povertymental-health-gradient-and-the-great-pakistan",
+      "url": "https://devdiscourses.impactmojo.in/resource/the-emergence-of-the-povertymental-health-gradient-and-the-great-pakistan.html",
+      "external_url": "https://www.nber.org/papers/w35060",
+      "title": "The Emergence of the Poverty–Mental Health Gradient and the Great Pakistan Earthquake of 2005",
+      "content_text": "Uses data from 126 villages collected four years after the 2005 Pakistan earthquake. Among people nearest the fault line, mental health improves by 0.12 standard deviations per log unit of consumption, while beyond 20 km there is no relationship between consumption poverty and mental health.",
+      "authors": [
+        {
+          "name": "Tahir Andrabi, Benjamin Daniels, Jishnu Das"
+        }
+      ],
+      "tags": [
+        "Mental Health & Wellbeing",
+        "Pakistan",
+        "mental-health-wellbeing",
+        "poverty"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-city-through-her-eyes-gender-based-harassment-in-public-spaces-in-urban",
+      "url": "https://devdiscourses.impactmojo.in/resource/the-city-through-her-eyes-gender-based-harassment-in-public-spaces-in-urban.html",
+      "external_url": "https://www.nber.org/papers/w35738",
+      "title": "The City Through Her Eyes: Gender-Based Harassment in Public Spaces in Urban India",
+      "content_text": "Surveys over 4,000 women recruited in public spaces in New Delhi and Bengaluru about harassment. It reports that 65 percent of women in New Delhi and 29 percent in Bengaluru experienced harassment in public spaces in the past year, and that measured prevalence is sensitive to questionnaire design.",
+      "authors": [
+        {
+          "name": "Lori A. Beaman, Seema Jayachandran, Anisha Sharma"
+        }
+      ],
+      "tags": [
+        "Migration & Urbanization",
+        "India",
+        "gender",
+        "migration-urbanization",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=targeting-personalization-and-engagement-in-an-agricultural-advisory-service",
+      "url": "https://devdiscourses.impactmojo.in/resource/targeting-personalization-and-engagement-in-an-agricultural-advisory-service.html",
+      "external_url": "https://www.nber.org/papers/w34951",
+      "title": "Targeting, Personalization, and Engagement in an Agricultural Advisory Service",
+      "content_text": "Reports a series of experiments on how to target calls from an agricultural advisory service that serves over one million farmers in rural India. Targeted policies raised engagement by up to 8 percent when evaluated on data from the design period, but realized gains were substantially smaller when the policies were implemented in later weeks.",
+      "authors": [
+        {
+          "name": "Susan Athey, Shawn Cole, Shanjukta Nath, Jessica Zhu"
+        }
+      ],
+      "tags": [
+        "Agriculture & Food Systems",
+        "India",
+        "agriculture-food-systems"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=survival-or-growth-nepals-microenterprise-landscape-and-the-case-for-a",
+      "url": "https://devdiscourses.impactmojo.in/resource/survival-or-growth-nepals-microenterprise-landscape-and-the-case-for-a.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/45086",
+      "title": "Survival or Growth? Nepal’s Microenterprise Landscape and the Case for a Differentiated Policy Approach",
+      "content_text": "Uses two new enterprise surveys from 2024-25 and 2025 to compare informal and formal microenterprises in urban Nepal for the first time. It finds deep structural differences between the two groups and that only a small share of informal firms could benefit from formalizing, and it recommends livelihood and social protection support for most informal firms with targeted productivity support for the few with growth potential.",
+      "authors": [
+        {
+          "name": "Jumana Alaref, Laurine Martinoty, Aishwarya Patil, Mohamed Ihsan Ajwad, Jasmine Rajbhandary"
+        }
+      ],
+      "tags": [
+        "Livelihoods",
+        "Nepal",
+        "livelihoods",
+        "social-protection",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=responding-to-floods-in-pakistan-with-adaptive-social-protection-how-to-keep-an",
+      "url": "https://devdiscourses.impactmojo.in/resource/responding-to-floods-in-pakistan-with-adaptive-social-protection-how-to-keep-an.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/44628",
+      "title": "Responding to Floods in Pakistan with Adaptive Social Protection: How to Keep an Inundated Country Afloat",
+      "content_text": "Reviews the response to the 2022 floods in Pakistan, which affected about 33 million people. It finds that the government used several instruments but that coverage of relief support remained limited, and it identifies ways to build an adaptive social protection system on the existing social protection system.",
+      "authors": [
+        {
+          "name": "Zaineb Majoka, Yash Dhuldhoya"
+        }
+      ],
+      "tags": [
+        "Social Protection",
+        "Pakistan",
+        "social-protection"
       ]
     },
     {
@@ -39,6 +182,25 @@
         "financial-inclusion",
         "mobile-technology",
         "survey-data"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=measuring-the-impact-of-impact-measurement",
+      "url": "https://devdiscourses.impactmojo.in/resource/measuring-the-impact-of-impact-measurement.html",
+      "external_url": "https://www.nber.org/papers/w36009",
+      "title": "Measuring the Impact of Impact Measurement",
+      "content_text": "Reports a randomized controlled trial of an impact measurement intervention among high-growth social enterprises in India. Treated firms show nearly twice the revenue growth of control firms and raise nearly twice as much capital. In a companion experiment, early-stage investors respond to quantified impact metrics but not to generic qualitative impact statements.",
+      "authors": [
+        {
+          "name": "Emanuele Colonnelli, Timothy McQuade, Natalia Rigol, Benjamin N. Roth"
+        }
+      ],
+      "tags": [
+        "MEAL & Evaluation",
+        "India",
+        "RCT",
+        "meal-evaluation",
+        "qualitative"
       ]
     },
     {
@@ -61,6 +223,24 @@
       ]
     },
     {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=household-preferences-for-womens-employment-a-field-experiment-in-bangladesh",
+      "url": "https://devdiscourses.impactmojo.in/resource/household-preferences-for-womens-employment-a-field-experiment-in-bangladesh.html",
+      "external_url": "https://www.nber.org/papers/w34969",
+      "title": "Household Preferences for Women’s Employment: A Field Experiment in Bangladesh",
+      "content_text": "Randomly assigns a six-week job to either the husband or the wife in households in Bangladesh. Women's work improves their own wellbeing but not their husbands', while men's work improves both partners' wellbeing. One year later, households in which the woman had worked are more likely to prefer that she take a new job.",
+      "authors": [
+        {
+          "name": "Yueh-ya Hsu, Reshmaan N. Hussam, Erin M. Kelley, Gregory Lane"
+        }
+      ],
+      "tags": [
+        "Gender & Social Inclusion",
+        "Bangladesh",
+        "employment",
+        "gender-social-inclusion"
+      ]
+    },
+    {
       "id": "https://devdiscourses.impactmojo.in/resource.html?id=fintech-and-savings-in-african-countries-the-case-of-mobile-money",
       "url": "https://devdiscourses.impactmojo.in/resource/fintech-and-savings-in-african-countries-the-case-of-mobile-money.html",
       "external_url": "https://doi.org/10.1057/s41302-026-00339-7",
@@ -80,6 +260,64 @@
       ]
     },
     {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=evaluating-alternative-approaches-to-small-area-estimation-of-poverty-with",
+      "url": "https://devdiscourses.impactmojo.in/resource/evaluating-alternative-approaches-to-small-area-estimation-of-poverty-with.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/44941",
+      "title": "Evaluating Alternative Approaches to Small Area Estimation of Poverty with Survey and Census Data",
+      "content_text": "Uses five rounds of Mexican and Brazilian census extracts to test how accurately different models and estimation methods produce small area estimates of poverty from survey and census data. Models with household-level or village-level predictors tend to be more accurate than models with area-level predictors only, and no single approach dominates across all contexts.",
+      "authors": [
+        {
+          "name": "Hai-Anh H. Dang, Minh Do, Partha Lahiri, Melany Gualavisi, David Newhouse, Talip Kilic, Peter Lanjouw, Roy Van der Weide"
+        }
+      ],
+      "tags": [
+        "Research Methods",
+        "poverty",
+        "research-methods",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=doing-better-at-doing-good-lessons-from-a-bayesian-meta-analysis-after-20-years",
+      "url": "https://devdiscourses.impactmojo.in/resource/doing-better-at-doing-good-lessons-from-a-bayesian-meta-analysis-after-20-years.html",
+      "external_url": "https://www.nber.org/papers/w35991",
+      "title": "Doing Better at Doing Good: Lessons from a Bayesian Meta-Analysis After 20 Years of Poverty Graduation Programs",
+      "content_text": "A Bayesian hierarchical meta-analysis of 49 studies of poverty graduation programs. Monthly consumption rises by 38 USD PPP (11 percent) and income by 28 USD PPP (15 percent). Lower-cost programs tend to be more cost-effective, and programs implemented from 2016 onward have higher benefit-cost ratios than earlier ones.",
+      "authors": [
+        {
+          "name": "Samantha Carter, Edward Jee, Dean Karlan, Patrick Premand"
+        }
+      ],
+      "tags": [
+        "Livelihoods",
+        "graduation-approach",
+        "livelihoods",
+        "meta-analysis",
+        "poverty"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=disability-and-educational-outcomes-in-nepal-evidence-from-the-2019-multiple",
+      "url": "https://devdiscourses.impactmojo.in/resource/disability-and-educational-outcomes-in-nepal-evidence-from-the-2019-multiple.html",
+      "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006579",
+      "title": "Disability and educational outcomes in Nepal: Evidence from the 2019 Multiple Indicator Cluster Survey",
+      "content_text": "Uses a nationally representative sample of 7,824 children aged 5 to 17 from the 2019 Nepal Multiple Indicator Cluster Survey. It relates functional disability to whether a child ever attended school, current grade level and being in the appropriate grade for age, controlling for age, gender, location, mother's education and household wealth.",
+      "authors": [
+        {
+          "name": "Prashant Acharya"
+        }
+      ],
+      "tags": [
+        "Disability & Inclusion",
+        "Nepal",
+        "disability",
+        "disability-inclusion",
+        "education",
+        "gender",
+        "survey-data"
+      ]
+    },
+    {
       "id": "https://devdiscourses.impactmojo.in/resource.html?id=digital-personalised-learning-to-improve-literacy-and-numeracy-outcomes-a",
       "url": "https://devdiscourses.impactmojo.in/resource/digital-personalised-learning-to-improve-literacy-and-numeracy-outcomes-a.html",
       "external_url": "https://doi.org/10.1080/02671522.2025.2605645",
@@ -95,6 +333,45 @@
         "RCT",
         "digital",
         "education"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=digital-land-rights-and-rural-credit-access-lessons-from-village-habitation",
+      "url": "https://devdiscourses.impactmojo.in/resource/digital-land-rights-and-rural-credit-access-lessons-from-village-habitation.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/45873",
+      "title": "Digital Land Rights and Rural Credit Access: Lessons from Village Habitation (Abadi) Land Titling in India",
+      "content_text": "Studies India's SVAMITVA program, which issued property cards for rural residential homesteads. Difference-in-differences estimates across 42,000 villages in Madhya Pradesh show that issuing property cards created sustained land and credit market activity where there had been none, in remote communities as much as in those near bank branches.",
+      "authors": [
+        {
+          "name": "Klaus W. Deininger, Daniel Ayalew Ali, Hari K. Nagarajan, Abhiman Das, Parth Hirpara"
+        }
+      ],
+      "tags": [
+        "Financial Inclusion",
+        "India",
+        "diff-in-diff",
+        "digital",
+        "financial-inclusion"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=bringing-legislation-to-life-navigating-intersectional-barriers-in-implementing",
+      "url": "https://devdiscourses.impactmojo.in/resource/bringing-legislation-to-life-navigating-intersectional-barriers-in-implementing.html",
+      "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006562",
+      "title": "Bringing legislation to life: Navigating intersectional barriers in implementing the Sindh Empowerment of Persons with Disabilities Act (2018) for the healthcare of children with disabilities",
+      "content_text": "A qualitative study in four districts of Sindh, Pakistan, based on 40 key informant interviews, on how the health provisions of Sindh's 2018 disability Act are implemented for children with disabilities. It identifies weak governance, limited coordination between sectors and the absence of a sanctioned budget for inclusive health as gaps.",
+      "authors": [
+        {
+          "name": "Muhammad Asim, Waqas Hameed, Sara Rotenberg, Dalia Chowdhury, Abid Lashari, Munazza Gillani, Abdul Ghaffar, Hannah Kuper"
+        }
+      ],
+      "tags": [
+        "Disability & Inclusion",
+        "Pakistan",
+        "disability",
+        "disability-inclusion",
+        "governance",
+        "qualitative"
       ]
     },
     {
@@ -135,6 +412,111 @@
       ]
     },
     {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=air-pollution-and-student-learning-in-pakistan",
+      "url": "https://devdiscourses.impactmojo.in/resource/air-pollution-and-student-learning-in-pakistan.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/45629",
+      "title": "Air Pollution and Student Learning in Pakistan",
+      "content_text": "Estimates the effect of sustained exposure to fine particulate matter on primary-school learning in rural Punjab, Pakistan, using longitudinal test score data and satellite pollution estimates. Using upwind crop-residue fires as an instrument, it finds that higher pollution during the school year significantly slows learning, with larger effects in mathematics than in language subjects.",
+      "authors": [
+        {
+          "name": "Saher Asad, A. Patrick Behrer, Martin Philipp Heger, Monica Yanez Pagans"
+        }
+      ],
+      "tags": [
+        "Education",
+        "Pakistan",
+        "education",
+        "longitudinal"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=access-is-not-enough-how-smartphone-ownership-shapes-digital-services-use-in",
+      "url": "https://devdiscourses.impactmojo.in/resource/access-is-not-enough-how-smartphone-ownership-shapes-digital-services-use-in.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/45009",
+      "title": "Access is Not Enough: How Smartphone Ownership Shapes Digital Services Use in Low- and Middle-Income Countries",
+      "content_text": "Uses data from 71 countries to study how smartphone ownership affects the use of digital services in low- and middle-income countries. Ownership raises the likelihood of using services such as learning, government services and job search by 34 percentage points, but gender gaps persist because of affordability, digital skills and social norms.",
+      "authors": [
+        {
+          "name": "Yuna Liang, Sylvan Rene Herskowitz, Antonio Martins-Neto, Sharada Srinivasan"
+        }
+      ],
+      "tags": [
+        "Data & Technology",
+        "data-technology",
+        "digital",
+        "gender"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=yield-gains-from-balancing-fertilizer-use",
+      "url": "https://devdiscourses.impactmojo.in/resource/yield-gains-from-balancing-fertilizer-use.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43259",
+      "title": "Yield Gains from Balancing Fertilizer Use",
+      "content_text": "Uses data on a large sample of rice fields in three states of eastern India to test whether a more balanced use of fertilizer, measured as the ratio of potash to nitrogen, raises yields and revenues. Fertilizer balance is instrumented with the relative distances from villages to the nearest urea plant and the nearest international port.",
+      "authors": [
+        {
+          "name": "Julian Arteaga, Klaus Deininger"
+        }
+      ],
+      "tags": [
+        "Agriculture & Food Systems",
+        "India",
+        "agriculture-food-systems"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-mental-health-today-latest-data",
+      "url": "https://devdiscourses.impactmojo.in/resource/world-mental-health-today-latest-data.html",
+      "external_url": "https://www.who.int/publications/i/item/9789240113817",
+      "title": "World mental health today: latest data",
+      "content_text": "A 64-page WHO report that updates the evidence on mental health epidemiology, economic consequences and gaps in public mental health. It states that over one billion people live with a mental disorder and that most remain underserved.",
+      "authors": [
+        {
+          "name": "World Health Organization"
+        }
+      ],
+      "tags": [
+        "Mental Health & Wellbeing",
+        "mental-health-wellbeing"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-development-report-2025-standards-for-development",
+      "url": "https://devdiscourses.impactmojo.in/resource/world-development-report-2025-standards-for-development.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43949",
+      "title": "World Development Report 2025: Standards for Development",
+      "content_text": "The World Bank's World Development Report for 2025. It describes standards as the hidden infrastructure of modern economies and examines how developing countries can deal with increasingly stringent international standards produced by globalization and rapid technological change.",
+      "authors": [
+        {
+          "name": "World Bank"
+        }
+      ],
+      "tags": [
+        "Development Economics",
+        "development-economics"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=when-water-runs-out-adaptation-to-gradual-environmental-change-in-indian",
+      "url": "https://devdiscourses.impactmojo.in/resource/when-water-runs-out-adaptation-to-gradual-environmental-change-in-indian.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/44298",
+      "title": "When Water Runs Out: Adaptation to Gradual Environmental Change in Indian Agriculture",
+      "content_text": "Uses differences in geology that affect the rate of groundwater depletion across 40 villages in Gujarat, India, as a natural experiment. Greater water scarcity leads to declines in irrigated agriculture and more migration to cities among dominant socio-economic groups only, with no evidence of substantial investment in water-efficient technologies or in human capital.",
+      "authors": [
+        {
+          "name": "Ram Fishman, Meha Jain, Avinash Kishore"
+        }
+      ],
+      "tags": [
+        "Agriculture & Food Systems",
+        "India",
+        "agriculture",
+        "agriculture-food-systems",
+        "climate-adaptation",
+        "migration"
+      ]
+    },
+    {
       "id": "https://devdiscourses.impactmojo.in/resource.html?id=water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable",
       "url": "https://devdiscourses.impactmojo.in/resource/water-sanitation-and-hygiene-wash-factors-and-the-incidence-of-communicable.html",
       "external_url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013329",
@@ -150,6 +532,60 @@
         "Bangladesh",
         "WASH",
         "public-health"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=water-and-sanitation-in-indian-cities-knowledge-framework-for-promoting",
+      "url": "https://devdiscourses.impactmojo.in/resource/water-and-sanitation-in-indian-cities-knowledge-framework-for-promoting.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/44073",
+      "title": "Water and Sanitation in Indian Cities: Knowledge Framework for Promoting Sustainable and Bankable Water Supply, Sanitation, and Solid Waste Management",
+      "content_text": "A World Bank and Asian Development Bank framework for modernizing water supply, sanitation and solid waste management in 100 large Indian cities. It draws on assessments of infrastructure and service performance across these cities and on detailed diagnostics of 10 of them, and reports progress in infrastructure coverage alongside remaining gaps in service quality, efficiency and sustainability.",
+      "authors": [
+        {
+          "name": "World Bank, Asian Development Bank (ADB)"
+        }
+      ],
+      "tags": [
+        "WASH",
+        "India",
+        "WASH",
+        "wash"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=two-settlements-two-diverging-paths-jobs-and-labor-market-outcomes-for-the",
+      "url": "https://devdiscourses.impactmojo.in/resource/two-settlements-two-diverging-paths-jobs-and-labor-market-outcomes-for-the.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43707",
+      "title": "Two Settlements, Two Diverging Paths: Jobs and Labor Market Outcomes for the Displaced Rohingya Population",
+      "content_text": "Compares labor market outcomes for displaced Rohingya in the Cox's Bazar camps and on Bhasan Char, using harmonized survey data from 2022 and 2023. It reports that informal economic activity has grown in both settlements despite legal prohibitions on formal employment, and that only about one-third of working-age people were employed in the year before the survey.",
+      "authors": [
+        {
+          "name": "World Bank, UNHCR"
+        }
+      ],
+      "tags": [
+        "Conflict & Humanitarian",
+        "conflict-humanitarian",
+        "employment",
+        "labor-markets",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=towards-resilient-and-prosperous-cities-in-india",
+      "url": "https://devdiscourses.impactmojo.in/resource/towards-resilient-and-prosperous-cities-in-india.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43242",
+      "title": "Towards Resilient and Prosperous Cities in India",
+      "content_text": "Makes the case for investment in climate-resilient cities in India. The report states that the urban population is expected to double from 480 million in 2020 to 951 million by 2050 and that more than half of the urban infrastructure, buildings and services needed are still to be built, which gives cities a chance to plan for resilience.",
+      "authors": [
+        {
+          "name": "World Bank Group"
+        }
+      ],
+      "tags": [
+        "Migration & Urbanization",
+        "India",
+        "migration-urbanization"
       ]
     },
     {
@@ -204,6 +640,82 @@
       ]
     },
     {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-global-findex-database-2025-connectivity-and-financial-inclusion-in-the",
+      "url": "https://devdiscourses.impactmojo.in/resource/the-global-findex-database-2025-connectivity-and-financial-inclusion-in-the.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43438",
+      "title": "The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy",
+      "content_text": "The fifth edition of the Global Findex, based on nationally representative surveys of about 145,000 adults in 141 economies. It adds new series on mobile phone ownership, internet use, digital safety and the frequency of financial transactions, and reports on how adults use phones, the internet and financial accounts to save, borrow and make payments.",
+      "authors": [
+        {
+          "name": "Leora Klapper, Dorothe Singer, Laura Starita, Alexandra Norris"
+        }
+      ],
+      "tags": [
+        "Financial Inclusion",
+        "digital",
+        "financial-inclusion",
+        "mobile-technology",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-evolution-of-local-participatory-democracy-in-nepal",
+      "url": "https://devdiscourses.impactmojo.in/resource/the-evolution-of-local-participatory-democracy-in-nepal.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43939",
+      "title": "The Evolution of Local Participatory Democracy in Nepal",
+      "content_text": "Traces the development of Nepal's participatory institutions over about 50 years in three phases, ending with the 2015 federal constitution, which granted local autonomy. It examines how far these institutions were induced by external interventions and how far they grew from indigenous practices, and reports five findings on how reforms widened citizens' influence over local decisions.",
+      "authors": [
+        {
+          "name": "Thaneshwar Bhusal, Michael G Breen, Vijayendra Rao"
+        }
+      ],
+      "tags": [
+        "Public Policy & Governance",
+        "Nepal",
+        "indigenous-peoples",
+        "institutions",
+        "public-policy-governance"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-effects-of-taxes-and-transfers-on-inequality-and-poverty-in-pakistan",
+      "url": "https://devdiscourses.impactmojo.in/resource/the-effects-of-taxes-and-transfers-on-inequality-and-poverty-in-pakistan.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43125",
+      "title": "The Effects of Taxes and Transfers on Inequality and Poverty in Pakistan",
+      "content_text": "Applies the Commitment to Equity methodology to taxes, social spending and subsidies in Pakistan for fiscal year 2019. It finds that the fiscal system raised the national poverty headcount by about two percentage points, had a muted effect on inequality, and left only the poorest decile as net recipients in cash terms.",
+      "authors": [
+        {
+          "name": "Beenish Amjad, Haydeeliz Carassco, Moritz Meyer"
+        }
+      ],
+      "tags": [
+        "Public Policy & Governance",
+        "Pakistan",
+        "inequality",
+        "poverty",
+        "public-policy-governance"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=talk-therapy-and-human-capital-in-adolescence-evidence-from-nepal",
+      "url": "https://devdiscourses.impactmojo.in/resource/talk-therapy-and-human-capital-in-adolescence-evidence-from-nepal.html",
+      "external_url": "https://www.nber.org/papers/w33677",
+      "title": "Talk Therapy and Human Capital in Adolescence: Evidence from Nepal",
+      "content_text": "Reports a randomized therapy intervention for 1,707 Nepali adolescents at risk of dropping out of school. Among those who took part, therapy reduced psychological distress and improved emotional regulation, but these gains did not raise school attendance or cognitive performance.",
+      "authors": [
+        {
+          "name": "Eric V. Edmonds, Priya Mukherjee, Nikhilesh Prakash, Nishith Prakash, Shwetlena Sabarwal"
+        }
+      ],
+      "tags": [
+        "Mental Health & Wellbeing",
+        "Nepal",
+        "RCT",
+        "education",
+        "mental-health-wellbeing"
+      ]
+    },
+    {
       "id": "https://devdiscourses.impactmojo.in/resource.html?id=state-of-social-protection-report-2025-the-2-billion-person-challenge",
       "url": "https://devdiscourses.impactmojo.in/resource/state-of-social-protection-report-2025-the-2-billion-person-challenge.html",
       "external_url": "https://www.worldbank.org/en/topic/socialprotection/publication/state-of-social-protection-2025-2-billion-person-challenge",
@@ -218,6 +730,58 @@
         "Public Policy & Governance",
         "public-policy-governance",
         "social-protection"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=sri-lanka-country-climate-and-development-report",
+      "url": "https://devdiscourses.impactmojo.in/resource/sri-lanka-country-climate-and-development-report.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43995",
+      "title": "Sri Lanka Country Climate and Development Report",
+      "content_text": "The World Bank Group's Country Climate and Development Report for Sri Lanka. It estimates potential economic losses of 3.3 to 3.5 percent of GDP by mid-century from heat stress on labor productivity, lower agricultural yields and more intense flooding in urban and rural areas.",
+      "authors": [
+        {
+          "name": "World Bank Group"
+        }
+      ],
+      "tags": [
+        "Climate & Environment",
+        "Sri-Lanka",
+        "climate-environment"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=south-asia-development-update-october-2025-jobs-ai-and-trade",
+      "url": "https://devdiscourses.impactmojo.in/resource/south-asia-development-update-october-2025-jobs-ai-and-trade.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43743",
+      "title": "South Asia Development Update, October 2025: Jobs, AI, and Trade",
+      "content_text": "The World Bank's October 2025 economic update for South Asia. It projects regional growth of 6.6 percent in 2025 and 5.8 percent in 2026, reports that about 15 percent of South Asian workers are in jobs where artificial intelligence strongly complements human labor, and discusses how carefully sequenced tariff cuts could encourage private investment and job creation.",
+      "authors": [
+        {
+          "name": "World Bank"
+        }
+      ],
+      "tags": [
+        "Livelihoods",
+        "AI",
+        "South-Asia",
+        "livelihoods"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=south-asia-development-update-april-2025-taxing-times",
+      "url": "https://devdiscourses.impactmojo.in/resource/south-asia-development-update-april-2025-taxing-times.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/42891",
+      "title": "South Asia Development Update, April 2025: Taxing Times",
+      "content_text": "The World Bank's April 2025 economic update for South Asia. It argues that higher revenue mobilization is a prerequisite for stronger fiscal positions in most South Asian countries and reports that the region's economies face larger tax gaps than the average emerging market and developing economy.",
+      "authors": [
+        {
+          "name": "World Bank"
+        }
+      ],
+      "tags": [
+        "Public Policy & Governance",
+        "South-Asia",
+        "public-policy-governance"
       ]
     },
     {
@@ -245,6 +809,80 @@
       ]
     },
     {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=scalable-targeting-of-social-protection-when-do-algorithms-out-perform-surveys",
+      "url": "https://devdiscourses.impactmojo.in/resource/scalable-targeting-of-social-protection-when-do-algorithms-out-perform-surveys.html",
+      "external_url": "https://www.nber.org/papers/w33919",
+      "title": "Scalable Targeting of Social Protection: When Do Algorithms Out-Perform Surveys and Community Knowledge?",
+      "content_text": "Compares proxy means-testing, community nominations and a machine learning approach based on mobile phone records as ways to identify poor households for transfers in Bangladesh. Proxy means-testing is the most accurate, but algorithmic targeting becomes more cost-effective for national-scale programs in which large numbers of households must be screened.",
+      "authors": [
+        {
+          "name": "Emily Aiken, Anik Ashraf, Joshua Blumenstock, Raymond Guiteras, Ahmed Mushfiq Mobarak"
+        }
+      ],
+      "tags": [
+        "Social Protection",
+        "Bangladesh",
+        "machine-learning",
+        "mobile-technology",
+        "social-protection",
+        "survey-data"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=reclaiming-momentum-towards-prosperity-pakistans-poverty-equity-and-resilience",
+      "url": "https://devdiscourses.impactmojo.in/resource/reclaiming-momentum-towards-prosperity-pakistans-poverty-equity-and-resilience.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43722",
+      "title": "Reclaiming Momentum Towards Prosperity: Pakistan's Poverty, Equity, and Resilience Assessment",
+      "content_text": "A World Bank poverty assessment for Pakistan. It reports that poverty fell from 64.3 percent in 2001 to 21.9 percent in 2018 and is projected to have risen to 25.3 percent by 2023/24 after COVID-19, economic instability, floods and high inflation. It calls for policy reforms to address structural imbalances.",
+      "authors": [
+        {
+          "name": "World Bank"
+        }
+      ],
+      "tags": [
+        "Development Economics",
+        "Pakistan",
+        "development-economics",
+        "poverty"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=progress-on-household-drinking-water-sanitation-and-hygiene-2000-2024-special",
+      "url": "https://devdiscourses.impactmojo.in/resource/progress-on-household-drinking-water-sanitation-and-hygiene-2000-2024-special.html",
+      "external_url": "https://www.who.int/publications/m/item/progress-on-household-drinking-water--sanitation-and-hygiene-2000-2024--special-focus-on-inequalities",
+      "title": "Progress on household drinking-water, sanitation and hygiene 2000-2024: Special focus on inequalities",
+      "content_text": "The 2025 report of the WHO/UNICEF Joint Monitoring Programme. Between 2000 and 2024, 2.2 billion people gained access to safely managed drinking water and 2.8 billion gained safely managed sanitation, but progress has been uneven, and the number of people without safely managed drinking water has increased in urban areas and in low-income countries.",
+      "authors": [
+        {
+          "name": "World Health Organization, UNICEF"
+        }
+      ],
+      "tags": [
+        "WASH",
+        "WASH",
+        "wash"
+      ]
+    },
+    {
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=nepal-country-economic-memorandum",
+      "url": "https://devdiscourses.impactmojo.in/resource/nepal-country-economic-memorandum.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/42978",
+      "title": "Nepal Country Economic Memorandum",
+      "content_text": "A World Bank report on Nepal's growth opportunities. It analyses growth trends across three periods, policies to increase the economic benefits of migration, the effect of exchange rate dynamics and trade policies on merchandise exports, and the potential of hydropower and digitalization.",
+      "authors": [
+        {
+          "name": "World Bank"
+        }
+      ],
+      "tags": [
+        "Migration & Urbanization",
+        "Nepal",
+        "digital",
+        "migration",
+        "migration-urbanization"
+      ]
+    },
+    {
       "id": "https://devdiscourses.impactmojo.in/resource.html?id=moving-toward-universal-health-coverage-with-a-national-health-insurance",
       "url": "https://devdiscourses.impactmojo.in/resource/moving-toward-universal-health-coverage-with-a-national-health-insurance.html",
       "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003651",
@@ -264,627 +902,22 @@
       ]
     },
     {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=mental-health-policy-implementation-in-low-and-middle-income-countries-a",
-      "url": "https://devdiscourses.impactmojo.in/resource/mental-health-policy-implementation-in-low-and-middle-income-countries-a.html",
-      "external_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320420",
-      "title": "Mental Health Policy Implementation in Low- and Middle-Income Countries: A Realist Review Protocol",
-      "content_text": "Protocol for a realist synthesis explaining how, why, for whom, and under what health system conditions certain mental health policy implementation strategies work or fail in LMICs.",
+      "id": "https://devdiscourses.impactmojo.in/resource.html?id=methodological-guidelines-on-assessing-household-disability-related-costs-and",
+      "url": "https://devdiscourses.impactmojo.in/resource/methodological-guidelines-on-assessing-household-disability-related-costs-and.html",
+      "external_url": "https://openknowledge.worldbank.org/handle/10986/43800",
+      "title": "Methodological Guidelines on Assessing Household Disability: Related Costs and Their Implication for Participation",
+      "content_text": "Guidelines from the World Bank and UNICEF on how to assess the costs that households face because of disability. They distinguish direct costs, such as assistive products and higher spending on everyday goods and services, from indirect costs, such as reduced education or employment for persons with disabilities and their caregivers.",
       "authors": [
         {
-          "name": "Ruth Trainor, Florence Baingana, Assegid Debebe"
+          "name": "World Bank, UNICEF"
         }
       ],
       "tags": [
-        "Public Health",
-        "public-health"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=improving-energy-access-climate-and-socio-economic-outcomes-through-off-grid",
-      "url": "https://devdiscourses.impactmojo.in/resource/improving-energy-access-climate-and-socio-economic-outcomes-through-off-grid.html",
-      "external_url": "https://doi.org/10.1002/cl2.70060",
-      "title": "Improving Energy Access, Climate and Socio-Economic Outcomes Through Off-Grid Electrification Technologies: A Systematic Review",
-      "content_text": "47 impact evaluations of off-grid solar, from 18 databases and 29 grey sources. Kerosene use falls and uptake rises; reliability, affordability and energy expenditure do not move, and the effect on time spent studying shows publication bias. The most honest evidence map in this field.",
-      "authors": [
-        {
-          "name": "Cem Yavuz et al."
-        }
-      ],
-      "tags": [
-        "Energy & Just Transition",
-        "energy-just-transition",
-        "impact-evaluation",
-        "systematic-review"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for",
-      "url": "https://devdiscourses.impactmojo.in/resource/from-delay-to-payday-using-a-digital-platform-to-improve-state-capacity-for.html",
-      "external_url": "https://www.nber.org/system/files/working_papers/w33756/w33756.pdf",
-      "title": "From Delay to Payday: Using a Digital Platform to Improve State Capacity for Welfare Payment Processing",
-      "content_text": "Studies a digital dashboard platform for real-time tracking of NREGS payment processing in two Indian states, finding that access to the platform expedited bureaucrat payment processing by 17% and increased available worksites by 23%.",
-      "authors": [
-        {
-          "name": "Karthik Muralidharan, Vaidyanathan Nandakumar, Gaurav Siddharth Sawant"
-        }
-      ],
-      "tags": [
-        "Public Policy & Governance",
-        "India",
-        "digital",
-        "public-policy-governance"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=evaluating-implementation-research-outcomes-for-a-task-sharing-mental-health",
-      "url": "https://devdiscourses.impactmojo.in/resource/evaluating-implementation-research-outcomes-for-a-task-sharing-mental-health.html",
-      "external_url": "https://doi.org/10.1017/gmh.2025.10025",
-      "title": "Evaluating implementation research outcomes for a task-sharing mental health intervention: A systematic review of the Friendship Bench",
-      "content_text": "Seven studies on Zimbabwe's Friendship Bench, the most-cited lay-worker mental health model in Africa. Acceptable and feasible; the limits are an unreliable referral system behind it and no answer for severe illness.",
-      "authors": [
-        {
-          "name": "John Patena et al."
-        }
-      ],
-      "tags": [
-        "Mental Health & Wellbeing",
-        "mental-health-wellbeing",
-        "systematic-review"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=energy-justice-and-gender-bridging-equity-access-and-policy-for-sustainable",
-      "url": "https://devdiscourses.impactmojo.in/resource/energy-justice-and-gender-bridging-equity-access-and-policy-for-sustainable.html",
-      "external_url": "https://doi.org/10.1007/s43621-025-01375-7",
-      "title": "Energy justice and gender: bridging equity, access, and policy for sustainable development",
-      "content_text": "616 publications mapped against SDG 5 and SDG 7. Finds clean energy adoption reduces unpaid domestic work and strengthens women's economic opportunities, and that policies written without a gender lens tend to entrench the inequalities they meant to relieve.",
-      "authors": [
-        {
-          "name": "Raghu Raman et al."
-        }
-      ],
-      "tags": [
-        "Energy & Just Transition",
-        "energy-just-transition",
-        "gender"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=effects-of-a-community-driven-water-sanitation-and-hygiene-intervention-on",
-      "url": "https://devdiscourses.impactmojo.in/resource/effects-of-a-community-driven-water-sanitation-and-hygiene-intervention-on.html",
-      "external_url": "https://hdl.handle.net/10986/42845",
-      "title": "Effects of a Community-Driven Water, Sanitation, and Hygiene Intervention on Diarrhea, Child Growth, and Local Institutions: A Cluster-Randomized Controlled Trial in Rural Democratic Republic of Congo",
-      "content_text": "332 villages, measured 3.6 years after the programme. Improved water access up 24 points, sanitation up 18, WASH committees established and still running — and no effect whatever on diarrhoea or on length-for-age. The clearest published example of infrastructure and institutions moving without health following.",
-      "authors": [
-        {
-          "name": "John P Quattrochi et al."
-        }
-      ],
-      "tags": [
-        "WASH",
-        "RCT",
-        "WASH",
-        "institutions",
-        "wash"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=distributional-justice-and-rapid-green-energy-transitions-citizen-experiences",
-      "url": "https://devdiscourses.impactmojo.in/resource/distributional-justice-and-rapid-green-energy-transitions-citizen-experiences.html",
-      "external_url": "https://doi.org/10.1088/1748-9326/add27d",
-      "title": "Distributional justice and rapid green energy transitions: citizen experiences in Kenya",
-      "content_text": "Kenya is on track for SDG 7 and is held up as the African success case. Focus groups and survey data show the poor carrying the cost of the transition, and a gap between the national narrative and what citizens report.",
-      "authors": [
-        {
-          "name": "Christopher D Gore et al."
-        }
-      ],
-      "tags": [
-        "Energy & Just Transition",
-        "energy-just-transition",
-        "survey-data"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=demographic-socioeconomic-and-regional-disparities-in-the-coverage-of-water",
-      "url": "https://devdiscourses.impactmojo.in/resource/demographic-socioeconomic-and-regional-disparities-in-the-coverage-of-water.html",
-      "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11913270/",
-      "title": "Demographic, Socioeconomic and Regional Disparities in the Coverage of Water, Sanitation and Hygiene Facilities in Four South Asian Countries",
-      "content_text": "PLOS ONE study using MICS data from Afghanistan, Bangladesh, Nepal, and Pakistan to examine WASH facility coverage disparities and identify significant socioeconomic and demographic factors.",
-      "authors": [
-        {
-          "name": "Md Hasibul Islam Jitu, Mohammad Shahed Masud"
-        }
-      ],
-      "tags": [
-        "Public Health",
-        "Afghanistan",
-        "Bangladesh",
-        "Nepal",
-        "Pakistan",
-        "South-Asia",
-        "WASH",
-        "public-health"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=challenges-and-opportunities-for-universal-health-coverage-in-south-asia-a",
-      "url": "https://devdiscourses.impactmojo.in/resource/challenges-and-opportunities-for-universal-health-coverage-in-south-asia-a.html",
-      "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11800725/",
-      "title": "Challenges and Opportunities for Universal Health Coverage in South Asia: A Scoping Review",
-      "content_text": "Scoping review examining challenges and opportunities for UHC across South Asian countries, identifying underfunding, fragmented health systems, and inadequate insurance coverage as key barriers.",
-      "authors": [
-        {
-          "name": "Jayendra Sharma, Milena Pavlova, Wim Groot"
-        }
-      ],
-      "tags": [
-        "Public Health",
-        "South-Asia",
-        "UHC",
-        "public-health",
-        "scoping-review"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in",
-      "url": "https://devdiscourses.impactmojo.in/resource/assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in.html",
-      "external_url": "https://doi.org/10.1017/s1474746425101267",
-      "title": "Assessing the Impact of Cash Transfer Programmes on Socioeconomic Outcomes in the MENA Region: A Systematic Review",
-      "content_text": "270 studies, 2000 to 2024. Finds a threshold: transfers of 5 to 10 per cent of household income change behaviour, but poverty reduction needs 15 to 20 per cent or more, and humanitarian effects dissipate in four to ten months without a livelihood pathway behind them.",
-      "authors": [
-        {
-          "name": "Anis Ben Brik"
-        }
-      ],
-      "tags": [
-        "Social Protection",
-        "cash-transfers",
-        "poverty",
-        "social-protection",
-        "systematic-review"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=assessing-household-confidence-in-saving-with-banks-and-mno-led-mobile-money",
-      "url": "https://devdiscourses.impactmojo.in/resource/assessing-household-confidence-in-saving-with-banks-and-mno-led-mobile-money.html",
-      "external_url": "https://doi.org/10.1080/23322039.2025.2535488",
-      "title": "Assessing household confidence in saving with banks and MNO-led mobile money: evidence from the household survey in Tanzania",
-      "content_text": "9,915 FinScope respondents. Households trust banks with savings more than mobile network operators, and education and location both shift that. A corrective to the assumption that an account is an account.",
-      "authors": [
-        {
-          "name": "Goodluck Charles, Renger Kanani, Neema Mori"
-        }
-      ],
-      "tags": [
-        "Financial Inclusion",
+        "Disability & Inclusion",
+        "disability",
+        "disability-inclusion",
         "education",
-        "financial-inclusion",
-        "mobile-technology",
-        "survey-data"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=a-global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve",
-      "url": "https://devdiscourses.impactmojo.in/resource/a-global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve.html",
-      "external_url": "https://doi.org/10.1017/gmh.2025.10013",
-      "title": "A global scoping review of task shifting and sharing interventions to improve the mental health of people living with HIV/AIDS",
-      "content_text": "Scopes a decade of lay-worker psychosocial support for people living with HIV. Notes what is consistently under-reported in this literature: how lay health workers were selected, paid and supervised.",
-      "authors": [
-        {
-          "name": "Caroline Wang Kokubun et al."
-        }
-      ],
-      "tags": [
-        "Mental Health & Wellbeing",
-        "mental-health-wellbeing",
-        "scoping-review"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-water-development-report-2024",
-      "url": "https://devdiscourses.impactmojo.in/resource/world-water-development-report-2024.html",
-      "external_url": "https://www.unesco.org/reports/wwdr/en/2024/s",
-      "title": "World Water Development Report 2024",
-      "content_text": "'Water for Prosperity and Peace'—the UN's flagship on water's role in livelihoods, cooperation, and conflict.",
-      "authors": [
-        {
-          "name": "UNESCO, UN-Water"
-        }
-      ],
-      "tags": [
-        "WASH",
-        "wash"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-social-protection-report-2024-26-asia-and-the-pacific",
-      "url": "https://devdiscourses.impactmojo.in/resource/world-social-protection-report-2024-26-asia-and-the-pacific.html",
-      "external_url": "https://www.ilo.org/sites/default/files/2024-09/WSPR_2024_Asia_and_Pacific_EN_WEB.pdf",
-      "title": "World Social Protection Report 2024-26: Asia and the Pacific",
-      "content_text": "ILO report highlighting key challenges for social protection in Asia-Pacific from a life-cycle perspective, addressing COVID-19 aftermath, climate change threats, persistent informality, and demographic shifts across the region.",
-      "authors": [
-        {
-          "name": "International Labour Organization"
-        }
-      ],
-      "tags": [
-        "Public Policy & Governance",
-        "climate-change",
-        "public-policy-governance",
-        "social-protection"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-migration-report-2024",
-      "url": "https://devdiscourses.impactmojo.in/resource/world-migration-report-2024.html",
-      "external_url": "https://www.iom.int/world-migration-report-2024",
-      "title": "World Migration Report 2024",
-      "content_text": "IOM's flagship providing global data and analysis on migration patterns, remittances, and displacement.",
-      "authors": [
-        {
-          "name": "International Organization for Migration"
-        }
-      ],
-      "tags": [
-        "Migration & Urbanization",
-        "migration",
-        "migration-urbanization"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-health-statistics-2024",
-      "url": "https://devdiscourses.impactmojo.in/resource/world-health-statistics-2024.html",
-      "external_url": "https://www.who.int/data/gho/publications/world-health-statistics",
-      "title": "World Health Statistics 2024",
-      "content_text": "WHO's annual snapshot of health and health-system indicators across all Member States and the SDGs.",
-      "authors": [
-        {
-          "name": "World Health Organization"
-        }
-      ],
-      "tags": [
-        "Public Health",
-        "public-health"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-employment-and-social-outlook-trends-2024",
-      "url": "https://devdiscourses.impactmojo.in/resource/world-employment-and-social-outlook-trends-2024.html",
-      "external_url": "https://www.ilo.org/publications/world-employment-and-social-outlook-trends-2024",
-      "title": "World Employment and Social Outlook: Trends 2024",
-      "content_text": "ILO flagship report analyzing global labor market trends, finding that the jobs gap reached 402 million people in 2024, with persistent gender gaps, high youth unemployment at 12.6%, and informal work returning to pre-pandemic levels.",
-      "authors": [
-        {
-          "name": "ILO"
-        }
-      ],
-      "tags": [
-        "Livelihoods",
-        "employment",
-        "gender",
-        "labor-markets",
-        "livelihoods"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=world-development-report-2024-the-middle-income-trap",
-      "url": "https://devdiscourses.impactmojo.in/resource/world-development-report-2024-the-middle-income-trap.html",
-      "external_url": "https://openknowledge.worldbank.org/handle/10986/41919",
-      "title": "World Development Report 2024: The Middle-Income Trap",
-      "content_text": "Proposes an '3i' strategy—investment, infusion, innovation—for how middle-income countries can escape stagnation and reach high income.",
-      "authors": [
-        {
-          "name": "World Bank"
-        }
-      ],
-      "tags": [
-        "Development Economics",
-        "development-economics"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=women-business-and-the-law-2024",
-      "url": "https://devdiscourses.impactmojo.in/resource/women-business-and-the-law-2024.html",
-      "external_url": "https://openknowledge.worldbank.org/entities/publication/853a55af-f1ba-4979-949c-61979af2fbb9",
-      "title": "Women, Business and the Law 2024",
-      "content_text": "Tenth annual study measuring the legal enabling environment for women's economic opportunity across 190 economies, introducing new indicators on safety and childcare and a framework for measuring the implementation gap.",
-      "authors": [
-        {
-          "name": "World Bank Group"
-        }
-      ],
-      "tags": [
-        "Gender & Social Inclusion",
-        "gender-social-inclusion"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=wellbeing-and-happiness-the-world-happiness-report-2024",
-      "url": "https://devdiscourses.impactmojo.in/resource/wellbeing-and-happiness-the-world-happiness-report-2024.html",
-      "external_url": "https://worldhappiness.report/ed/2024/",
-      "title": "Wellbeing and Happiness: The World Happiness Report 2024",
-      "content_text": "The annual ranking and analysis of subjective wellbeing across countries and the life circumstances that shape it.",
-      "authors": [
-        {
-          "name": "Sustainable Development Solutions Network"
-        }
-      ],
-      "tags": [
-        "Mental Health & Wellbeing",
-        "mental-health-wellbeing"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=water-sanitation-and-hygiene-wash-the-evolution-of-a-global-health-and",
-      "url": "https://devdiscourses.impactmojo.in/resource/water-sanitation-and-hygiene-wash-the-evolution-of-a-global-health-and.html",
-      "external_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11459319/",
-      "title": "Water, Sanitation and Hygiene (WASH): The Evolution of a Global Health and Development Sector",
-      "content_text": "BMJ Global Health open access article examining the evolution of the global WASH sector, noting that universal WASH access by 2030 under SDG 6 remains a distant prospect in many countries.",
-      "authors": [
-        {
-          "name": "Sara de Wit, Euphrasia Luseka, David Bradley, Joe Brown, Jayant Bhagwan, Barbara Evans, Matthew C Freeman, Guy Howard, Isha Ray, Ian Ross, Sheillah Simiyu, Oliver Cumming, Clare I R Chandler"
-        }
-      ],
-      "tags": [
-        "Public Health",
-        "WASH",
-        "public-health"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=wash-interventions-and-child-diarrhea-at-the-interface-of-climate-and",
-      "url": "https://devdiscourses.impactmojo.in/resource/wash-interventions-and-child-diarrhea-at-the-interface-of-climate-and.html",
-      "external_url": "https://doi.org/10.1038/s41467-024-45624-1",
-      "title": "WASH interventions and child diarrhea at the interface of climate and socioeconomic position in Bangladesh",
-      "content_text": "360 clusters and 8,440 measurements, then extrapolated across rural Bangladesh with geospatial layers. Benefits concentrate among the poorest children and during the monsoon, which is the argument for targeting WASH by season and position rather than uniformly.",
-      "authors": [
-        {
-          "name": "Pearl Anne Ante-Testard et al."
-        }
-      ],
-      "tags": [
-        "WASH",
-        "Bangladesh",
-        "wash"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=value-chain-microfinance",
-      "url": "https://devdiscourses.impactmojo.in/resource/value-chain-microfinance.html",
-      "external_url": "https://www.nber.org/papers/w32085",
-      "title": "Value Chain Microfinance",
-      "content_text": "NBER Working Paper studying how provision of financial services within value chain relationships can overcome barriers to financial access for small firms and workers in developing countries, reviewing empirical literature at the intersection of value chains and microfinance.",
-      "authors": [
-        {
-          "name": "Lorenzo Casaburi, Jack Willis"
-        }
-      ],
-      "tags": [
-        "Livelihoods",
-        "livelihoods",
-        "microfinance",
-        "value-chains"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=undp-lgbti-inclusion-index-report-on-the-pilot-implementation",
-      "url": "https://devdiscourses.impactmojo.in/resource/undp-lgbti-inclusion-index-report-on-the-pilot-implementation.html",
-      "external_url": "https://www.undp.org/sites/g/files/zskgke326/files/2024-04/undp-2024-lgbti-inclusion-index-report-on-the-pilot-implementation.pdf",
-      "title": "UNDP LGBTI Inclusion Index: Report on the Pilot Implementation",
-      "content_text": "UNDP report on the pilot LGBTI Inclusion Index with 51 indicators covering health, education, political participation, economic empowerment, and security, tested across 52 countries.",
-      "authors": [
-        {
-          "name": "UNDP"
-        }
-      ],
-      "tags": [
-        "Gender & Social Inclusion",
-        "education",
-        "gender-social-inclusion"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=transdiagnostic-psychological-interventions-for-symptoms-of-common-mental",
-      "url": "https://devdiscourses.impactmojo.in/resource/transdiagnostic-psychological-interventions-for-symptoms-of-common-mental.html",
-      "external_url": "https://doi.org/10.1155/2024/5037662",
-      "title": "Transdiagnostic Psychological Interventions for Symptoms of Common Mental Disorders Delivered by Non‐Specialist Providers in Low‐ and Middle‐Income Countries: A Systematic Review and Meta‐Analysis",
-      "content_text": "21 transdiagnostic interventions. Moderate reductions in distress, anxiety and depression at post-treatment (g about -0.6), smaller but surviving at 13 to 26 weeks. Argues against building one programme per diagnosis in a setting that has no specialists.",
-      "authors": [
-        {
-          "name": "Éanna Ó hAnrachtaigh et al."
-        }
-      ],
-      "tags": [
-        "Mental Health & Wellbeing",
-        "mental-health-wellbeing",
-        "systematic-review"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=tracking-sdg-7-the-energy-progress-report-2024",
-      "url": "https://devdiscourses.impactmojo.in/resource/tracking-sdg-7-the-energy-progress-report-2024.html",
-      "external_url": "https://trackingsdg7.esmap.org/",
-      "title": "Tracking SDG 7: The Energy Progress Report 2024",
-      "content_text": "The custodian agencies' annual assessment of global progress toward universal access to affordable, reliable, sustainable energy.",
-      "authors": [
-        {
-          "name": "IEA, IRENA, UNSD, World Bank, WHO"
-        }
-      ],
-      "tags": [
-        "Energy & Just Transition",
-        "energy-just-transition"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-sustainable-development-goals-report-2024",
-      "url": "https://devdiscourses.impactmojo.in/resource/the-sustainable-development-goals-report-2024.html",
-      "external_url": "https://unstats.un.org/sdgs/report/2024/The-Sustainable-Development-Goals-Report-2024.pdf",
-      "title": "The Sustainable Development Goals Report 2024",
-      "content_text": "Official UN report monitoring global progress on the 2030 Agenda using the latest available data and estimates. Provides a comprehensive assessment showing that the current pace of change is insufficient to fully achieve the Goals by 2030.",
-      "authors": [
-        {
-          "name": "United Nations Statistics Division"
-        }
-      ],
-      "tags": [
-        "Data & Technology",
-        "data-technology"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-state-of-food-security-and-nutrition-in-the-world-2024",
-      "url": "https://devdiscourses.impactmojo.in/resource/the-state-of-food-security-and-nutrition-in-the-world-2024.html",
-      "external_url": "https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-security-and-nutrition-in-the-world/en",
-      "title": "The State of Food Security and Nutrition in the World 2024",
-      "content_text": "The 2024 edition of the UN's flagship food security report, tracking progress toward ending hunger and examining financing for food security and nutrition.",
-      "authors": [
-        {
-          "name": "FAO, IFAD, UNICEF, WFP, WHO"
-        }
-      ],
-      "tags": [
-        "Agriculture & Food Systems",
-        "agriculture-food-systems",
-        "food-security",
-        "nutrition"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=the-macroeconomic-impact-of-climate-change-global-vs-local-temperature",
-      "url": "https://devdiscourses.impactmojo.in/resource/the-macroeconomic-impact-of-climate-change-global-vs-local-temperature.html",
-      "external_url": "https://www.nber.org/system/files/working_papers/w32450/w32450.pdf",
-      "title": "The Macroeconomic Impact of Climate Change: Global vs. Local Temperature",
-      "content_text": "NBER working paper using 173 countries from 1960 to 2019, finding that global temperature rises lead to GDP per capita declines of 12-16% after six years, with effects persisting 8-10 years, comparable in magnitude to severe financial crises.",
-      "authors": [
-        {
-          "name": "Adrien Bilal, Diego R. Känzig"
-        }
-      ],
-      "tags": [
-        "Climate & Environment",
-        "climate-change",
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=state-of-the-global-climate-2023",
-      "url": "https://devdiscourses.impactmojo.in/resource/state-of-the-global-climate-2023.html",
-      "external_url": "https://library.wmo.int/records/item/68835-state-of-the-global-climate-2023",
-      "title": "State of the Global Climate 2023",
-      "content_text": "WMO's annual report confirming record temperatures, ocean heat, sea-level rise, and glacier retreat.",
-      "authors": [
-        {
-          "name": "World Meteorological Organization"
-        }
-      ],
-      "tags": [
-        "Climate & Environment",
-        "climate-environment"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=self-management-of-chronic-non-communicable-diseases-in-south-asian-settings-a",
-      "url": "https://devdiscourses.impactmojo.in/resource/self-management-of-chronic-non-communicable-diseases-in-south-asian-settings-a.html",
-      "external_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0001668",
-      "title": "Self-Management of Chronic, Non-Communicable Diseases in South Asian Settings: A Systematic Mixed-Studies Review",
-      "content_text": "Systematic review finding that age, education, income, knowledge, social support, self-efficacy, and affordability of medicine are key determinants of chronic NCD self-management in South Asia.",
-      "authors": [
-        {
-          "name": "Farooq Siddiqui, Omara Dogar, Mona Kanaan, Kamran Siddiqi"
-        }
-      ],
-      "tags": [
-        "Public Health",
-        "South-Asia",
-        "education",
-        "public-health",
-        "systematic-review"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=rethinking-social-protection-in-south-asia-toward-progressive-universalism",
-      "url": "https://devdiscourses.impactmojo.in/resource/rethinking-social-protection-in-south-asia-toward-progressive-universalism.html",
-      "external_url": "https://www.worldbank.org/en/region/sar/publication/rethinking-social-protection-in-south-asia-toward-progressive-universalism",
-      "title": "Rethinking Social Protection in South Asia: Toward Progressive Universalism",
-      "content_text": "World Bank report arguing that South Asia has made significant progress in social protection delivery but still has far to go, advocating for progressive universalism as a framework for expanding coverage and improving adequacy.",
-      "authors": [
-        {
-          "name": "Rene Leon Solano, Jumana Alaref, Mark Dorfman, Zaineb Majoka, Mostafa Amir Sabbih, Elizabeth Mata Lorenzo"
-        }
-      ],
-      "tags": [
-        "Public Policy & Governance",
-        "South-Asia",
-        "public-policy-governance",
-        "social-protection"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=navigating-algorithm-bias-in-ai-ensuring-fairness-and-trust-in-africa",
-      "url": "https://devdiscourses.impactmojo.in/resource/navigating-algorithm-bias-in-ai-ensuring-fairness-and-trust-in-africa.html",
-      "external_url": "https://www.frontiersin.org/journals/research-metrics-and-analytics/articles/10.3389/frma.2024.1486600/full",
-      "title": "Navigating Algorithm Bias in AI: Ensuring Fairness and Trust in Africa",
-      "content_text": "Documents how algorithmic bias exacerbates existing inequalities in developing countries. Argues that African values and ethical principles are currently lacking in global AI ethics discussions and advocates for culturally sensitive AI development.",
-      "authors": [
-        {
-          "name": "Multiple authors"
-        }
-      ],
-      "tags": [
-        "Data & Technology",
-        "data-technology"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=improving-learning-outcomes-for-out-of-school-children-evidence-from-a",
-      "url": "https://devdiscourses.impactmojo.in/resource/improving-learning-outcomes-for-out-of-school-children-evidence-from-a.html",
-      "external_url": "https://doi.org/10.1080/09645292.2024.2410773",
-      "title": "Improving learning outcomes for out-of-school children: evidence from a randomized evaluation of an accelerated learning program in Liberia",
-      "content_text": "Liberia records 2.2 learning-adjusted years of schooling, among the lowest measured anywhere. A ten-month accelerated programme across 100 communities brings out-of-school children up to the learning level of children in government schools.",
-      "authors": [
-        {
-          "name": "Jeffery McManus et al."
-        }
-      ],
-      "tags": [
-        "Education",
-        "RCT",
-        "education"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=improving-childrens-foundational-learning-through-community-school",
-      "url": "https://devdiscourses.impactmojo.in/resource/improving-childrens-foundational-learning-through-community-school.html",
-      "external_url": "https://doi.org/10.1016/j.labeco.2024.102615",
-      "title": "Improving children's foundational learning through community-school participation: Experimental evidence from rural India",
-      "content_text": "A trial in 400 Indian villages comparing community-only accountability against school-community collaboration. Both raise foundational literacy and numeracy; the collaborative arm pulls ahead only where parents actually visited the school.",
-      "authors": [
-        {
-          "name": "Deepak Kumar et al."
-        }
-      ],
-      "tags": [
-        "Education",
-        "India",
-        "education"
-      ]
-    },
-    {
-      "id": "https://devdiscourses.impactmojo.in/resource.html?id=human-development-report-202324",
-      "url": "https://devdiscourses.impactmojo.in/resource/human-development-report-202324.html",
-      "external_url": "https://hdr.undp.org/content/human-development-report-2023-24",
-      "title": "Human Development Report 2023/24",
-      "content_text": "'Breaking the Gridlock'—the HDR examining rising global polarisation and the reimagined cooperation needed for human development.",
-      "authors": [
-        {
-          "name": "UNDP"
-        }
-      ],
-      "tags": [
-        "Development Economics",
-        "development-economics"
+        "employment"
       ]
     }
   ]

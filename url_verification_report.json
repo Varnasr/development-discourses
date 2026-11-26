@@ -1,21 +1,17 @@
 {
-  "checked_at": "2026-09-23T05:42:23Z",
-  "unique_urls": 644,
-  "entries": 669,
+  "checked_at": "2026-11-21T03:48:24Z",
+  "unique_urls": 750,
+  "entries": 775,
   "counts": {
-    "ok": 550,
-    "blocked": 77,
-    "broken": 9,
-    "unknown": 7,
+    "ok": 669,
+    "blocked": 70,
+    "unknown": 5,
+    "broken": 5,
     "paywalled": 1
   },
   "broken_urls": [
-    "https://daraint.org/humanitarian-response-index/",
     "https://idrc-crdi.ca/en/research-in-action/future-work-global-south",
-    "https://opendocs.ids.ac.uk/articles/report/Social_Protection_and_Climate_Change/26201478",
-    "https://www.gov.uk/government/publications/disability-poverty-and-development",
-    "https://www.routledge.com/Just-Give-Money-to-the-Poor-The-Development-Revolution-from-the-Global-South/Hanlon-Barrientos-Hulme/p/book/9781565493339",
-    "https://www.unesco.org/en/articles/internal-migration-india-initiative",
+    "https://unhabitat.org/topics/climate-change",
     "https://www.unicef.org/reports/education-children-disabilities",
     "https://www.who.int/publications/i/item/9789241511810",
     "https://www.worldbank.org/en/news/feature/2019/10/02/lessons-from-swachh-bharat"
@@ -25,6 +21,21 @@
     "https://data.unicef.org/wp-content/uploads/2021/06/JMP-2021-progress-report.pdf",
     "https://data.unicef.org/wp-content/uploads/2023/05/Profile_of_child_marriage_in_South_Asia.pdf",
     "https://direct.mit.edu/books/book/2434/Banking-the-WorldEmpirical-Foundations-of",
+    "https://doi.org/10.1002/cl2.1194",
+    "https://doi.org/10.1002/cl2.70060",
+    "https://doi.org/10.1002/jid.3881",
+    "https://doi.org/10.1080/00220388.2021.1988078",
+    "https://doi.org/10.1080/00220388.2025.2504425",
+    "https://doi.org/10.1080/02671522.2025.2605645",
+    "https://doi.org/10.1080/09645292.2024.2410773",
+    "https://doi.org/10.1080/23322039.2025.2535488",
+    "https://doi.org/10.1111/bjet.13116",
+    "https://doi.org/10.1111/bjet.13317",
+    "https://doi.org/10.1111/mcn.13202",
+    "https://doi.org/10.1136/bmjgh-2021-007747",
+    "https://doi.org/10.1136/bmjgh-2021-007902",
+    "https://doi.org/10.1155/2024/5037662",
+    "https://doi.org/10.2139/ssrn.4436702",
     "https://drodrik.scholars.harvard.edu/sites/g/files/omnuum7106/files/dani-rodrik/files/goodbye_washington_consensus_.pdf",
     "https://id4d.worldbank.org/global-dataset",
     "https://ieg.worldbankgroup.org/evaluations/rural-non-farm-economy",
@@ -34,18 +45,10 @@
     "https://library.oapen.org/handle/20.500.12657/39429",
     "https://library.oapen.org/handle/20.500.12657/60765",
     "https://odi.org/en/publications/",
-    "https://odi.org/en/publications/cash-transfers-what-does-the-evidence-say-a-rigorous-review-of-impacts-and-the-role-of-design-and-implementation-features/",
     "https://one.oecd.org/document/DCD/DAC(2019)58/FINAL/en/pdf",
     "https://oro.open.ac.uk/98476/1/98476.pdf",
     "https://spherestandards.org/handbook/",
     "https://trackingsdg7.esmap.org/",
-    "https://unctad.org/publication/technology-and-innovation-report-2023",
-    "https://unctad.org/publication/trade-and-development-report-2023",
-    "https://unctad.org/system/files/non-official-document/UNCTAD_Just_Transition_BACKGROUND_NOTE_COP27.pdf",
-    "https://unctad.org/system/files/official-document/der2021_en.pdf",
-    "https://unesdoc.unesco.org/ark:/48223/pf0000376709",
-    "https://unesdoc.unesco.org/ark:/48223/pf0000381137",
-    "https://unhabitat.org/topics/climate-change",
     "https://www.academia.edu/573583/Rural_Credit_Programs_and_Womens_Empowerment_In_Bangladesh",
     "https://www.betterevaluation.org/methods-approaches/approaches/developmental-evaluation",
     "https://www.betterevaluation.org/sites/default/files/2012-Causal-Inference-BB-February-26.pdf",
@@ -55,10 +58,6 @@
     "https://www.cgdev.org/publication/costing-data-revolution",
     "https://www.cgdev.org/publication/identification-development-biometrics-revolution-working-paper-315",
     "https://www.esmap.org/",
-    "https://www.gsma.com/mobilefordevelopment/gsma_resources/the-mobile-gender-gap-report-2023/",
-    "https://www.gsma.com/mobilemoneymetrics/",
-    "https://www.gsma.com/r/state-of-the-industry-report/",
-    "https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf",
     "https://www.iea.org/reports/the-role-of-critical-minerals-in-clean-energy-transitions",
     "https://www.iea.org/reports/world-energy-outlook-2023",
     "https://www.ifad.org/documents/38714170/39135645/smallholders_report.pdf/133e8903-0204-4e7d-a780-bca847933f2e",
@@ -71,7 +70,6 @@
     "https://www.irena.org/Publications/2023/Jun/World-Energy-Transitions-Outlook-2023",
     "https://www.irena.org/Publications/2023/Sep/Renewable-energy-and-jobs-Annual-review-2023",
     "https://www.irena.org/publications/2019/Jan/A-New-World-The-Geopolitics-of-the-Energy-Transformation",
-    "https://www.nber.org/system/files/working_papers/w33756/w33756.pdf",
     "https://www.oecd.org/climate-change/finance-usd-100-billion-goal/",
     "https://www.oecd.org/dac/evaluation/daccriteriaforevaluatingdevelopmentassistance.htm",
     "https://www.oecd.org/derec/50399683.pdf",
@@ -85,17 +83,8 @@
     "https://www.thelancet.com/commissions/global-mental-health",
     "https://www.undp.org/publications/dfs-digital-public-infrastructure",
     "https://www.undp.org/publications/journey-extremism-africa",
-    "https://www.undrr.org/gar/gar2022-our-world-risk-gar",
-    "https://www.undrr.org/gar/gar2023-special-report",
-    "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
-    "https://www.undrr.org/publication/south-asia-disaster-risk-management-programme-synthesis-report-sar-countries-disaster",
-    "https://www.unep.org/resources/adaptation-gap-report-2023",
-    "https://www.unep.org/resources/adaptation-gap-report-2024",
-    "https://www.unep.org/resources/emissions-gap-report-2023",
-    "https://www.unep.org/resources/emissions-gap-report-2024",
-    "https://www.unep.org/resources/global-environment-outlook-6",
-    "https://www.unescap.org/sites/default/files/Book-Review-7-Jul-2012.pdf",
     "https://www.unhcr.org/global-trends-report-2022",
+    "https://www.unhcr.org/global-trends-report-2024",
     "https://www.unhcr.org/publications/state-worlds-refugees",
     "https://www.unwater.org/publications/un-world-water-development-report-2020"
   ],
@@ -115,6 +104,27 @@
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.02467",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://arxiv.org/abs/2503.13323",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://asercentre.org/aser-2024/",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://asiapacific.unfpa.org/sites/default/files/pub-pdf/unfpa_gbv_and_disability_inclusion_final_august_11.pdf",
@@ -193,13 +203,6 @@
       "final_url": null,
       "error": null,
       "stale": true
-    },
-    {
-      "url": "https://daraint.org/humanitarian-response-index/",
-      "status": null,
-      "state": "broken",
-      "final_url": null,
-      "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'daraint.org'. (_ssl.c:1016)"
     },
     {
       "url": "https://dash.harvard.edu/bitstream/handle/1/4449106/Pritchett%20India%20Flailing%20State.pdf",
@@ -364,6 +367,279 @@
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://doi.org/10.1002/cl2.1194",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1002/cl2.70060",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1002/jid.3881",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1007/s12187-026-10430-2",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://link.springer.com/article/10.1007/s12187-026-10430-2?error=cookies_not_supported&code=79642874-422f-434d-8b1b-7867c426f7e2",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1007/s43621-025-01375-7",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://link.springer.com/article/10.1007/s43621-025-01375-7?error=cookies_not_supported&code=63d727f8-fe3c-4203-8774-70698377e436",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1016/j.enpol.2025.114506",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0301421525000138",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1016/j.ijedudev.2025.103409",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S073805932500207X",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1016/j.jdeveco.2026.103906",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0304387826001896",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1016/j.labeco.2024.102615",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0927537124001118",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1016/j.techfore.2023.122451",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0040162523001361",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1016/j.worlddev.2021.105664",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0305750X21002795",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1016/j.worlddev.2024.106599",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0305750X2400069X",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1016/s0140-6736(22)00937-0",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0140673622009370",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1016/s2214-109x(25)00532-7",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S2214109X25005327",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1017/bca.2023.26",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.cambridge.org/core/journals/journal-of-benefit-cost-analysis/article/improving-learning-in-low-and-lowermiddleincome-countries/DA3D0AAC19F94DC83B9211F963F8A4D7",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1017/gmh.2023.5",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.cambridge.org/core/journals/global-mental-health/article/expanding-mental-health-services-in-low-and-middleincome-countries-a-taskshifting-framework-for-delivery-of-comprehensive-collaborative-and-communitybased-care/43537788DF743160294EE33C618B4D9F",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1017/gmh.2025.10013",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.cambridge.org/core/journals/global-mental-health/article/global-scoping-review-of-task-shifting-and-sharing-interventions-to-improve-the-mental-health-of-people-living-with-hivaids/7AAA2F03D165574E021E51CFEABF212C",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1017/gmh.2025.10025",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.cambridge.org/core/journals/global-mental-health/article/evaluating-implementation-research-outcomes-for-a-tasksharing-mental-health-intervention-a-systematic-review-of-the-friendship-bench/664A12BE0FAAAF39294A32EDF9CEA874",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1017/s1474746425101267",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.cambridge.org/core/journals/social-policy-and-society/article/assessing-the-impact-of-cash-transfer-programmes-on-socioeconomic-outcomes-in-the-mena-region-a-systematic-review/84391F7A253C994E1FBAC4F0759ECCA5",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1038/s41467-024-45624-1",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.nature.com/articles/s41467-024-45624-1?error=cookies_not_supported&code=b1139ce7-35fb-4c8a-af8f-5040ff5ace27",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1057/s41302-026-00339-7",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://link.springer.com/article/10.1057/s41302-026-00339-7?error=cookies_not_supported&code=0135ff0c-bdfb-4540-ba04-94456737ab95",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1080/00220388.2021.1988078",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1080/00220388.2025.2504425",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1080/02671522.2025.2605645",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1080/09645292.2024.2410773",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1080/23322039.2025.2535488",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1088/1748-9326/add27d",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://iopscience.iop.org/article/10.1088/1748-9326/add27d",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1111/bjet.13116",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1111/bjet.13317",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1111/mcn.13202",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1136/bmjgh-2021-007747",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1136/bmjgh-2021-007902",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1155/2024/5037662",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1186/s12889-026-27639-z",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://link.springer.com/article/10.1186/s12889-026-27639-z?error=cookies_not_supported&code=c3c39299-97fa-488b-93bf-54fa413832a1",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1186/s13012-021-01179-z",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://link.springer.com/article/10.1186/s13012-021-01179-z?error=cookies_not_supported&code=e4a03187-b2e7-4751-877f-76aecb7cd6c2",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pmed.1004215",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004215",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.1371/journal.pone.0343349",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0343349",
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.2139/ssrn.4436702",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://doi.org/10.3362/9781780449272",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://practicalactionpublishing.com/book/2130/sustainable-sanitation-for-all",
+      "error": null
     },
     {
       "url": "https://drodrik.scholars.harvard.edu/sites/g/files/omnuum7106/files/dani-rodrik/files/goodbye_washington_consensus_.pdf",
@@ -563,14 +839,6 @@
       "stale": true
     },
     {
-      "url": "https://web.archive.org/web/20260117223901/https://globalideas.isp.msu.edu/files/1716/5150/5259/FY_2022-2026_Agency_Learning_Agenda_Publication_Version_03-29-22-0820.pdf",
-      "status": 200,
-      "state": "ok",
-      "final_url": null,
-      "error": null,
-      "stale": true
-    },
-    {
       "url": "https://globalnutritionreport.org/reports/2021-global-nutrition-report/",
       "status": 200,
       "state": "ok",
@@ -603,6 +871,27 @@
       "stale": true
     },
     {
+      "url": "https://hdl.handle.net/10986/37369",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://openknowledge.worldbank.org/handle/10986/37369",
+      "error": null
+    },
+    {
+      "url": "https://hdl.handle.net/10986/42845",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://openknowledge.worldbank.org/handle/10986/42845",
+      "error": null
+    },
+    {
+      "url": "https://hdl.handle.net/1871.1/745c1348-a69d-4da7-be62-d3dab42eda10",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://research.vu.nl/en/publications/task-sharing-psychosocial-interventions-for-the-prevention-of-com-3/",
+      "error": null
+    },
+    {
       "url": "https://hdr.undp.org/content/blockchain-technology-human-development-not-so-fast",
       "status": 200,
       "state": "ok",
@@ -625,6 +914,13 @@
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://hdr.undp.org/content/human-development-report-2025",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://hdr.undp.org/system/files/documents/global-report-document/2015humandevelopmentreport1.pdf",
@@ -657,6 +953,13 @@
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://hpod.law.harvard.edu/pdf/Disability-poverty-and-development.pdf",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://icai.independent.gov.uk/wp-content/uploads/DFIDs-approach-to-value-for-money-ICAI-review.pdf",
@@ -806,6 +1109,20 @@
       "stale": true
     },
     {
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006562",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0006579",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
       "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000100",
       "status": 200,
       "state": "ok",
@@ -894,12 +1211,26 @@
       "stale": true
     },
     {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0309402",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320420",
       "status": 200,
       "state": "ok",
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321887",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326130",
@@ -911,21 +1242,21 @@
     },
     {
       "url": "https://library.oapen.org/handle/20.500.12657/31857",
-      "status": 403,
+      "status": 429,
       "state": "blocked",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://library.oapen.org/handle/20.500.12657/39429",
-      "status": 403,
+      "status": 429,
       "state": "blocked",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://library.oapen.org/handle/20.500.12657/60765",
-      "status": 403,
+      "status": 429,
       "state": "blocked",
       "final_url": null,
       "error": null
@@ -979,8 +1310,8 @@
     },
     {
       "url": "https://odi.org/en/publications/cash-transfers-what-does-the-evidence-say-a-rigorous-review-of-impacts-and-the-role-of-design-and-implementation-features/",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
@@ -1009,25 +1340,17 @@
     },
     {
       "url": "https://opendatawatch.com/publications/",
-      "status": 307,
-      "state": "unknown",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
-      "url": "https://opendocs.ids.ac.uk/articles/book/Sustainable_Sanitation_for_All_Experiences_challenges_and_innovations/26120703",
+      "url": "https://opendocs.ids.ac.uk/articles/report/Social_Protection_and_Climate_Change/26201478",
       "status": 202,
       "state": "ok",
       "final_url": null,
-      "error": null,
-      "stale": true
-    },
-    {
-      "url": "https://opendocs.ids.ac.uk/articles/report/Social_Protection_and_Climate_Change/26201478",
-      "status": 404,
-      "state": "broken",
-      "final_url": null,
-      "error": "404 to the GitHub runner on 2026-10-18; Figshare's API also answers 404 for article 26201478. The 202 recorded before was opendocs.ids.ac.uk's bot challenge, not the document."
+      "error": null
     },
     {
       "url": "https://openknowledge.worldbank.org/collections/5cd4b6f6-94bb-5996-b00c-58be279093de",
@@ -1926,12 +2249,173 @@
       "stale": true
     },
     {
+      "url": "https://openknowledge.worldbank.org/handle/10986/41743",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/41801",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/41817",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
       "url": "https://openknowledge.worldbank.org/handle/10986/41919",
       "status": 200,
       "state": "ok",
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42002",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42117",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42252",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42350",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42382",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42412",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42445",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42735",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42891",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/42978",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43125",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43242",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43259",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43438",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43681",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43707",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43722",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43743",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43787",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43800",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://openknowledge.worldbank.org/handle/10986/4387",
@@ -1958,12 +2442,110 @@
       "stale": true
     },
     {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43939",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43949",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/43995",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/44067",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/44073",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/44298",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/44419",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/44537",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/44628",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
       "url": "https://openknowledge.worldbank.org/handle/10986/4485",
       "status": 200,
       "state": "ok",
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/44941",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/45009",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/45086",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/45629",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://openknowledge.worldbank.org/handle/10986/45873",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://openknowledge.worldbank.org/handle/10986/5986",
@@ -2285,6 +2867,20 @@
       "stale": true
     },
     {
+      "url": "https://pure.eur.nl/en/publications/433b86ea-ff2c-4190-970b-bb79053f7159",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://pure.eur.nl/en/publications/an-ecohealth-approach-to-energy-justice-evidence-from-malawis-ene/",
+      "error": null
+    },
+    {
+      "url": "https://reliefweb.int/report/world/humanitarian-response-index-2011-addressing-gender-challenge",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
       "url": "https://report.educationcommission.org/report/",
       "status": 200,
       "state": "ok",
@@ -2372,43 +2968,50 @@
     },
     {
       "url": "https://unctad.org/publication/technology-and-innovation-report-2023",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://unctad.org/publication/trade-and-development-report-2023",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://unctad.org/system/files/non-official-document/UNCTAD_Just_Transition_BACKGROUND_NOTE_COP27.pdf",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://unctad.org/system/files/official-document/der2021_en.pdf",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000223702",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://unesdoc.unesco.org/ark:/48223/pf0000376709",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://unesdoc.unesco.org/ark:/48223/pf0000381137",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
@@ -2422,8 +3025,8 @@
     },
     {
       "url": "https://unhabitat.org/topics/climate-change",
-      "status": 403,
-      "state": "blocked",
+      "status": 404,
+      "state": "broken",
       "final_url": null,
       "error": null
     },
@@ -2500,6 +3103,14 @@
     },
     {
       "url": "https://wdr2021.worldbank.org/the-report/",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null,
+      "stale": true
+    },
+    {
+      "url": "https://web.archive.org/web/20260117223901/https://globalideas.isp.msu.edu/files/1716/5150/5259/FY_2022-2026_Agency_Learning_Agenda_Publication_Version_03-29-22-0820.pdf",
       "status": 200,
       "state": "ok",
       "final_url": null,
@@ -3016,13 +3627,6 @@
       "stale": true
     },
     {
-      "url": "https://www.gov.uk/government/publications/disability-poverty-and-development",
-      "status": 404,
-      "state": "broken",
-      "final_url": null,
-      "error": null
-    },
-    {
       "url": "https://www.gov.uk/government/publications/final-report-the-economics-of-biodiversity-the-dasgupta-review",
       "status": 200,
       "state": "ok",
@@ -3040,29 +3644,29 @@
     },
     {
       "url": "https://www.gsma.com/mobilefordevelopment/gsma_resources/the-mobile-gender-gap-report-2023/",
-      "status": 403,
-      "state": "blocked",
-      "final_url": null,
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.gsma.com/gender-gap-2023/",
       "error": null
     },
     {
       "url": "https://www.gsma.com/mobilemoneymetrics/",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.gsma.com/mobile-money-metrics/",
+      "error": null
+    },
+    {
+      "url": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/gsma_resources/state-of-the-industry-report-on-mobile-money-2023-2/",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
-      "url": "https://www.gsma.com/r/state-of-the-industry-report/",
-      "status": 403,
-      "state": "blocked",
-      "final_url": null,
-      "error": null
-    },
-    {
-      "url": "https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf",
-      "status": 403,
-      "state": "blocked",
+      "url": "https://www.gsmaintelligence.com/research/the-state-of-mobile-internet-connectivity-2023",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
@@ -3073,6 +3677,13 @@
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://www.hachettebookgroup.com/titles/abhijit-v-banerjee/poor-economics/9781541706187/",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://www.hachettebookgroup.com/titles/daron-acemoglu/why-nations-fail/9780307719225/",
@@ -3267,6 +3878,13 @@
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://www.ilo.org/publications/india-employment-report-2024-youth-employment-education-and-skills",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://www.ilo.org/publications/protecting-poor-microinsurance-compendium",
@@ -3487,14 +4105,6 @@
       "stale": true
     },
     {
-      "url": "https://www.livelihoodscentre.org/documents/114097690/114438878/Sustainable+livelihoods+guidance+sheets.pdf",
-      "status": 200,
-      "state": "ok",
-      "final_url": null,
-      "error": null,
-      "stale": true
-    },
-    {
       "url": "https://www.lse.ac.uk/economics/Assets/Documents/personal-pages/tim-besley/data/land-reform-poverty-reduction-growth.pdf",
       "status": 200,
       "state": "ok",
@@ -3597,6 +4207,104 @@
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://www.nber.org/papers/w32794",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w33559",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w33677",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w33919",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w34042",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w34414",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w34951",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w34969",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w35060",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w35467",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w35610",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w35738",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w35991",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nber.org/papers/w36009",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://www.nber.org/papers/w7716",
@@ -3960,8 +4668,8 @@
     },
     {
       "url": "https://www.nber.org/system/files/working_papers/w33756/w33756.pdf",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
@@ -4221,18 +4929,11 @@
       "error": null
     },
     {
-      "url": "https://www.pooreconomics.com/",
-      "status": null,
-      "state": "unknown",
-      "final_url": null,
-      "error": "[Errno 104] Connection reset by peer"
-    },
-    {
       "url": "https://www.portfoliosofthepoor.com/",
       "status": null,
       "state": "unknown",
       "final_url": null,
-      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)"
+      "error": "[Errno 104] Connection reset by peer"
     },
     {
       "url": "https://www.povertyactionlab.org/case-study/teaching-right-level-improve-learning",
@@ -4379,19 +5080,19 @@
       "stale": true
     },
     {
+      "url": "https://www.rienner.com/title/Just_Give_Money_to_the_Poor_The_Development_Revolution_from_the_Global_South",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
       "url": "https://www.robertcostanza.com/wp-content/uploads/2017/02/1997_J_Costanza_Nature.pdf",
       "status": 200,
       "state": "ok",
       "final_url": null,
       "error": null,
       "stale": true
-    },
-    {
-      "url": "https://www.routledge.com/Just-Give-Money-to-the-Poor-The-Development-Revolution-from-the-Global-South/Hanlon-Barrientos-Hulme/p/book/9781565493339",
-      "status": 404,
-      "state": "broken",
-      "final_url": null,
-      "error": null
     },
     {
       "url": "https://www.science.org/doi/10.1126/science.1260799",
@@ -4478,78 +5179,71 @@
     },
     {
       "url": "https://www.undrr.org/gar/gar2022-our-world-risk-gar",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://www.undrr.org/gar/gar2023-special-report",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://www.undrr.org/publication/south-asia-disaster-risk-management-programme-synthesis-report-sar-countries-disaster",
-      "status": 403,
-      "state": "blocked",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
     {
       "url": "https://www.unep.org/resources/adaptation-gap-report-2023",
-      "status": 403,
-      "state": "blocked",
-      "final_url": null,
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.unep.org/en/publications/report/adaptation-gap-report-2023",
       "error": null
     },
     {
       "url": "https://www.unep.org/resources/adaptation-gap-report-2024",
-      "status": 403,
-      "state": "blocked",
-      "final_url": null,
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.unep.org/en/publications/report/adaptation-gap-report-2024",
       "error": null
     },
     {
       "url": "https://www.unep.org/resources/emissions-gap-report-2023",
-      "status": 403,
-      "state": "blocked",
-      "final_url": null,
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.unep.org/en/publications/report/emissions-gap-report-2023",
       "error": null
     },
     {
       "url": "https://www.unep.org/resources/emissions-gap-report-2024",
-      "status": 403,
-      "state": "blocked",
-      "final_url": null,
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.unep.org/en/publications/report/emissions-gap-report-2024",
       "error": null
     },
     {
       "url": "https://www.unep.org/resources/global-environment-outlook-6",
-      "status": 403,
-      "state": "blocked",
-      "final_url": null,
+      "status": 200,
+      "state": "ok",
+      "final_url": "https://www.unep.org/en/publications/report/global-environment-outlook-6",
       "error": null
     },
     {
       "url": "https://www.unescap.org/sites/default/files/Book-Review-7-Jul-2012.pdf",
-      "status": 403,
-      "state": "blocked",
-      "final_url": null,
-      "error": null
-    },
-    {
-      "url": "https://www.unesco.org/en/articles/internal-migration-india-initiative",
-      "status": 404,
-      "state": "broken",
+      "status": 200,
+      "state": "ok",
       "final_url": null,
       "error": null
     },
@@ -4568,6 +5262,13 @@
       "final_url": "https://www.unesco.org/gem-report/en/publication/non-state-actors-education",
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://www.unesco.org/gem-report/en/publication/leadership",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://www.unesco.org/gem-report/en/technology",
@@ -4603,6 +5304,13 @@
     },
     {
       "url": "https://www.unhcr.org/global-trends-report-2022",
+      "status": 403,
+      "state": "blocked",
+      "final_url": null,
+      "error": null
+    },
+    {
+      "url": "https://www.unhcr.org/global-trends-report-2024",
       "status": 403,
       "state": "blocked",
       "final_url": null,
@@ -4838,6 +5546,13 @@
       "stale": true
     },
     {
+      "url": "https://www.who.int/publications/i/item/9789240113817",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
+    },
+    {
       "url": "https://www.who.int/publications/i/item/9789241511810",
       "status": 404,
       "state": "broken",
@@ -4955,6 +5670,13 @@
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://www.who.int/publications/m/item/progress-on-household-drinking-water--sanitation-and-hygiene-2000-2024--special-focus-on-inequalities",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://www.who.int/teams/mental-health-and-substance-use",
@@ -5146,6 +5868,13 @@
       "final_url": null,
       "error": null,
       "stale": true
+    },
+    {
+      "url": "https://www2.cruzroja.es/documents/114097690/114438878/Sustainable+livelihoods+guidance+sheets.pdf/594e5ea6-99a9-2a4e-f288-cbb4ae4bea8b",
+      "status": 200,
+      "state": "ok",
+      "final_url": null,
+      "error": null
     },
     {
       "url": "https://yalebooks.yale.edu/book/9780300246759/seeing-like-a-state/",

@@ -447,7 +447,7 @@
       "public-health"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Essential Childhood Immunization in 43 Low- and Middle-Income Countries: Analysis of Spatial Trends and Socioeconomic Inequalities in Vaccine Coverage",
@@ -670,5 +670,49 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "An Overview of the Indian Health Labor Markets",
+    "authors": "Edson C. Araujo, Bernardo D. P. Coelho, Gumilang Aryo Sahadewo, Navneet Kaur Manchanda, Barbara McPake, Ajay Mahal, Lakshmi Murthy Sripada, Deepak Santhanakrishnan, Aarushi Bhatnagar",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Public Health",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43787",
+    "description": "Analyses India's health labor markets using the Periodic Labour Force Survey. It reports a 60 percent increase in the number of health workers since 2017, workforce density that is still below global and regional benchmarks, persistent shortages in key medical specialties and widespread informality.",
+    "doi": "10.1596/43787",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "an-overview-of-the-indian-health-labor-markets",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "labor-markets",
+      "public-health",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Improving Childhood Immunization through Maternal Support: Evidence from a Randomized Intervention in Pakistan",
+    "authors": "Adeline L. Delavande, Areeba Shahab, Javed Younas, Basit Zafar",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Public Health",
+    "url": "https://www.nber.org/papers/w33559",
+    "description": "Evaluates randomized interventions for 2,145 mothers of infants in Pakistan. A phone-delivered intervention offering psychological support and visualization techniques raised the number of vaccines received by young children by 0.3, or 7 percent of the control mean, one year after baseline, with larger effects for lower-income households.",
+    "doi": "10.3386/w33559",
+    "journal": "NBER Working Paper No. 33559",
+    "access_observed": "free_to_read",
+    "id": "improving-childhood-immunization-through-maternal-support-evidence-from-a",
+    "access_type": "free_to_read",
+    "tags": [
+      "Pakistan",
+      "RCT",
+      "maternal-health",
+      "public-health"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

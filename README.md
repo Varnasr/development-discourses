@@ -6,7 +6,7 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Varnasr/development-discourses)](https://github.com/Varnasr/development-discourses/commits/main)
 [![Part of ImpactMojo](https://img.shields.io/badge/Part%20of-ImpactMojo-orange)](https://www.impactmojo.in)
 
-**A curated library of 687 research papers, books, and grey literature for development practitioners in South Asia, open access first.**
+**A curated library of 751 research papers, books, and grey literature for development practitioners in South Asia, open access first.**
 
 Searchable, filterable, and fully free — part of the [ImpactMojo](https://www.impactmojo.in) learning platform.
 

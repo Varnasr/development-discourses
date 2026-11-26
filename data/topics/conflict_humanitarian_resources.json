@@ -32,7 +32,7 @@
       "conflict-humanitarian"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Pathways for Peace: Inclusive Approaches to Preventing Violent Conflict",
@@ -166,8 +166,8 @@
       "conflict-humanitarian",
       "governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Conflict, Fragility, and Forced Displacement in the Middle East and North Africa",
@@ -253,20 +253,21 @@
     "link_checked": "2026-09-23"
   },
   {
-    "title": "Humanitarian Response Index 2011: Focus on Addressing Displacement",
+    "title": "Humanitarian Response Index 2011: Addressing the Gender Challenge",
     "authors": "DARA",
     "year": 2011,
     "type": "grey_literature",
     "topic": "Conflict & Humanitarian",
-    "url": "https://daraint.org/humanitarian-response-index/",
+    "url": "https://reliefweb.int/report/world/humanitarian-response-index-2011-addressing-gender-challenge",
     "description": "Assessment of donor governments' humanitarian response performance, evaluating how well major donors adhere to Good Humanitarian Donorship principles including needs-based allocation, timeliness, and support for accountability and learning.",
-    "id": "humanitarian-response-index-2011-focus-on-addressing-displacement",
+    "id": "humanitarian-response-index-2011-addressing-the-gender-challenge",
     "access_type": "check_access",
     "tags": [
-      "conflict-humanitarian"
+      "conflict-humanitarian",
+      "gender"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The Economics of the Syrian Civil War",
@@ -331,7 +332,7 @@
       "conflict-humanitarian"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The State of the World's Refugees",
@@ -347,7 +348,7 @@
       "conflict-humanitarian"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Humanitarian Response in Fragile Settings",
@@ -363,7 +364,7 @@
       "conflict-humanitarian"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Cash Transfers in Humanitarian Contexts",
@@ -397,7 +398,7 @@
       "governance"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Impact of conditional and unconditional cash transfers on health outcomes and use of health services in humanitarian settings: a mixed-methods systematic review",
@@ -419,7 +420,7 @@
     "journal": "BMJ Global Health",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Cash and In-Kind Transfers in Humanitarian Settings: A Review of Evidence and Knowledge Gaps",
@@ -440,7 +441,7 @@
     "journal": "Policy Research Working Papers",
     "license": "cc-by-nc",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The nutritional benefits of cash transfers in humanitarian crises: evidence from Yemen",
@@ -462,7 +463,7 @@
     "journal": "World Development",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Cash, COVID-19 and aid cuts: a mixed-method impact evaluation among South Sudanese refugees registered in Kiryandongo settlement, Uganda",
@@ -483,6 +484,67 @@
     "journal": "BMJ Global Health",
     "license": "cc-by-nc",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Beyond Camps and Communities: The Economics of Refugee Relocation in Bangladesh",
+    "authors": "Sandra V. Rozo, María José Urbina, Christina Wieser",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43681",
+    "description": "Evaluates the relocation of Rohingya refugees from the camps of Cox's Bazar to the island settlement of Bhasan Char, using panel survey data and propensity score matching. Relocation is associated with lower food consumption, higher illness and depression rates and lower wages, while per capita service delivery on Bhasan Char costs about three times as much as in Cox's Bazar.",
+    "doi": "10.1596/1813-9450-11204",
+    "journal": "Policy Research Working Paper No. 11204",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "beyond-camps-and-communities-the-economics-of-refugee-relocation-in-bangladesh",
+    "access_type": "open_access",
+    "tags": [
+      "Bangladesh",
+      "conflict-humanitarian",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Two Settlements, Two Diverging Paths: Jobs and Labor Market Outcomes for the Displaced Rohingya Population",
+    "authors": "World Bank, UNHCR",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43707",
+    "description": "Compares labor market outcomes for displaced Rohingya in the Cox's Bazar camps and on Bhasan Char, using harmonized survey data from 2022 and 2023. It reports that informal economic activity has grown in both settlements despite legal prohibitions on formal employment, and that only about one-third of working-age people were employed in the year before the survey.",
+    "doi": "10.1596/43707",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "two-settlements-two-diverging-paths-jobs-and-labor-market-outcomes-for-the",
+    "access_type": "open_access",
+    "tags": [
+      "conflict-humanitarian",
+      "employment",
+      "labor-markets",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Global Trends: Forced Displacement in 2024",
+    "authors": "UNHCR",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Conflict & Humanitarian",
+    "url": "https://www.unhcr.org/global-trends-report-2024",
+    "description": "UNHCR's annual statistical report on forced displacement, covering 2024. It reports that 123.2 million people were forcibly displaced.",
+    "access_observed": "free_to_read",
+    "id": "global-trends-forced-displacement-in-2024",
+    "access_type": "free_to_read",
+    "tags": [
+      "conflict-humanitarian"
+    ],
+    "link_status": "blocked",
+    "link_checked": "2026-11-21"
   }
 ]

@@ -53,8 +53,8 @@
       "financial-inclusion",
       "mobile-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Financial Inclusion: Overview",
@@ -293,7 +293,7 @@
       "financial-inclusion"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Portfolios of the Poor: How the World's Poor Live on $2 a Day",
@@ -311,7 +311,7 @@
       "financial-inclusion"
     ],
     "link_status": "unknown",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Six Randomized Evaluations of Microcredit",
@@ -366,8 +366,8 @@
       "gender",
       "mobile-technology"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Is Mobile Money Changing Rural Africa? Evidence from a Field Experiment",
@@ -389,7 +389,7 @@
     "journal": "SSRN Electronic Journal",
     "license": "",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Mobile Money, Financial Inclusion, and Unmet Opportunities: Evidence from Uganda",
@@ -410,7 +410,7 @@
     "journal": "The Journal of Development Studies",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Fintech and Savings in African Countries: The Case of Mobile Money",
@@ -432,7 +432,7 @@
     "journal": "Eastern Economic Journal",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Do financial innovations improve financial inclusion? Evidence from mobile money adoption in Africa",
@@ -452,7 +452,7 @@
     "journal": "Technological Forecasting and Social Change",
     "license": "",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "From expanding financial services to tackling poverty in West African Economic and Monetary Union: The accelerating role of mobile money",
@@ -473,7 +473,7 @@
     "journal": "Journal of International Development",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Mobile money, and the welfare of women and youths in fragile states: Evidence from Mozambique",
@@ -494,7 +494,7 @@
     "journal": "PLOS One",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Assessing household confidence in saving with banks and MNO-led mobile money: evidence from the household survey in Tanzania",
@@ -516,6 +516,51 @@
     "journal": "Cogent Economics &amp; Finance",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Digital Land Rights and Rural Credit Access: Lessons from Village Habitation (Abadi) Land Titling in India",
+    "authors": "Klaus W. Deininger, Daniel Ayalew Ali, Hari K. Nagarajan, Abhiman Das, Parth Hirpara",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/45873",
+    "description": "Studies India's SVAMITVA program, which issued property cards for rural residential homesteads. Difference-in-differences estimates across 42,000 villages in Madhya Pradesh show that issuing property cards created sustained land and credit market activity where there had been none, in remote communities as much as in those near bank branches.",
+    "doi": "10.1596/1813-9450-11502",
+    "journal": "Policy Research Working Paper No. 11502",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "digital-land-rights-and-rural-credit-access-lessons-from-village-habitation",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "diff-in-diff",
+      "digital",
+      "financial-inclusion"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "The Global Findex Database 2025: Connectivity and Financial Inclusion in the Digital Economy",
+    "authors": "Leora Klapper, Dorothe Singer, Laura Starita, Alexandra Norris",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Financial Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43438",
+    "description": "The fifth edition of the Global Findex, based on nationally representative surveys of about 145,000 adults in 141 economies. It adds new series on mobile phone ownership, internet use, digital safety and the frequency of financial transactions, and reports on how adults use phones, the internet and financial accounts to save, borrow and make payments.",
+    "doi": "10.1596/978-1-4648-2204-9",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "the-global-findex-database-2025-connectivity-and-financial-inclusion-in-the",
+    "access_type": "open_access",
+    "tags": [
+      "digital",
+      "financial-inclusion",
+      "mobile-technology",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

@@ -247,7 +247,7 @@
       "social-protection"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Caste, Gender and Jati: An Intersectional Analysis Aimed at Better Targeting Poverty Alleviation and Women's Empowerment in Bihar, Orissa and Tamil Nadu",
@@ -443,7 +443,7 @@
       "institutions"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Women as Policy Makers: Evidence from a Randomized Policy Experiment in India",
@@ -805,5 +805,93 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "South Asia Development Update, October 2024: Women, Jobs, and Growth",
+    "authors": "World Bank",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42002",
+    "description": "The World Bank's October 2024 economic update for South Asia. It reports that about two-thirds of the region's working-age women are out of the labor force and estimates that raising female employment rates to those of men could increase per capita income by as much as one-half.",
+    "doi": "10.1596/978-1-4648-2170-7",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "south-asia-development-update-october-2024-women-jobs-and-growth",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "employment",
+      "gender-social-inclusion"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Women’s Labor Force Participation in Nepal",
+    "authors": "Jumana Alaref, Aishwarya Patil, Tasmia Rahman, Ana Maria Munoz Boudet, Jasmine Rajbhandary",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/41743",
+    "description": "Uses a survey of 2,000 married women and men in four provinces of Nepal to measure personal beliefs, social expectations and expected social consequences around women's work. It finds that beliefs and expectations are generally not very restrictive and are only weakly linked to women's work outcomes, but that norms matter for some subgroups in circumstances tied to a woman's role as a mother and to job characteristics.",
+    "doi": "10.1596/1813-9450-10810",
+    "journal": "Policy Research Working Paper No. 10810",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "womens-labor-force-participation-in-nepal",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "gender-social-inclusion",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Education, Social Norms, and the Marriage Penalty",
+    "authors": "Maurizio Bussolo, Jonah Rexer, Margaret Triyana",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42252",
+    "description": "Separates the effect of marriage from the effect of childbirth on women's employment in South Asia with a split-sample, pseudo-panel approach. It estimates that marriage reduces women's labor force participation by 12 percentage points, that the additional penalty of childbearing is small, and that the marriage penalty is smaller among cohorts with more education and less conservative gender attitudes.",
+    "doi": "10.1596/1813-9450-10946",
+    "journal": "Policy Research Working Paper No. 10946",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "education-social-norms-and-the-marriage-penalty",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "education",
+      "employment",
+      "gender",
+      "gender-social-inclusion"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Household Preferences for Women’s Employment: A Field Experiment in Bangladesh",
+    "authors": "Yueh-ya Hsu, Reshmaan N. Hussam, Erin M. Kelley, Gregory Lane",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Gender & Social Inclusion",
+    "url": "https://www.nber.org/papers/w34969",
+    "description": "Randomly assigns a six-week job to either the husband or the wife in households in Bangladesh. Women's work improves their own wellbeing but not their husbands', while men's work improves both partners' wellbeing. One year later, households in which the woman had worked are more likely to prefer that she take a new job.",
+    "doi": "10.3386/w34969",
+    "journal": "NBER Working Paper No. 34969",
+    "access_observed": "free_to_read",
+    "id": "household-preferences-for-womens-employment-a-field-experiment-in-bangladesh",
+    "access_type": "free_to_read",
+    "tags": [
+      "Bangladesh",
+      "employment",
+      "gender-social-inclusion"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

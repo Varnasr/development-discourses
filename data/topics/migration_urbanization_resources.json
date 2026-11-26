@@ -440,7 +440,7 @@
       "migration-urbanization"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Migration and Development Brief 39",
@@ -517,7 +517,7 @@
     "year": 2013,
     "type": "grey_literature",
     "topic": "Migration & Urbanization",
-    "url": "https://www.unesco.org/en/articles/internal-migration-india-initiative",
+    "url": "https://unesdoc.unesco.org/ark:/48223/pf0000223702",
     "description": "A social inclusion agenda addressing the exclusion of India's vast internal migrant workforce.",
     "id": "internal-migration-in-india",
     "access_type": "check_access",
@@ -526,8 +526,8 @@
       "migration",
       "migration-urbanization"
     ],
-    "link_status": "broken",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Climate Migration and Urban Resilience",
@@ -543,7 +543,92 @@
       "migration",
       "migration-urbanization"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "broken",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Nepal Country Economic Memorandum",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42978",
+    "description": "A World Bank report on Nepal's growth opportunities. It analyses growth trends across three periods, policies to increase the economic benefits of migration, the effect of exchange rate dynamics and trade policies on merchandise exports, and the potential of hydropower and digitalization.",
+    "doi": "10.1596/42978",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "nepal-country-economic-memorandum",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "digital",
+      "migration",
+      "migration-urbanization"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Towards Resilient and Prosperous Cities in India",
+    "authors": "World Bank Group",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43242",
+    "description": "Makes the case for investment in climate-resilient cities in India. The report states that the urban population is expected to double from 480 million in 2020 to 951 million by 2050 and that more than half of the urban infrastructure, buildings and services needed are still to be built, which gives cities a chance to plan for resilience.",
+    "doi": "10.1596/43242",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "towards-resilient-and-prosperous-cities-in-india",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "migration-urbanization"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Prioritizing Heat Mitigation Actions in Indian Cities",
+    "authors": "Nicholas Jones, Asmita Tiwari, Natsuko Kikutake, Sacha Takacs, Niels Souverijns",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Migration & Urbanization",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42350",
+    "description": "Develops heat risk maps for Lucknow, Chennai and Surat, models future health and economic losses without intervention, and estimates the costs and benefits of heat mitigation actions. The modelling suggests that heat-related deaths in the three cities could rise by one-third by 2050 and that labor productivity losses could affect 2 to 4 percent of their economic output.",
+    "doi": "10.1596/1813-9450-10960",
+    "journal": "Policy Research Working Paper No. 10960",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "prioritizing-heat-mitigation-actions-in-indian-cities",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "migration-urbanization"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "The City Through Her Eyes: Gender-Based Harassment in Public Spaces in Urban India",
+    "authors": "Lori A. Beaman, Seema Jayachandran, Anisha Sharma",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Migration & Urbanization",
+    "url": "https://www.nber.org/papers/w35738",
+    "description": "Surveys over 4,000 women recruited in public spaces in New Delhi and Bengaluru about harassment. It reports that 65 percent of women in New Delhi and 29 percent in Bengaluru experienced harassment in public spaces in the past year, and that measured prevalence is sensitive to questionnaire design.",
+    "doi": "10.3386/w35738",
+    "journal": "NBER Working Paper No. 35738",
+    "access_observed": "free_to_read",
+    "id": "the-city-through-her-eyes-gender-based-harassment-in-public-spaces-in-urban",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "gender",
+      "migration-urbanization",
+      "survey-data"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

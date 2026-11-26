@@ -78,7 +78,7 @@
       "mental-health-wellbeing"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Mental Health and Psychosocial Support in Emergencies (IASC Guidelines)",
@@ -142,7 +142,7 @@
       "mental-health-wellbeing"
     ],
     "link_status": "broken",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Comprehensive Mental Health Action Plan 2013-2030",
@@ -210,7 +210,7 @@
     "journal": "Implementation Science",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Task-sharing psychosocial interventions for the prevention of common mental disorders in the perinatal period in low- and middle-income countries: A systematic review and meta-analysis",
@@ -231,7 +231,7 @@
     "journal": "International Journal of Social Psychiatry",
     "license": "other-oa",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Expanding mental health services in low- and middle-income countries: A task-shifting framework for delivery of comprehensive, collaborative, and community-based care",
@@ -251,7 +251,7 @@
     "journal": "Cambridge Prisms: Global Mental Health",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Evaluating implementation research outcomes for a task-sharing mental health intervention: A systematic review of the Friendship Bench",
@@ -271,7 +271,7 @@
     "journal": "Cambridge Prisms: Global Mental Health",
     "license": "cc-by-nc-nd",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Transdiagnostic Psychological Interventions for Symptoms of Common Mental Disorders Delivered by Non‐Specialist Providers in Low‐ and Middle‐Income Countries: A Systematic Review and Meta‐Analysis",
@@ -291,7 +291,7 @@
     "journal": "Depression and Anxiety",
     "license": "cc-by",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "A global scoping review of task shifting and sharing interventions to improve the mental health of people living with HIV/AIDS",
@@ -311,6 +311,89 @@
     "journal": "Cambridge Prisms: Global Mental Health",
     "license": "cc-by-nc-nd",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Maternal Mental Health and Its Influence on Children’s Early Development",
+    "authors": "Mahreen Tahir-Chowdhry, Elizabeth Hentschel, Heather Tomlinson, Amna Ansari, Amer Hasan, Aisha Yousafzai, Naveed Hussain",
+    "year": 2024,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42445",
+    "description": "Reports the prevalence of depression, anxiety and parenting stress among mothers of children aged 0 to 6 in Khyber Pakhtunkhwa, Pakistan. Mental health concerns are more common among refugee, less-educated and rural mothers, and are significantly associated with lower levels of early childhood development.",
+    "doi": "10.1596/1813-9450-10975",
+    "journal": "Policy Research Working Paper No. 10975",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "maternal-mental-health-and-its-influence-on-childrens-early-development",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "maternal-health",
+      "mental-health-wellbeing"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Talk Therapy and Human Capital in Adolescence: Evidence from Nepal",
+    "authors": "Eric V. Edmonds, Priya Mukherjee, Nikhilesh Prakash, Nishith Prakash, Shwetlena Sabarwal",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.nber.org/papers/w33677",
+    "description": "Reports a randomized therapy intervention for 1,707 Nepali adolescents at risk of dropping out of school. Among those who took part, therapy reduced psychological distress and improved emotional regulation, but these gains did not raise school attendance or cognitive performance.",
+    "doi": "10.3386/w33677",
+    "journal": "NBER Working Paper No. 33677",
+    "access_observed": "free_to_read",
+    "id": "talk-therapy-and-human-capital-in-adolescence-evidence-from-nepal",
+    "access_type": "free_to_read",
+    "tags": [
+      "Nepal",
+      "RCT",
+      "education",
+      "mental-health-wellbeing"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "The Emergence of the Poverty–Mental Health Gradient and the Great Pakistan Earthquake of 2005",
+    "authors": "Tahir Andrabi, Benjamin Daniels, Jishnu Das",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.nber.org/papers/w35060",
+    "description": "Uses data from 126 villages collected four years after the 2005 Pakistan earthquake. Among people nearest the fault line, mental health improves by 0.12 standard deviations per log unit of consumption, while beyond 20 km there is no relationship between consumption poverty and mental health.",
+    "doi": "10.3386/w35060",
+    "journal": "NBER Working Paper No. 35060",
+    "access_observed": "free_to_read",
+    "id": "the-emergence-of-the-povertymental-health-gradient-and-the-great-pakistan",
+    "access_type": "free_to_read",
+    "tags": [
+      "Pakistan",
+      "mental-health-wellbeing",
+      "poverty"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "World mental health today: latest data",
+    "authors": "World Health Organization",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Mental Health & Wellbeing",
+    "url": "https://www.who.int/publications/i/item/9789240113817",
+    "description": "A 64-page WHO report that updates the evidence on mental health epidemiology, economic consequences and gaps in public mental health. It states that over one billion people live with a mental disorder and that most remain underserved.",
+    "license": "other-oa",
+    "access_observed": "open_access",
+    "id": "world-mental-health-today-latest-data",
+    "access_type": "open_access",
+    "tags": [
+      "mental-health-wellbeing"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

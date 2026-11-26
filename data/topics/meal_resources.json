@@ -107,7 +107,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "The Influence of Randomized Controlled Trials on Development Economics Research and on Development Policy",
@@ -175,7 +175,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Quasi-Experimental Design and Methods",
@@ -194,7 +194,7 @@
       "regression-discontinuity"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Theory of Change (Methodological Briefs: Impact Evaluation No. 2)",
@@ -245,7 +245,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Contribution Analysis: An Approach to Exploring Cause and Effect",
@@ -325,7 +325,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Results Based Management in the Development Co-operation Agencies: A Review of Experience",
@@ -341,7 +341,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Measuring and Managing Results in Development Co-operation: A Review of Challenges and Practices among DAC Members and Observers",
@@ -456,7 +456,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Complexity-Aware Methods (Fact Sheet)",
@@ -543,7 +543,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Improving Beneficiary Feedback Mechanisms for Refugees",
@@ -680,7 +680,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Developmental Evaluation",
@@ -696,7 +696,7 @@
       "meal-evaluation"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "A Guide to Monitoring and Evaluation for Programmes",
@@ -747,5 +747,47 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "An Evaluation of World Bank and International Finance Corporation Engagement of Gender Equality over the Past 10 Years",
+    "authors": "Independent Evaluation Group, World Bank",
+    "year": 2024,
+    "type": "grey_literature",
+    "topic": "MEAL & Evaluation",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42382",
+    "description": "An evaluation by the Independent Evaluation Group of how the World Bank and the International Finance Corporation worked on gender equality over ten years. It makes three recommendations, including a stronger country-driven engagement model with greater selectivity, prioritization and coordination and an increased focus on implementation.",
+    "doi": "10.1596/IEG193623",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "an-evaluation-of-world-bank-and-international-finance-corporation-engagement-of",
+    "access_type": "open_access",
+    "tags": [
+      "gender",
+      "meal-evaluation"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Measuring the Impact of Impact Measurement",
+    "authors": "Emanuele Colonnelli, Timothy McQuade, Natalia Rigol, Benjamin N. Roth",
+    "year": 2026,
+    "type": "paper",
+    "topic": "MEAL & Evaluation",
+    "url": "https://www.nber.org/papers/w36009",
+    "description": "Reports a randomized controlled trial of an impact measurement intervention among high-growth social enterprises in India. Treated firms show nearly twice the revenue growth of control firms and raise nearly twice as much capital. In a companion experiment, early-stage investors respond to quantified impact metrics but not to generic qualitative impact statements.",
+    "doi": "10.3386/w36009",
+    "journal": "NBER Working Paper No. 36009",
+    "access_observed": "free_to_read",
+    "id": "measuring-the-impact-of-impact-measurement",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "RCT",
+      "meal-evaluation",
+      "qualitative"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

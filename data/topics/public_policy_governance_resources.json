@@ -205,7 +205,7 @@
       "public-policy-governance"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Corruption Dynamics: The Golden Goose Effect",
@@ -380,7 +380,7 @@
       "public-policy-governance"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Traveling Agents: Political Change and Bureaucratic Turnover in India",
@@ -733,8 +733,8 @@
       "digital",
       "public-policy-governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "An Uncertain Glory: India and Its Contradictions",
@@ -752,8 +752,8 @@
       "governance",
       "public-policy-governance"
     ],
-    "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Evaluating the Impact of Conditional Cash Transfer Programs",
@@ -922,7 +922,7 @@
       "public-policy-governance"
     ],
     "link_status": "paywalled",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Building State Capability",
@@ -956,5 +956,90 @@
     ],
     "link_status": "ok",
     "link_checked": "2026-09-23"
+  },
+  {
+    "title": "South Asia Development Update, April 2025: Taxing Times",
+    "authors": "World Bank",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/42891",
+    "description": "The World Bank's April 2025 economic update for South Asia. It argues that higher revenue mobilization is a prerequisite for stronger fiscal positions in most South Asian countries and reports that the region's economies face larger tax gaps than the average emerging market and developing economy.",
+    "doi": "10.1596/978-1-4648-2230-8",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "south-asia-development-update-april-2025-taxing-times",
+    "access_type": "open_access",
+    "tags": [
+      "South-Asia",
+      "public-policy-governance"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "The Evolution of Local Participatory Democracy in Nepal",
+    "authors": "Thaneshwar Bhusal, Michael G Breen, Vijayendra Rao",
+    "year": 2025,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43939",
+    "description": "Traces the development of Nepal's participatory institutions over about 50 years in three phases, ending with the 2015 federal constitution, which granted local autonomy. It examines how far these institutions were induced by external interventions and how far they grew from indigenous practices, and reports five findings on how reforms widened citizens' influence over local decisions.",
+    "doi": "10.1596/1813-9450-11252",
+    "journal": "Policy Research Working Paper No. 11252",
+    "license": "cc-by",
+    "access_observed": "open_access",
+    "id": "the-evolution-of-local-participatory-democracy-in-nepal",
+    "access_type": "open_access",
+    "tags": [
+      "Nepal",
+      "indigenous-peoples",
+      "institutions",
+      "public-policy-governance"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "The Effects of Taxes and Transfers on Inequality and Poverty in Pakistan",
+    "authors": "Beenish Amjad, Haydeeliz Carassco, Moritz Meyer",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "Public Policy & Governance",
+    "url": "https://openknowledge.worldbank.org/handle/10986/43125",
+    "description": "Applies the Commitment to Equity methodology to taxes, social spending and subsidies in Pakistan for fiscal year 2019. It finds that the fiscal system raised the national poverty headcount by about two percentage points, had a muted effect on inequality, and left only the poorest decile as net recipients in cash terms.",
+    "doi": "10.1596/43125",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "the-effects-of-taxes-and-transfers-on-inequality-and-poverty-in-pakistan",
+    "access_type": "open_access",
+    "tags": [
+      "Pakistan",
+      "inequality",
+      "poverty",
+      "public-policy-governance"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "The Limits of Government Outsourcing: Property Tax Re-Assessments in India",
+    "authors": "Esther Duflo, Rema Hanna, Benjamin A. Olken, Shreya Tandon",
+    "year": 2026,
+    "type": "paper",
+    "topic": "Public Policy & Governance",
+    "url": "https://www.nber.org/papers/w35610",
+    "description": "Reports an experiment in Chennai, India, in which neighborhoods were randomly selected to have property tax assessments done by contracted private firms in place of government tax inspectors. Government inspectors produced almost double the increase in tax revenue and more accurate assessments.",
+    "doi": "10.3386/w35610",
+    "journal": "NBER Working Paper No. 35610",
+    "access_observed": "free_to_read",
+    "id": "the-limits-of-government-outsourcing-property-tax-re-assessments-in-india",
+    "access_type": "free_to_read",
+    "tags": [
+      "India",
+      "public-policy-governance"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]

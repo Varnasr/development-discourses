@@ -194,7 +194,7 @@
       "wash"
     ],
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Water Scarcity, Risk and Vulnerability: An Assessment Under Climate Change",
@@ -488,7 +488,7 @@
       "wash"
     ],
     "link_status": "broken",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Water and Climate Change",
@@ -506,7 +506,7 @@
       "wash"
     ],
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Effectiveness of interventions to improve drinking water, sanitation, and handwashing with soap on risk of diarrhoeal disease in children in low-income and middle-income settings: a systematic review and meta-analysis",
@@ -528,7 +528,7 @@
     "journal": "The Lancet",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Impact on childhood mortality of interventions to improve drinking water, sanitation, and hygiene (WASH) to households: Systematic review and meta-analysis",
@@ -551,7 +551,7 @@
     "journal": "PLOS Medicine",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Effects of a Community-Driven Water, Sanitation, and Hygiene Intervention on Diarrhea, Child Growth, and Local Institutions: A Cluster-Randomized Controlled Trial in Rural Democratic Republic of Congo",
@@ -573,7 +573,7 @@
     "journal": "",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Interventions promoting uptake of water, sanitation and hygiene (WASH) technologies in low- and middle-income countries: An evidence and gap map of effectiveness studies",
@@ -596,7 +596,7 @@
     "journal": "Campbell Systematic Reviews: Better Evidence for a Better World",
     "license": "public-domain",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "WASH interventions and child diarrhea at the interface of climate and socioeconomic position in Bangladesh",
@@ -616,7 +616,7 @@
     "journal": "Nature Communications",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Association between water, sanitation, and hygiene (WASH) practices and childhood stunting in low- and middle-income countries: a systematic review and meta-analysis",
@@ -639,7 +639,7 @@
     "journal": "BMC Public Health",
     "license": "cc-by",
     "link_status": "ok",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
   },
   {
     "title": "Leveraging water, sanitation and hygiene for nutrition in low‐ and middle‐income countries: A conceptual framework",
@@ -660,6 +660,45 @@
     "journal": "Maternal &amp; Child Nutrition",
     "license": "cc-by-nc",
     "link_status": "blocked",
-    "link_checked": "2026-09-23"
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Water and Sanitation in Indian Cities: Knowledge Framework for Promoting Sustainable and Bankable Water Supply, Sanitation, and Solid Waste Management",
+    "authors": "World Bank, Asian Development Bank (ADB)",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://openknowledge.worldbank.org/handle/10986/44073",
+    "description": "A World Bank and Asian Development Bank framework for modernizing water supply, sanitation and solid waste management in 100 large Indian cities. It draws on assessments of infrastructure and service performance across these cities and on detailed diagnostics of 10 of them, and reports progress in infrastructure coverage alongside remaining gaps in service quality, efficiency and sustainability.",
+    "doi": "10.1596/44073",
+    "license": "cc-by-nc",
+    "access_observed": "open_access",
+    "id": "water-and-sanitation-in-indian-cities-knowledge-framework-for-promoting",
+    "access_type": "open_access",
+    "tags": [
+      "India",
+      "WASH",
+      "wash"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
+  },
+  {
+    "title": "Progress on household drinking-water, sanitation and hygiene 2000-2024: Special focus on inequalities",
+    "authors": "World Health Organization, UNICEF",
+    "year": 2025,
+    "type": "grey_literature",
+    "topic": "WASH",
+    "url": "https://www.who.int/publications/m/item/progress-on-household-drinking-water--sanitation-and-hygiene-2000-2024--special-focus-on-inequalities",
+    "description": "The 2025 report of the WHO/UNICEF Joint Monitoring Programme. Between 2000 and 2024, 2.2 billion people gained access to safely managed drinking water and 2.8 billion gained safely managed sanitation, but progress has been uneven, and the number of people without safely managed drinking water has increased in urban areas and in low-income countries.",
+    "access_observed": "free_to_read",
+    "id": "progress-on-household-drinking-water-sanitation-and-hygiene-2000-2024-special",
+    "access_type": "free_to_read",
+    "tags": [
+      "WASH",
+      "wash"
+    ],
+    "link_status": "ok",
+    "link_checked": "2026-11-21"
   }
 ]
